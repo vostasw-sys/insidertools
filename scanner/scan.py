@@ -26,6 +26,7 @@ FEEDS = []
 SITES = ["kontan.co.id", "bisnis.com", "cnbcindonesia.com", "emitennews.com", "katadata.co.id", "investor.id", "idxchannel.com"]
 STOP = {"IHSG", "BUMN", "RUPS", "PKPU", "KSEI", "IDXC", "OJK", "AMDK", "CEO", "LQ45", "IPO", "USD", "EBITDA", "ASEAN", "UMKM", "THR"}
 RE_VALUE = re.compile(r"rp\s?([\d.,]+)\s?(triliun|miliar|juta)", re.I)
+RE_UMA = re.compile(r"\buma\b|unusual market activity|permintaan penjelasan", re.I)
 RE_SCHED = re.compile(r"(pekan depan|bulan depan|bulan ini|kuartal\s?[ivx1-4]+|semester|akhir tahun|dalam waktu dekat|\bq[1-4]\b)", re.I)
 RE_PARTY = re.compile(r"\b(?:dengan|oleh|kepada)\s+(?:PT\s[A-Z]\w+|[A-Z][a-zA-Z]+\s(?:Group|Grup|Holdings?|Capital))")
 
@@ -40,7 +41,9 @@ def queries():
         qs.append((gnews(f"{c} emiten sumber when:7d"), None, c.lower()))
     corp_or = '(akuisisi OR "rights issue" OR "private placement" OR divestasi OR "tender offer" OR PKPU)'
     for d in SITES:
-        qs.append((gnews(f"site:{d} {corp_or} saham when:7d"), None, "aksi korporasi"))
+        qs.append((gnews(f"site:{d} {corp_or} saham when:7d"), None, None))
+    for q in ["UMA BEI saham", '"unusual market activity" BEI saham', '"permintaan penjelasan" BEI saham']:
+        qs.append((gnews(q + " when:14d"), None, "uma"))
     return qs
 
 
@@ -130,19 +133,21 @@ def main():
     old = {}
     if OUT.exists():
         old = {s["id"]: s for s in json.load(open(OUT, encoding="utf-8"))}
+    old = {k: v for k, v in old.items() if "uma" in v}
     for r in raw:
         text = r["text"]
         anon, corp, st = hits(text, ANON), hits(text, CORP), stance_of(text)
         if r.get("qanon") and r["qanon"] not in anon:
             anon.append(r["qanon"])
-        if r.get("qcorp") and r["qcorp"] not in corp:
+        if r.get("qcorp") and r["qcorp"] != "uma" and r["qcorp"] not in corp:
             corp.append(r["qcorp"])
-        if not (anon or corp):
+        uma = r.get("qcorp") == "uma" or bool(RE_UMA.search(text))
+        if not (anon or corp or uma):
             continue
         tick = find_tickers(text, pats)
         sid = hashlib.sha1((r["title"] + r["media"]).encode()).hexdigest()[:12]
         old[sid] = dict(id=sid, title=r["title"], url=r["url"], media=r["media"], published=r["published"],
-                        tickers=tick, anon=anon, corp=corp, stance=st, value_bn=idr_bn(text),
+                        tickers=tick, uma=uma, anon=anon, corp=corp, stance=st, value_bn=idr_bn(text),
                         schedule=bool(RE_SCHED.search(text)), party=bool(RE_PARTY.search(r["text"])),
                         snippet=text[:300])
     cut = (NOW - dt.timedelta(days=365)).isoformat()
@@ -166,21 +171,28 @@ def main():
 
 def score_all(items):
     P = lambda s: dt.datetime.fromisoformat(s["published"])
+
+    def related(o, s):
+        return bool(set(o["corp"]) & set(s["corp"])) or bool(o["anon"] and s["anon"])
+
     for s in items:
         win7 = {o["media"].lower() for o in items if set(o["tickers"]) & set(s["tickers"])
-                and abs((P(o) - P(s)).days) <= 7}
+                and related(o, s) and abs((P(o) - P(s)).days) <= 7}
         later = sorted((o for o in items if set(o["tickers"]) & set(s["tickers"]) and o["stance"]
                         and 0 <= (P(o) - P(s)).total_seconds() <= 3 * 86400), key=P)
         resp = s["stance"] or (later[0]["stance"] if later else None)
         s["corroboration"] = len(win7)
         s["response"] = resp
-        v = media_score(s["media"])
-        v += min(len(s["anon"]), 3) * 6.67
+        v = media_score(s["media"]) * 0.75
+        v += min(len(s["anon"]), 3) * 10
+        v += 35 if s.get("uma") else 0
         v += 10 if s["party"] else 0
-        v += 15 if s["value_bn"] >= 1000 else 10 if s["value_bn"] >= 100 else 5 if s["value_bn"] > 0 else 0
-        v += 10 if s["schedule"] else 0
-        v += 15 if len(win7) >= 3 else 8 if len(win7) == 2 else 0
+        v += 10 if s["value_bn"] >= 1000 else 6 if s["value_bn"] >= 100 else 3 if s["value_bn"] > 0 else 0
+        v += 5 if s["schedule"] else 0
+        v += 10 if len(win7) >= 3 else 5 if len(win7) == 2 else 0
         v += {"terkonfirmasi": 10, "tanpa komentar": 5, "menunggu jawaban": 3, "membantah": -10}.get(resp, 0)
+        if not s["anon"] and not s.get("uma"):
+            v = min(v, 35)
         s["score"] = int(max(0, min(100, round(v))))
 
 
