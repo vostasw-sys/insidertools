@@ -104,6 +104,7 @@ def fetch(url, default_media=""):
         out.append(dict(title=title.strip(), url=e.get("link", ""), media=media.strip(),
                         published=dt.datetime(*pp[:6], tzinfo=dt.timezone.utc).isoformat(),
                         text=f"{title}. {summ}".strip()))
+    print(len(out), "artikel dari", url[:90])
     return out
 
 
@@ -119,6 +120,7 @@ def main():
         raw += fetch(gnews(q)); time.sleep(1)
     for f in FEEDS:
         raw += fetch(f, default_media=f.split("/")[2].replace("www.", "")); time.sleep(1)
+    print(len(raw), "artikel mentah diambil")
 
     old = {}
     if OUT.exists():
@@ -129,8 +131,6 @@ def main():
         if not (anon or (corp and st)):
             continue
         tick = find_tickers(text, pats)
-        if not tick:
-            continue
         sid = hashlib.sha1((r["title"] + r["media"]).encode()).hexdigest()[:12]
         old[sid] = dict(id=sid, title=r["title"], url=r["url"], media=r["media"], published=r["published"],
                         tickers=tick, anon=anon, corp=corp, stance=st, value_bn=idr_bn(text),
