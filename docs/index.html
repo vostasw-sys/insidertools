@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pemindai sinyal pra-rilis</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--tx:#1b1f24;--mu:#667085;--bd:#e3e6ea;--ac:#0f766e;--hi:#b42318;--md:#b54708;--lo:#667085}
+@media (prefers-color-scheme:dark){:root{--bg:#14171a;--card:#1c2024;--tx:#e8eaed;--mu:#9aa3ad;--bd:#2d333a;--ac:#2dd4bf;--hi:#f97066;--md:#fdb022;--lo:#9aa3ad}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.5 system-ui,sans-serif;padding:20px;max-width:1200px;margin-inline:auto}
+h1{margin:0 0 4px;font-size:24px}p.sub{margin:0 0 16px;color:var(--mu)}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--bd);margin-bottom:14px}
+.tabs button{background:none;border:0;border-bottom:2px solid transparent;padding:8px 14px;color:var(--mu);cursor:pointer;font:inherit}
+.tabs button.on{color:var(--tx);border-color:var(--ac)}
+.bar{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:12px;align-items:center}
+input,select{background:var(--card);color:var(--tx);border:1px solid var(--bd);border-radius:6px;padding:6px 10px;font:inherit}
+.wrap{overflow-x:auto;background:var(--card);border:1px solid var(--bd);border-radius:8px}
+table{border-collapse:collapse;width:100%;min-width:760px}th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--bd);vertical-align:top}
+th{font-size:12px;color:var(--mu);text-transform:uppercase;letter-spacing:.04em}
+tr.r{cursor:pointer}tr.r:hover{background:var(--bg)}
+.sc{font-weight:700;border-radius:6px;padding:2px 8px;border:1px solid currentColor}.hi{color:var(--hi)}.md{color:var(--md)}.lo{color:var(--lo)}
+.tag{display:inline-block;font-size:12px;border:1px solid var(--bd);border-radius:10px;padding:0 8px;margin:0 4px 2px 0;color:var(--mu)}
+.det td{background:var(--bg);color:var(--mu);font-size:13px}a{color:var(--ac)}.mu{color:var(--mu)}
+</style>
+</head>
+<body>
+<h1>Pemindai sinyal pra-rilis</h1>
+<p class="sub" id="meta">Memuat data…</p>
+<div class="tabs"><button class="on" data-t="s">Pemindai</button><button data-t="e">Hasil &amp; event study</button><button data-t="h">Cara kerja</button></div>
+
+<section id="s">
+<div class="bar">
+<input id="q" placeholder="Cari kode / judul / media" size="26">
+<label>Skor min <input id="min" type="range" min="0" max="100" value="0"> <b id="minv">0</b></label>
+<select id="st"><option value="">Semua tanggapan</option><option>terkonfirmasi</option><option>membantah</option><option>tanpa komentar</option><option>menunggu jawaban</option><option value="-">Belum ada tanggapan</option></select>
+<select id="oc"><option value="">Semua hasil</option><option value="y">Sudah ada pengumuman</option><option value="n">Belum ada pengumuman</option></select>
+</div>
+<div class="wrap"><table><thead><tr><th>Skor</th><th>Emiten</th><th>Berita</th><th>Terbit</th><th>Sinyal</th><th>Korob.</th><th>Hasil</th></tr></thead><tbody id="b"></tbody></table></div>
+</section>
+
+<section id="e" hidden>
+<p class="mu">CAR = selisih return saham terhadap IHSG (%). “Pra” = dari sinyal pertama sampai sehari sebelum t0; “Hari-H” = t0 −1 sampai t0 +1. Isi data/outcomes.csv lalu jalankan workflow.</p>
+<div class="wrap"><table><thead><tr><th>Emiten</th><th>t0</th><th>Status</th><th>Lead time (hari)</th><th>Sinyal</th><th>Skor maks</th><th>CAR pra</th><th>CAR hari-H</th></tr></thead><tbody id="eb"></tbody></table></div>
+</section>
+
+<section id="h" hidden>
+<ol>
+<li><b>Kumpulkan</b> otomatis tiap 3 jam oleh GitHub Actions: Google News RSS (frasa sumber anonim, aksi korporasi) dan RSS media.</li>
+<li><b>Deteksi</b> frasa seperti “menurut sumber” dan tanggapan manajemen (membenarkan, membantah, tanpa komentar).</li>
+<li><b>Petakan</b> ke emiten lewat data/emiten.csv (nama, alias, kode dalam kurung).</li>
+<li><b>Skor</b> 0–100: reputasi media, jumlah frasa sumber, pihak disebut, nilai transaksi, jadwal, korroborasi media lain 7 hari, tanggapan 3 hari.</li>
+<li><b>Catat hasil</b>: tambah baris di data/outcomes.csv (ticker, t0, status). Lead time dihitung otomatis.</li>
+<li><b>Analisis harga</b>: yfinance menghitung CAR terhadap IHSG; data juga bisa diunduh sebagai JSON.</li>
+</ol>
+<p class="mu">Skor adalah heuristik awal untuk prioritas penelaahan, bukan bukti pelanggaran apa pun. Judul dan kutipan singkat berasal dari RSS; baca artikel aslinya sebelum menyimpulkan.</p>
+</section>
+
+<script>
+const $=s=>document.querySelector(s),esc=t=>String(t??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let S=[],E=[];
+document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{document.querySelectorAll(".tabs button").forEach(x=>x.classList.toggle("on",x==b));["s","e","h"].forEach(i=>$("#"+i).hidden=i!=b.dataset.t)});
+const cls=n=>n>=60?"hi":n>=35?"md":"lo";
+function render(){
+ const q=$("#q").value.toLowerCase(),m=+$("#min").value,st=$("#st").value,oc=$("#oc").value;$("#minv").textContent=m;
+ const rows=S.filter(s=>s.score>=m&&(!q||(s.tickers.join(" ")+s.title+s.media).toLowerCase().includes(q))
+  &&(!st||(st=="-"?!s.response:s.response==st))&&(!oc||(oc=="y")==!!s.outcome));
+ $("#b").innerHTML=rows.map((s,i)=>`<tr class="r" data-i="${i}"><td><span class="sc ${cls(s.score)}">${s.score}</span></td>
+ <td><b>${esc(s.tickers.join(", "))}</b></td><td><a href="${esc(s.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(s.title)}</a><div class="mu">${esc(s.media)}</div></td>
+ <td>${esc(s.published.slice(0,10))}</td><td>${s.corp.map(c=>`<span class="tag">${esc(c)}</span>`).join("")}${s.response?`<span class="tag">${esc(s.response)}</span>`:""}</td>
+ <td>${s.corroboration}</td><td>${s.outcome?esc(s.outcome.status)+`<div class="mu">t0 ${esc(s.outcome.t0)} · H-${s.outcome.lead_days}</div>`:'<span class="mu">–</span>'}</td></tr>
+ <tr class="det" hidden><td colspan="7">Frasa: ${esc(s.anon.join("; ")||"–")} · Nilai: ${s.value_bn?"≈ Rp "+s.value_bn.toLocaleString("id-ID")+" miliar":"–"} · Jadwal: ${s.schedule?"ada":"–"} · Pihak disebut: ${s.party?"ada":"–"}<br>${esc(s.snippet)}</td></tr>`).join("")||`<tr><td colspan="7" class="mu">Belum ada sinyal yang cocok.</td></tr>`;
+ document.querySelectorAll("tr.r").forEach(r=>r.onclick=()=>r.nextElementSibling.hidden=!r.nextElementSibling.hidden);
+}
+["q","min","st","oc"].forEach(i=>$("#"+i).addEventListener("input",render));
+const f=u=>fetch(u,{cache:"no-store"}).then(r=>r.ok?r.json():[]).catch(()=>[]);
+Promise.all([f("data/signals.json"),f("data/events.json"),f("data/meta.json")]).then(([s,e,m])=>{
+ S=s;E=e;$("#meta").textContent=m.updated?`${m.count} sinyal · diperbarui ${new Date(m.updated).toLocaleString("id-ID")}`:"Belum ada data. Jalankan workflow “Pindai” di tab Actions.";
+ $("#eb").innerHTML=E.map(x=>`<tr><td><b>${esc(x.ticker)}</b></td><td>${esc(x.t0)}</td><td>${esc(x.status)}</td><td>${x.lead_days??"–"}</td><td>${x.n_signals}</td><td>${x.max_score??"–"}</td><td>${x.car_pre??"–"}</td><td>${x.car_event??"–"}</td></tr>`).join("")||`<tr><td colspan="8" class="mu">Belum ada hasil tercatat.</td></tr>`;
+ render();
+});
+</script>
+</body>
+</html>
