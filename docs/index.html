@@ -65,7 +65,7 @@ function render(){
  const rows=S.filter(s=>s.score>=m&&(!q||(s.tickers.join(" ")+s.title+s.media).toLowerCase().includes(q))
   &&(!st||(st=="-"?!s.response:s.response==st))&&(!oc||(oc=="y")==!!s.outcome));
  $("#b").innerHTML=rows.map((s,i)=>`<tr class="r" data-i="${i}"><td><span class="sc ${cls(s.score)}">${s.score}</span></td>
- <td><b>${esc(s.tickers.join(", "))}</b></td><td><a href="${esc(s.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(s.title)}</a><div class="mu">${esc(s.media)}</div></td>
+ <td><b>${esc(s.tickers.join(", ")||"–")}</b></td><td><a href="${esc(s.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(s.title)}</a><div class="mu">${esc(s.media)}</div></td>
  <td>${esc(s.published.slice(0,10))}</td><td>${s.corp.map(c=>`<span class="tag">${esc(c)}</span>`).join("")}${s.response?`<span class="tag">${esc(s.response)}</span>`:""}</td>
  <td>${s.corroboration}</td><td>${s.outcome?esc(s.outcome.status)+`<div class="mu">t0 ${esc(s.outcome.t0)} · H-${s.outcome.lead_days}</div>`:'<span class="mu">–</span>'}</td></tr>
  <tr class="det" hidden><td colspan="7">Frasa: ${esc(s.anon.join("; ")||"–")} · Nilai: ${s.value_bn?"≈ Rp "+s.value_bn.toLocaleString("id-ID")+" miliar":"–"} · Jadwal: ${s.schedule?"ada":"–"} · Pihak disebut: ${s.party?"ada":"–"}<br>${esc(s.snippet)}</td></tr>`).join("")||`<tr><td colspan="7" class="mu">Belum ada sinyal yang cocok.</td></tr>`;
