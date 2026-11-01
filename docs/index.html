@@ -33,6 +33,7 @@ tr.r{cursor:pointer}tr.r:hover{background:var(--bg)}
 <input id="q" placeholder="Cari kode / judul / media" size="26">
 <label>Skor min <input id="min" type="range" min="0" max="100" value="0"> <b id="minv">0</b></label>
 <select id="st"><option value="">Semua tanggapan</option><option>terkonfirmasi</option><option>membantah</option><option>tanpa komentar</option><option>menunggu jawaban</option><option value="-">Belum ada tanggapan</option></select>
+<label><input type="checkbox" id="mp" checked> Hanya yang terpetakan ke emiten</label>
 <select id="oc"><option value="">Semua hasil</option><option value="y">Sudah ada pengumuman</option><option value="n">Belum ada pengumuman</option></select>
 </div>
 <div class="wrap"><table><thead><tr><th>Skor</th><th>Emiten</th><th>Berita</th><th>Terbit</th><th>Sinyal</th><th>Korob.</th><th>Hasil</th></tr></thead><tbody id="b"></tbody></table></div>
@@ -63,15 +64,15 @@ const cls=n=>n>=60?"hi":n>=35?"md":"lo";
 function render(){
  const q=$("#q").value.toLowerCase(),m=+$("#min").value,st=$("#st").value,oc=$("#oc").value;$("#minv").textContent=m;
  const rows=S.filter(s=>s.score>=m&&(!q||(s.tickers.join(" ")+s.title+s.media).toLowerCase().includes(q))
-  &&(!st||(st=="-"?!s.response:s.response==st))&&(!oc||(oc=="y")==!!s.outcome));
+  &&(!st||(st=="-"?!s.response:s.response==st))&&(!oc||(oc=="y")==!!s.outcome)&&(!$("#mp").checked||s.tickers.length));
  $("#b").innerHTML=rows.map((s,i)=>`<tr class="r" data-i="${i}"><td><span class="sc ${cls(s.score)}">${s.score}</span></td>
  <td><b>${esc(s.tickers.join(", ")||"–")}</b></td><td><a href="${esc(s.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(s.title)}</a><div class="mu">${esc(s.media)}</div></td>
  <td>${esc(s.published.slice(0,10))}</td><td>${s.corp.map(c=>`<span class="tag">${esc(c)}</span>`).join("")}${s.response?`<span class="tag">${esc(s.response)}</span>`:""}</td>
  <td>${s.corroboration}</td><td>${s.outcome?esc(s.outcome.status)+`<div class="mu">t0 ${esc(s.outcome.t0)} · H-${s.outcome.lead_days}</div>`:'<span class="mu">–</span>'}</td></tr>
- <tr class="det" hidden><td colspan="7">Frasa: ${esc(s.anon.join("; ")||"–")} · Nilai: ${s.value_bn?"≈ Rp "+s.value_bn.toLocaleString("id-ID")+" miliar":"–"} · Jadwal: ${s.schedule?"ada":"–"} · Pihak disebut: ${s.party?"ada":"–"}<br>${esc(s.snippet)}</td></tr>`).join("")||`<tr><td colspan="7" class="mu">Belum ada sinyal yang cocok.</td></tr>`;
+ <tr class="det" hidden><td colspan="7">Frasa: ${esc(s.anon.join("; ")||"–")} · Nilai: ${s.value_bn?"≈ Rp "+s.value_bn.toLocaleString("id-ID")+" miliar":"–"} · Jadwal: ${s.schedule?"ada":"–"} · Pihak disebut: ${s.party?"ada":"–"}<br>${esc(s.snippet)}</td></tr>`).join("")||`<tr><td colspan="7" class="mu">Belum ada sinyal yang cocok. Coba matikan “Hanya yang terpetakan ke emiten”.</td></tr>`;
  document.querySelectorAll("tr.r").forEach(r=>r.onclick=()=>r.nextElementSibling.hidden=!r.nextElementSibling.hidden);
 }
-["q","min","st","oc"].forEach(i=>$("#"+i).addEventListener("input",render));
+["q","min","st","oc","mp"].forEach(i=>$("#"+i).addEventListener("input",render));
 const f=u=>fetch(u,{cache:"no-store"}).then(r=>r.ok?r.json():[]).catch(()=>[]);
 Promise.all([f("data/signals.json"),f("data/events.json"),f("data/meta.json")]).then(([s,e,m])=>{
  S=s;E=e;$("#meta").textContent=m.updated?`${m.count} sinyal · diperbarui ${new Date(m.updated).toLocaleString("id-ID")}`:"Belum ada data. Jalankan workflow “Pindai” di tab Actions.";
