@@ -22,12 +22,9 @@ STANCE = {  # urutan prioritas
 }
 MEDIA_TIER = {"kontan": 20, "bisnis": 20, "bloomberg": 20, "reuters": 20, "katadata": 16, "cnbc": 18,
               "kompas": 14, "tempo": 14, "cnn indonesia": 14, "detik": 12, "emitennews": 12, "idx": 12}
-FEEDS = [  # RSS langsung (verifikasi URL bila ada yang gagal; kegagalan dilewati)
-    "https://www.cnbcindonesia.com/market/rss",
-    "https://investasi.kontan.co.id/rss",
-    "https://www.bisnis.com/rss",
-    "https://www.cnbcindonesia.com/news/rss",
-]
+FEEDS = []
+SITES = ["kontan.co.id", "bisnis.com", "cnbcindonesia.com", "emitennews.com", "katadata.co.id", "investor.id", "idxchannel.com"]
+STOP = {"IHSG", "BUMN", "RUPS", "PKPU", "KSEI", "IDXC", "OJK", "AMDK", "CEO", "LQ45", "IPO", "USD", "EBITDA", "ASEAN", "UMKM", "THR"}
 RE_VALUE = re.compile(r"rp\s?([\d.,]+)\s?(triliun|miliar|juta)", re.I)
 RE_SCHED = re.compile(r"(pekan depan|bulan depan|bulan ini|kuartal\s?[ivx1-4]+|semester|akhir tahun|dalam waktu dekat|\bq[1-4]\b)", re.I)
 RE_PARTY = re.compile(r"\b(?:dengan|oleh|kepada)\s+(?:PT\s[A-Z]\w+|[A-Z][a-zA-Z]+\s(?:Group|Grup|Holdings?|Capital))")
@@ -38,8 +35,12 @@ def gnews(q):
 
 
 def queries():
-    qs = [f'"{p}" saham OR emiten when:3d' for p in ANON[:7]]
-    qs += [f"{c} emiten sumber when:3d" for c in ["akuisisi", "rights issue", "private placement", "divestasi", "PKPU", "buyback", "tender offer"]]
+    qs = [(gnews(f'"{p}" saham OR emiten when:7d'), p, None) for p in ANON[:7]]
+    for c in ["akuisisi", "rights issue", "private placement", "divestasi", "PKPU", "buyback", "tender offer"]:
+        qs.append((gnews(f"{c} emiten sumber when:7d"), None, c.lower()))
+    corp_or = '(akuisisi OR "rights issue" OR "private placement" OR divestasi OR "tender offer" OR PKPU)'
+    for d in SITES:
+        qs.append((gnews(f"site:{d} {corp_or} saham when:7d"), None, "aksi korporasi"))
     return qs
 
 
@@ -60,6 +61,10 @@ def find_tickers(text, pats):
     for m in re.finditer(r"(?<![A-Z])([A-Z]{4})(?![A-Z])", text):
         if m.group(1) in pats:
             found.add(m.group(1))
+    for m in re.finditer(r"\(([A-Z]{4})\)|\bsaham\s+([A-Z]{4})\b", text):
+        code = m.group(1) or m.group(2)
+        if code not in STOP:
+            found.add(code)
     return sorted(found)
 
 
@@ -86,7 +91,7 @@ def stance_of(text):
     return None
 
 
-def fetch(url, default_media=""):
+def fetch(url, default_media="", qanon=None, qcorp=None):
     out = []
     try:
         d = feedparser.parse(url, agent="Mozilla/5.0 (pemindai-pra-rilis research)")
@@ -103,7 +108,7 @@ def fetch(url, default_media=""):
         summ = re.sub(r"<[^>]+>", " ", e.get("summary", ""))
         out.append(dict(title=title.strip(), url=e.get("link", ""), media=media.strip(),
                         published=dt.datetime(*pp[:6], tzinfo=dt.timezone.utc).isoformat(),
-                        text=f"{title}. {summ}".strip()))
+                        text=f"{title}. {summ}".strip(), qanon=qanon, qcorp=qcorp))
     print(len(out), "artikel dari", url[:90])
     return out
 
@@ -116,8 +121,8 @@ def media_score(m):
 def main():
     pats = load_emiten()
     raw = []
-    for q in queries():
-        raw += fetch(gnews(q)); time.sleep(1)
+    for url, qa, qc in queries():
+        raw += fetch(url, qanon=qa, qcorp=qc); time.sleep(1)
     for f in FEEDS:
         raw += fetch(f, default_media=f.split("/")[2].replace("www.", "")); time.sleep(1)
     print(len(raw), "artikel mentah diambil")
@@ -128,7 +133,11 @@ def main():
     for r in raw:
         text = r["text"]
         anon, corp, st = hits(text, ANON), hits(text, CORP), stance_of(text)
-        if not (anon or (corp and st)):
+        if r.get("qanon") and r["qanon"] not in anon:
+            anon.append(r["qanon"])
+        if r.get("qcorp") and r["qcorp"] not in corp:
+            corp.append(r["qcorp"])
+        if not (anon or corp):
             continue
         tick = find_tickers(text, pats)
         sid = hashlib.sha1((r["title"] + r["media"]).encode()).hexdigest()[:12]
