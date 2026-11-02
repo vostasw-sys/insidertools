@@ -4,7 +4,7 @@
   "title": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik",
   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHJfVU5wME9pa0xmUHpNd19WZjhBZmNCVEppUVI2ZVZqeGM3VTFkUmlodExXcy1MRFAxdGozOV9BdEpud01IUmswdVRiNmdTXzhJWFVBbF9PdDlhVkNqa1FjQWxwRUtDTmlPMU44cXVMdlNMMUFhd29RU2tyakZoWEtkUzBuTnE4a2pWU21fN1E0aTVxd3FCbUlUcnJncG9JY3hZcVRVeWg2NW1yOEpEWTZSWnA5SzV4N3Vv?oc=5",
   "media": "Jawa Pos",
-  "published": "2026-11-01T20:27:39+00:00",
+  "published": "2026-11-01T23:27:39+00:00",
   "tickers": [
    "SMGR"
   ],
@@ -21,6 +21,29 @@
   "corroboration": 6,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "a8a19e7b7843",
+  "title": "IHSG di 5.057 — MNC Proyeksikan Ruang Naik ke 5.456-5.564",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeTlDekVXZWJBVWQzVE9JWWg1d3dxMFFSekNUT3lTMTlNc1ozakxWUVNRcE93WVNfWXNPTzBLN3NweFpxZTBYek9FUDN4VVpPVHNwTEwtLUJweFNST1p5R0E5My12d1RSY2VfejJQNWpoeU80dTl5Wkp6UVpkeEZ3N3dibks3ZWtXOWV5d2lR?oc=5",
+  "media": "https://feedberry.com/",
+  "published": "2026-11-01T22:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IHSG di 5.057 — MNC Proyeksikan Ruang Naik ke 5.456-5.564.  IHSG di 5.057 — MNC Proyeksikan Ruang Naik ke 5.456-5.564 &nbsp;&nbsp; https://feedberry.com/",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -448,6 +471,29 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "0d0083f8b268",
+  "title": "Nomor HP Jadi Pengganti Skor Kredit Ajukan Pinjaman, Cek Syaratnya",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcEo5UWRJVnJPc2h2UFJsU2NIWm5UcHBleVp1dUhaOGM4cGlpM1BtM0NKUDFuenNXcUZIcDh0NDYtMklzQjBhdV9URWxiMk1CVzZDZzFOOG1sdDNoTkFOQW4zN1p5UmdaMnJFYlpkOWtyY3VSbFFmQk5oSzY4X2piMDlGOVE5Q0RCeHgwcnRMdnlOTzJsY2RCOC1DNkFXclFYaWZXN2l1TUpsSmVidGVyZVFhYjEtcTRMVkV6VzNwQUJRRFlqYlHSAcsBQVVfeXFMT0IxSmItTkhJU2ZIb1JMWDBKUjRNcS0zb1ZFRnZmLVhZRHF0NWpzOXY0aG44dkVBd2pkWUp2dXpjN2ZaNTBCaU9Jek9QS2RoRnNQMzFsT3pIWW9aVlZJa1ZEaTBRSklVdjVzT0FWZWFLUUVkU1UwRWJzeFNCSUFvVG9fMTk4VVZqTWEwb1BCY2N0b3Uxb3hhR2Z3Wnc0RFp3cVBTeFY0SWlPajhuQm5IX2RCT1ZlWkprdHdjV01JTVFscVkwYVJCLXI5b1U?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-10-31T06:45:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Nomor HP Jadi Pengganti Skor Kredit Ajukan Pinjaman, Cek Syaratnya.  Nomor HP Jadi Pengganti Skor Kredit Ajukan Pinjaman, Cek Syaratnya &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 14,
   "outcome": null,
   "anomali": null
  },
@@ -1042,7 +1088,7 @@
  {
   "id": "04fc91e7ef9b",
   "title": "Emiten Nagita Slavina Pacu Akuisisi RS, Kinerja Melemah, Saham Memerah",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTmJfc2I1ZTlVcF9RNTdfOGp4aU9palFQeHRkcFBzNTlMNU5ENDM5X3ZmcUFneEtrd2ZOSWozaDl5bzllTzlRNUthOW9aR0ZvTFNXaGxTTHBWMm5kZVZNWEdJckJ6Yy01WUFRVHFibTBnTzNlN2FZT1VfWXV1R3lCbEQyek9GS2dNbzRFaW0ta3RCWTRTUF9TNzh6aVFkVXZWekE?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYzdkREI0MFJ6Z2hhbzhyQ3ROZDlzLTZNaGZSZFVybm4xV0p1T3o2djhXQ1ZUZ0Q5WU1uVXViWnM3WTIxX3RuNUFSaVNpVTFpVmhvcDg0X0JuLW5zQlk4bUZSMF9zeld6RTI2Q2cyejhYZmtfT3ZmSkZueVhVZlRfZU55d2paMjRfd3BTdnpnTWRxNDF2T2Ytbzh2UmU?oc=5",
   "media": "Emitennews.com",
   "published": "2026-10-30T08:33:00+00:00",
   "tickers": [],
@@ -1804,7 +1850,7 @@
  {
   "id": "118ac57e60f5",
   "title": "GOTO Punya Dana Rp2,5 Triliun untuk Buyback Saham hingga 2027",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGlTcjBFVVRtVnNkWHozMk9VRmd3cDNrTEdlY0Y4WHN0U0IxT1E4Rm8tUWl4anZqMDZKdFBNcUlxNHh3T2lTYmtWcDk2am9aV2cxelFWM0pUa3YxSjFzUXZwR2lLb29GMkdEWHFWWkRUdFNNVlhlbTQzVmtpM0UweVlKM0FXSnA0Y1pXNlB2QmdiRTFJLXBIaTBFc0NDYWZT0gGmAUFVX3lxTFBNOGtFaVlFVGNBcW9JeG5NMUtCaDJ4NjEzYXFiLV9zQzdOc2lGeVNWUm4yYThGY1lCN0d6WVc5U2prejdEcWxHQkpPdjZRR0FvR0JYczFQSnFyRE51RWJ2cm4zMTA5N0x4b0cxTEcyOXVsOHNXYmpYZkt3OEdOT1JvVlFmWHQzY1F5d2tCQ3FURnZMc2F5a24xTDRqR05LVDY1QVhIU1E?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzA1WXF5YmxTeS1hR2NMVmNjenBFYmx3X3BQeWZDSm80U0NhOG93aHdrV0pZU3cwZnBGandPR3VkeThaaUUzQm1fT1M3WFp6bThfVVJvd1ZkRkphOXJYNW05TldWdEJKWHZfUVFCSE1XUDhvRWJWVDlIVzByaGlRYXdPc005ZE1zazBrRlhpbkxEc2t3UTNQRlRGXy1pSnVMMS1B0gGmAUFVX3lxTFBNOGtFaVlFVGNBcW9JeG5NMUtCaDJ4NjEzYXFiLV9zQzdOc2lGeVNWUm4yYThGY1lCN0d6WVc5U2prejdEcWxHQkpPdjZRR0FvR0JYczFQSnFyRE51RWJ2cm4zMTA5N0x4b0cxTEcyOXVsOHNXYmpYZkt3OEdOT1JvVlFmWHQzY1F5d2tCQ3FURnZMc2F5a24xTDRqR05LVDY1QVhIU1E?oc=5",
   "media": "IDX Channel",
   "published": "2026-10-29T15:05:00+00:00",
   "tickers": [
@@ -1998,6 +2044,29 @@
   "anomali": null
  },
  {
+  "id": "c8f8685dcacc",
+  "title": "Penilaian Adipura 2026 di Sukoharjo Sasar 33 Lokasi, TPA Jadi Fokus",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbE1JSDF5bGVmenVtcXpfTnZwaTZtOE9XMTZBUGg2MjU5WDRUay0xUERTR2ZRMDdiSzMtd25oVk82dVl4aUlGR3VrRkZGY3ZZblZqRzdKWWktMGREejVrTXlWUVZhai1oTjEyWGpmNGRPZ0JndjhBY3VydktBNU02WWdTNnktazQ5SWlpR0F4cUJ1aGNSaUxsRDBOb2hOXzVK0gGmAUFVX3lxTE5uZ0RQN0JoalltOG11dktLeWpLWWljTWlFcmR4WnVRd2ppbnU1X1lZc19HUHJoclZseExyc2lEdzhXRkxmUFVpc1gtOV9xUjdvdkFZenYyTHhmNFVmLUtkcjNMb3ZQXy1QcmhLNkR2Z3RDSkpGOW9ZNVRnaXJmLXBPcnVoRWpLQXY3WlJPaHRJekpwRVpMUnhEMzdycTdJU1VyWXZCeFE?oc=5",
+  "media": "Espos.id",
+  "published": "2026-10-29T09:43:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Penilaian Adipura 2026 di Sukoharjo Sasar 33 Lokasi, TPA Jadi Fokus.  Penilaian Adipura 2026 di Sukoharjo Sasar 33 Lokasi, TPA Jadi Fokus &nbsp;&nbsp; Espos.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "b5d208110af2",
   "title": "Investor asing terus menjual saham, menyebabkan pasar saham berbalik arah dan jatuh.",
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzd2R0xXaXRsU1AydXZ1VWJHeGNnTGx6U1BYdVJPNm5PTmQ0bEJvWlpHVzFzS2JTRUh2Y0p6UjRnTi1qNlY4ay1XdTBUMlp6NHMxNkx2QmNycmZ1SEQ2SW9pT3JvbEZUYU5BR0s3aEdQMmVFdThtUEkwd0pnOTdNeDB5UUl4M0k?oc=5",
@@ -2043,11 +2112,7 @@
   "response": null,
   "score": 21,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.45,
-   "abn5": 4.1,
-   "last": "2026-10-30"
-  }
+  "anomali": null
  },
  {
   "id": "420cee871686",
@@ -2446,11 +2511,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.45,
-   "abn5": 4.1,
-   "last": "2026-10-30"
-  }
+  "anomali": null
  },
  {
   "id": "6f1f0e69e262",
@@ -2791,11 +2852,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.45,
-   "abn5": 4.1,
-   "last": "2026-10-30"
-  }
+  "anomali": null
  },
  {
   "id": "5eead6220824",
@@ -2820,11 +2877,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.45,
-   "abn5": 4.1,
-   "last": "2026-10-30"
-  }
+  "anomali": null
  },
  {
   "id": "692aa1cf9800",
@@ -4336,11 +4389,7 @@
   "response": null,
   "score": 31,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.45,
-   "abn5": 4.1,
-   "last": "2026-10-30"
-  }
+  "anomali": null
  },
  {
   "id": "c2b211422924",
@@ -5080,6 +5129,29 @@
   "anomali": null
  },
  {
+  "id": "a4a26a0e428d",
+  "title": "IHSG Ditutup Melemah 1,22% di Senin (26/10), Begini Proyeksi IHSG Dalam Sepekan",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkM0anc5REVtemNKMmlobVJfTGE0RkFleTVTZWNkWjlBTlctTm9xVGJLRmwzQ1Y0UEpCSjJSQWJIbW5oMXNuaDFaYlQzbFliWmtEbmROLURfWUxvblhfaHptQS1oajVoLXFLRWd5TmdwR3dDbVF1QlJVbEgyeTg4Y1UzWnU2RFlRWC1SakhtaTg0M0o2MDFTckhUZkxwLVZVUE5GSEp0NzZacDNfTmfSAaYBQVVfeXFMT2Y3UzlvZ0t1eEpUdjdlNEhkb1hlRl93WjF1clotRHJwRVo4U19ZeFVrQTdBQ0RncDJJaXZ6QldSMjlOajRZTlhuaWF4cDYzWENVYzRaNk9GV0xWVmJOamxMOFZYWkNRMUgtd3VfQWFlRmVMbmlua0NuMHJzTVRLU19Rck5TWWY0dk8xLWRlemhxTk5mRndlLUhxbDdYMXNGQUNfQ1hfdw?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-10-26T09:22:35+00:00",
+  "tickers": [],
+  "uma": false,
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IHSG Ditutup Melemah 1,22% di Senin (26/10), Begini Proyeksi IHSG Dalam Sepekan.  IHSG Ditutup Melemah 1,22% di Senin (26/10), Begini Proyeksi IHSG Dalam Sepekan &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "c84dcfe33d8c",
   "title": "Kurangi UMA, BEI Pilih Umumkan Mulainya Investigasi Dugaan Manipulasi Harga Saham",
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOU9BcHp1eGJ4YVdfM0prTHpqNVU3cDRtUVB4LVRaTGZVU3JtbzQzS0ZKTmc0OUFUR1RuSzlmcmdudVFKaE9EbWpTaWt3WGY4WDZYQTJZRUxjeHZIUTJXakk1VmJEbzg2VHZFalpBR3MtNU03NUNJWXg4VUpwbHlPdmd2ejZJcGFuSXJlWlpQa2hqUloxc1FHR01NUmFZZW5VRXpEZGVyTkd1bm1PV2F2TTVkNlVYY3MtTWZ4YTFTeUUwdjc0QnhTWDNn?oc=5",
@@ -5637,6 +5709,29 @@
   "corroboration": 0,
   "response": null,
   "score": 48,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "05cb5829f285",
+  "title": "OJK Sambut Usulan Rating Sendiri — MSCI Tetap Pegang Kendali",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHVfNDlTV3pnRW02N3lfdjItb3lZMnhKVXY5Zy1qbU8tclRPOUJQZUNwY1Y3ZHhxclJuNzZpWDdfUkFpZW9sWVU2Tmc1d2F4TmVnMXhqZHd3U2NwdENqVThPN1RIcFFNNjlhWklTYmNqTktiRVFGcGJsR29BQVRtSm1iTUpLOWY5RXZYalB2eS1tZw?oc=5",
+  "media": "https://feedberry.com/",
+  "published": "2026-10-26T05:38:43+00:00",
+  "tickers": [],
+  "uma": false,
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "OJK Sambut Usulan Rating Sendiri — MSCI Tetap Pegang Kendali.  OJK Sambut Usulan Rating Sendiri — MSCI Tetap Pegang Kendali &nbsp;&nbsp; https://feedberry.com/",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
