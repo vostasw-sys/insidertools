@@ -1,5 +1,28 @@
 [
  {
+  "id": "5f2faf46be45",
+  "title": "ERAA buyback 16,50 juta saham, sudah akumulasi kepemilikan 6,33%",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGgtR0ZEelRydU0yTUY1Zk1UWk55emUyNDJBWkZZT2N0cWVDNU1GZGhYNk9XWFJ2azFjU3NXOXAzbjE3UG5VMVJteGRpU1hsd1NWTlNOUURwMzBsZVBsckZXOWNmbVJBZTlFLXUxeFRIMG5IMEY0Wk9VSnNQZWR4Mmw2WEVua2Z0YVoyUF9YQ1JGekw2TE9MYzM1cWZnWEI4VTZXbWxORDdpZw?oc=5",
+  "media": "IDNFinancials",
+  "published": "2026-11-02T15:40:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "ERAA buyback 16,50 juta saham, sudah akumulasi kepemilikan 6,33%.  ERAA buyback 16,50 juta saham, sudah akumulasi kepemilikan 6,33% &nbsp;&nbsp; IDNFinancials",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "1facd33e3457",
   "title": "Empat Emiten Prajogo Pangestu Realisasikan Buyback Rp 830,7 Miliar",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJeldGM0ZnS29MTHVkS1AyVjN0ZU1acl9VMnBuRHJvcUJSUWRaWnUwRTQ2dGxTQVl3Z2FIYzdVZ3VRZ1dTRTY3dk8ydmFZZW51QTEyUFBzTkREMGRPOXItdGtuYko4SFo2OG0wRWxIV18yR2Qy?oc=5",
@@ -69,6 +92,52 @@
   "anomali": null
  },
  {
+  "id": "e33b2038d04b",
+  "title": "Empat Emiten Prajogo Pangestu Catat Buy Back Rp 830.7 Miliar",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44dDR4b19NR3RIY1lLOVQ4U01ma1YyM0N0RTNCLW5BWUVlXzR6OGhiVGFuN0xITFVsS0lLWWhEWUpYNkpIZW5iOC1SbnBMRFlMTEw2TElwMFIxWS00QW1vTFJJNU5Zc2k0bmVlZzlwM1o?oc=5",
+  "media": "Cirebon Times",
+  "published": "2026-11-02T13:50:50+00:00",
+  "tickers": [],
+  "uma": false,
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 8307.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Empat Emiten Prajogo Pangestu Catat Buy Back Rp 830.7 Miliar.  Empat Emiten Prajogo Pangestu Catat Buy Back Rp 830.7 Miliar &nbsp;&nbsp; Cirebon Times",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "7b9bd4e3018a",
+  "title": "IHSG Hari Ini Rebound 0,75%: MEDC & TAPG Bagikan Dividen Interim, MBMA Siapkan Private Placement",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHRoT1V4RW9aSHpLdEJwYTcwYlJxQ24xSFhaUTQ0bHlyWDhONi01T0FzVzRqajR2N09rZlRLNFFoRTJKb0JyeHJRTjZyMU9pelgyN0JxdUtHVnNiZWVibmVJdmFmQnpQOFdqQVdnRGpTM0YxcnRIemYxUXFPdm1LQVFVcTB2VFliMmptdnYtSXJiRy1xLXFqY0ZrZUVxLVpUb1ZoeEYtaw?oc=5",
+  "media": "Ajaib",
+  "published": "2026-11-02T12:18:25+00:00",
+  "tickers": [],
+  "uma": false,
+  "anon": [],
+  "corp": [
+   "private placement"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IHSG Hari Ini Rebound 0,75%: MEDC & TAPG Bagikan Dividen Interim, MBMA Siapkan Private Placement.  IHSG Hari Ini Rebound 0,75%: MEDC & TAPG Bagikan Dividen Interim, MBMA Siapkan Private Placement &nbsp;&nbsp; Ajaib",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "6e5518cc65a7",
   "title": "Sengketa Lahan Eks Hotel Mangkrak di Tanjung Bunga Masuk Ranah Pidana, Polda Sulsel Selidiki Dugaan Pemalsuan AJB",
   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQX1daYnhyNndsWDV6Y05vLTlSSFZ6d21FY3RKUzA2a0xwYm9fMF9aMThpU2JxcEJwV3hSX0ZuT3N4TW43Y3oza0ZfVXpZb2E0bFZJRWlXR3FBam1HWlM3VC1ubDJJUGJnb21CcDRFTml1TWlucXdMVmVEclB5TUxobVExV1JYS2hiazRJZ05Wamd5Z2JIUzYxNnR1Q0FJNWpYSlZHTnZCUDNkc212SlZvLS1aSjFBd2lsZzRUZlZzVWd2bnZGQ2xzWm9OeWJUNThJOV94Z1FMUkFvbjRXSi1FWURNam81ZWVo?oc=5",
@@ -112,12 +181,12 @@
   "snippet": "cum dividen reguler - Besok Cum Date Dividen Interim Puradelta Lestari (DMAS), Yield Hampir 14%.  cum dividen reguler - Besok Cum Date Dividen Interim Puradelta Lestari (DMAS), Yield Hampir 14% &nbsp;&nbsp; KONTAN",
   "corroboration": 2,
   "response": null,
-  "score": 30,
+  "score": 45,
   "outcome": null,
   "anomali": {
    "vol_z": -0.04,
-   "abn5": 0.17,
-   "last": "2026-11-02"
+   "abn5": 6.24,
+   "last": "2026-10-30"
   }
  },
  {
@@ -817,6 +886,29 @@
   "anomali": null
  },
  {
+  "id": "9e612b9906ef",
+  "title": "Aramco Akuisisi 49 Persen Saham Humain Senilai Rp 47 Triliun",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BTHYwUHhGSjFVcVpnNTlnMDdwVlRtTHZhQV9OaFU2bm94YlgyTzZJenpYR19FT0kwaElxemVkVkVyMUhuMGZLSkdWTG45MEVVVk9iZk5SYlZRMVppYlFvRUZSeTJyZw?oc=5",
+  "media": "Limapagi",
+  "published": "2026-11-02T02:33:23+00:00",
+  "tickers": [],
+  "uma": false,
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 47000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Aramco Akuisisi 49 Persen Saham Humain Senilai Rp 47 Triliun.  Aramco Akuisisi 49 Persen Saham Humain Senilai Rp 47 Triliun &nbsp;&nbsp; Limapagi",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "e3f990c4bfd2",
   "title": "Binance Diduga Diretas Lewat Sistem Otorisasi Transaksi, Rp114 Triliun Aset Kripto Terdampak - Koropak.co.id",
   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSUUwREtXOFdVSXB0SXFEUHU0MVhnaGZLSHJRbk0xOG9JZEFVRGpUdTdhQ2ZoYzAzS0FURnhRVFBVbEl2Z25kSFJtcUJzTXVpb3U5LWZVN1BYVlVqcDM0ZVlQV2dIME9NN3FqUUtHTnNZdjQwTlBhd0NURUhfZUdqNGEwbDl6RkZHNWx0eV91TzFoaVBRLUNVZVZPR1JERDM2WDZnM2xib09vcXhkbjVvM0pwbjh2T004UnFTajFreWVscUZvazRTaEViX0RpVmpUdE4wX25R0gHbAUFVX3lxTE00VDRvN25hM3Zma0Z3NTRQTmJIcFRIZHIxU3JzcHF5MFVvZ0VDOWl2UnlfN0huS0xnSy0tcVVaSl92UzdkcXdibEVPSlcwNmppWDVCZkE0R3V3VWlSM2wyNk9nRVBfUV9PWEVPa2pHbTkwelNaUnFPWG01aGpzYTBmRk9STzczWE5DNzRwVnhJQnJTQUlFX2RuWFJXOVRUd3NpSDJnQTVqc3R3eHZoQnZXVFpmenJXWDlDblA0QmxJdkgyQnR6Y3BXQ0Y2MnZhT29GbFNJMlQ3eGZTZw?oc=5",
@@ -1080,8 +1172,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.47,
-   "abn5": -5.34,
-   "last": "2026-11-02"
+   "abn5": -7.82,
+   "last": "2026-10-30"
   }
  },
  {
@@ -1387,8 +1479,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": -16.6,
-   "last": "2026-11-02"
+   "abn5": -21.04,
+   "last": "2026-10-30"
   }
  },
  {
@@ -2048,7 +2140,7 @@
  {
   "id": "dd43a133d986",
   "title": "Tertekan Efek Akuisisi Aster, Laba BRPT Turun 60,65 Persen hingga September",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUlZTUZoVzF1Y25ocERRUFlUS01hRmRiSTJZb1N2S05xRVBMSTNjX1NZc2NQcEU3LXRhMDgtTVo5U2RfZWZ1T3JvMkhCaFBOVS1GVTRhOXBlZTE2TEZMdzA0TFhpTjNIeHM4M09uRU5NWkZVMHpnNDduZFZkZDJsbmR4VURKLVd6LXpKSE1WWmRRQ3RrY3pqa1NKNkc2Y0hJTUZUMlRMenNLRVRlV3pLNlFR0gG3AUFVX3lxTE4wbTZKa3pieXBodGlUcWxic3VaS291VHVlZGR2T0dRTnJwRHZhN1VGUmtQcGdWdWZFX2pLeGRNN2UyNVZGeDQwUkYxc2xBOEdpODUzMHFKS1ZZRHN6MjQyWk1qY3oybUEwY2k5c0IzM1EyakhLU1pJOU9kbGVBbmZiay15S2RXc1BTV0RqS05uS0FmbmxBQ0lBSzdyMlQ5ZmJJYXVKVkFuX0dyUFpnYXJHdE1zTXBWOA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG02Smt6YnlwaHRpVHFsYnN1WktvdVR1ZWRkdk9HUU5ycER2YTdVRlJrUHBnVnVmRV9qS3hkTTdlMjVWRng0MFJGMXNsQThHaTg1MzBxSktWWURzejI0MlpNamN6Mm1BMGNpOXNCMzNRMmpIS1NaSTlPZGxlQW5mYmsteUtkV3NQU1dEaktObktBZm5sQUNJQUs3cjJUOWZiSWF1SlZBbl9HclBaZ2FyR3RNc01wVjjSAbcBQVVfeXFMTjBtNkpremJ5cGh0aVRxbGJzdVpLb3VUdWVkZHZPR1FOcnBEdmE3VUZSa1BwZ1Z1ZkVfakt4ZE03ZTI1VkZ4NDBSRjFzbEE4R2k4NTMwcUpLVllEc3oyNDJaTWpjejJtQTBjaTlzQjMzUTJqSEtTWkk5T2RsZUFuZmJrLXlLZFdzUFNXRGpLTm5LQWZubEFDSUFLN3IyVDlmYklhdUpWQW5fR3JQWmdhckd0TXNNcFY4?oc=5",
   "media": "IDX Channel",
   "published": "2026-10-30T12:32:00+00:00",
   "tickers": [],
@@ -2525,12 +2617,12 @@
   "snippet": "Saham Koka Indonesia (KOKA) Masuk Radar UMA di BEI.  Saham Koka Indonesia (KOKA) Masuk Radar UMA di BEI &nbsp;&nbsp; TradingView",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
    "vol_z": 1.24,
-   "abn5": 3.39,
-   "last": "2026-11-02"
+   "abn5": 5.39,
+   "last": "2026-10-30"
   }
  },
  {
@@ -2708,6 +2800,29 @@
   "corroboration": 0,
   "response": null,
   "score": 48,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "eae50619ba8d",
+  "title": "Harga minyak sedikit turun di tengah ekspektasi perundingan perdamaian antara AS dan Iran.",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEhKZ0E4ZWdYSWVOX2h3bngxcjlBTFZraWtPa0JGUGl6MWRaeVNwMG1tYmVfeTVvVXlReVpzbzkzRXI5ZDdWM1pMZUFRTUtQUHR6YVEwNnBIWlVlZlJUejh0QU1QY21MYWFFVzV2R1FuYU80VGpiaHA3ZWhKMEUyVlYwaEhDNFdEbkFaa3NZRWJ1ODNCcy1vUw?oc=5",
+  "media": "Vietnam.vn",
+  "published": "2026-10-30T02:32:04+00:00",
+  "tickers": [],
+  "uma": false,
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Harga minyak sedikit turun di tengah ekspektasi perundingan perdamaian antara AS dan Iran..  Harga minyak sedikit turun di tengah ekspektasi perundingan perdamaian antara AS dan Iran. &nbsp;&nbsp; Vietnam.vn",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -3395,7 +3510,11 @@
   "response": null,
   "score": 21,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.45,
+   "abn5": 4.1,
+   "last": "2026-10-30"
+  }
  },
  {
   "id": "420cee871686",
@@ -3728,7 +3847,7 @@
  {
   "id": "b0e7be4c93f7",
   "title": "Pandu Sjahrir Disebut Punya Saham Supra Sekuritas yang Melakukan Transaksi Terkoordinasi",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejFsb0VjXzBVUUZXT2YxVV9jQXh0dkFHX0pFV1pOSFZVYkYxb0RFRXhvZTNCMlZEeHhkZTFvaDFBanNDdE9GLVFZbzdta0VrTW00NTVjcXZnX2R0UlBQdXpPYkxNYTZYMmR4bVNWbWJ4d1JxNWRaWlVQek5qc3VQejBOZXNJWEJ4WUtULUZ2N1ZvbWhIY2xNa3hxdW5xaVZXcnBLZEprSXBUQ3R2REJMYU5UeFBiWXllc2FramNneU5GT1RicmJYOWdHZW5wTGVo0gHQAUFVX3lxTE96MWxvRWNfMFVRRldPZjFVX2NBeHR2QUdfSkVXWk5IVlViRjFvREVFeG9lM0IyVkR4eGRlMW9oMUFqc0N0T0YtUVlvN21rRWtNbTQ1NWNxdmdfZHRSUFB1ek9iTE1hNlgyZHhtU1ZtYnh3UnE1ZFpaVVB6TmpzdVB6ME5lc0lYQnhZS1QtRnY3Vm9taEhjbE1reHF1bnFpVldycEtkSmtJcFRDdHZEQkxhTlR4UGJZeWVzYWtqY2d5TkZPVGJyYlg5Z0dlbnBMZWg?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYUtEai0xYjlaYkZrU0o5M2daVVBCdENXanZrYlVTemJqTEVYendhLUdjQmVpdUpzMWpSVE5hdUJza09WYlJsQVJNak9KT0hBNmZmRzBnWmFvWjdWdDVpRjRwOGlxX1dzczVQRVRta2d4WWRxLTUtaERqdThrc2ZQMTM2X3lHNjRTcGFnS0ZvUFRnZlJ4UlZ3LXVhdW5ZQlZSY2ctb3ZPd1M2UmpaN3o2blhseGNXMExFV2FFUVFldHA4NlBDQVpTcnFHOG05Wjhp0gHQAUFVX3lxTE96MWxvRWNfMFVRRldPZjFVX2NBeHR2QUdfSkVXWk5IVlViRjFvREVFeG9lM0IyVkR4eGRlMW9oMUFqc0N0T0YtUVlvN21rRWtNbTQ1NWNxdmdfZHRSUFB1ek9iTE1hNlgyZHhtU1ZtYnh3UnE1ZFpaVVB6TmpzdVB6ME5lc0lYQnhZS1QtRnY3Vm9taEhjbE1reHF1bnFpVldycEtkSmtJcFRDdHZEQkxhTlR4UGJZeWVzYWtqY2d5TkZPVGJyYlg5Z0dlbnBMZWg?oc=5",
   "media": "Suara.com",
   "published": "2026-10-29T04:53:53+00:00",
   "tickers": [],
@@ -3794,7 +3913,11 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.45,
+   "abn5": 4.1,
+   "last": "2026-10-30"
+  }
  },
  {
   "id": "6f1f0e69e262",
@@ -4160,7 +4283,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.45,
+   "abn5": 4.1,
+   "last": "2026-10-30"
+  }
  },
  {
   "id": "5eead6220824",
@@ -4185,7 +4312,11 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.45,
+   "abn5": 4.1,
+   "last": "2026-10-30"
+  }
  },
  {
   "id": "692aa1cf9800",
@@ -5545,12 +5676,12 @@
   "snippet": "Besok Cum Date Dividen Interim Puradelta Lestari (DMAS), Yield Hampir 14%.  Besok Cum Date Dividen Interim Puradelta Lestari (DMAS), Yield Hampir 14% &nbsp;&nbsp; kontan.co.id",
   "corroboration": 2,
   "response": null,
-  "score": 30,
+  "score": 45,
   "outcome": null,
   "anomali": {
    "vol_z": -0.04,
-   "abn5": 0.17,
-   "last": "2026-11-02"
+   "abn5": 6.24,
+   "last": "2026-10-30"
   }
  },
  {
@@ -5756,8 +5887,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.33,
-   "abn5": -0.23,
-   "last": "2026-11-02"
+   "abn5": 2.41,
+   "last": "2026-10-30"
   }
  },
  {
@@ -5875,7 +6006,11 @@
   "response": null,
   "score": 31,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.45,
+   "abn5": 4.1,
+   "last": "2026-10-30"
+  }
  },
  {
   "id": "c2b211422924",
@@ -6334,8 +6469,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.33,
-   "abn5": -0.23,
-   "last": "2026-11-02"
+   "abn5": 2.41,
+   "last": "2026-10-30"
   }
  },
  {
@@ -8738,8 +8873,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.5,
-   "abn5": -8.35,
-   "last": "2026-11-02"
+   "abn5": -7.86,
+   "last": "2026-10-30"
   }
  },
  {
@@ -9241,8 +9376,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.12,
-   "abn5": 7.01,
-   "last": "2026-11-02"
+   "abn5": 7.94,
+   "last": "2026-10-30"
   }
  },
  {
