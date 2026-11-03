@@ -20,12 +20,12 @@
   "snippet": "Indo Tambangraya Megah (ITMG) Tebar Dividen US$ 74,2 Juta, Ini Jadwalnya.  Indo Tambangraya Megah (ITMG) Tebar Dividen US$ 74,2 Juta, Ini Jadwalnya &nbsp;&nbsp; Ajaib",
   "corroboration": 1,
   "response": null,
-  "score": 31,
+  "score": 16,
   "outcome": null,
   "anomali": {
    "vol_z": -0.03,
-   "abn5": 7.07,
-   "last": "2026-11-03"
+   "abn5": 4.25,
+   "last": "2026-11-02"
   }
  },
  {
@@ -162,12 +162,12 @@
   "snippet": "Dividen Interim Selamat Sempurna (SMSM) Rp 45 per saham, Ini Jadwal Cum Date.  Dividen Interim Selamat Sempurna (SMSM) Rp 45 per saham, Ini Jadwal Cum Date &nbsp;&nbsp; kontan.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": 0.07,
-   "abn5": 5.01,
-   "last": "2026-11-03"
+   "abn5": 1.51,
+   "last": "2026-11-02"
   }
  },
  {
@@ -195,8 +195,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.21,
-   "abn5": 5.83,
-   "last": "2026-11-03"
+   "abn5": 8.37,
+   "last": "2026-11-02"
   }
  },
  {
@@ -312,12 +312,12 @@
   "snippet": "Triputra Agro (TAPG) Tebar Dividen Interim, Simak Jadwalnya.  Triputra Agro (TAPG) Tebar Dividen Interim, Simak Jadwalnya &nbsp;&nbsp; Ajaib",
   "corroboration": 1,
   "response": null,
-  "score": 16,
+  "score": 31,
   "outcome": null,
   "anomali": {
    "vol_z": -0.52,
-   "abn5": 4.0,
-   "last": "2026-11-03"
+   "abn5": 9.2,
+   "last": "2026-11-02"
   }
  },
  {
@@ -337,6 +337,29 @@
   "schedule": false,
   "party": false,
   "snippet": "Empat Emiten Orang Terkaya RI Prajogo Pangestu Realisasikan Buyback Saham Rp830,7 Miliar.  Empat Emiten Orang Terkaya RI Prajogo Pangestu Realisasikan Buyback Saham Rp830,7 Miliar &nbsp;&nbsp; Tribunnews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "dc298fe5be56",
+  "title": "Empat Emiten Orang Terkaya RI Prajogo Pangestu Realisasikan Buyback Saham Rp830,7 Miliar - Halaman 2",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSW5fUUtaTWpKbEdHM2dCQzRmamcyYzRLN0o0ZW9jc081dTVhVW1nQ2pPNW45ajlqWER0ZHdqUERoRk1Hak5NRzBUVFhKQ2hMSGVpWHo4VkJIcVVTRnVWXzlHaTRMRE4wQjE0em5LV0dOMm55eVRQS2JxRWNVUk1qRWQwTzJXNFRnVkRWVFFLRFlGZWczV1hRX1gxb2c2RGNmQUR6bjhJWVJjaHh6a01rRDVsdm04Wk4tUlVsTUxDdmhTVEtZdWFlRUV4S2ZOaWc?oc=5",
+  "media": "Tribunnews.com",
+  "published": "2026-11-03T08:07:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 830.7,
+  "schedule": false,
+  "party": false,
+  "snippet": "Empat Emiten Orang Terkaya RI Prajogo Pangestu Realisasikan Buyback Saham Rp830,7 Miliar - Halaman 2.  Empat Emiten Orang Terkaya RI Prajogo Pangestu Realisasikan Buyback Saham Rp830,7 Miliar - Halaman 2 &nbsp;&nbsp; Tribunnews.com",
   "corroboration": 0,
   "response": null,
   "score": 12,
@@ -457,6 +480,29 @@
   "corroboration": 0,
   "response": null,
   "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "4cfbb7c79e20",
+  "title": "Boga Group Ekspansi Bisnis Lewat Akuisisi Sukiyaki Rin - Bisnis.com",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVVoZ1g1c1ZtclZpUXFYUVdsbjg4eTdJMVlGQmh3RHR1eWRlYkNKM1o0c0ZUZzRsTk05Y3phenlCYXRxOFFyYVhNMlBLOF9OTzdPcWEwczI2bURvbVNPekl1Yll2THl2V05NQWxXZjI0ZnZTa1Q1dmtvSGVvUE1uVEpHR3R3N3RCNlIwSE5yZmFfa0pxOTctZF9LWENSU3pid3c?oc=5",
+  "media": "Bisnis.com - Foto",
+  "published": "2026-11-03T04:00:19+00:00",
+  "tickers": [],
+  "uma": false,
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Boga Group Ekspansi Bisnis Lewat Akuisisi Sukiyaki Rin - Bisnis.com.  Boga Group Ekspansi Bisnis Lewat Akuisisi Sukiyaki Rin &nbsp;&nbsp; Bisnis.com - Foto",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
   "outcome": null,
   "anomali": null
  },
@@ -995,8 +1041,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.18,
-   "abn5": -2.13,
-   "last": "2026-11-03"
+   "abn5": 0.17,
+   "last": "2026-11-02"
   }
  },
  {
@@ -1254,8 +1300,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.72,
-   "abn5": -5.28,
-   "last": "2026-11-03"
+   "abn5": -7.75,
+   "last": "2026-11-02"
   }
  },
  {
@@ -2030,12 +2076,12 @@
   "snippet": "Ini Alasan Puri Global Sukses (PURI) Optimistis Cetak Kinerja Tumbuh Positif di 2024.  Ini Alasan Puri Global Sukses (PURI) Optimistis Cetak Kinerja Tumbuh Positif di 2024 &nbsp;&nbsp; TradingView",
   "corroboration": 1,
   "response": null,
-  "score": 16,
+  "score": 31,
   "outcome": null,
   "anomali": {
    "vol_z": -0.41,
-   "abn5": -2.37,
-   "last": "2026-11-03"
+   "abn5": -5.34,
+   "last": "2026-11-02"
   }
  },
  {
@@ -2364,8 +2410,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": -15.99,
-   "last": "2026-11-03"
+   "abn5": -16.6,
+   "last": "2026-11-02"
   }
  },
  {
@@ -3211,7 +3257,7 @@
  {
   "id": "4077a8495097",
   "title": "BCA Buka Suara soal Rumor Merger dengan DBS, Tegaskan Kabar Itu Tidak Benar",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYXJMWUUxcXloU3dibHpnMUVpZS1xXzloeGxkcGZ2QzNnazhyR05rT1EzTlFXd191NVJfSWNMekcxeFU1MllZUkhWajFnSXBFdkVmM0dyVjRZN0FkZjF0S3JxaXNDMjFYZ2R1bWp0ZlR0QzliSmpEeFlhZ2hsV0tUaE9zN1BIN0lkUF9VM0h5QlcxRHFYaER4Tl9sNmhXaWlaQTV1YTBsYkdoQTRBUk5xLUZ5VdIBuAFBVV95cUxOMi0ySlpQZFpaRTZ4bW5vY1NubDd1NGdET1BVR2g0cXFvVXJneWxBRzhUS2o0MnRibU0xLXBvdHdlQ2w2NEpWTnFKVnJnRThKaElrRVJiWXlNQVFGZEw3Mk5vZm1WaFNiRnBqTnlHMlUwaXpKQ1hIR2I1WXRzcE5PVmg0dVU3em1JQmxrblc5UFhqSXRKaXVjdGdwbFM1SmRMQW9nMWI1Rm85YkloVlprT0owSXVOal9k?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMi0ySlpQZFpaRTZ4bW5vY1NubDd1NGdET1BVR2g0cXFvVXJneWxBRzhUS2o0MnRibU0xLXBvdHdlQ2w2NEpWTnFKVnJnRThKaElrRVJiWXlNQVFGZEw3Mk5vZm1WaFNiRnBqTnlHMlUwaXpKQ1hIR2I1WXRzcE5PVmg0dVU3em1JQmxrblc5UFhqSXRKaXVjdGdwbFM1SmRMQW9nMWI1Rm85YkloVlprT0owSXVOal9k0gG4AUFVX3lxTE4yLTJKWlBkWlpFNnhtbm9jU25sN3U0Z0RPUFVHaDRxcW9Vcmd5bEFHOFRLajQydGJtTTEtcG90d2VDbDY0SlZOcUpWcmdFOEpoSWtFUmJZeU1BUUZkTDcyTm9mbVZoU2JGcGpOeUcyVTBpekpDWEhHYjVZdHNwTk9WaDR1VTd6bUlCbGtuVzlQWGpJdEppdWN0Z3BsUzVKZExBb2cxYjVGbzliSWhWWmtPSjBJdU5qX2Q?oc=5",
   "media": "IDX Channel",
   "published": "2026-10-30T09:52:00+00:00",
   "tickers": [
@@ -3554,8 +3600,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 1.38,
-   "abn5": 3.33,
-   "last": "2026-11-03"
+   "abn5": 3.39,
+   "last": "2026-11-02"
   }
  },
  {
@@ -4493,8 +4539,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.33,
-   "abn5": 3.55,
-   "last": "2026-11-03"
+   "abn5": -0.05,
+   "last": "2026-11-02"
   }
  },
  {
@@ -4896,8 +4942,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.33,
-   "abn5": 3.55,
-   "last": "2026-11-03"
+   "abn5": -0.05,
+   "last": "2026-11-02"
   }
  },
  {
@@ -5127,7 +5173,7 @@
  {
   "id": "de8e253cbecd",
   "title": "Chandra Asri (TPIA) Perbesar Alokasi Buyback Saham Jadi Rp2 Triliun",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXQ5WHVUQmR4ZzhLcnBmWFpQeXpQMFdMd052NW5XcEdVX1YxU1FrTnFjd3dfNVhXVEpkVldFVGZrY1pEOWZhUVVNTENxNnVBTmpISlAtUU5INm1RVDFtMTR6MWxrN2otbG1ZVEloUW5BT1g4N1RSOGJ1MkVGZ3czUjV6NzBUNDlyZlVZZlQtTVJENVNEaU02dkxRQzBucXhuSFgxeEVXUdIBrAFBVV95cUxQZDZ5YUU3OU1XcExaTXBTZFZrT3NDRU9SYXZIRXVSeHE0UHhtN2t1ZzFldFRRcFBGVEF3ZTdlbFRTVDdlb1RPWUx1bXZpSDI1VVdCVlJmZkViZFMxeFBtWXZXWDBielB0OTZ2UDl4dkNUOE5DUmNBQmIxTnZsMFZzNXQzczBkbVloY2pZckd3eWVTcGttWXVVQjF5YXFUaGtiaXpmdGRlWEhhNm5Z?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTlucGhFbVpVZmZZVmhBZU1MMXdVejU0QnJLbG9SbzhoTWUzUTBXdjIySmNoaVlsWDBsTUNEdFZweHVFYU80UTNXTnNZLWF5RnZTNjJMc2sxbmhBRjNkOEk2dGhvZVJPUGZfT0RyMTlUaXl5UzltWmVFaTFKS2FXWDB1VTNiTzJnMFdzR3ZOa2pxeE1qUnFUU3FzOGN3WkNaMEhvN2gtRzF2d9IBrAFBVV95cUxQZDZ5YUU3OU1XcExaTXBTZFZrT3NDRU9SYXZIRXVSeHE0UHhtN2t1ZzFldFRRcFBGVEF3ZTdlbFRTVDdlb1RPWUx1bXZpSDI1VVdCVlJmZkViZFMxeFBtWXZXWDBielB0OTZ2UDl4dkNUOE5DUmNBQmIxTnZsMFZzNXQzczBkbVloY2pZckd3eWVTcGttWXVVQjF5YXFUaGtiaXpmdGRlWEhhNm5Z?oc=5",
   "media": "IDX Channel",
   "published": "2026-10-29T02:25:00+00:00",
   "tickers": [
@@ -5266,8 +5312,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.33,
-   "abn5": 3.55,
-   "last": "2026-11-03"
+   "abn5": -0.05,
+   "last": "2026-11-02"
   }
  },
  {
@@ -5295,8 +5341,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.33,
-   "abn5": 3.55,
-   "last": "2026-11-03"
+   "abn5": -0.05,
+   "last": "2026-11-02"
   }
  },
  {
@@ -6661,8 +6707,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.18,
-   "abn5": -2.13,
-   "last": "2026-11-03"
+   "abn5": 0.17,
+   "last": "2026-11-02"
   }
  },
  {
@@ -6868,8 +6914,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.2,
-   "abn5": -0.36,
-   "last": "2026-11-03"
+   "abn5": -0.23,
+   "last": "2026-11-02"
   }
  },
  {
@@ -6989,8 +7035,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.33,
-   "abn5": 3.55,
-   "last": "2026-11-03"
+   "abn5": -0.05,
+   "last": "2026-11-02"
   }
  },
  {
@@ -7429,8 +7475,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.2,
-   "abn5": -0.36,
-   "last": "2026-11-03"
+   "abn5": -0.23,
+   "last": "2026-11-02"
   }
  },
  {
@@ -8043,6 +8089,27 @@
   "corroboration": 0,
   "response": null,
   "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "9ecbbfc5a875",
+  "title": "Per November, BEI Terapkan Kebijakan Pengganti Suspensi dan UMA Saham",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0pYcEhTTzVYb2pMbnk5UWxEcmZRTXNNWUsxUUwzZkxtdllybWpCdG1hMnM3dzNqenZydGhWNHRjN3NqUUd2TDRFc0pITFhPNHN5NUFNQ1U5b2Y5V3BfUFkxVEJPU3J6eXRsRGJLaC1oeDJSZzByZ09QNTk1dUtmRzhCUjVHSWxWTFlXNndqNWNjSHUzX0RraWt0NXU?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-10-26T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Per November, BEI Terapkan Kebijakan Pengganti Suspensi dan UMA Saham.  Per November, BEI Terapkan Kebijakan Pengganti Suspensi dan UMA Saham &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 44,
   "outcome": null,
   "anomali": null
  },
@@ -9093,27 +9160,6 @@
   "anomali": null
  },
  {
-  "id": "9ecbbfc5a875",
-  "title": "Per November, BEI Terapkan Kebijakan Pengganti Suspensi dan UMA Saham",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0pYcEhTTzVYb2pMbnk5UWxEcmZRTXNNWUsxUUwzZkxtdllybWpCdG1hMnM3dzNqenZydGhWNHRjN3NqUUd2TDRFc0pITFhPNHN5NUFNQ1U5b2Y5V3BfUFkxVEJPU3J6eXRsRGJLaC1oeDJSZzByZ09QNTk1dUtmRzhCUjVHSWxWTFlXNndqNWNjSHUzX0RraWt0NXU?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-10-26T03:32:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Per November, BEI Terapkan Kebijakan Pengganti Suspensi dan UMA Saham.  Per November, BEI Terapkan Kebijakan Pengganti Suspensi dan UMA Saham &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 0,
-  "response": null,
-  "score": 44,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "b49c102ff023",
   "title": "OJK Perpanjang Periode Buyback Saham Tanpa RUPS hingga Juni 2027",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWG4zVUpxZ1pqQmxVcFJJOGx3RW5TWEtsMkpUeWJpMDFRa0Q1dWJHUk8yZG5ROUdqZnJJa2c2NFhPNGR6Q2FjWVpCczh4WWFvanpBdG9oS1NMRWtkTnpCd2VRSXNTSTBiNGxWMExIanQ1dFo5bk9mRzhWMEgwM3ktaW1ueFlhZzE2UXdjanFUOER6eGRYQkhzLWtRdmVWT2R4clA1QTdn0gGrAUFVX3lxTE9MWHBpRzRSMFN5ZFMxZjFndU1WMGlhVXpGd2hpYTZIY0NnRzNpTTAybFFfTjRCN3pkZnZEQVRPaGxvT0R2WG1KM2FBWlRPVWMyLVc1Ql8tX2psS2Jva1pKcGJ4RUp0Uk5iZnZYTk1FODNzalFvQTl6OGVlM3NfaFBHT20tc0pxamNFSEI5Slo1YkxJVlg5SElqazhTSW83UEppc2dndUR2bGg3MA?oc=5",
@@ -9896,8 +9942,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.57,
-   "abn5": -6.7,
-   "last": "2026-11-03"
+   "abn5": -8.35,
+   "last": "2026-11-02"
   }
  },
  {
@@ -10028,8 +10074,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.32,
-   "abn5": -13.39,
-   "last": "2026-11-03"
+   "abn5": -17.15,
+   "last": "2026-11-02"
   }
  },
  {
@@ -10160,8 +10206,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.32,
-   "abn5": -13.39,
-   "last": "2026-11-03"
+   "abn5": -17.15,
+   "last": "2026-11-02"
   }
  },
  {
