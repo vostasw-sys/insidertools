@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Pemindai sinyal pra-rilis</title>
 <style>
+button{background:var(--card);color:var(--tx);border:1px solid var(--bd);border-radius:6px;padding:6px 10px;font:inherit;cursor:pointer}
 :root{--bg:#f6f7f9;--card:#fff;--tx:#1b1f24;--mu:#667085;--bd:#e3e6ea;--ac:#0f766e;--hi:#b42318;--md:#b54708;--lo:#667085}
 @media (prefers-color-scheme:dark){:root{--bg:#14171a;--card:#1c2024;--tx:#e8eaed;--mu:#9aa3ad;--bd:#2d333a;--ac:#2dd4bf;--hi:#f97066;--md:#fdb022;--lo:#9aa3ad}}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.5 system-ui,sans-serif;padding:20px;max-width:1200px;margin-inline:auto}
@@ -29,14 +30,18 @@ tr.r{cursor:pointer}tr.r:hover{background:var(--bg)}
 <div class="tabs"><button class="on" data-t="s">Pemindai</button><button data-t="e">Hasil &amp; event study</button><button data-t="h">Cara kerja</button></div>
 
 <section id="s">
+<div class="bar"><button id="rf">↻ Refresh sekarang</button>
+<label><input type="checkbox" id="auto" checked> Otomatis tiap</label>
+<select id="iv"><option value="60">1 menit</option><option value="300" selected>5 menit</option><option value="900">15 menit</option></select></div>
 <div class="bar">
 <input id="q" placeholder="Cari kode / judul / media" size="26">
-<label>Skor min <input id="min" type="range" min="0" max="100" value="0"> <b id="minv">0</b></label>
+<select id="jn"><option value="">Semua jenis info</option><option>M&amp;A</option><option>Penerbitan saham</option><option>Pembelian/penjualan besar</option><option>Kontrak/deal</option><option>Utang/restrukturisasi</option><option>Laporan keuangan</option></select>
+<label>Skor min <input id="min" type="range" min="1" max="10" value="1"> <b id="minv">0</b></label>
 <select id="st"><option value="">Semua tanggapan</option><option>terkonfirmasi</option><option>membantah</option><option>tanpa komentar</option><option>menunggu jawaban</option><option value="-">Belum ada tanggapan</option></select>
 <label><input type="checkbox" id="mp" checked> Hanya yang terpetakan ke emiten</label>
 <select id="oc"><option value="">Semua hasil</option><option value="y">Sudah ada pengumuman</option><option value="n">Belum ada pengumuman</option></select>
 </div>
-<div class="wrap"><table><thead><tr><th>Skor</th><th>Emiten</th><th>Berita</th><th>Terbit</th><th>Sinyal</th><th>Korob.</th><th>Anomali harga</th><th>Hasil</th></tr></thead><tbody id="b"></tbody></table></div>
+<div class="wrap"><table><thead><tr><th>Emiten</th><th>Info</th><th>Asal info (klaim di berita)</th><th>Tanggal info</th><th>Skor 1–10</th></tr></thead><tbody id="b"></tbody></table></div>
 </section>
 
 <section id="e" hidden>
@@ -46,7 +51,7 @@ tr.r{cursor:pointer}tr.r:hover{background:var(--bg)}
 
 <section id="h" hidden>
 <ol>
-<li><b>Kumpulkan</b> otomatis tiap 3 jam oleh GitHub Actions: Google News RSS (frasa sumber anonim, aksi korporasi) dan RSS media.</li>
+<li><b>Kumpulkan</b> otomatis tiap 30 menit oleh GitHub Actions: Google News RSS (frasa sumber anonim, aksi korporasi) dan RSS media.</li>
 <li><b>Deteksi</b> frasa seperti “menurut sumber” dan tanggapan manajemen (membenarkan, membantah, tanpa komentar).</li>
 <li><b>Petakan</b> ke emiten lewat data/emiten.csv (nama, alias, kode dalam kurung).</li>
 <li><b>Skor</b> 0–100: reputasi media, jumlah frasa sumber, pihak disebut, nilai transaksi, jadwal, korroborasi media lain 7 hari, tanggapan 3 hari.</li>
@@ -61,24 +66,33 @@ const $=s=>document.querySelector(s),esc=t=>String(t??"").replace(/[&<>"]/g,c=>(
 let S=[],E=[];
 document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{document.querySelectorAll(".tabs button").forEach(x=>x.classList.toggle("on",x==b));["s","e","h"].forEach(i=>$("#"+i).hidden=i!=b.dataset.t)});
 const cls=n=>n>=60?"hi":n>=35?"md":"lo";
+const n10=s=>Math.max(1,Math.min(10,Math.round(s.score/10)));
+const fd=t=>new Date(t).toLocaleString("id-ID",{day:"2-digit",month:"short",hour:"2-digit",minute:"2-digit"});
 function render(){
- const q=$("#q").value.toLowerCase(),m=+$("#min").value,st=$("#st").value,oc=$("#oc").value;$("#minv").textContent=m;
- const rows=S.filter(s=>s.score>=m&&(!q||(s.tickers.join(" ")+s.title+s.media).toLowerCase().includes(q))
-  &&(!st||(st=="-"?!s.response:s.response==st))&&(!oc||(oc=="y")==!!s.outcome)&&(!$("#mp").checked||s.tickers.length));
- $("#b").innerHTML=rows.map((s,i)=>`<tr class="r" data-i="${i}"><td><span class="sc ${cls(s.score)}">${s.score}</span></td>
- <td><b>${esc(s.tickers.join(", ")||"–")}</b></td><td><a href="${esc(s.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(s.title)}</a><div class="mu">${esc(s.media)}</div></td>
- <td>${esc(s.published.slice(0,10))}</td><td>${s.uma?'<span class="tag">UMA</span>':""}${s.corp.map(c=>`<span class="tag">${esc(c)}</span>`).join("")}${s.response?`<span class="tag">${esc(s.response)}</span>`:""}</td>
- <td>${s.corroboration}</td><td>${s.anomali?("vol "+s.anomali.vol_z+"σ · "+s.anomali.abn5+"%"):"–"}</td><td>${s.outcome?esc(s.outcome.status)+`<div class="mu">t0 ${esc(s.outcome.t0)} · H-${s.outcome.lead_days}</div>`:'<span class="mu">–</span>'}</td></tr>
- <tr class="det" hidden><td colspan="8">Frasa: ${esc(s.anon.join("; ")||"–")} · Nilai: ${s.value_bn?"≈ Rp "+s.value_bn.toLocaleString("id-ID")+" miliar":"–"} · Jadwal: ${s.schedule?"ada":"–"} · Pihak disebut: ${s.party?"ada":"–"}<br>${esc(s.snippet)}</td></tr>`).join("")||`<tr><td colspan="8" class="mu">Belum ada sinyal yang cocok. Coba matikan “Hanya yang terpetakan ke emiten”.</td></tr>`;
+ const q=$("#q").value.toLowerCase(),m=+$("#min").value,st=$("#st").value,oc=$("#oc").value,jn=$("#jn").value;$("#minv").textContent=m;
+ const rows=S.filter(s=>n10(s)>=m&&(!q||(s.tickers.join(" ")+s.title+s.media).toLowerCase().includes(q))
+  &&(!st||(st=="-"?!s.response:s.response==st))&&(!oc||(oc=="y")==!!s.outcome)&&(!jn||s.jenis.includes(jn))&&(!$("#mp").checked||s.tickers.length))
+  .sort((a,b)=>b.score-a.score||b.published.localeCompare(a.published));
+ $("#b").innerHTML=rows.map(s=>{const k=n10(s),asal=s.asal.length?s.asal.join(", "):"Sumber anonim via "+s.media;
+ return `<tr class="r"><td><b>${esc(s.tickers.join(", ")||"–")}</b></td>
+ <td>${s.uma?'<span class="tag">UMA BEI</span>':""}${s.jenis.map(j=>'<span class="tag">'+esc(j)+'</span>').join("")}<div><a href="${esc(s.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(s.title)}</a></div></td>
+ <td>${esc(asal)}<div class="mu">${esc(s.media)}</div></td><td>${fd(s.published)}</td>
+ <td><span class="sc ${k>=7?"hi":k>=4?"md":"lo"}">${k}</span></td></tr>
+ <tr class="det" hidden><td colspan="5">Frasa sumber: ${esc(s.anon.join("; ")||"–")} · Korroborasi: ${s.corroboration} media · Tanggapan emiten: ${esc(s.response||"belum ada")} · Nilai: ${s.value_bn?"≈ Rp "+s.value_bn.toLocaleString("id-ID")+" miliar":"–"} · Anomali harga: ${s.anomali?("volume "+s.anomali.vol_z+"σ, abnormal 5 hari "+s.anomali.abn5+"%"):"belum dicek"} · Terdeteksi sistem: ${fd(s.first_seen||s.published)} · Hasil: ${s.outcome?esc(s.outcome.status)+" (t0 "+esc(s.outcome.t0)+")":"belum tercatat"}<br>${esc(s.snippet)}</td></tr>`}).join("")||`<tr><td colspan="5" class="mu">Belum ada sinyal yang cocok. Coba turunkan skor minimum atau matikan “Hanya yang terpetakan ke emiten”.</td></tr>`;
  document.querySelectorAll("tr.r").forEach(r=>r.onclick=()=>r.nextElementSibling.hidden=!r.nextElementSibling.hidden);
 }
-["q","min","st","oc","mp"].forEach(i=>$("#"+i).addEventListener("input",render));
-const f=u=>fetch(u,{cache:"no-store"}).then(r=>r.ok?r.json():[]).catch(()=>[]);
-Promise.all([f("data/signals.json"),f("data/events.json"),f("data/meta.json")]).then(([s,e,m])=>{
- S=s;E=e;$("#meta").textContent=m.updated?`${m.count} sinyal · diperbarui ${new Date(m.updated).toLocaleString("id-ID")}`:"Belum ada data. Jalankan workflow “Pindai” di tab Actions.";
+["q","min","st","oc","mp","jn"].forEach(i=>$("#"+i).addEventListener("input",render));
+const f=u=>fetch(u+"?t="+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():[]).catch(()=>[]);
+async function load(){
+ const [s,e,m]=await Promise.all([f("data/signals.json"),f("data/events.json"),f("data/meta.json")]);
+ S=s;E=e;
+ $("#meta").textContent=(m.updated?`${m.count} sinyal · data server diperbarui ${new Date(m.updated).toLocaleString("id-ID")}`:"Belum ada data. Jalankan workflow “Pindai” di tab Actions.")+` · halaman dicek ${new Date().toLocaleTimeString("id-ID")}`;
  $("#eb").innerHTML=E.map(x=>`<tr><td><b>${esc(x.ticker)}</b></td><td>${esc(x.t0)}</td><td>${esc(x.status)}</td><td>${x.lead_days??"–"}</td><td>${x.n_signals}</td><td>${x.max_score??"–"}</td><td>${x.car_pre??"–"}</td><td>${x.car_event??"–"}</td></tr>`).join("")||`<tr><td colspan="8" class="mu">Belum ada hasil tercatat.</td></tr>`;
  render();
-});
+}
+let timer;function sched(){clearInterval(timer);if($("#auto").checked)timer=setInterval(load,+$("#iv").value*1000)}
+$("#rf").onclick=load;$("#auto").onchange=sched;$("#iv").onchange=sched;
+load();sched();
 </script>
 </body>
 </html>
