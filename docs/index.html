@@ -71,14 +71,14 @@ const fd=t=>new Date(t).toLocaleString("id-ID",{day:"2-digit",month:"short",hour
 function render(){
  const q=$("#q").value.toLowerCase(),m=+$("#min").value,st=$("#st").value,oc=$("#oc").value,jn=$("#jn").value;$("#minv").textContent=m;
  const rows=S.filter(s=>n10(s)>=m&&(!q||(s.tickers.join(" ")+s.title+s.media).toLowerCase().includes(q))
-  &&(!st||(st=="-"?!s.response:s.response==st))&&(!oc||(oc=="y")==!!s.outcome)&&(!jn||s.jenis.includes(jn))&&(!$("#mp").checked||s.tickers.length))
+  &&(!st||(st=="-"?!s.response:s.response==st))&&(!oc||(oc=="y")==!!s.outcome)&&(!jn||(s.jenis||[]).includes(jn))&&(!$("#mp").checked||s.tickers.length))
   .sort((a,b)=>b.score-a.score||b.published.localeCompare(a.published));
- $("#b").innerHTML=rows.map(s=>{const k=n10(s),asal=s.asal.length?s.asal.join(", "):"Sumber anonim via "+s.media;
+ $("#b").innerHTML=rows.map(s=>{const k=n10(s),asal=(s.asal||[]).length?s.asal.join(", "):"Sumber anonim via "+s.media;
  return `<tr class="r"><td><b>${esc(s.tickers.join(", ")||"–")}</b></td>
- <td>${s.uma?'<span class="tag">UMA BEI</span>':""}${s.jenis.map(j=>'<span class="tag">'+esc(j)+'</span>').join("")}<div><a href="${esc(s.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(s.title)}</a></div></td>
+ <td>${s.uma?'<span class="tag">UMA BEI</span>':""}${(s.jenis||[]).map(j=>'<span class="tag">'+esc(j)+'</span>').join("")}<div><a href="${esc(s.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(s.title)}</a></div></td>
  <td>${esc(asal)}<div class="mu">${esc(s.media)}</div></td><td>${fd(s.published)}</td>
  <td><span class="sc ${k>=7?"hi":k>=4?"md":"lo"}">${k}</span></td></tr>
- <tr class="det" hidden><td colspan="5">Frasa sumber: ${esc(s.anon.join("; ")||"–")} · Korroborasi: ${s.corroboration} media · Tanggapan emiten: ${esc(s.response||"belum ada")} · Nilai: ${s.value_bn?"≈ Rp "+s.value_bn.toLocaleString("id-ID")+" miliar":"–"} · Anomali harga: ${s.anomali?("volume "+s.anomali.vol_z+"σ, abnormal 5 hari "+s.anomali.abn5+"%"):"belum dicek"} · Terdeteksi sistem: ${fd(s.first_seen||s.published)} · Hasil: ${s.outcome?esc(s.outcome.status)+" (t0 "+esc(s.outcome.t0)+")":"belum tercatat"}<br>${esc(s.snippet)}</td></tr>`}).join("")||`<tr><td colspan="5" class="mu">Belum ada sinyal yang cocok. Coba turunkan skor minimum atau matikan “Hanya yang terpetakan ke emiten”.</td></tr>`;
+ <tr class="det" hidden><td colspan="5">Frasa sumber: ${esc((s.anon||[]).join("; ")||"–")} · Korroborasi: ${s.corroboration} media · Tanggapan emiten: ${esc(s.response||"belum ada")} · Nilai: ${s.value_bn?"≈ Rp "+s.value_bn.toLocaleString("id-ID")+" miliar":"–"} · Anomali harga: ${s.anomali?("volume "+s.anomali.vol_z+"σ, abnormal 5 hari "+s.anomali.abn5+"%"):"belum dicek"} · Terdeteksi sistem: ${fd(s.first_seen||s.published)} · Hasil: ${s.outcome?esc(s.outcome.status)+" (t0 "+esc(s.outcome.t0)+")":"belum tercatat"}<br>${esc(s.snippet)}</td></tr>`}).join("")||`<tr><td colspan="5" class="mu">Belum ada sinyal yang cocok. Coba turunkan skor minimum atau matikan “Hanya yang terpetakan ke emiten”.</td></tr>`;
  document.querySelectorAll("tr.r").forEach(r=>r.onclick=()=>r.nextElementSibling.hidden=!r.nextElementSibling.hidden);
 }
 ["q","min","st","oc","mp","jn"].forEach(i=>$("#"+i).addEventListener("input",render));
@@ -88,7 +88,7 @@ async function load(){
  S=s;E=e;
  $("#meta").textContent=(m.updated?`${m.count} sinyal · data server diperbarui ${new Date(m.updated).toLocaleString("id-ID")}`:"Belum ada data. Jalankan workflow “Pindai” di tab Actions.")+` · halaman dicek ${new Date().toLocaleTimeString("id-ID")}`;
  $("#eb").innerHTML=E.map(x=>`<tr><td><b>${esc(x.ticker)}</b></td><td>${esc(x.t0)}</td><td>${esc(x.status)}</td><td>${x.lead_days??"–"}</td><td>${x.n_signals}</td><td>${x.max_score??"–"}</td><td>${x.car_pre??"–"}</td><td>${x.car_event??"–"}</td></tr>`).join("")||`<tr><td colspan="8" class="mu">Belum ada hasil tercatat.</td></tr>`;
- render();
+ try{render()}catch(e){$("#b").innerHTML=`<tr><td colspan="5" class="mu">Gagal menampilkan data: ${esc(e.message)}</td></tr>`}
 }
 let timer;function sched(){clearInterval(timer);if($("#auto").checked)timer=setInterval(load,+$("#iv").value*1000)}
 $("#rf").onclick=load;$("#auto").onchange=sched;$("#iv").onchange=sched;
