@@ -135,12 +135,12 @@
   "snippet": "Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun - Bisnis.com.  Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 1,
   "response": null,
-  "score": 25,
+  "score": 40,
   "outcome": null,
   "anomali": {
    "vol_z": -0.2,
-   "abn5": 2.56,
-   "last": "2026-11-04"
+   "abn5": 7.07,
+   "last": "2026-11-03"
   }
  },
  {
@@ -855,8 +855,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 3.04,
-   "abn5": 5.39,
-   "last": "2026-11-04"
+   "abn5": 7.87,
+   "last": "2026-11-03"
   }
  },
  {
@@ -1103,12 +1103,12 @@
   "snippet": "Indo Tambangraya Megah (ITMG) Tebar Dividen US$ 74,2 Juta, Ini Jadwalnya.  Indo Tambangraya Megah (ITMG) Tebar Dividen US$ 74,2 Juta, Ini Jadwalnya &nbsp;&nbsp; Ajaib",
   "corroboration": 1,
   "response": null,
-  "score": 16,
+  "score": 31,
   "outcome": null,
   "anomali": {
    "vol_z": -0.2,
-   "abn5": 2.56,
-   "last": "2026-11-04"
+   "abn5": 7.07,
+   "last": "2026-11-03"
   }
  },
  {
@@ -1328,8 +1328,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": 5.32,
-   "last": "2026-11-04"
+   "abn5": 5.01,
+   "last": "2026-11-03"
   }
  },
  {
@@ -1360,8 +1360,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": 8.99,
-   "last": "2026-11-04"
+   "abn5": 5.83,
+   "last": "2026-11-03"
   }
  },
  {
@@ -1526,8 +1526,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.65,
-   "abn5": 3.76,
-   "last": "2026-11-04"
+   "abn5": 4.0,
+   "last": "2026-11-03"
   }
  },
  {
@@ -2352,12 +2352,12 @@
   "snippet": "cum dividen reguler - Besok Cum Date Dividen Interim Puradelta Lestari (DMAS), Yield Hampir 14%.  cum dividen reguler - Besok Cum Date Dividen Interim Puradelta Lestari (DMAS), Yield Hampir 14% &nbsp;&nbsp; KONTAN",
   "corroboration": 1,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": 0.03,
-   "abn5": -5.84,
-   "last": "2026-11-04"
+   "abn5": -2.13,
+   "last": "2026-11-03"
   }
  },
  {
@@ -2635,12 +2635,12 @@
   "snippet": "4 Segmen Bisnis Utama Tumbuh, Telkom (TLKM) Raup Pendapatan Rp113,5T.  4 Segmen Bisnis Utama Tumbuh, Telkom (TLKM) Raup Pendapatan Rp113,5T &nbsp;&nbsp; Emitennews.com",
   "corroboration": 1,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
    "vol_z": 0.37,
-   "abn5": -2.07,
-   "last": "2026-11-04"
+   "abn5": -5.28,
+   "last": "2026-11-03"
   }
  },
  {
@@ -3673,8 +3673,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.47,
-   "abn5": -11.95,
-   "last": "2026-11-04"
+   "abn5": -15.99,
+   "last": "2026-11-03"
   }
  },
  {
@@ -4772,12 +4772,12 @@
   "snippet": "Saham Koka Indonesia (KOKA) Masuk Radar UMA di BEI.  Saham Koka Indonesia (KOKA) Masuk Radar UMA di BEI &nbsp;&nbsp; TradingView",
   "corroboration": 0,
   "response": null,
-  "score": 56,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": 0.68,
-   "abn5": -6.18,
-   "last": "2026-11-04"
+   "abn5": 3.33,
+   "last": "2026-11-03"
   }
  },
  {
@@ -5604,8 +5604,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.09,
-   "abn5": 1.49,
-   "last": "2026-11-04"
+   "abn5": 3.55,
+   "last": "2026-11-03"
   }
  },
  {
@@ -6078,8 +6078,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.09,
-   "abn5": 1.49,
-   "last": "2026-11-04"
+   "abn5": 3.55,
+   "last": "2026-11-03"
   }
  },
  {
@@ -6490,8 +6490,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.09,
-   "abn5": 1.49,
-   "last": "2026-11-04"
+   "abn5": 3.55,
+   "last": "2026-11-03"
   }
  },
  {
@@ -6524,8 +6524,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.09,
-   "abn5": 1.49,
-   "last": "2026-11-04"
+   "abn5": 3.55,
+   "last": "2026-11-03"
   }
  },
  {
@@ -6856,8 +6856,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.01,
-   "abn5": 0.61,
-   "last": "2026-11-04"
+   "abn5": -0.36,
+   "last": "2026-11-03"
   }
  },
  {
@@ -7145,7 +7145,7 @@
  {
   "id": "e570df36ee7e",
   "title": "BEI Tak Lagi Andalkan UMA, Saham Gorengan hingga Promosi Influencer Bakal Makin Disorot?",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWs3WEEzY2ZteWxLNGE0c01lUWEya3lXSEluQW03OUNCQmg3aG44cU4xTXpUaW5KUnRMUWprSDdIcDJyc3lYVnBUOUJ3Xy14OF9LQVFYYk1vOVhRWDY3LWctZUVzcEE1TldYVkhHa0Yya1ZwSnNTOUpqYUI1OUV6NGp0YmdzUVFRT24zSFVhdjhCcVRTWmJYOWRMd09MSTZVSVhnSEVEZmkydGZVRURxWTFCanM5UnlLc21nckdXR0hiTnZtNXfSAcgBQVVfeXFMUDNIdEp2MFV1a3A5SzNrWm5vV2pDMGdIdS1Lc3Y3RGhfXzNUVUZXSFhUQVRJV2tRanEwVG9IOGlqTXEzLVplME1SNTdybUtON2E4d3JnNUtxRjBwbU1TY0FNZGdHT0t4UnR0ZmRmRUl6Y3JWbV9FWDY0TmdZWjRZOW1qQXBVd1NvZ3FjYTJCWTFJMGROaGlLY1owVEloaXJaZHpvU2FHVUFMb2wzNE5QZm9QdHJCbUhuQUdoRWVCZklyREJ3d0NaYnQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQanVNTm5IMGN5R1F5SE5NUjhDMlptaUlkRGtIYXN1QXdvYXc2TkV3WTlKNzJCR0hudFVXNzhFLXJCRGRhRHpGMVlkaWZwRUJVSEVIT0R4Y2FXT2hfZVY5X09tTWhTVk5LaUh2Tm43NllrLThwU2wzbmxpc2FoM2N2MndVUUdBV3l1dnlfVVE5LXloTkZya1JnOFZ3ZFlsUktlQi1sMnBtTHgzMHQ2aEVod3lIU2ZzVktCN2pHY0lOYVBNRkNTeWfSAcgBQVVfeXFMUDNIdEp2MFV1a3A5SzNrWm5vV2pDMGdIdS1Lc3Y3RGhfXzNUVUZXSFhUQVRJV2tRanEwVG9IOGlqTXEzLVplME1SNTdybUtON2E4d3JnNUtxRjBwbU1TY0FNZGdHT0t4UnR0ZmRmRUl6Y3JWbV9FWDY0TmdZWjRZOW1qQXBVd1NvZ3FjYTJCWTFJMGROaGlLY1owVEloaXJaZHpvU2FHVUFMb2wzNE5QZm9QdHJCbUhuQUdoRWVCZklyREJ3d0NaYnQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-10-26T07:00:00+00:00",
   "tickers": [],
@@ -7632,8 +7632,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.58,
-   "abn5": -7.75,
-   "last": "2026-11-04"
+   "abn5": -6.7,
+   "last": "2026-11-03"
   }
  },
  {
@@ -7792,8 +7792,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.54,
-   "abn5": -11.75,
-   "last": "2026-11-04"
+   "abn5": -13.39,
+   "last": "2026-11-03"
   }
  },
  {
