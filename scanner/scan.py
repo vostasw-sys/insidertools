@@ -26,6 +26,24 @@ FEEDS = []
 SITES = ["kontan.co.id", "bisnis.com", "cnbcindonesia.com", "emitennews.com", "katadata.co.id", "investor.id", "idxchannel.com"]
 STOP = {"IHSG", "BUMN", "RUPS", "PKPU", "KSEI", "IDXC", "OJK", "AMDK", "CEO", "LQ45", "IPO", "USD", "EBITDA", "ASEAN", "UMKM", "THR"}
 RE_VALUE = re.compile(r"rp\s?([\d.,]+)\s?(triliun|miliar|juta)", re.I)
+JENIS = {
+    "M&A": ["akuisisi", "merger", "pengambilalihan", "tender offer", "go private", "backdoor listing", "penggabungan usaha", "divestasi"],
+    "Penerbitan saham": ["rights issue", "right issue", "private placement", "hmetd", "penerbitan saham"],
+    "Pembelian/penjualan besar": ["buyback", "borong", "akumulasi", "penjualan saham", "jual saham", "melepas saham", "pembelian saham", "beli saham"],
+    "Kontrak/deal": ["kontrak", "kerja sama", "kerjasama", "memenangkan", "nota kesepahaman", "mou"],
+    "Utang/restrukturisasi": ["pkpu", "pailit", "gagal bayar", "restrukturisasi", "obligasi"],
+    "Laporan keuangan": ["laba bersih", "laporan keuangan", "rugi bersih"],
+}
+ASAL = {  # pihak yang DISEBUT berita sebagai asal informasi (klaim media, bukan terverifikasi)
+    "Direksi/manajemen": ["direksi", "direktur", "manajemen", "sekretaris perusahaan", "corporate secretary", "ceo", "cfo"],
+    "Komisaris": ["komisaris"],
+    "Pemegang saham pengendali": ["pemegang saham pengendali", "pemegang saham utama", "controlling shareholder"],
+    "Penjamin emisi": ["penjamin emisi", "underwriter"],
+    "Auditor": ["auditor", "kantor akuntan publik"],
+    "Regulator (OJK/BEI)": ["ojk", "bursa efek indonesia", "bei"],
+    "PPATK": ["ppatk"],
+    "Calon pembeli/mitra": ["calon pembeli", "investor strategis", "calon investor"],
+}
 RE_UMA = re.compile(r"\buma\b|unusual market activity|permintaan penjelasan", re.I)
 RE_SCHED = re.compile(r"(pekan depan|bulan depan|bulan ini|kuartal\s?[ivx1-4]+|semester|akhir tahun|dalam waktu dekat|\bq[1-4]\b)", re.I)
 RE_PARTY = re.compile(r"\b(?:dengan|oleh|kepada)\s+(?:PT\s[A-Z]\w+|[A-Z][a-zA-Z]+\s(?:Group|Grup|Holdings?|Capital))")
@@ -87,6 +105,15 @@ def hits(text, words):
     return [w for w in words if w in low]
 
 
+def hits_w(text, words):
+    low = text.lower()
+    return [w for w in words if re.search(rf"(?<!\w){re.escape(w)}(?!\w)", low)]
+
+
+def classify(text, table):
+    return [k for k, ws in table.items() if hits_w(text, ws)]
+
+
 def stance_of(text):
     for name, words in STANCE.items():
         if hits(text, words):
@@ -133,7 +160,7 @@ def main():
     old = {}
     if OUT.exists():
         old = {s["id"]: s for s in json.load(open(OUT, encoding="utf-8"))}
-    old = {k: v for k, v in old.items() if "uma" in v}
+    old = {k: v for k, v in old.items() if "jenis" in v}
     for r in raw:
         text = r["text"]
         anon, corp, st = hits(text, ANON), hits(text, CORP), stance_of(text)
@@ -147,7 +174,8 @@ def main():
         tick = find_tickers(text, pats)
         sid = hashlib.sha1((r["title"] + r["media"]).encode()).hexdigest()[:12]
         old[sid] = dict(id=sid, title=r["title"], url=r["url"], media=r["media"], published=r["published"],
-                        tickers=tick, uma=uma, anon=anon, corp=corp, stance=st, value_bn=idr_bn(text),
+                        tickers=tick, uma=uma, jenis=classify(text, JENIS), asal=classify(text, ASAL),
+                        first_seen=old.get(sid, {}).get("first_seen", NOW.isoformat()), anon=anon, corp=corp, stance=st, value_bn=idr_bn(text),
                         schedule=bool(RE_SCHED.search(text)), party=bool(RE_PARTY.search(r["text"])),
                         snippet=text[:300])
     cut = (NOW - dt.timedelta(days=365)).isoformat()
