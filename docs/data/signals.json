@@ -2053,7 +2053,7 @@
  {
   "id": "b754d9373352",
   "title": "Emas dan Perak Rebound Saat Minyak Ambruk Lebih dari 7%, Fed Tetap Mengincar Kenaikan Bunga",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTc5b0Y5alo5eFNRMGJZbWk2VkxMQnN2SUZ3VkQ3TWp1UUk4YjRMRHQ2WDE2WkU0MDdqLTY3eXB5aU1aT2NzcHBXb0xfaXZJd3FubC1GSlBMcXFYWkRhU0lDUktZZ1BLZUhxMG0xZTNwZDJFQmd0dXdwX090YkRsRnhRc0V6akIzX21kY1pKd3A3TzlnS0F4RjZTb2Y0d0RxRHIzSVpDbkdyQVItYVB3THhBZncyOTZiWEU5cWxqeWg3Szl4V0doclZEbEJXZw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEJLeWQ1dFk2aHVyLTRrVkJRS2UwZkpBNlVnUTNLQUlSbkpaLXFxRlo0c040bFR5SkZhd1kzanYxTkFRSkVnUy1aNzZLaWtaOEdlRk1XS1BWZHdsWDNuLVhULTlRemh3U1N1VzlMM2JMel9IalJOaTRMQVRMRGNYRFppSzliekdCWjczMDZFWS1hcktSbEJ1d3pVRkFwb1RsZXZMNGp3RU02YS1BTHBFc3J3NUJHMk4tRUZXVXo1Ql9pQjU3WHZFZA?oc=5",
   "media": "PT Aneka Logam Indonesia",
   "published": "2026-11-03T02:58:10+00:00",
   "tickers": [],
@@ -2100,6 +2100,34 @@
   "schedule": false,
   "party": false,
   "snippet": "CEO Four Corners Property Trust Lenehan beli saham biasa senilai $226.072.  CEO Four Corners Property Trust Lenehan beli saham biasa senilai $226.072 &nbsp;&nbsp; Investing.com Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "b4a49b7f9609",
+  "title": "Empat Emiten Prajogo Pangestu Siapkan Buyback Rp 4,5 Triliun",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aOXA4a0dxd1lDUFljMGxzR3lWLXRZZTVUNXZsYk14WHB5ZEduS0xSdVI5UHpUczJ6UWNwd1VWYm41MkVsbGRqMS1LRUhVcXI1dlZZeDU2QVdrby0zSC1aMnVjdw?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-03T01:53:27+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-04T22:15:16.967875+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 4500.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Empat Emiten Prajogo Pangestu Siapkan Buyback Rp 4,5 Triliun.  Empat Emiten Prajogo Pangestu Siapkan Buyback Rp 4,5 Triliun &nbsp;&nbsp; Demokratis.co.id",
   "corroboration": 0,
   "response": null,
   "score": 16,
@@ -2507,7 +2535,7 @@
   "first_seen": "2026-11-04T11:52:57.956619+00:00",
   "anon": [],
   "corp": [
-   "buyback"
+   "rights issue"
   ],
   "stance": null,
   "value_bn": 8307.0,
@@ -5900,7 +5928,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.09,
+   "abn5": 3.55,
+   "last": "2026-11-03"
+  }
  },
  {
   "id": "420cee871686",
@@ -6370,7 +6402,11 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.09,
+   "abn5": 3.55,
+   "last": "2026-11-03"
+  }
  },
  {
   "id": "6f1f0e69e262",
@@ -6778,7 +6814,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.09,
+   "abn5": 3.55,
+   "last": "2026-11-03"
+  }
  },
  {
   "id": "5eead6220824",
@@ -6808,7 +6848,11 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.09,
+   "abn5": 3.55,
+   "last": "2026-11-03"
+  }
  },
  {
   "id": "692aa1cf9800",
@@ -7401,7 +7445,7 @@
  {
   "id": "e570df36ee7e",
   "title": "BEI Tak Lagi Andalkan UMA, Saham Gorengan hingga Promosi Influencer Bakal Makin Disorot?",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3BCdHBrV0hMMkYxZktrRjJZX1dHb2h0cTJtY095NU5saHJaZ1lJenhQVUdpa2FhNUQ5bGh6Uy1iX0M2Uk9jdE1fbTJrNU9zdDk3WkJueDVTOGcwcXdFNUt5dkZNU3MzQlZFeUV0N3hKdVd2aDQzWDNQSXFHczYxRzh4UVBXU2YydzhVejlXc0tpRTViclNjdmljV2pkNE9qVjBhSHAzWlpmaGpyUmVaUkhaZ1V4TEQ2MWg1WnRicUprcUV1UmfSAcgBQVVfeXFMUDNIdEp2MFV1a3A5SzNrWm5vV2pDMGdIdS1Lc3Y3RGhfXzNUVUZXSFhUQVRJV2tRanEwVG9IOGlqTXEzLVplME1SNTdybUtON2E4d3JnNUtxRjBwbU1TY0FNZGdHT0t4UnR0ZmRmRUl6Y3JWbV9FWDY0TmdZWjRZOW1qQXBVd1NvZ3FjYTJCWTFJMGROaGlLY1owVEloaXJaZHpvU2FHVUFMb2wzNE5QZm9QdHJCbUhuQUdoRWVCZklyREJ3d0NaYnQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQanVNTm5IMGN5R1F5SE5NUjhDMlptaUlkRGtIYXN1QXdvYXc2TkV3WTlKNzJCR0hudFVXNzhFLXJCRGRhRHpGMVlkaWZwRUJVSEVIT0R4Y2FXT2hfZVY5X09tTWhTVk5LaUh2Tm43NllrLThwU2wzbmxpc2FoM2N2MndVUUdBV3l1dnlfVVE5LXloTkZya1JnOFZ3ZFlsUktlQi1sMnBtTHgzMHQ2aEVod3lIU2ZzVktCN2pHY0lOYVBNRkNTeWfSAcgBQVVfeXFMUDNIdEp2MFV1a3A5SzNrWm5vV2pDMGdIdS1Lc3Y3RGhfXzNUVUZXSFhUQVRJV2tRanEwVG9IOGlqTXEzLVplME1SNTdybUtON2E4d3JnNUtxRjBwbU1TY0FNZGdHT0t4UnR0ZmRmRUl6Y3JWbV9FWDY0TmdZWjRZOW1qQXBVd1NvZ3FjYTJCWTFJMGROaGlLY1owVEloaXJaZHpvU2FHVUFMb2wzNE5QZm9QdHJCbUhuQUdoRWVCZklyREJ3d0NaYnQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-10-26T07:00:00+00:00",
   "tickers": [],
@@ -7421,32 +7465,6 @@
   "corroboration": 0,
   "response": null,
   "score": 44,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "893fa13d0e5d",
-  "title": "BEI Siapkan Jurus Baru Awasi Saham, Investigasi Manipulasi Harga Bakal Lebih Tegas",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1l6UU1LN05VdnV1anBZMVo5RlVRQXpVTE5HTGNpRzk3YVJNQzdnaFdIVC0xdHRZamRYTml6VDBhc3hTOWlhZDVYaDJLWUpsWlM5UG1zNWd5U1hmOWtSMWhoZVZlcUUwS2g2bjNDd0xlNUIyLW0yZnppZ0IzYlVaaEZtU19iWjU2Y0FSWjExWndtTlRDVjFvYUswb3B1aHB4X3BHNFhMQ3VyTXYxTk50Tnpmd1Q0bDUzNkE?oc=5",
-  "media": "Pasardana",
-  "published": "2026-10-26T07:00:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "BEI Siapkan Jurus Baru Awasi Saham, Investigasi Manipulasi Harga Bakal Lebih Tegas.  BEI Siapkan Jurus Baru Awasi Saham, Investigasi Manipulasi Harga Bakal Lebih Tegas &nbsp;&nbsp; Pasardana",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -7730,6 +7748,32 @@
   "schedule": false,
   "party": false,
   "snippet": "BEI Siapkan Jurus Baru, Saham Diduga Dimanipulasi Langsung Diusut.  BEI Siapkan Jurus Baru, Saham Diduga Dimanipulasi Langsung Diusut &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "893fa13d0e5d",
+  "title": "BEI Siapkan Jurus Baru Awasi Saham, Investigasi Manipulasi Harga Bakal Lebih Tegas",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1l6UU1LN05VdnV1anBZMVo5RlVRQXpVTE5HTGNpRzk3YVJNQzdnaFdIVC0xdHRZamRYTml6VDBhc3hTOWlhZDVYaDJLWUpsWlM5UG1zNWd5U1hmOWtSMWhoZVZlcUUwS2g2bjNDd0xlNUIyLW0yZnppZ0IzYlVaaEZtU19iWjU2Y0FSWjExWndtTlRDVjFvYUswb3B1aHB4X3BHNFhMQ3VyTXYxTk50Tnpmd1Q0bDUzNkE?oc=5",
+  "media": "Pasardana",
+  "published": "2026-10-26T03:43:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Siapkan Jurus Baru Awasi Saham, Investigasi Manipulasi Harga Bakal Lebih Tegas.  BEI Siapkan Jurus Baru Awasi Saham, Investigasi Manipulasi Harga Bakal Lebih Tegas &nbsp;&nbsp; Pasardana",
   "corroboration": 0,
   "response": null,
   "score": 41,
