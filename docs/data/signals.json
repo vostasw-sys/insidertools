@@ -388,6 +388,34 @@
   "anomali": null
  },
  {
+  "id": "f82f21c31da7",
+  "title": "Berita dengan Tags \"Rights Issue ULTJ 2027\"",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JblpHamtNallQZXNLX2s1ekthLUpsTDUyaUtIcnJ2ZEwzQmtPbnpQWHhYRDNFbklUdmZZTVJfbXJ1MGI2bEQxRUdtQmRwSDNLTHd0ai1ialBNQl9QZFE?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-04T11:06:26+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-04T21:16:54.253314+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Berita dengan Tags \"Rights Issue ULTJ 2027\".  Berita dengan Tags \"Rights Issue ULTJ 2027\" &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "cbc172fddcdd",
   "title": "Pertamina Akuisisi Hak Partisipasi Moeve di Cekungan Berkine Aljazair",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTU9FelNJZlMwYjlDLUpZcXI3czRVTUVMMXBjU21mZkFOazNyT2dWQi04RkZpY1dsWDhBZW5pb0ZiWGg4Q0JpVVB0NDgwcUVGd1ROamhLQUVkS0Q3anpVNFVzdU5DLXhYQmdrTElxbHhOSk1NVUlWZy0zUU1YMWo3SGtUNUV1YnhuWVFTXzlBa05IQzZibDllZFo1NlNxSGVhYm9QNjJRSnBsVlVYY0s4dHAyUVZscXZpUlFETDJLbVZzaFV6RTg00gHMAUFVX3lxTE9xd3lUdV9sWG1uZUNwVFV6bEFrUWJ6V0ZVaU1qLW5WeXJfSmx2MHdQRWMtUDRnM2xPN1RVM1pQdEJXM1hJUTF1M0RmLTk1OFJrTEhEYk5oRDZjTEliOWxrcF9aSGt0ZFNzUkd1RHQ3emtIdVJ4TFRZbkp3VXZmakxBbkdzSDVtb18zVWducVFCLU5VTE5lRS0wUmprc2drX29WS3JWc3djdTdHT3lzVlktemg1QXJoUE81cHR2LWJOMFJrVzQ5bTE0enRhNQ?oc=5",
@@ -1771,6 +1799,34 @@
   "corroboration": 0,
   "response": null,
   "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "3fda34ebd72e",
+  "title": "Divestasi 73,65 Juta Saham FOLK, Kepemilikan Sumber Garam Pratama Anjlok ke 18,36%",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYllrdkE2cXlGanpLdWNyejJJZWF5dkc3czZCdFE0WFhuNE4ybThQVVhKVkxfQUd2b1c2d2g1VGFyUElFRnVjQjljM256dVVtUjZIYzdLbDZReTZVY0lzSEhaaVhmN0hYUWxZb1U3MDJTeHVEdHJ4MVVGelJsM1kwWUVDdTAwTnd4ajlFU2NJQzg5ZHFPcWlLbEl4azdPXzhmVWd6Wk53cXZNOEFURHZZLTVVWHRESzg?oc=5",
+  "media": "Pasardana",
+  "published": "2026-11-03T07:34:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-04T21:16:54.253314+00:00",
+  "anon": [],
+  "corp": [
+   "divestasi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Divestasi 73,65 Juta Saham FOLK, Kepemilikan Sumber Garam Pratama Anjlok ke 18,36%.  Divestasi 73,65 Juta Saham FOLK, Kepemilikan Sumber Garam Pratama Anjlok ke 18,36% &nbsp;&nbsp; Pasardana",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -5844,11 +5900,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.09,
-   "abn5": 3.55,
-   "last": "2026-11-03"
-  }
+  "anomali": null
  },
  {
   "id": "420cee871686",
@@ -6318,11 +6370,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.09,
-   "abn5": 3.55,
-   "last": "2026-11-03"
-  }
+  "anomali": null
  },
  {
   "id": "6f1f0e69e262",
@@ -6730,11 +6778,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.09,
-   "abn5": 3.55,
-   "last": "2026-11-03"
-  }
+  "anomali": null
  },
  {
   "id": "5eead6220824",
@@ -6764,11 +6808,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.09,
-   "abn5": 3.55,
-   "last": "2026-11-03"
-  }
+  "anomali": null
  },
  {
   "id": "692aa1cf9800",
@@ -7209,7 +7249,7 @@
   "title": "BEI Ubah Mekanisme Pengawasan Manipulasi Harga Saham",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYVlfQjUxTUgzSktiQ196UFNhSUVOQnhYTG1JVVlHWW9PRVFQUFZXQWtUMWh2Y215N21ZTG1OVFJHbUJWYklxOXBCOFp1bGdUVUlyallNWnNMMWh2U2hkU3d3QWpVVTM2MVF3T21MRGIxZTFHdmhUdXdJamZXNUJZNThUdw?oc=5",
   "media": "Infobanknews",
-  "published": "2026-10-26T07:12:00+00:00",
+  "published": "2026-10-26T07:00:00+00:00",
   "tickers": [],
   "uma": true,
   "jenis": [],
@@ -7381,6 +7421,32 @@
   "corroboration": 0,
   "response": null,
   "score": 44,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "893fa13d0e5d",
+  "title": "BEI Siapkan Jurus Baru Awasi Saham, Investigasi Manipulasi Harga Bakal Lebih Tegas",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1l6UU1LN05VdnV1anBZMVo5RlVRQXpVTE5HTGNpRzk3YVJNQzdnaFdIVC0xdHRZamRYTml6VDBhc3hTOWlhZDVYaDJLWUpsWlM5UG1zNWd5U1hmOWtSMWhoZVZlcUUwS2g2bjNDd0xlNUIyLW0yZnppZ0IzYlVaaEZtU19iWjU2Y0FSWjExWndtTlRDVjFvYUswb3B1aHB4X3BHNFhMQ3VyTXYxTk50Tnpmd1Q0bDUzNkE?oc=5",
+  "media": "Pasardana",
+  "published": "2026-10-26T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Siapkan Jurus Baru Awasi Saham, Investigasi Manipulasi Harga Bakal Lebih Tegas.  BEI Siapkan Jurus Baru Awasi Saham, Investigasi Manipulasi Harga Bakal Lebih Tegas &nbsp;&nbsp; Pasardana",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -7664,32 +7730,6 @@
   "schedule": false,
   "party": false,
   "snippet": "BEI Siapkan Jurus Baru, Saham Diduga Dimanipulasi Langsung Diusut.  BEI Siapkan Jurus Baru, Saham Diduga Dimanipulasi Langsung Diusut &nbsp;&nbsp; investor.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "893fa13d0e5d",
-  "title": "BEI Siapkan Jurus Baru Awasi Saham, Investigasi Manipulasi Harga Bakal Lebih Tegas",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1l6UU1LN05VdnV1anBZMVo5RlVRQXpVTE5HTGNpRzk3YVJNQzdnaFdIVC0xdHRZamRYTml6VDBhc3hTOWlhZDVYaDJLWUpsWlM5UG1zNWd5U1hmOWtSMWhoZVZlcUUwS2g2bjNDd0xlNUIyLW0yZnppZ0IzYlVaaEZtU19iWjU2Y0FSWjExWndtTlRDVjFvYUswb3B1aHB4X3BHNFhMQ3VyTXYxTk50Tnpmd1Q0bDUzNkE?oc=5",
-  "media": "Pasardana",
-  "published": "2026-10-26T03:43:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "BEI Siapkan Jurus Baru Awasi Saham, Investigasi Manipulasi Harga Bakal Lebih Tegas.  BEI Siapkan Jurus Baru Awasi Saham, Investigasi Manipulasi Harga Bakal Lebih Tegas &nbsp;&nbsp; Pasardana",
   "corroboration": 0,
   "response": null,
   "score": 41,
