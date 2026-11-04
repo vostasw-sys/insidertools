@@ -1,4 +1,4 @@
-name: Pindai
+name: Pindaii
 on:
   schedule: [{cron: "*/30 * * * *"}]
   workflow_dispatch:
