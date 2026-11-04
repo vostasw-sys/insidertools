@@ -1,5 +1,65 @@
 [
  {
+  "id": "39a859ecb0be",
+  "title": "Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun - Bisnis.com",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1hDRXhPSHc2a1hBYVR5UGhBZ0l4M0FUUGFkbVVnd3RHQmFHN2R4bUdoR2pkSlZienlUMFRSMzNxR1k0R2dYcHZnWHYtTy1yR0xwb1JNV2ZuNWpvQlk1OUpKeTNoQUlDQXJfZTdDMUhPZC1rUmJNb1JOOWNMcXdxS0RlWnZxYWFGS1VzcGZ5M3dVOXNpRG1zUGhwUzg3NllpbEY1dzVDcGEweVk?oc=5",
+  "media": "Bisnis.com - Market",
+  "published": "2026-11-04T12:30:52+00:00",
+  "tickers": [
+   "ITMG"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 2310.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun - Bisnis.com.  Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun &nbsp;&nbsp; Bisnis.com - Market",
+  "corroboration": 1,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.2,
+   "abn5": 2.56,
+   "last": "2026-11-04"
+  }
+ },
+ {
+  "id": "15fb04869d04",
+  "title": "MSCI Bisa Reklasifikasi RI — Pasar Modal Dituntut Transparan",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1Z6SXJVam55YUcxS3ZNR1dTb3RHbDNObVAtZWJNelNyaGZBbEo3c2UwaUg3SGphMWktaXJ5YmlZaTIxRnEtM2JzT1k3YWJMbmpva0RaZ3RMeFdGdWxmSVo3aS1pdzExRWc2aUt6UVlzU3ZUWklrY2phSDY1c3JRbjAyWkZaSHlqM1V6SDdwaWJBQQ?oc=5",
+  "media": "feedberry.com",
+  "published": "2026-11-04T12:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "MSCI Bisa Reklasifikasi RI — Pasar Modal Dituntut Transparan.  MSCI Bisa Reklasifikasi RI — Pasar Modal Dituntut Transparan &nbsp;&nbsp; feedberry.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "cbc172fddcdd",
   "title": "Pertamina Akuisisi Hak Partisipasi Moeve di Cekungan Berkine Aljazair",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTU9FelNJZlMwYjlDLUpZcXI3czRVTUVMMXBjU21mZkFOazNyT2dWQi04RkZpY1dsWDhBZW5pb0ZiWGg4Q0JpVVB0NDgwcUVGd1ROamhLQUVkS0Q3anpVNFVzdU5DLXhYQmdrTElxbHhOSk1NVUlWZy0zUU1YMWo3SGtUNUV1YnhuWVFTXzlBa05IQzZibDllZFo1NlNxSGVhYm9QNjJRSnBsVlVYY0s4dHAyUVZscXZpUlFETDJLbVZzaFV6RTg00gHMAUFVX3lxTE9xd3lUdV9sWG1uZUNwVFV6bEFrUWJ6V0ZVaU1qLW5WeXJfSmx2MHdQRWMtUDRnM2xPN1RVM1pQdEJXM1hJUTF1M0RmLTk1OFJrTEhEYk5oRDZjTEliOWxrcF9aSGt0ZFNzUkd1RHQ3emtIdVJ4TFRZbkp3VXZmakxBbkdzSDVtb18zVWducVFCLU5VTE5lRS0wUmprc2drX29WS3JWc3djdTdHT3lzVlktemg1QXJoUE81cHR2LWJOMFJrVzQ5bTE0enRhNQ?oc=5",
@@ -28,9 +88,37 @@
   "anomali": null
  },
  {
+  "id": "c5d9a51837ea",
+  "title": "Kertas Indonesia - Dirut Gencar Divestasi, Harga Saham Perusahaan Kertas Ini Malah Melambung",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVeTlFOUdtN0NKaTkyMWRnYllVdEZ3YWxIaG00NHdDZVIwTmZwa1NvUDl0Zm1rR3F1ODk2SHkwMDhiRGstSno4bEZZV3FXalh1Wlkw?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-04T10:17:57+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [
+   "divestasi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Kertas Indonesia - Dirut Gencar Divestasi, Harga Saham Perusahaan Kertas Ini Malah Melambung.  Kertas Indonesia - Dirut Gencar Divestasi, Harga Saham Perusahaan Kertas Ini Malah Melambung &nbsp;&nbsp; KONTAN",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "2545ab2bbd60",
   "title": "Kejar Target Free Float Saham 12,5% di 2027, PGEO Tak Mau Buyback",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeE01MlZCN1d4SGdJR0l5VlAzb1E1dDVtQUMxRk0xajRRMFpJOGNCekw0WGpPUzNHb1hzOXhWVTFaTWJtbjJVMjYwam5DQ0pDRGlLOTdvSEZGX19aZlJQUGNZaWJLalhLY3ZrUmYyTmJ5WTVXVmJrSUxoNDJ6OS1PYjVLblFWZmJtdGZXZTdtSVotVG9QaTRNekc4cDkzYkZMekRQY0JldFZQc1NkSUhYVEwwTUFUbU5VQUIybFJUVm5CZ9IBxwFBVV95cUxQOXI2UFFfZnBGRXpDckNOZ05BeWUydTNGbTN2dFNrQ2FuZVdFSkZPcVJjV3ZjLUdTSUxHVTJfTHBqZGdwQ2U4N2FqejZtMGdwN01vaE1JVk9GNUpaU0RtTWdMUWRzcWYxZ3Z2T056bk9iWXg1dnhIRTZTUXpTYnh5TTlmWmZTMFcxQUJ6ZHpmMGNCMTMwdWxTcjA5cVhNcDJMWnFkcC15NGxwZnNWdm9EbnlxbGdrOFhrZXB3cklUTmJpY3FSN19F?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXI2UFFfZnBGRXpDckNOZ05BeWUydTNGbTN2dFNrQ2FuZVdFSkZPcVJjV3ZjLUdTSUxHVTJfTHBqZGdwQ2U4N2FqejZtMGdwN01vaE1JVk9GNUpaU0RtTWdMUWRzcWYxZ3Z2T056bk9iWXg1dnhIRTZTUXpTYnh5TTlmWmZTMFcxQUJ6ZHpmMGNCMTMwdWxTcjA5cVhNcDJMWnFkcC15NGxwZnNWdm9EbnlxbGdrOFhrZXB3cklUTmJpY3FSN19F0gHHAUFVX3lxTFA5cjZQUV9mcEZFekNyQ05nTkF5ZTJ1M0ZtM3Z0U2tDYW5lV0VKRk9xUmNXdmMtR1NJTEdVMl9McGpkZ3BDZTg3YWp6Nm0wZ3A3TW9oTUlWT0Y1SlpTRG1NZ0xRZHNxZjFndnZPTnpuT2JZeDV2eEhFNlNRelNieHlNOWZaZlMwVzFBQnpkemYwY0IxMzB1bFNyMDlxWE1wMkxacWRwLXk0bHBmc1Z2b0RueXFsZ2s4WGtlcHdySVROYmljcVI3X0U?oc=5",
   "media": "CNBC Indonesia",
   "published": "2026-11-04T10:07:33+00:00",
   "tickers": [],
@@ -666,7 +754,7 @@
  {
   "id": "ff7dc2719507",
   "title": "MBMA Private Placement 10,8 Miliar Saham, Potensi Dilusi 9,09 Persen",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2gxNmpyT3NhdGo0OHVBQkVac2FvWWQtdXFrRi1WSDJiVVZrcGJBMFV4aXEyUG5lblM3Mjh6R1VORHd3NnIwWlJyeEFiWTNPV21tSlppTUlOazFoalZJb0ozUWtnVTdkVllEQ1haN0IyUUhiN0duMXozLU5Val9VVWlGSlRYTmFNdU9SQ0hOUU5xQ1VTMjdhVFd4ek82bHNlbVJxT3BtUdIBrAFBVV95cUxNMnlsUWJSWUh5ejV5eTZkbTZoVGo5Qi1VVXRFNEJYVlk1cmpYczVsM3ZZX2hZM1RQS1FSd0hmbWlHYk9EQ2xtRV9TQ1VaQ2FVLUJ3RXpieUxLc1JvVzd5UngtdzZPMUhMMHJOQms1a21hSDFkOXhZeDBGcGdpLWJYdkRlU1pQUElyaHJfemxKSkwtYTJGbXVCYk5MM1JDeXFCYlp6aGVHeE8zYS1z?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnlsUWJSWUh5ejV5eTZkbTZoVGo5Qi1VVXRFNEJYVlk1cmpYczVsM3ZZX2hZM1RQS1FSd0hmbWlHYk9EQ2xtRV9TQ1VaQ2FVLUJ3RXpieUxLc1JvVzd5UngtdzZPMUhMMHJOQms1a21hSDFkOXhZeDBGcGdpLWJYdkRlU1pQUElyaHJfemxKSkwtYTJGbXVCYk5MM1JDeXFCYlp6aGVHeE8zYS1z0gGsAUFVX3lxTE0yeWxRYlJZSHl6NXl5NmRtNmhUajlCLVVVdEU0QlhWWTVyalhzNWwzdllfaFkzVFBLUVJ3SGZtaUdiT0RDbG1FX1NDVVpDYVUtQndFemJ5TEtzUm9XN3lSeC13Nk8xSEwwck5CazVrbWFIMWQ5eFl4MEZwZ2ktYlh2RGVTWlBQSXJocl96bEpKTC1hMkZtdUJiTkwzUkN5cUJiWnpoZUd4TzNhLXM?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-04T01:20:00+00:00",
   "tickers": [],
@@ -1057,7 +1145,7 @@
  {
   "id": "66d76da9a508",
   "title": "Sawis Sumbermas (SSMS) Tebar Dividen Interim, Potensi Yield 5,52%",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVhNcThYRjB4MU1lbGUwVjJGLXJ0R2tBUVRKU1JleXNMS2tWU2tSWkFoTHlQNER0NUY2cTN6N1NVQnZHdTY5ZXA5Uy1EOWJ6aUlhZmxkbHBpTVZGN29YRmFEOEM5cW1pSWRDazNBYnZxeUNSQlBTY0FQZWctV0ItTUVDSG9zZkJWME5KRS1MOVViUzF6MTZlWExUN3dKWERuZzBld3hKeVJiMW9LVlIzVFF0NlNBRDhlcFE?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGVQalQ3aUZJeDV6Q3ZjMVdsUDlpUE5pS04tTDVxZnI4bE5qT05nYzBRb2xEVW9wRHdnQTNILUhSWUp6THBHdFFTSk9NTjBoMzZscVJ6eGR3V1dKaWthVGp3YXZuOUdyX0tTUlJqal95RjAxdC1BUUlKNXBqWnl5Tk1RaVJVc0pFd2pDanBqZUdScWhOaVNZTzRmVE4?oc=5",
   "media": "kontan.co.id",
   "published": "2026-11-03T11:05:51+00:00",
   "tickers": [
@@ -1309,7 +1397,7 @@
  {
   "id": "e222d9fa0252",
   "title": "Demokrat Buka Suara Soal AHY Mengincar Kursi Wapres, Singgung Jalur Ini",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFBEcmhnRjA0eWxBT1BqUlpscXNnWmFBeE43NUJUa2N6bW1icVUzZUV1THhOeXJYcDA2ZzBXVnRQWUdRNE85ZWlnOW83SjVFZEZMRE1GMUNlYXg5UkcxMHdvV0pmNW9UZElaRDFwNy1WUWhyRXRQdE5Vb2xEN0tPeFhVbWNhQUtPLWpqSWFzbXFMU2ZCeUlNeFdNWkhhMVBfWVlFQTlCQnUzTnM4NDRxNHlB0gGyAUFVX3lxTE4wUERyaGdGMDR5bEFPUGpSWmxxc2daYUF4Tjc1QlRrY3ptbWJxVTNlRXVMeE55clhwMDZnMFdWdFBZR1E0TzllaWc5bzdKNUVkRkxETUYxQ2VheDlSRzEwd29XSmY1b1RkSVpEMXA3LVZRaHJFdFB0TlVvbEQ3S094WFVtY2FBS08tampJYXNtcUxTZkJ5SU14V01aSGExUF9ZWUVBOUJCdTNOczg0NHE0eUE?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR09GOU42Tk16cmU1MFYyWEhOUVRiRm5vTUI2S3dqXzVzcjFIYUo5Zk5wLXNKZmwxOWx1THFnR05TbUd6SlpReDF1UnRLN0Vzb0I5NWdLMWVVZzRoNzBBc2ctYVZ1VmZsVXpnTDJwRXFRa0FYcGZGNHBJWUpuUkc5RnU4a281b0tkSHctRmttd1o4ZE45VEJGbzdFblA1Sk9kbWtrM1M4enhzZmpB0gGyAUFVX3lxTE4wUERyaGdGMDR5bEFPUGpSWmxxc2daYUF4Tjc1QlRrY3ptbWJxVTNlRXVMeE55clhwMDZnMFdWdFBZR1E0TzllaWc5bzdKNUVkRkxETUYxQ2VheDlSRzEwd29XSmY1b1RkSVpEMXA3LVZRaHJFdFB0TlVvbEQ3S094WFVtY2FBS08tampJYXNtcUxTZkJ5SU14V01aSGExUF9ZWUVBOUJCdTNOczg0NHE0eUE?oc=5",
   "media": "Warta Ekonomi",
   "published": "2026-11-03T06:21:00+00:00",
   "tickers": [],
@@ -2815,6 +2903,30 @@
   "anomali": null
  },
  {
+  "id": "4e48b6177142",
+  "title": "Perdagangan Pagi IHSG Memerah, 444 Saham Tercatat Melemah",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTh1ZVBTYnQwXzVkcnlBRm01NGhLTTRscGhtUlFfbXJuc0NkeGhMaFBlTFNaZXZONUhWN2dsSjRnUmVIb3BCNjFxeUUxaGlzNjV6bEkyUUpzcDY2eGRRSmFCdThVTkFGOWNQcW5QdmQyU2dQR3V1S1M3ZG5tZXF4LU1lbTBvU0XSAYcBQVVfeXFMTmU4dWVQU2J0MF81ZHJ5QUZtNTRoS000bHBobVJRX21ybnNDZHhoTGhQZUxTWmV2TjVIVjdnbEo0Z1JlSG9wQjYxcXlFMWhpczY1emxJMlFKc3A2NnhkUUphQnU4VU5BRjljUHFuUHZkMlNnUEd1dUtTN2RubWVxeC1NZW0wb1NF?oc=5",
+  "media": "MerahPutih",
+  "published": "2026-11-02T03:18:26+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Perdagangan Pagi IHSG Memerah, 444 Saham Tercatat Melemah.  Perdagangan Pagi IHSG Memerah, 444 Saham Tercatat Melemah &nbsp;&nbsp; MerahPutih",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "a0982a6cbef6",
   "title": "Emiten Kongsi Edwin-Boy Thohir MBMA Incar Dana Rp 3,2 T dari Private Placement",
   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMXl6OU5HNzJST0xCZkQ1UE1YMndZLTdKNG9Ybm1VNkRQbFhDTHg0a2J3Z3JYT2x5NDdGaE5QVWR6c2NPS3FoNXV3UE9yOWZCelFnZUx0QlpNbmxFMTluSnVOQnROQ2toZkRMbWNmRmNZRWc0YkFIenc5dlBmTDRDdTUtY2JSd2R1d05JTTdUZTdGcTRCTE01UnJwVWRrUVc4Mnhkb3VMWDZnTVBJV2M4cGlsa042LTBhUktoVXg1MjJMeEZ6ZVRyRVhPRdIB0AFBVV95cUxQV2drQkVhZ2ZaVmt4ay0tcXJGc3E2aDVpaWpHX2t4UTlYVXdaaXNFZ1lKNXlJc1pLd0FsWW1OS0Y3R1YyNkxpUzB6QU5zemNmUEFoT3VzWHVkXy1kczdQYTBqOEZyLVZVVi1zWjlqcjRsU0pWVzlHN2NDU09ySXFhODJtWEhILUlFaW54UEtMNWVLbEh6N3o3MEJqaVlJRHU5RkZkRTVjM2s1NlNBbnQweWhGeHZKMWhJY21kc2FaUG42RHdmanV1dzd3M05TTHBk?oc=5",
@@ -2921,6 +3033,32 @@
   "corroboration": 0,
   "response": null,
   "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "90a4a2e0795b",
+  "title": "Bos BEI: Pihak Terduga Manipulasi Saham Akan Diumumkan ke Publik",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3BXU1hlMzhuT3VZMDBXVndnbXBIZTcxSVlvWXJnTjExMjNudlVXRXVIamdPOGRRYUpaQkM0a0JYa0NlTzNJeUh4OU1NWTluMXRRZ0xTN3pFR2RLblpZd0ZOcnVBNHJZNG92UTc4NV9hcjd5Nm5lMC1pa050RVY3LVVJeGdvQzJkV2JEVGM0ZFZLbzZ6VkhCR3JLbUN0SEhGV3huYXgwWW5pSDFWN3ItUkxfWdIBuAFBVV95cUxOWk92a2tpLWZVbGpIcDdERzA4STV4ZU1ISV9mb3pCdmpmR0VZeG5KQXhESXVHZ3NrZ0ZuVGFmSG9MTV9oblU1NXRRN0U2eXgwR00tMkkzZDFVMWdDNlRvOWVOazJtS0RrN2hzRS1Kbm5VbEtYT21YTjJLUC1PR20tcHRVNG1MQm1faURZamJiSl95UkY5dzBYV0tEcnJiNzFVSTlsemc0QVVfNllUSWUzamh1NXdKUE1p?oc=5",
+  "media": "FORTUNE Indonesia",
+  "published": "2026-11-02T00:50:30+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Bos BEI: Pihak Terduga Manipulasi Saham Akan Diumumkan ke Publik.  Bos BEI: Pihak Terduga Manipulasi Saham Akan Diumumkan ke Publik &nbsp;&nbsp; FORTUNE Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -3555,6 +3693,34 @@
   "schedule": false,
   "party": false,
   "snippet": "PBSA Siapkan Dana Buyback Rp100 Miliar Usai Koreksi Tajam.  PBSA Siapkan Dana Buyback Rp100 Miliar Usai Koreksi Tajam &nbsp;&nbsp; https://cetro.or.id/",
+  "corroboration": 0,
+  "response": null,
+  "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "61bad737110a",
+  "title": "PBSA Siapkan Dana Buyback Rp100 Miliar Usai Koreksi Tajam",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNUZrV09TaEM1Z05xRXhGQ0tNbmxhX0pTWWtHWjBfTUNoSmh5Ul9kMVZKTDRZLVFEcHFUelc3T1RZLXBua1o0WVhpRTNXbzE4d0JFblZYd2lkMjlWY3ZuMXloekRKYXZwVVNHT2FlZkhFYUhHS3RSLUE1VlJEdHlnNkVpTTRWbnhOd2VfZE1tQ0VxN21Ea0lFVGRtVFRVZw?oc=5",
+  "media": "cetro.or.id",
+  "published": "2026-10-31T03:57:21+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 100.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "PBSA Siapkan Dana Buyback Rp100 Miliar Usai Koreksi Tajam.  PBSA Siapkan Dana Buyback Rp100 Miliar Usai Koreksi Tajam &nbsp;&nbsp; cetro.or.id",
   "corroboration": 0,
   "response": null,
   "score": 12,
@@ -4635,6 +4801,32 @@
   "anomali": null
  },
  {
+  "id": "eae50619ba8d",
+  "title": "Harga minyak sedikit turun di tengah ekspektasi perundingan perdamaian antara AS dan Iran.",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEhKZ0E4ZWdYSWVOX2h3bngxcjlBTFZraWtPa0JGUGl6MWRaeVNwMG1tYmVfeTVvVXlReVpzbzkzRXI5ZDdWM1pMZUFRTUtQUHR6YVEwNnBIWlVlZlJUejh0QU1QY21MYWFFVzV2R1FuYU80VGpiaHA3ZWhKMEUyVlYwaEhDNFdEbkFaa3NZRWJ1ODNCcy1vUw?oc=5",
+  "media": "Vietnam.vn",
+  "published": "2026-10-30T02:32:04+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Harga minyak sedikit turun di tengah ekspektasi perundingan perdamaian antara AS dan Iran..  Harga minyak sedikit turun di tengah ekspektasi perundingan perdamaian antara AS dan Iran. &nbsp;&nbsp; Vietnam.vn",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "3fb5180db8dc",
   "title": "BBCA Makin Murah, Rumor Akuisisi Makin Ramai: Ada Haji Isam hingga DBS",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRHo5U3BITWRtNXNlVWtjT2lfYy16VXNFSXNCelo2M3QyWDlZOHlWSWhabm1KVVVHZEU4R2hLYmxVTlhua1VMaFc1ZDdyNnl4YUczY3pNajJlS1Q4SGxESXZFSnVrLXZnUE15dVUxV2tHejNibU50b3Q2eWdWVXlMRFhhanlEUEoxZG5iNDZSMUt4Q0dXaGR4WjFqcE9ORTBEamswMFV1MklGelHSAbABQVVfeXFMTzNZcFVjT0swR0F2S2txb2Q1V2ZmeEhUeGlVV0FqSExqYThuQ0FlZ2xxYnE0RElpVXRrVW1WcmRNek44Zzg1bUVMN005VHRadGpad21lRTF0WnhQZlBsSVhoaTRRb29tRHVwU19KZ2tJdGtwbWsxQk5VLVYtd1h0NkZPMHVmOHdhalF6NHhVSERNODVPRW5lczFBM2RpTDd4dTJXMGc1bG5uUTB5OUFGNmo?oc=5",
@@ -4819,6 +5011,32 @@
   "corroboration": 0,
   "response": null,
   "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "22e5fa6168fb",
+  "title": "BEI Perketat Pengawasan Saham, DPR Minta Investor Dilindungi",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDZPMEhtWW5vclRRYjMxcDJaUEd2MTdjS0FVYU1VaGpGazNma2lURnREN2hUVm1RN2JuUlJUSDNtMUVTbVVaVGd3Mm96RklWR2N4OE1OYTJfS2dCQUlwaHA5aUdiMFFEblI0U2h5VmZOVUlBZjd5bmlKczk5LWJ6eTFjUm1NamRCS2MtT1dJYmJxMnJWbXpwbjhzYVpVeUgtVXB1dVBGdF9OekF2MUVQbzZmN1MyNlc0S1VzUUtMWHNGdw?oc=5",
+  "media": "RM.ID",
+  "published": "2026-10-30T00:05:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Perketat Pengawasan Saham, DPR Minta Investor Dilindungi.  BEI Perketat Pengawasan Saham, DPR Minta Investor Dilindungi &nbsp;&nbsp; RM.ID",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -5168,11 +5386,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.09,
-   "abn5": 1.49,
-   "last": "2026-11-04"
-  }
+  "anomali": null
  },
  {
   "id": "420cee871686",
@@ -5642,11 +5856,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.09,
-   "abn5": 1.49,
-   "last": "2026-11-04"
-  }
+  "anomali": null
  },
  {
   "id": "6f1f0e69e262",
@@ -6054,11 +6264,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.09,
-   "abn5": 1.49,
-   "last": "2026-11-04"
-  }
+  "anomali": null
  },
  {
   "id": "5eead6220824",
@@ -6088,11 +6294,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.09,
-   "abn5": 1.49,
-   "last": "2026-11-04"
-  }
+  "anomali": null
  },
  {
   "id": "692aa1cf9800",
@@ -6397,6 +6599,30 @@
   "anomali": null
  },
  {
+  "id": "f554b1766255",
+  "title": "CIMB Niaga Buka Suara soal Gejolak Saham BNGA, Ini Penjelasannya",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2t3cEJRb1ZTVEJSWGZNQTNaQ2gtdkxVM1FGNDhoa1dNV2VPeTRVaXlMY3VIWG5oUmRFc0J1cTRXT2hhVmRRdUNsYk1QWU9lS2J1dmx1eEtKaDd3NWhFTEdQRzhUeGlBd1JMUzVUcnBiX0wwRFJQN2U4XzRNNUtUM05haWlobWJxSEp0M0pTSQ?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-10-26T11:28:52+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "CIMB Niaga Buka Suara soal Gejolak Saham BNGA, Ini Penjelasannya.  CIMB Niaga Buka Suara soal Gejolak Saham BNGA, Ini Penjelasannya &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "ad3726a8e86a",
   "title": "BEI Bisa Bekukan Rekening Saham, Ubah Aturan UMA dan Suspensi, Ini Dampaknya bagi Investor",
   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORUZmb2l1WUs5aHNHdEVPMHU5VWN2NDFiaWpzM1g1RDFxNG9Xb0FwOGJiNC1vdEREV3VoLVE2NVM2b3FBbGJXV3ZCRUtLMWRQekx3d0ZGa3RRWEMyR2l1eEs2QUJCRUwwLUtXWG1sRjBVZDZvMHBMaWozNm84OVJ0UXRyQkx0MTdwUGdsWGF5eTJVOFdaTWdGVGhHU0ZYXzNTZl9JeTdOMklFeHpZWkFJQzBUc1lEOXREbDYwZmNWLW5ZMTR2ejJQWUNVbUFIaTVEM0pvX3c5Y2hjZGtSXzBUUjhCX0LSAd4BQVVfeXFMTklKdGVHakZkYkRETjNPa2V4eUZLMUZVWVl1T0RBVWozUGxUX2Zxc2hQd0g4NUZKV1Y4S185NzRLUHFZTDE5VlhpanNVeUlUZkF2eEkzaHk1Q1dnNWh2bmFZU0ZzN3dGMGIxVzVOZUFHQ2tIdFp1Tm5ZX29jQl94QWNqWWtaRENVOW1nSnZPSGRrbW1OREJuZ21DdHpOeHJBcUh5azRWMlQweWlKRGwyOFFjMkRlc2d5Mkk4N1JNWUZlR3BiTDMxQmowMW1ia3JtVEt5eVZFQjVMNUN3Y0ZR?oc=5",
@@ -6416,32 +6642,6 @@
   "schedule": false,
   "party": false,
   "snippet": "BEI Bisa Bekukan Rekening Saham, Ubah Aturan UMA dan Suspensi, Ini Dampaknya bagi Investor.  BEI Bisa Bekukan Rekening Saham, Ubah Aturan UMA dan Suspensi, Ini Dampaknya bagi Investor &nbsp;&nbsp; Pikiran-Rakyat.com",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "aa4754505d3a",
-  "title": "BEI Bikin Bandar Ketar-ketir, Pengawasan Manipulasi Saham Makin Ganas!",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2JnQnQ1bVBObUxHOUxGTm5xYS1BRXFRaUFReE9oaG83SExwa3Y1LW5fWWtjX05KNWRQbEQ1M3AwVTU3SzNBS3hWaXY1MmU4WlV2SEdRQXhKSEEwUXZPWGxZTUR6bXFuNFVoaW5DQVU1amQzcTlGTEdnOXFzaC03MHl0ampLNnJIMEFoLTB6eGLSAY8BQVVfeXFMTVNyM195ZGk2TjBwdUhzS1JNcm95elFCR2g4X1RaM2RKNFBqaVlkZTBMRS1NUVFyd3VJUkpmUmtrUm9meW1adDRseHVrSUdXdGg4bExoUWg4cWczV0ZLcHBOQnc2YjZMb185QUNvMml4TVVPUWxFZjZLdk9PN01tSzJBWGxrQ3l4U1VlTF92TGs?oc=5",
-  "media": "MerahPutih",
-  "published": "2026-10-26T10:15:04+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "BEI Bikin Bandar Ketar-ketir, Pengawasan Manipulasi Saham Makin Ganas!.  BEI Bikin Bandar Ketar-ketir, Pengawasan Manipulasi Saham Makin Ganas! &nbsp;&nbsp; MerahPutih",
   "corroboration": 0,
   "response": null,
   "score": 41,
@@ -6494,6 +6694,32 @@
   "schedule": false,
   "party": false,
   "snippet": "BEI Perketat Pengawasan Saham Gorengan, Tak Cukup UMA dan Suspensi.  BEI Perketat Pengawasan Saham Gorengan, Tak Cukup UMA dan Suspensi &nbsp;&nbsp; Jawa Pos",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "aa4754505d3a",
+  "title": "BEI Bikin Bandar Ketar-ketir, Pengawasan Manipulasi Saham Makin Ganas!",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2JnQnQ1bVBObUxHOUxGTm5xYS1BRXFRaUFReE9oaG83SExwa3Y1LW5fWWtjX05KNWRQbEQ1M3AwVTU3SzNBS3hWaXY1MmU4WlV2SEdRQXhKSEEwUXZPWGxZTUR6bXFuNFVoaW5DQVU1amQzcTlGTEdnOXFzaC03MHl0ampLNnJIMEFoLTB6eGLSAY8BQVVfeXFMTVNyM195ZGk2TjBwdUhzS1JNcm95elFCR2g4X1RaM2RKNFBqaVlkZTBMRS1NUVFyd3VJUkpmUmtrUm9meW1adDRseHVrSUdXdGg4bExoUWg4cWczV0ZLcHBOQnc2YjZMb185QUNvMml4TVVPUWxFZjZLdk9PN01tSzJBWGxrQ3l4U1VlTF92TGs?oc=5",
+  "media": "MerahPutih",
+  "published": "2026-10-26T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Bikin Bandar Ketar-ketir, Pengawasan Manipulasi Saham Makin Ganas!.  BEI Bikin Bandar Ketar-ketir, Pengawasan Manipulasi Saham Makin Ganas! &nbsp;&nbsp; MerahPutih",
   "corroboration": 0,
   "response": null,
   "score": 41,
@@ -6655,6 +6881,58 @@
   "anomali": null
  },
  {
+  "id": "40c955a4901d",
+  "title": "BEI Rombak Pengawasan, Tak Lagi Suspensi Saham",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdUFhT0FXbFB1Q2VfN2ZSSHpXSWRReldNUzFJNWhPRU9qUldJbHBnU3lfZnhGZmxBTnkzYmo2eDA0MmVLWmx6ZkJFUGxDUVoxNkJNTW56UHpBNGdiTUtGeGlFTDBEM0xBOGczQXdMb1hLY2t2T09xUmdGZlMtMmpDRUtMbENLY0E5eXc?oc=5",
+  "media": "Tempo.co",
+  "published": "2026-10-26T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Rombak Pengawasan, Tak Lagi Suspensi Saham.  BEI Rombak Pengawasan, Tak Lagi Suspensi Saham &nbsp;&nbsp; Tempo.co",
+  "corroboration": 0,
+  "response": null,
+  "score": 46,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "b7dcfb25db9f",
+  "title": "BEI Langsung Tandai Saham yang Terindikasi Gorengan, Rekening Efek Bisa Diblokir",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQW5UMzZDLUpxQ2JvRW85cUM0T3ZoR0lpRVdvS1BfdUdBTTVLWENILTlRbEx0OUZ3ejlWRUh4X3FpRVFmUVhabDR2blN2bEtBTGRGc3F3WmxIeXRYS0pVU3FYek91QXpSQkQ5RDJWTzkydHVCY3pFRHpZSzNDUmduQmdER3RZMEViWEVqbDdzSFRTVUQ2eGFkamx0S0N5ODJac3c5MzZacE9RNHJScjEzd3RLUU55dnhWd3ZxcXFyRC1PZDE00gHEAUFVX3lxTE5odFFiT19zSEgxSUJqMk45ZnppR3hwZzl4by0wRWhQaThacEJqN3pETWdhd1Q0dEFIaEE2NUZ3UHVSblhweUNucC1YOWtCOEpUclY0XzIzS2RMTDlPVFB1Vm1IX21naUVHeThDYU11Uy1EQmJxdzNBSHFnaU5IRExVdFpsQXJGamxaUFlYMHRhcHl6STRvU0E4V25BRWhhQ1BoYXNUZVJqMnBGV1VlSVlSaEV5TGRfcFZvX3dzS2h4eV9MWWc?oc=5",
+  "media": "Suara.com",
+  "published": "2026-10-26T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Langsung Tandai Saham yang Terindikasi Gorengan, Rekening Efek Bisa Diblokir.  BEI Langsung Tandai Saham yang Terindikasi Gorengan, Rekening Efek Bisa Diblokir &nbsp;&nbsp; Suara.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "3c08580c636a",
   "title": "BEI Ubah Metode UMA, Investigasi Saham Bakal Dibuka ke Publik",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOanBFaVZzM2RCZHhhZkFJZmVPeER3cE1KMDMyQmxZeTg4N0Y2TUI5NTlTcThURFF0bnozbkJpNmVJMWh6OFk2VkYwTmF0SHhOMkRudkYtbEgtOVkzYkFGNDQwZ3M4cjNxS05fNnB6SWJXRi1rdXhiQi13Ri1DQ29JZng2TnkwRFlkNkU5Uk8xa3JzaHloRlQ2aGd6dXoyeEHSAaQBQVVfeXFMTWhXaVF0RE5vbVVaVXU2dDNmSXFQcTluQUNoNzdXcTlyeF9uaWFlS2FlaWpuSWFsbU5iaFNON3RrdWZ4UVhLUnFUSmFZalFTMGxoV1ZjR2o1Q1lnUUxVVndHbi1FbkFoeUNOU2FKejVndVFlWE9IVkhFcmV1eXV2QUZzZDgxOVBDRURjZGV4YkpHOXlIbmpZWVkwZUFiX2tsVV83RGk?oc=5",
@@ -6707,32 +6985,6 @@
   "anomali": null
  },
  {
-  "id": "40c955a4901d",
-  "title": "BEI Rombak Pengawasan, Tak Lagi Suspensi Saham",
-  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdUFhT0FXbFB1Q2VfN2ZSSHpXSWRReldNUzFJNWhPRU9qUldJbHBnU3lfZnhGZmxBTnkzYmo2eDA0MmVLWmx6ZkJFUGxDUVoxNkJNTW56UHpBNGdiTUtGeGlFTDBEM0xBOGczQXdMb1hLY2t2T09xUmdGZlMtMmpDRUtMbENLY0E5eXc?oc=5",
-  "media": "Tempo.co",
-  "published": "2026-10-26T05:29:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "BEI Rombak Pengawasan, Tak Lagi Suspensi Saham.  BEI Rombak Pengawasan, Tak Lagi Suspensi Saham &nbsp;&nbsp; Tempo.co",
-  "corroboration": 0,
-  "response": null,
-  "score": 46,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "6daa1b8f46ac",
   "title": "Tak Lagi Andalkan UMA, BEI Ubah Strategi Pengawasan Saham",
   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTFhaDRnamstcVJ5YkNwNDFUUVNSUGtsaFMwemxYejBGR2djcVR3VV9LRENtbExfQVBFX2NyMXRlMmdJTjBOZE1ubnRsV3FIT1Q1bS0wandDSzNIbUc5Q2VLSkZqVk8tWEtHSnpNR1V6QTBEQW1tRGhxVFU1aTRMWTR4U2F2bFFpajR0VFBaUUVaRkU0a0R4TDJBYjNxRWZNOWNZNVZOeVNzZE40MGhVYmpxNkhOU3BTdEHSAb8BQVVfeXFMTUFuOGQyZ2VUV1FXcFNkNWk4MWIwcTFvSDZiMHROUGFuazF4QkUyQnJNQTRTR2RPVU5DYTdNMUhKNWh2VTRON3lrTDhGOXQ2c3BmVFRkSzdNMm1Kb3NNY3JuaWdtZEYzYmlvSElvLUdNY0F3LWFyUXBPRm9qVVdlcUo5OUlMdjlWeHFwajJqeUoza1FSZkFWNzE1bk1Nc2dmWnR5clVlSjIwXzVBZkh1cVVGNzFWNndmT3E0clh5LXM?oc=5",
@@ -6755,6 +7007,32 @@
   "corroboration": 0,
   "response": null,
   "score": 48,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "6235eb5640aa",
+  "title": "BEI Pangkas UMA, Siap Umumkan Saham yang Diinvestigasi",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43UjlPcFhJUmRabENTSy1yTmVfcFdoNjRlTHNCNE5iVmRtWFk2ZF96TEFFYzFLbmV3RjItVnEwUXpVTURNd01WaUpXZHFaaDVybGVOb0JoSkZXMGw1Yjc1dEgyQmsyc3VPSzBlZUFCSC1KTGw2eWF0c3VRZ21lUQ?oc=5",
+  "media": "EGINDO",
+  "published": "2026-10-26T05:10:39+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Pangkas UMA, Siap Umumkan Saham yang Diinvestigasi.  BEI Pangkas UMA, Siap Umumkan Saham yang Diinvestigasi &nbsp;&nbsp; EGINDO",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -6856,6 +7134,32 @@
   "schedule": false,
   "party": false,
   "snippet": "BEI Bakal Bersikap Tegas Terkait Saham UMA dan Suspensi.  BEI Bakal Bersikap Tegas Terkait Saham UMA dan Suspensi &nbsp;&nbsp; SWA.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "158705bbe913",
+  "title": "BEI Siapkan Jurus Baru, Saham Diduga Dimanipulasi Langsung Diusut",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU3k5Sm1iblN0VnFiLXNDVDdwdGROYnAwa1BhN1N3UjZlWGVHREp5UHJRTkpwMDdfcTdzLXlYOVUyZncyVDIxYXhpaGRQWFVMWTZnQkVvQjZWV2xrWG1zc2JoOVJ0aXRrUTFZSUZJV09YMnJ0czduVEdmdVh0R0hFZE9ILXIwWk5wZjJQRHZCT3ZfWnpZRVVtck1UaW54NDA?oc=5",
+  "media": "investor.id",
+  "published": "2026-10-26T04:12:04+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Siapkan Jurus Baru, Saham Diduga Dimanipulasi Langsung Diusut.  BEI Siapkan Jurus Baru, Saham Diduga Dimanipulasi Langsung Diusut &nbsp;&nbsp; investor.id",
   "corroboration": 0,
   "response": null,
   "score": 41,
@@ -7123,6 +7427,58 @@
   "anomali": null
  },
  {
+  "id": "93232e6da1a1",
+  "title": "BEI Pantau Saham PNSE dan DKHH Usai Kenaikan Tidak Wajar",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YcHp0ZENXY0ZMNTh4NXhhbGktaG1qdGU5Tk9abnZLUURCTFJUTnpOYjNJaE5LMjhmeS1EcWVDYms3TzNjVF9pdDQ2aWpaTmRDQ0YtSWRqbGtsZw?oc=5",
+  "media": "ChatNews.id",
+  "published": "2026-10-23T03:50:18+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Pantau Saham PNSE dan DKHH Usai Kenaikan Tidak Wajar.  BEI Pantau Saham PNSE dan DKHH Usai Kenaikan Tidak Wajar &nbsp;&nbsp; ChatNews.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "3025061e6d61",
+  "title": "MAPA Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFlWWjBDVnBrd1RveWlqZGVOV1haR2FSR0s0a09CdExvdkQ3YjFpYlhxeTUxckRrTUQwZlFZSUEzRnY2MVJ1dzV5OW5OcEloTXJyNXhmcEFpYXFWQXJIZ1V6czRHTmthY21qZEhCR0VMeWpxZUFzNHJGdHU0SjJCdFROdUFGei1GcHFRcUU4dw?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-10-22T09:00:26+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "MAPA Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya.  MAPA Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "df59588063d0",
   "title": "Saham Emiten Hapsoro Masuk UMA",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYb1pPdFhaTzNjRHowQ0t2X0JlYnJRUHVLeGxad2ppV2JWM0RnSlpQczVLVUlTMGg4RUZ0SzFQZFhvT0dmN0g1UWZuQ1ZpZG5DYlBZa0VmaG9YdjRMVXdkdlU3QjBNTTFpMk1oRXdKbmE2Zw?oc=5",
@@ -7224,6 +7580,32 @@
   "schedule": false,
   "party": false,
   "snippet": "OJK dan BEI Hadapi Permintaan Penjelasan dari 336 Investor Asing.  OJK dan BEI Hadapi Permintaan Penjelasan dari 336 Investor Asing &nbsp;&nbsp; Suara Independent News",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "357bc70d067c",
+  "title": "BEI Pantau Saham RATU Milik Happy Hapsoro Usai Anjlok 40,8 Persen Sebulan, Investor Diminta Waspada",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEJBV3R6Q0dpQzhWSUJjczdDaUkzU2lhSWRhTzJhelhibzVJTzFhQzNpNDBoUXJ4VWo4UHJDUzdlQklRVjZlb3g3bUs2MWptV2xuY1hkQUxBbmFUY2xacWFydUVybE9jTTdSZTFjcFhadnpsU3NPRWszVnJ4VXBXNy1sRjA3dGROZjZ1Nk9YR3BaSldIMXd2ak5FVjBNRVFlT3lubXJLd0J4X3QtRVJObHNvN2tpZnJyZ2c?oc=5",
+  "media": "TOPIK.ID",
+  "published": "2026-10-22T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T12:48:29.325884+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Pantau Saham RATU Milik Happy Hapsoro Usai Anjlok 40,8 Persen Sebulan, Investor Diminta Waspada.  BEI Pantau Saham RATU Milik Happy Hapsoro Usai Anjlok 40,8 Persen Sebulan, Investor Diminta Waspada &nbsp;&nbsp; TOPIK.ID",
   "corroboration": 0,
   "response": null,
   "score": 41,
