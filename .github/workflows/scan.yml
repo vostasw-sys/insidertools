@@ -1,6 +1,6 @@
 name: Pindai
 on:
-  schedule: [{cron: "0 */3 * * *"}]
+  schedule: [{cron: "*/30 * * * *"}]
   workflow_dispatch:
 permissions:
   contents: write
