@@ -131,7 +131,37 @@
   "schedule": false,
   "party": false,
   "snippet": "GOTO buyback 450 juta lembar saham, akumulasi saham treasuri 6,40%.  GOTO buyback 450 juta lembar saham, akumulasi saham treasuri 6,40% &nbsp;&nbsp; IDNFinancials",
-  "corroboration": 3,
+  "corroboration": 4,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "5e5885b938bb",
+  "title": "GoTo Batalkan 32 Miliar Saham Treasuri dan Lanjutkan Buyback",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU3FjOC13VHJudUFNMGRnenozVmVEcy1LVDVKNV93Q3ZfQTliamh1TE1FVzlTMW1xN1R6Z3BWZFltRWExaVpCNDdNRjhDbkdtUWU2M0RwNzV2dHNDR0U4Si1MaC1fazZMSFZOZjNXRFdQUmd0MXkyNmJMWXpoX2V5R0FBdDQ1NjZEZlg2NkpBd1dUZFk?oc=5",
+  "media": "Cirebon Times",
+  "published": "2026-11-04T12:41:27+00:00",
+  "tickers": [
+   "GOTO"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-04T19:27:51.024633+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "GoTo Batalkan 32 Miliar Saham Treasuri dan Lanjutkan Buyback.  GoTo Batalkan 32 Miliar Saham Treasuri dan Lanjutkan Buyback &nbsp;&nbsp; Cirebon Times",
+  "corroboration": 4,
   "response": null,
   "score": 16,
   "outcome": null,
@@ -170,6 +200,58 @@
    "abn5": 7.07,
    "last": "2026-11-03"
   }
+ },
+ {
+  "id": "d8d3a4eecb2b",
+  "title": "Emiten Semen Catat Pertumbuhan Kinerja hingga September 2026",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sMVJDMkFZUjlncVdWTVJqN0ZuanJEbl8teGpEUFdTblRsZGF6WjV0TWRwbVdZbTJISzQ0VlJNdms2QVNWa2NvaXhHeDlqazBUekcwdVczSkc5NVFZbThXNDVhVVB3RjBlbWJSejA3WTY?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-04T12:21:37+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T19:27:51.024633+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Emiten Semen Catat Pertumbuhan Kinerja hingga September 2026.  Emiten Semen Catat Pertumbuhan Kinerja hingga September 2026 &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "60ba3f8f9dd9",
+  "title": "Emiten Semen Catat Pertumbuhan Kinerja pada Kuartal III 2026",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55VGNockZzMjczeDRVQV95d05WMGFmWVBVbUx1YTFvMTFaSS1hTjByVW9PUTIwOVFXWEFMYVMtd1dQOEY4WUU1STRiS0lSX2xlQXNWdnk4eHB4RnFLazFWMUNtaWZJV1NZZUZoXzBnZ1NKRmR0d2ZkR1k5UEZnWnc?oc=5",
+  "media": "Cirebon Times",
+  "published": "2026-11-04T12:19:43+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T19:27:51.024633+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": true,
+  "party": false,
+  "snippet": "Emiten Semen Catat Pertumbuhan Kinerja pada Kuartal III 2026.  Emiten Semen Catat Pertumbuhan Kinerja pada Kuartal III 2026 &nbsp;&nbsp; Cirebon Times",
+  "corroboration": 0,
+  "response": null,
+  "score": 11,
+  "outcome": null,
+  "anomali": null
  },
  {
   "id": "15fb04869d04",
@@ -271,6 +353,34 @@
   "schedule": false,
   "party": false,
   "snippet": "Urung Ikut Tren Buyback, PGEO Siapkan Opsi Tambah Free Float.  Urung Ikut Tren Buyback, PGEO Siapkan Opsi Tambah Free Float &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "1e470f3106c4",
+  "title": "Urung Ikut Tren Buyback, PGEO Siapkan Opsi Tambah Free Float - Market",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYTZCdC1xWHRQVFBxaFBXTUNIamFXWkxTX0tpd1FUNGw4aXZmemZyVkdaVWZJdlU0WUktaGRYX3d5MkVLYlBMTVJLUXNSQktUV3lOQzVxRzJ4b2FmaGJSSS1aZlg1aUFnclZRa2pQaVc1WkttcG1ZRTltc1JoZThfTmczak5hd2J5RndELTQyeFZ2NWdWQmJaZS1ZcFV3UEs4UlBOcU1VUEFDb3diaUVsSTlYVQ?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-04T11:20:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-04T19:27:51.024633+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Urung Ikut Tren Buyback, PGEO Siapkan Opsi Tambah Free Float - Market.  Urung Ikut Tren Buyback, PGEO Siapkan Opsi Tambah Free Float - Market &nbsp;&nbsp; Bloomberg Technoz",
   "corroboration": 0,
   "response": null,
   "score": 15,
@@ -664,6 +774,32 @@
   "corroboration": 2,
   "response": null,
   "score": 14,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "f863f34a7836",
+  "title": "Prediksi Harga Mata Uang Kripto: Ethereum, Bitcoin & Hyperliquid – Rangkuman Asia 04 November",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaThVSXdZRURkZWZZYkVnTXZSeVJFeDQzOXBqZUFiQlZtTWxobjJCbmFxQkJnWFBoc19zb0NMNnBUZWVNaDVoVzgwVmtqRFNmZG9wMkZXa3dCNnluMWFUaEE5N2pDT2Q1d1luZ3Vvd2R4bEl6aVljRFp2UUVNTFVOd0NQb2EyX3Q1ekNGRjZnRUw4cFdfTmZDbmtOTnZRVUU5RUpZV3A5UzRGUnpraVFzYTNLNlFoRldVSC1UZ1hLRDFhUXVkbUc0TkxIMU5FRkQ1M0ZSMWl5Sk9VaXlmbGFzQ3lGT1FJZXJsMXfSAeoBQVVfeXFMT2k4VUl3WUVEZGVmWWJFZ012UnlSRXg0MzlwamVBYkJWbU1saG4yQm5hcUJCZ1hQaHNfc29DTDZwVGVlTWg1aFc4MFZrakRTZmRvcDJGV2t3QjZ5bjFhVGhBOTdqQ09kNXdZbmd1b3dkeGxJemlZY0RadlFFTUxVTndDUG9hMl90NXpDRkY2Z0VMOHBXX05mQ25rTk52UVVFOUVKWVdwOVM0RlJ6a2lRc2EzSzZRaEZXVUgtVGdYS0QxYVF1ZG1HNE5MSDFORUZENTNGUjFpeUpPVWl5Zmxhc0N5Rk9RSWVybDF3?oc=5",
+  "media": "FXStreet",
+  "published": "2026-11-04T06:10:24+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T19:27:51.024633+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prediksi Harga Mata Uang Kripto: Ethereum, Bitcoin & Hyperliquid – Rangkuman Asia 04 November.  Prediksi Harga Mata Uang Kripto: Ethereum, Bitcoin & Hyperliquid – Rangkuman Asia 04 November &nbsp;&nbsp; FXStreet",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -1374,7 +1510,7 @@
   "schedule": false,
   "party": false,
   "snippet": "GOTO Batalkan 32 Miliar Saham Treasuri &Eksekusi Buyback, Ini Dampaknya bagi Investor.  GOTO Batalkan 32 Miliar Saham Treasuri &amp;Eksekusi Buyback, Ini Dampaknya bagi Investor &nbsp;&nbsp; TradingView",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 16,
   "outcome": null,
@@ -1861,7 +1997,7 @@
  {
   "id": "b754d9373352",
   "title": "Emas dan Perak Rebound Saat Minyak Ambruk Lebih dari 7%, Fed Tetap Mengincar Kenaikan Bunga",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEJLeWQ1dFk2aHVyLTRrVkJRS2UwZkpBNlVnUTNLQUlSbkpaLXFxRlo0c040bFR5SkZhd1kzanYxTkFRSkVnUy1aNzZLaWtaOEdlRk1XS1BWZHdsWDNuLVhULTlRemh3U1N1VzlMM2JMel9IalJOaTRMQVRMRGNYRFppSzliekdCWjczMDZFWS1hcktSbEJ1d3pVRkFwb1RsZXZMNGp3RU02YS1BTHBFc3J3NUJHMk4tRUZXVXo1Ql9pQjU3WHZFZA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTc5b0Y5alo5eFNRMGJZbWk2VkxMQnN2SUZ3VkQ3TWp1UUk4YjRMRHQ2WDE2WkU0MDdqLTY3eXB5aU1aT2NzcHBXb0xfaXZJd3FubC1GSlBMcXFYWkRhU0lDUktZZ1BLZUhxMG0xZTNwZDJFQmd0dXdwX090YkRsRnhRc0V6akIzX21kY1pKd3A3TzlnS0F4RjZTb2Y0d0RxRHIzSVpDbkdyQVItYVB3THhBZncyOTZiWEU5cWxqeWg3Szl4V0doclZEbEJXZw?oc=5",
   "media": "PT Aneka Logam Indonesia",
   "published": "2026-11-03T02:58:10+00:00",
   "tickers": [],
@@ -3574,7 +3710,7 @@
   "first_seen": "2026-11-04T11:52:57.956619+00:00",
   "anon": [],
   "corp": [
-   "buyback"
+   "rights issue"
   ],
   "stance": null,
   "value_bn": 0.0,
@@ -5554,7 +5690,7 @@
   "schedule": false,
   "party": false,
   "snippet": "GOTO Punya Dana Rp2,5 Triliun untuk Buyback Saham hingga 2027.  GOTO Punya Dana Rp2,5 Triliun untuk Buyback Saham hingga 2027 &nbsp;&nbsp; IDX Channel",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 29,
   "outcome": null,
@@ -7073,7 +7209,7 @@
   "title": "BEI Ubah Mekanisme Pengawasan Manipulasi Harga Saham",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYVlfQjUxTUgzSktiQ196UFNhSUVOQnhYTG1JVVlHWW9PRVFQUFZXQWtUMWh2Y215N21ZTG1OVFJHbUJWYklxOXBCOFp1bGdUVUlyallNWnNMMWh2U2hkU3d3QWpVVTM2MVF3T21MRGIxZTFHdmhUdXdJamZXNUJZNThUdw?oc=5",
   "media": "Infobanknews",
-  "published": "2026-10-26T07:00:00+00:00",
+  "published": "2026-10-26T07:12:00+00:00",
   "tickers": [],
   "uma": true,
   "jenis": [],
@@ -7197,32 +7333,6 @@
   "anomali": null
  },
  {
-  "id": "40c955a4901d",
-  "title": "BEI Rombak Pengawasan, Tak Lagi Suspensi Saham",
-  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdUFhT0FXbFB1Q2VfN2ZSSHpXSWRReldNUzFJNWhPRU9qUldJbHBnU3lfZnhGZmxBTnkzYmo2eDA0MmVLWmx6ZkJFUGxDUVoxNkJNTW56UHpBNGdiTUtGeGlFTDBEM0xBOGczQXdMb1hLY2t2T09xUmdGZlMtMmpDRUtMbENLY0E5eXc?oc=5",
-  "media": "Tempo.co",
-  "published": "2026-10-26T07:00:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "BEI Rombak Pengawasan, Tak Lagi Suspensi Saham.  BEI Rombak Pengawasan, Tak Lagi Suspensi Saham &nbsp;&nbsp; Tempo.co",
-  "corroboration": 0,
-  "response": null,
-  "score": 46,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "b7dcfb25db9f",
   "title": "BEI Langsung Tandai Saham yang Terindikasi Gorengan, Rekening Efek Bisa Diblokir",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQW5UMzZDLUpxQ2JvRW85cUM0T3ZoR0lpRVdvS1BfdUdBTTVLWENILTlRbEx0OUZ3ejlWRUh4X3FpRVFmUVhabDR2blN2bEtBTGRGc3F3WmxIeXRYS0pVU3FYek91QXpSQkQ5RDJWTzkydHVCY3pFRHpZSzNDUmduQmdER3RZMEViWEVqbDdzSFRTVUQ2eGFkamx0S0N5ODJac3c5MzZacE9RNHJScjEzd3RLUU55dnhWd3ZxcXFyRC1PZDE00gHEAUFVX3lxTE5odFFiT19zSEgxSUJqMk45ZnppR3hwZzl4by0wRWhQaThacEJqN3pETWdhd1Q0dEFIaEE2NUZ3UHVSblhweUNucC1YOWtCOEpUclY0XzIzS2RMTDlPVFB1Vm1IX21naUVHeThDYU11Uy1EQmJxdzNBSHFnaU5IRExVdFpsQXJGamxaUFlYMHRhcHl6STRvU0E4V25BRWhhQ1BoYXNUZVJqMnBGV1VlSVlSaEV5TGRfcFZvX3dzS2h4eV9MWWc?oc=5",
@@ -7251,7 +7361,7 @@
  {
   "id": "e570df36ee7e",
   "title": "BEI Tak Lagi Andalkan UMA, Saham Gorengan hingga Promosi Influencer Bakal Makin Disorot?",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQanVNTm5IMGN5R1F5SE5NUjhDMlptaUlkRGtIYXN1QXdvYXc2TkV3WTlKNzJCR0hudFVXNzhFLXJCRGRhRHpGMVlkaWZwRUJVSEVIT0R4Y2FXT2hfZVY5X09tTWhTVk5LaUh2Tm43NllrLThwU2wzbmxpc2FoM2N2MndVUUdBV3l1dnlfVVE5LXloTkZya1JnOFZ3ZFlsUktlQi1sMnBtTHgzMHQ2aEVod3lIU2ZzVktCN2pHY0lOYVBNRkNTeWfSAcgBQVVfeXFMUDNIdEp2MFV1a3A5SzNrWm5vV2pDMGdIdS1Lc3Y3RGhfXzNUVUZXSFhUQVRJV2tRanEwVG9IOGlqTXEzLVplME1SNTdybUtON2E4d3JnNUtxRjBwbU1TY0FNZGdHT0t4UnR0ZmRmRUl6Y3JWbV9FWDY0TmdZWjRZOW1qQXBVd1NvZ3FjYTJCWTFJMGROaGlLY1owVEloaXJaZHpvU2FHVUFMb2wzNE5QZm9QdHJCbUhuQUdoRWVCZklyREJ3d0NaYnQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWs3WEEzY2ZteWxLNGE0c01lUWEya3lXSEluQW03OUNCQmg3aG44cU4xTXpUaW5KUnRMUWprSDdIcDJyc3lYVnBUOUJ3Xy14OF9LQVFYYk1vOVhRWDY3LWctZUVzcEE1TldYVkhHa0Yya1ZwSnNTOUpqYUI1OUV6NGp0YmdzUVFRT24zSFVhdjhCcVRTWmJYOWRMd09MSTZVSVhnSEVEZmkydGZVRURxWTFCanM5UnlLc21nckdXR0hiTnZtNXfSAcgBQVVfeXFMUDNIdEp2MFV1a3A5SzNrWm5vV2pDMGdIdS1Lc3Y3RGhfXzNUVUZXSFhUQVRJV2tRanEwVG9IOGlqTXEzLVplME1SNTdybUtON2E4d3JnNUtxRjBwbU1TY0FNZGdHT0t4UnR0ZmRmRUl6Y3JWbV9FWDY0TmdZWjRZOW1qQXBVd1NvZ3FjYTJCWTFJMGROaGlLY1owVEloaXJaZHpvU2FHVUFMb2wzNE5QZm9QdHJCbUhuQUdoRWVCZklyREJ3d0NaYnQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-10-26T07:00:00+00:00",
   "tickers": [],
@@ -7349,6 +7459,32 @@
   "corroboration": 0,
   "response": null,
   "score": 48,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "40c955a4901d",
+  "title": "BEI Rombak Pengawasan, Tak Lagi Suspensi Saham",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdUFhT0FXbFB1Q2VfN2ZSSHpXSWRReldNUzFJNWhPRU9qUldJbHBnU3lfZnhGZmxBTnkzYmo2eDA0MmVLWmx6ZkJFUGxDUVoxNkJNTW56UHpBNGdiTUtGeGlFTDBEM0xBOGczQXdMb1hLY2t2T09xUmdGZlMtMmpDRUtMbENLY0E5eXc?oc=5",
+  "media": "Tempo.co",
+  "published": "2026-10-26T05:29:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Rombak Pengawasan, Tak Lagi Suspensi Saham.  BEI Rombak Pengawasan, Tak Lagi Suspensi Saham &nbsp;&nbsp; Tempo.co",
+  "corroboration": 0,
+  "response": null,
+  "score": 46,
   "outcome": null,
   "anomali": null
  },
