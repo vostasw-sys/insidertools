@@ -1,4 +1,4 @@
-"""Pemindai sinyal pra-riliis: kumpulkan -> deteksi -> petakan emiten -> skor -> JSON."""
+"""Pemindai sinyal pra-rilis: kumpulkan -> deteksi -> petakan emiten -> skor -> JSON."""
 import csv, json, re, time, hashlib, datetime as dt
 from pathlib import Path
 from urllib.parse import quote
