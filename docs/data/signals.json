@@ -1,5 +1,31 @@
 [
  {
+  "id": "61921ff7c40f",
+  "title": "Transaksi Insider Saham (ON)",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pcllaVzFEMWJpQVBvenhYd2dkb0t0RzN1WmhIYlp4Y0xSazVxd2JRbmpZM3ZkY0JaNzlKRzZLcXpsTFItemRzTlEwT1BnYUxGa2FKaWhRYWNPdkVockE?oc=5",
+  "media": "Ajaib",
+  "published": "2026-11-05T21:16:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-05T22:40:35.129044+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Transaksi Insider Saham (ON).  Transaksi Insider Saham (ON) &nbsp;&nbsp; Ajaib",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "0c4b2dc724bc",
   "title": "Saham JPMorgan Turun Lebih dari 100% dari Reli Setelah Pemilu, Tapi Mengapa?",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sdmtXalk4WEZEMnFJVHY5MUtHNXFfNTcwUWRxNUFQVVNxTTM2UG9xQ3Y5OEsxOURtaDcxNk14MWxhQ29MMWVyWjdsVVYyQ2lPUmhyaFZ0aUNoeGVHeFF2QlVxUHpnamdPSUNnNmVuVzNsb0o5Uk9J?oc=5",
@@ -4456,6 +4482,34 @@
   "corroboration": 3,
   "response": null,
   "score": 22,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "5511ed37deab",
+  "title": "Realisasi Buyback Saham 4 Emiten Pak PP Rp830M hingga Awal November",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUFPRnplTm9zeWlTS3dfNURqNXBHbWZScE5mOF9LUUJ6c3NjMHBKTWdsUERPOW5WdW5RR3RScGQ1dW1xOUc0X2pRYld2Z1IwYzl6R2Ricm1FOGJreVBfMmNjWFdoV3VnNHNBV2U5ZWFMRWh3c3ljMEQ1WGIzNmdVNzh3LXl0NEdOTXFwOEd0ajZ1T3pkeUdPOG9FRQ?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-02T15:24:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-05T22:40:35.129044+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Realisasi Buyback Saham 4 Emiten Pak PP Rp830M hingga Awal November.  Realisasi Buyback Saham 4 Emiten Pak PP Rp830M hingga Awal November &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
   "outcome": null,
   "anomali": null
  },
