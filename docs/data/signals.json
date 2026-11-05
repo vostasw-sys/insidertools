@@ -1,5 +1,35 @@
 [
  {
+  "id": "eeea478d4cad",
+  "title": "Investor Hong Kong Batal Akuisisi 86 Persen Saham Puri Sentul (KDTN)",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1Q4YWpDLVVpalZaaGNLTG9UNnNvcUk1TXk4RzJJS3RrQmktWmRGOHd3YXV1X0pxU3Z4bE0xOGh0U3RrdkNmallrcGstZ1l3M3A1VFFWSm0wMzFLcWpyVGR4Q2VKOF9GazRMSnhSY043bEFZN2pUX2hGZ2ZHa0I4SDk0QmVYNDU1Y1NhVFVyR21GSUpwM0VhdERIYkJTX3c?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-05T15:12:00+00:00",
+  "tickers": [
+   "KDTN"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-05T16:30:41.156343+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Investor Hong Kong Batal Akuisisi 86 Persen Saham Puri Sentul (KDTN).  Investor Hong Kong Batal Akuisisi 86 Persen Saham Puri Sentul (KDTN) &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 1,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "0eb97064255f",
   "title": "ULTJ Rights Issue Senilai Rp 16,94 Triliun, Analis Sebut Aksi Ini Jadi Game Changer",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNVFYd3VRMlM0N2twM2l2UFdYNTZQbFFPUVNWMHpDbE9pSkpkU21PRnpFWi1qb3MxdjJYRlBkTmhOdUlzMnlGOXBYYXR5Yk5RSG9TWS1IS0VLYkprMERSNUFGb1MzcUplTFo0anc3LURIcjJ3RmNPNl9xUG9Wc0IxcTZNNVdxcVVHeEJueVItNWRZTFZhS2IydEVfQ0tZenJtLUROZzYxajhaRzcxQmN1YmVMeDMzeUVZ0gGwAUFVX3lxTE1kbVg2RGhWeTltNy10aDBsWk9Na2R0QkkxNjRsM0M2aEVZVEJPcmllOGRyYjkxUGI2M1RtVURsbm9LNnNnSmlwMG1HSmpZSk5tLXZ4Zm45VXIyWXRKVUhvVmtseGFQY3NvN215X3UwSlVuLWpDOG1RdlpwVGlXczFfZnhESnJtSDZCS2F2dFdVdUE5Njl5emMyY29rSzNoakYxeFVSdExfdnJwamRwTElX?oc=5",
@@ -24,6 +54,32 @@
   "corroboration": 0,
   "response": null,
   "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "0247610be774",
+  "title": "Profil ON Semiconductor (ON)",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94VUVIb1huZzJ2WHoyaWFBRkZacHExczVCZ1JDOWlsVDcxd3dWTTVQcDdtZmtuTjd3UVhVRW1TTDRfZFFZdzFSdTd0ZEdLM2hZbHRYMGlTUkJFc0Z5U3c?oc=5",
+  "media": "Ajaib",
+  "published": "2026-11-05T14:14:32+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Profil ON Semiconductor (ON).  Profil ON Semiconductor (ON) &nbsp;&nbsp; Ajaib",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -799,7 +855,7 @@
  {
   "id": "4c81ca055610",
   "title": "Dua Emiten Mau Rights Issue Digelandang Masuk Papan FCA, Ada Apa?",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGRkU0djQlIzSkR4UXd4ZmJZLUtzbUhtblRndlBZRzVvenNEV0dPRlVPWDdQYUpvYWlnbFBwN1dRZ3pPVHBDRnhDbU9Lekd2Sk5mazRyclJkY1ZScXV4NTE5UjJ1cXV2bUNYRUg3dVpOd3JRZHgxV1RDM1FScXRINnAta2NJbzBiaXZpeXg1d0FGTVFuRmVQRU9UWQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0FQclpvWVZHTGs2dFhyUGtlOVNCZkVYZnJIZlZFeURxQjVKZ2JVTjJnaFNkYkRYN28zWmIyTWQ5NHZ6bG9LMUpFQ0lOWThOZTlBeElzNWZIUzhxelM2ckw5d3NQTlJ1VU5PbUR1U2tsc1hyUzRNdzFZLV9rWmZXald1ZXE2ajZQRG41M2ZVaGVVLWxPNHc?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-05T03:51:00+00:00",
   "tickers": [],
@@ -3220,32 +3276,6 @@
   }
  },
  {
-  "id": "0247610be774",
-  "title": "Profil ON Semiconductor (ON)",
-  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94VUVIb1huZzJ2WHoyaWFBRkZacHExczVCZ1JDOWlsVDcxd3dWTTVQcDdtZmtuTjd3UVhVRW1TTDRfZFFZdzFSdTd0ZEdLM2hZbHRYMGlTUkJFc0Z5U3c?oc=5",
-  "media": "Ajaib",
-  "published": "2026-11-03T10:54:00+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [
-   "mengincar"
-  ],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Profil ON Semiconductor (ON).  Profil ON Semiconductor (ON) &nbsp;&nbsp; Ajaib",
-  "corroboration": 0,
-  "response": null,
-  "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "82847398a810",
   "title": "Boga Group Akuisisi Sukiyaki Rin, Perluas Portofolio Restoran - Bisnis.com",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTZFR0k1eDl1ZmRQeVhDVWo5OS1EVnktM1AxWjlyRWVlQkdZU19veGZFZmhEcXZ5SkRnbFhscEoySHRSU1VTR0Jtd0RaRGFEbHNDMS1qaWF1MVdWWFBhclF1dGRxY0NuUEJrRnJPTThJT0xBZHNaMURkVjdBZ1UtVXBuTXltTXVMUmpSODY4U3ZJdFFIMUM5MWdZZUNDcVA2MWN3VkI4VEZwUUQ4Q2hhNTZn?oc=5",
@@ -3714,7 +3744,7 @@
  {
   "id": "b754d9373352",
   "title": "Emas dan Perak Rebound Saat Minyak Ambruk Lebih dari 7%, Fed Tetap Mengincar Kenaikan Bunga",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEJLeWQ1dFk2aHVyLTRrVkJRS2UwZkpBNlVnUTNLQUlSbkpaLXFxRlo0c040bFR5SkZhd1kzanYxTkFRSkVnUy1aNzZLaWtaOEdlRk1XS1BWZHdsWDNuLVhULTlRemh3U1N1VzlMM2JMel9IalJOaTRMQVRMRGNYRFppSzliekdCWjczMDZFWS1hcktSbEJ1d3pVRkFwb1RsZXZMNGp3RU02YS1BTHBFc3J3NUJHMk4tRUZXVXo1Ql9pQjU3WHZFZA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTc5b0Y5alo5eFNRMGJZbWk2VkxMQnN2SUZ3VkQ3TWp1UUk4YjRMRHQ2WDE2WkU0MDdqLTY3eXB5aU1aT2NzcHBXb0xfaXZJd3FubC1GSlBMcXFYWkRhU0lDUktZZ1BLZUhxMG0xZTNwZDJFQmd0dXdwX090YkRsRnhRc0V6akIzX21kY1pKd3A3TzlnS0F4RjZTb2Y0d0RxRHIzSVpDbkdyQVItYVB3THhBZncyOTZiWEU5cWxqeWg3Szl4V0doclZEbEJXZw?oc=5",
   "media": "PT Aneka Logam Indonesia",
   "published": "2026-11-03T02:58:10+00:00",
   "tickers": [],
@@ -4278,7 +4308,7 @@
   "first_seen": "2026-11-04T11:52:57.956619+00:00",
   "anon": [],
   "corp": [
-   "rights issue"
+   "buyback"
   ],
   "stance": null,
   "value_bn": 8307.0,
@@ -6457,6 +6487,36 @@
   "corroboration": 0,
   "response": null,
   "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "2ff330229aca",
+  "title": "Buyback Saham Pilihan Tower Bersama (TBIG), Sedia Dana Rp106 Miliar",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmF3RVo0ZEs5bjFaLVdtVnQwOWRicVVpVlg4dDJFWVVqYmRTUzNrcjBEd3owaFZlNnpjS3RDUXV6THBkVHNCVXBBN2ozYTdFRTBnN2VXNzJEY3ZuUlFxOHpnY2RaVzU3U0xrRGVicXB4bXlZenVKWjVWR2tLVVdTajd4aHV5ekRodGtoX2tzZE5nZkpLbTRJ?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-10-30T13:31:00+00:00",
+  "tickers": [
+   "TBIG"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-05T16:30:41.156343+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 106.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Buyback Saham Pilihan Tower Bersama (TBIG), Sedia Dana Rp106 Miliar.  Buyback Saham Pilihan Tower Bersama (TBIG), Sedia Dana Rp106 Miliar &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 1,
+  "response": null,
+  "score": 15,
   "outcome": null,
   "anomali": null
  },
@@ -9054,6 +9114,36 @@
   "anomali": null
  },
  {
+  "id": "a77b1cf444a7",
+  "title": "Kredit ke Jhonlin dengan Agunan Saham JARR dan PGUN, Ini Penjelasan Bank Mandiri",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMm5sZklJY2Y1NWVRQXNJQnVEV3ZUNDNyMkJGeUpSaUFIR3BOR0pMUW5vYkYxenQ3NGZxaWM4d282bmxOQ3VxMFNpRi02YTdVeUs1U2p3aVk0THlTYmV6YTRoWDlnd0l2Rl9aejhTalVZQmliZlJFVmdrMVdXeVJ2UjBKRFJQVkJ4RExFMHV5VWJoOFdfMjlub2NBbFFReGJqSG80Z2xpUlBnb18zbkl6NGU3dzMxR2xPS3g5UFFpUzZVMEMtSUE?oc=5",
+  "media": "RM.ID",
+  "published": "2026-10-27T04:22:00+00:00",
+  "tickers": [
+   "BMRI"
+  ],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-05T16:30:41.156343+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Kredit ke Jhonlin dengan Agunan Saham JARR dan PGUN, Ini Penjelasan Bank Mandiri.  Kredit ke Jhonlin dengan Agunan Saham JARR dan PGUN, Ini Penjelasan Bank Mandiri &nbsp;&nbsp; RM.ID",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.06,
+   "abn5": -1.63,
+   "last": "2026-11-05"
+  }
+ },
+ {
   "id": "2aff5bacd9e7",
   "title": "Kredit ke Jhonlin dengan Agunan Saham JARR dan PGUN: Begini Penjelasan Bank Mandiri",
   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1Fnd29PVG1BRWkwaTE4bER5SUFUSWZ0YjJUWnp6ZXNFbHBjTjZaTFVHZGJvVk9zNmtaRjFPaUowN0ZHNF95azIzeFFRbG9CSndCLVpTbzNVel9DUnpOXzhMaTBmdE9IaUN3bE1vbmxodlNmOV9RTXlWaHJyS25FcUpmS28zZHFxX25yd0RGX25zam1Wc1VkYm1RYm9VQk1DWGhSQ1RfZTc?oc=5",
@@ -9474,7 +9564,7 @@
   "title": "BEI Ubah Metode UMA, Investigasi Saham Bakal Dibuka ke Publik",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOanBFaVZzM2RCZHhhZkFJZmVPeER3cE1KMDMyQmxZeTg4N0Y2TUI5NTlTcThURFF0bnozbkJpNmVJMWh6OFk2VkYwTmF0SHhOMkRudkYtbEgtOVkzYkFGNDQwZ3M4cjNxS05fNnB6SWJXRi1rdXhiQi13Ri1DQ29JZng2TnkwRFlkNkU5Uk8xa3JzaHloRlQ2aGd6dXoyeEHSAaQBQVVfeXFMTWhXaVF0RE5vbVVaVXU2dDNmSXFQcTluQUNoNzdXcTlyeF9uaWFlS2FlaWpuSWFsbU5iaFNON3RrdWZ4UVhLUnFUSmFZalFTMGxoV1ZjR2o1Q1lnUUxVVndHbi1FbkFoeUNOU2FKejVndVFlWE9IVkhFcmV1eXV2QUZzZDgxOVBDRURjZGV4YkpHOXlIbmpZWVkwZUFiX2tsVV83RGk?oc=5",
   "media": "Warta Ekonomi",
-  "published": "2026-10-26T06:23:00+00:00",
+  "published": "2026-10-26T07:00:00+00:00",
   "tickers": [],
   "uma": true,
   "jenis": [],
@@ -9489,6 +9579,32 @@
   "schedule": false,
   "party": false,
   "snippet": "BEI Ubah Metode UMA, Investigasi Saham Bakal Dibuka ke Publik.  BEI Ubah Metode UMA, Investigasi Saham Bakal Dibuka ke Publik &nbsp;&nbsp; Warta Ekonomi",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "9bf49436594b",
+  "title": "BEI Kurangi UMA, Pengawasan Saham Beralih ke Investigasi Dugaan Manipulasi Harga",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNU5nZmZfbG9lcGFJYWhXQ0dabWF6cDREbjBTdnN5ZDQtSjYwU09FVVhVR2dEQTFWakpBeFJQLW9FWHZYTWstSFVISGdBZGZucXNQY1ZhWDlycjExVnBNVTA3VFJ5Y1BMTjdrdVp6U0NXOVZXVnlsMzJHR2xGN21JSUY3OUhoUHBCSDRRV2dOTU90V1A3VjBlczJkUXRXU2g1VFAwOUtyU0pnZXA5NV9qZ2xINDNGOVVhVUE?oc=5",
+  "media": "InvestorTrust",
+  "published": "2026-10-26T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Kurangi UMA, Pengawasan Saham Beralih ke Investigasi Dugaan Manipulasi Harga.  BEI Kurangi UMA, Pengawasan Saham Beralih ke Investigasi Dugaan Manipulasi Harga &nbsp;&nbsp; InvestorTrust",
   "corroboration": 0,
   "response": null,
   "score": 41,
@@ -9515,32 +9631,6 @@
   "schedule": false,
   "party": false,
   "snippet": "Suspensi Saham Diganti Pembekuan Rekening Efek oleh BEI.  Suspensi Saham Diganti Pembekuan Rekening Efek oleh BEI &nbsp;&nbsp; Monitor Indonesia",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "9bf49436594b",
-  "title": "BEI Kurangi UMA, Pengawasan Saham Beralih ke Investigasi Dugaan Manipulasi Harga",
-  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNU5nZmZfbG9lcGFJYWhXQ0dabWF6cDREbjBTdnN5ZDQtSjYwU09FVVhVR2dEQTFWakpBeFJQLW9FWHZYTWstSFVISGdBZGZucXNQY1ZhWDlycjExVnBNVTA3VFJ5Y1BMTjdrdVp6U0NXOVZXVnlsMzJHR2xGN21JSUY3OUhoUHBCSDRRV2dOTU90V1A3VjBlczJkUXRXU2g1VFAwOUtyU0pnZXA5NV9qZ2xINDNGOVVhVUE?oc=5",
-  "media": "InvestorTrust",
-  "published": "2026-10-26T06:12:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "BEI Kurangi UMA, Pengawasan Saham Beralih ke Investigasi Dugaan Manipulasi Harga.  BEI Kurangi UMA, Pengawasan Saham Beralih ke Investigasi Dugaan Manipulasi Harga &nbsp;&nbsp; InvestorTrust",
   "corroboration": 0,
   "response": null,
   "score": 41,
