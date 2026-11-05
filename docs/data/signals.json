@@ -1,5 +1,34 @@
 [
  {
+  "id": "4c7fcfedf1ed",
+  "title": "18 Emiten Delisting pada 10 November, Baru 2 Umumkan Buyback",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHdhQlVCUFhiQVZhWFJPWVV2OHF4a1dlNU1PSjhZX1VMUGNwWHllOS1vbzFBaDg4WXkzNDdzOHF6UFNpamEtVmdqTldpYVRYaEdNei13czhxNWVBc3p6bFZ4LU0yUnN4ZUZRclFZY2FPTGlwNDlyN2tyV0FfZy0xbVlGd2QzVXBtNmdHeVEwelJLNkJBNlluLXhBTjB0dmlTOWcya1lOX09CQ19CaEE?oc=5",
+  "media": "FORTUNE Indonesia",
+  "published": "2026-11-05T10:08:29+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-05T10:32:16.807381+00:00",
+  "anon": [],
+  "corp": [
+   "buyback",
+   "delisting"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "18 Emiten Delisting pada 10 November, Baru 2 Umumkan Buyback.  18 Emiten Delisting pada 10 November, Baru 2 Umumkan Buyback &nbsp;&nbsp; FORTUNE Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "bf66e9f40f44",
   "title": "Leyand International Akuisisi 87,5 Persen Saham BSS Lewat Rights Issue",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iMGt3VzdQSHREeXpUZzhaWnF5YWdyUVVMUUpQaXQ5RlQ0TUJyTnJpTkduWnFENlBxbjBSaUtWRTJRald5OGVxX0xkYm51dXgtem13STF0cWN3ZEpLd3lfY1RjX1p2cVBmSE5pUA?oc=5",
@@ -511,7 +540,7 @@
  {
   "id": "4c81ca055610",
   "title": "Dua Emiten Mau Rights Issue Digelandang Masuk Papan FCA, Ada Apa?",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGRkU0djQlIzSkR4UXd4ZmJZLUtzbUhtblRndlBZRzVvenNEV0dPRlVPWDdQYUpvYWlnbFBwN1dRZ3pPVHBDRnhDbU9Lekd2Sk5mazRyclJkY1ZScXV4NTE5UjJ1cXV2bUNYRUg3dVpOd3JRZHgxV1RDM1FScXRINnAta2NJbzBiaXZpeXg1d0FGTVFuRmVQRU9UWQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0FQclpvWVZHTGs2dFhyUGtlOVNCZkVYZnJIZlZFeURxQjVKZ2JVTjJnaFNkYkRYN28zWmIyTWQ5NHZ6bG9LMUpFQ0lOWThOZTlBeElzNWZIUzhxelM2ckw5d3NQTlJ1VU5PbUR1U2tsc1hyUzRNdzFZLV9rWmZXald1ZXE2ajZQRG41M2ZVaGVVLWxPNHc?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-05T03:51:00+00:00",
   "tickers": [],
@@ -556,6 +585,32 @@
   "schedule": false,
   "party": false,
   "snippet": "CBRE ARB 10% Beruntun, Ekuitas Negatif Rp144,86 Miliar.  CBRE ARB 10% Beruntun, Ekuitas Negatif Rp144,86 Miliar &nbsp;&nbsp; feedberry.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "4f9496981013",
+  "title": "CBRE ARB 10% Beruntun, Ekuitas Negatif Rp144,86 Miliar",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbFlsUXdwLTBZR2tDQk9GUmpsaWRDaDAwMEJsR00xOUhJam92ZUNFMDRTWnYxeVhINlBjbXdpWmk2QzdMVzZWYW9OSXo0WUZSc1NjT3FSdk5pMFVmVnRzdGd4MkN2ZmNfeVRLb05xOUpzNVN0QlJzZ2dpTkg5VlFmSTB2ZktKR0ho?oc=5",
+  "media": "https://feedberry.com/",
+  "published": "2026-11-05T03:50:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-05T10:32:16.807381+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 144.86,
+  "schedule": false,
+  "party": false,
+  "snippet": "CBRE ARB 10% Beruntun, Ekuitas Negatif Rp144,86 Miliar.  CBRE ARB 10% Beruntun, Ekuitas Negatif Rp144,86 Miliar &nbsp;&nbsp; https://feedberry.com/",
   "corroboration": 0,
   "response": null,
   "score": 12,
