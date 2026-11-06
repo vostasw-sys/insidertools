@@ -1,5 +1,31 @@
 [
  {
+  "id": "f99373f0ea17",
+  "title": "KOKA Jawab Pertanyaan BEI soal Volatilitas Saham, Ini Penjelasannya",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQTBUMmNJRmI1aWEyaGN6bWlsMEFFSlBISGhnbkE4ZDJIbnk5U2RTUTUtUjNHSnBrcERCVzdRYWM0WW15WWczeVc1N0JLTXc5NW5WekF4SDJnM19RRU9IUXJkSTNYMHB5TEIzUXdSVk5RaTl5R2dOXzl2TDFKODNGQU9Pb0RqSVVmZDdPOVlfTWh0akU?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-11-06T08:09:11+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-06T09:23:45.036259+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "KOKA Jawab Pertanyaan BEI soal Volatilitas Saham, Ini Penjelasannya.  KOKA Jawab Pertanyaan BEI soal Volatilitas Saham, Ini Penjelasannya &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "347a51b9985d",
   "title": "IPO Anthropic Terancam Molor, Investor Minta Valuasi di Bawah US$1,5 Triliun",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTZxakJoUjlTMjMxNVVIQ0E4MmdkMzh4QWx3TFhZMnFGR05wWDBjRUJSRE52Unh1ek41bmM2MGNpVTlKd3pWUVNrNl9pemV0U3RjLXpIWEQ1NERxWVlTNEl0dDVwOTl4NnhLUlpSUHhUTmpTT1J5TVRQNnFjQnpqQU9QdmdlczVzbXdQaw?oc=5",
@@ -104,6 +130,36 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "5295eafe3099",
+  "title": "BEI Desak 12 Emiten Segera Rampungkan Buyback Saham",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xQTRxN0laa01pbnp4SHlUYkRxT3BmRkpORmNBY0ludnk0WmFrWHlKc3ptNTFoVjM4ZmxLaEtyaDZFNmh3NXdpUWhyMWJPSXdZb0tMdU1ZNWlhc1NwTlhKOFp1QXJpY2o4?oc=5",
+  "media": "Koridor.co.id",
+  "published": "2026-11-06T06:42:18+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-06T09:23:45.036259+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Desak 12 Emiten Segera Rampungkan Buyback Saham.  BEI Desak 12 Emiten Segera Rampungkan Buyback Saham &nbsp;&nbsp; Koridor.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -1283,6 +1339,32 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "66a6a4525bf1",
+  "title": "14 Emiten Bagikan Dividen Interim dengan Yield hingga 7,72%",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YYUFMaFVUWDlZa1pwaVk2bHkwNnhac0hsNTE2VDUtcUsyb0tBbTlwTDhiZDlpOG1nTFg3Ukp5dGg3UG5MdzJ5bmhuZ1hzOHpacGI5VU9Cakd1OGtRZnFia0ZvMlhRUnl4OUNpdA?oc=5",
+  "media": "Cirebon Times",
+  "published": "2026-11-05T08:54:40+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-06T09:23:45.036259+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "14 Emiten Bagikan Dividen Interim dengan Yield hingga 7,72%.  14 Emiten Bagikan Dividen Interim dengan Yield hingga 7,72% &nbsp;&nbsp; Cirebon Times",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -2639,8 +2721,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -1.11,
+   "vol_z": -0.3,
+   "abn5": -1.58,
    "last": "2026-11-06"
   }
  },
@@ -3674,8 +3756,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.01,
-   "abn5": -8.72,
+   "vol_z": 0.02,
+   "abn5": -9.29,
    "last": "2026-11-06"
   }
  },
@@ -4060,8 +4142,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -1.11,
+   "vol_z": -0.3,
+   "abn5": -1.58,
    "last": "2026-11-06"
   }
  },
@@ -4308,11 +4390,11 @@
   "snippet": "Dividen Interim Selamat Sempurna (SMSM) Rp 45 per saham, Ini Jadwal Cum Date.  Dividen Interim Selamat Sempurna (SMSM) Rp 45 per saham, Ini Jadwal Cum Date &nbsp;&nbsp; kontan.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.18,
-   "abn5": 5.47,
+   "vol_z": 0.27,
+   "abn5": 4.59,
    "last": "2026-11-06"
   }
  },
@@ -4343,8 +4425,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.13,
-   "abn5": -1.84,
+   "vol_z": -1.12,
+   "abn5": -2.41,
    "last": "2026-11-06"
   }
  },
@@ -4483,8 +4565,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.87,
-   "abn5": 1.49,
+   "vol_z": -0.84,
+   "abn5": 0.92,
    "last": "2026-11-06"
   }
  },
@@ -5493,7 +5575,7 @@
   "first_seen": "2026-11-04T11:52:57.956619+00:00",
   "anon": [],
   "corp": [
-   "rights issue"
+   "buyback"
   ],
   "stance": null,
   "value_bn": 8307.0,
@@ -5613,8 +5695,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.17,
-   "abn5": -10.24,
+   "vol_z": 0.18,
+   "abn5": -11.34,
    "last": "2026-11-06"
   }
  },
@@ -5896,8 +5978,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.02,
-   "abn5": 0.45,
+   "vol_z": 0.08,
+   "abn5": 0.13,
    "last": "2026-11-06"
   }
  },
@@ -7008,8 +7090,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.6,
-   "abn5": 1.91,
+   "vol_z": -0.59,
+   "abn5": -1.09,
    "last": "2026-11-06"
   }
  },
@@ -8221,8 +8303,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.16,
-   "abn5": -8.47,
+   "vol_z": 0.17,
+   "abn5": -8.2,
    "last": "2026-11-06"
   }
  },
@@ -9049,8 +9131,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.22,
-   "abn5": 0.73,
+   "vol_z": -0.12,
+   "abn5": 2.54,
    "last": "2026-11-06"
   }
  },
@@ -9523,8 +9605,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.22,
-   "abn5": 0.73,
+   "vol_z": -0.12,
+   "abn5": 2.54,
    "last": "2026-11-06"
   }
  },
@@ -9935,8 +10017,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.22,
-   "abn5": 0.73,
+   "vol_z": -0.12,
+   "abn5": 2.54,
    "last": "2026-11-06"
   }
  },
@@ -9969,8 +10051,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.22,
-   "abn5": 0.73,
+   "vol_z": -0.12,
+   "abn5": 2.54,
    "last": "2026-11-06"
   }
  },
@@ -10377,8 +10459,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.18,
-   "abn5": 0.19,
+   "vol_z": -0.13,
+   "abn5": -0.41,
    "last": "2026-11-06"
   }
  },
@@ -10483,8 +10565,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.18,
-   "abn5": 0.19,
+   "vol_z": -0.13,
+   "abn5": -0.41,
    "last": "2026-11-06"
   }
  },
@@ -11210,7 +11292,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.67,
-   "abn5": -5.03,
+   "abn5": -5.61,
    "last": "2026-11-06"
   }
  },
