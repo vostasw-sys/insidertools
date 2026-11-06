@@ -3964,36 +3964,6 @@
   "anomali": null
  },
  {
-  "id": "026f43a1a10f",
-  "title": "Trisula (TRIS) Cetak Kinerja Apik di Q3 2026, Siapkan Buyback Rp10M",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGxkOHNQeGQwRHl0TVpBSVBoSVhlWWo5VFBHOThyWmpoN1JFd1Bpb3Jkb1QzT1RndnJVMnd5emFfcjMzdS1CNkJwMWFuaDFzeE1sTkp0ak5KNFNQdHoya3dwQktfOU9CWXRsWEd2djAtNTZ3R3ZxeXF6R01rZmNjTVVDYjA3c3dtMEFnbnN0Y0l2N3U0eUxF?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-04T07:53:00+00:00",
-  "tickers": [
-   "TRIS"
-  ],
-  "uma": false,
-  "jenis": [
-   "Pembelian/penjualan besar"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": true,
-  "party": false,
-  "snippet": "Trisula (TRIS) Cetak Kinerja Apik di Q3 2026, Siapkan Buyback Rp10M.  Trisula (TRIS) Cetak Kinerja Apik di Q3 2026, Siapkan Buyback Rp10M &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 3,
-  "response": null,
-  "score": 24,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "5adf46d4ca25",
   "title": "Bangladesh Jajaki Bangun Pabrik DAP di Arab Saudi",
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXZKNmZ4SkstaXhxMFBWOEYzMGpzSWxfVEdkSy1oNE1mYnNlUHAzNndtT2hBNlhIbHB6dFB1UW9PUTVUTlducVZLT28zdVZhY3N3WUhSZ0lwSVVmWDdxRnNISDRMMUljS0tmSTdoMVJQeXBWUHVVdzlkd3V1Y2I1NnNzanREM3RrRGZuOGh4cHZ6T1Vm0gGUAUFVX3lxTE9Fdko2ZnhKSy1peHEwUFY4RjMwanNJbF9UR2RLLWg0TWZic2VQcDM2d21PaEE2WEhscHp0UHVRb09RNVROV25xVktPbzN1VmFjc3dZSFJnSXBJVWZYN3FGc0hINEwxSWNLS2ZJN2gxUlB5cFZQdVV3OWR3dXVjYjU2c3NqdEQzdGtEZm44aHhwdnpPVWY?oc=5",
@@ -5182,6 +5152,36 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "026f43a1a10f",
+  "title": "Trisula (TRIS) Cetak Kinerja Apik di Q3 2026, Siapkan Buyback Rp10M",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGxkOHNQeGQwRHl0TVpBSVBoSVhlWWo5VFBHOThyWmpoN1JFd1Bpb3Jkb1QzT1RndnJVMnd5emFfcjMzdS1CNkJwMWFuaDFzeE1sTkp0ak5KNFNQdHoya3dwQktfOU9CWXRsWEd2djAtNTZ3R3ZxeXF6R01rZmNjTVVDYjA3c3dtMEFnbnN0Y0l2N3U0eUxF?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-03T09:54:00+00:00",
+  "tickers": [
+   "TRIS"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": true,
+  "party": false,
+  "snippet": "Trisula (TRIS) Cetak Kinerja Apik di Q3 2026, Siapkan Buyback Rp10M.  Trisula (TRIS) Cetak Kinerja Apik di Q3 2026, Siapkan Buyback Rp10M &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 3,
+  "response": null,
+  "score": 24,
   "outcome": null,
   "anomali": null
  },
@@ -10003,11 +10003,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.12,
-   "abn5": 3.8,
-   "last": "2026-11-05"
-  }
+  "anomali": null
  },
  {
   "id": "420cee871686",
@@ -10503,11 +10499,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.12,
-   "abn5": 3.8,
-   "last": "2026-11-05"
-  }
+  "anomali": null
  },
  {
   "id": "6f1f0e69e262",
@@ -10889,11 +10881,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.12,
-   "abn5": 3.8,
-   "last": "2026-11-05"
-  }
+  "anomali": null
  },
  {
   "id": "5eead6220824",
@@ -10923,11 +10911,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.12,
-   "abn5": 3.8,
-   "last": "2026-11-05"
-  }
+  "anomali": null
  },
  {
   "id": "692aa1cf9800",
