@@ -1,5 +1,121 @@
 [
  {
+  "id": "1c10cc0fb284",
+  "title": "DOOH Akuisisi 29,88% Saham INET Senilai Rp 2 Triliun",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmFJNDlxaW1yWWxmbVhtOWtsTnVpanNtLVJDOUtxQ09TdUtsS09Jd2MxSF9Gc051QzBsWG16bVBpbzlqdTVNbkFTeTVUNE53Vms1SDFtb25rVEhxLWE1eWlmWmt2MnQyQUpncXh2Yk8xVVFabHREWEMtcEFQM3FqMHhKZlhueWh4SUJrag?oc=5",
+  "media": "investor.id",
+  "published": "2026-11-06T13:25:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-06T13:39:14.520372+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 2000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "DOOH Akuisisi 29,88% Saham INET Senilai Rp 2 Triliun.  DOOH Akuisisi 29,88% Saham INET Senilai Rp 2 Triliun &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "89299b2844cf",
+  "title": "IHSG Mengincar Level 5.200 pada 9 November 2026",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKSEdhc0kwSlE0ZENfMlc4SnVWemlTUmNfd1cyNWpNNTQ5b2k4elFGcGpiaXprWnFJcDdFWXJrTmU3bXgzRWp5OVpybUZBQWdfVzh5SXZoVG1aT1ZCNDZoNkFRSUI?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-06T13:18:30+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-06T13:39:14.520372+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IHSG Mengincar Level 5.200 pada 9 November 2026.  IHSG Mengincar Level 5.200 pada 9 November 2026 &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "83ae418c85be",
+  "title": "Emiten DOOH Bakal Caplok 29,88% Saham INET",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanFQS0cwTWlmV0trT2hZcUpENDExRm9NamMwYXQzbFhlTWVSNlNqUUIzRUlzVC1lLXpBQ0ZBdGJOWUllYmdFdjQxMHAzUURyLUVjcnAyWFdaZFBrNFo2M1ZQQTQtajdVZTdyVjdaOVZrQ3pHenRfdlYwbXdvRGZ5WmxSQWpydmZmUzJEd9IBgwFBVV95cUxNUDl3NVRHb3dBRnVyZUl3VkJ1OXpfblBHcm9SOF9fMUJVUkRFaUNqMTNDSjRiSEltR2hIajRiTExPMnpObEFnQW9MOGxjcjNRYmdZc1VpaVhSVmF6RnlCUWZYUlcyaUNka0IyUHBlUENkZnhhOHB2bkhRS2FoV0xueTQxQQ?oc=5",
+  "media": "Liputan6.com",
+  "published": "2026-11-06T13:02:40+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-06T13:39:14.520372+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Emiten DOOH Bakal Caplok 29,88% Saham INET.  Emiten DOOH Bakal Caplok 29,88% Saham INET &nbsp;&nbsp; Liputan6.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "81279db3fe3d",
+  "title": "Perusahaan Haji Isam Gadai Saham ke Bank Mandiri Buat Akuisisi, Ini Kata OJK",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWWJ3d0llR29tMWtuNXdjaF9mcXVqRmZEU2Z3T3dHbWpHbzVWcmswTk1LeDd4QUtLM2JONDdRNUJBcVNZOVJMVmFkemNoZDU3UlZva1V2SXFfbDNySFVaQkZnenJfeHBtTE5SeS0yaWx3UnV6ODlualNfSlY3ZDlra2t6TmxPQVg5aXVnR2FYZHRBVnNmaFFmT2xYOFVGOUVLbGljb1Y3azNncEhlTVNyY2VBOXJsU2NqN1dV0gGyAUFVX3lxTFAtMnNSZUJtNmxBaGk1ODUwRzMzUnVvRUhQQW1KNnJ4RGpQdHpCSjBsbFNHNUczV2VLWTRYUWpQSFhGd3pGb3MyMjZ1WE9CSGJ2YXhvUDJFRlZ4SDFBSnlQZUJYbEJlTXdUYjhDRnJfYmpGbnBudGg3MlB0VjNPazhzSzFTNmd3Umk3eEhLVkw1X0s0a0tDR0xTcjVralhTMVZoQ3ZUS3Zyc1JKVjFvM3p4MGc?oc=5",
+  "media": "Liputan6.com",
+  "published": "2026-11-06T12:29:07+00:00",
+  "tickers": [
+   "BMRI"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-06T13:39:14.520372+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Perusahaan Haji Isam Gadai Saham ke Bank Mandiri Buat Akuisisi, Ini Kata OJK.  Perusahaan Haji Isam Gadai Saham ke Bank Mandiri Buat Akuisisi, Ini Kata OJK &nbsp;&nbsp; Liputan6.com",
+  "corroboration": 1,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.13,
+   "abn5": -0.41,
+   "last": "2026-11-06"
+  }
+ },
+ {
   "id": "0a1c2a2eac4a",
   "title": "Emiten Kawasan Industri Pacu Pendapatan Berkat Permintaan Lahan",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xX1V3akQ2RDZiLTZNWW9mcTBQYVI3dmJzekQ5a0FMRWhobG5GUTFfbkFFWE54UWN4Z2hYY3hnbUZLQUhOSk9TNjd4YlhLbG1ucHdTTkM4OTlweXZOQVlQZURJdWxtSGpaYWVaMWkwUFRnSFZZRVpR?oc=5",
@@ -854,6 +970,32 @@
   "corroboration": 0,
   "response": null,
   "score": 35,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "7e80237a93f0",
+  "title": "Kospi Anjlok 8,6 Persen Usai Tekanan Saham Teknologi",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0eFlnZ1Y2NkpDMDhVYVI5YXhETmFIV0tIV3pjcWdDYUtIQjNBUDBHcW9XUmVmSUlzUHJPNGN6LXd4cUFXa194eWREMXREajlBcUM4QU1DWExETHlpSVNpeVpEOA?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-06T01:18:24+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-06T13:39:14.520372+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Kospi Anjlok 8,6 Persen Usai Tekanan Saham Teknologi.  Kospi Anjlok 8,6 Persen Usai Tekanan Saham Teknologi &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -9325,11 +9467,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.12,
-   "abn5": 2.54,
-   "last": "2026-11-06"
-  }
+  "anomali": null
  },
  {
   "id": "420cee871686",
@@ -9825,11 +9963,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.12,
-   "abn5": 2.54,
-   "last": "2026-11-06"
-  }
+  "anomali": null
  },
  {
   "id": "6f1f0e69e262",
@@ -10211,11 +10345,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.12,
-   "abn5": 2.54,
-   "last": "2026-11-06"
-  }
+  "anomali": null
  },
  {
   "id": "5eead6220824",
@@ -10245,11 +10375,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.12,
-   "abn5": 2.54,
-   "last": "2026-11-06"
-  }
+  "anomali": null
  },
  {
   "id": "692aa1cf9800",
