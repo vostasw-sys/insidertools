@@ -1,5 +1,64 @@
 [
  {
+  "id": "9fbed5f25d0e",
+  "title": "BSI Gelar RUPSLB, Setujui Rights Issue 6,8 Miliar Saham",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEhaMTM3YWlidHg1R3hiQ0hTOVVjNjk5VmlQa0ZUbWFUSWMyMVhELTFzUjR0bGtFUWhHVl83d0tra1RsQ2dtZ3JrTUdqZVRVbzFXdDVyRzhTc2tXZVNta0xaMWhCdG9NeHM1WEFPQU5QUzVmdzE2MU5XdDE5ZVZxMXgxckh4YUFiR244cGtkYWZfdWFjb19V0gGcAUFVX3lxTE5ybnRXWTZHMEdFd09zamNVcEppeFNjdzI2WER3R2hwRE9KYWdJcGZXRmdORkxSZHdqSEIzTHhiWU9qV1ZKZzlRLTFGZ1Bvc3lZZzRnQnkxNjQ1ajRoSFMzMVduNFRzbVpVaFlyT2FNRmpzc012SzNqVHhiUEZjY1FndHU3UXN0VC1lSUp1d3gxbEdLSEtvekZ4TmZEUQ?oc=5",
+  "media": "IDX Channel",
+  "published": "2026-11-06T10:28:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-06T11:25:02.523833+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BSI Gelar RUPSLB, Setujui Rights Issue 6,8 Miliar Saham.  BSI Gelar RUPSLB, Setujui Rights Issue 6,8 Miliar Saham &nbsp;&nbsp; IDX Channel",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "9990c6b0d251",
+  "title": "Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnRFMEpicnRSSnJ0cUFlOGtFMnVhN1hkWUhKdXp1U3Bna1BKendEVGltR0syRk5PdXh4bE1QY0VkeU9FVVhWVU9sRGpzUWtLM2hzLUVrZDhEcUxBVXNEemtYTmcxZHlYQ2RiNkdJZEZfamxiVVdmSFNzTmxveTVnb1V2NF9wemNxaW5TTHM1ZjJDdHotQnUwR0RvT19iN3JWQUVadFNkZWU0UjJ4REJYdTgyRdIBqwFBVV95cUxPTUwtMlVCWkw4bnpDb3RhYVVwOXRrdW1TXzlOY040RF95VldLSDBXWDBMMHd4cWt4Q3NLY1JNOG1pMjJDRUs2OGNRQ0s3dTM2cklCTm1yRjVDRXZqdll0THQxMHhJQ0RNUGllTXVHOVdVOHpBbHNhMVRUaVE1cW1NOGRFZjVxUWVoSTk0Z0doa3ZTZzFVN19Zdng2NlRkZzdsOWZRdzR0VWs3MlE?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-06T09:54:57+00:00",
+  "tickers": [
+   "GIAA",
+   "ULTJ"
+  ],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-06T11:25:02.523833+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya.  Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 5,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "f99373f0ea17",
   "title": "KOKA Jawab Pertanyaan BEI soal Volatilitas Saham, Ini Penjelasannya",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQTBUMmNJRmI1aWEyaGN6bWlsMEFFSlBISGhnbkE4ZDJIbnk5U2RTUTUtUjNHSnBrcERCVzdRYWM0WW15WWczeVc1N0JLTXc5NW5WekF4SDJnM19RRU9IUXJkSTNYMHB5TEIzUXdSVk5RaTl5R2dOXzl2TDFKODNGQU9Pb0RqSVVmZDdPOVlfTWh0akU?oc=5",
@@ -1192,9 +1251,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Ultrajaya (ULTJ) Rights Issue Rp 16,9 Triliun, Ada Rencana Tambahan Dividen Jumbo.  Ultrajaya (ULTJ) Rights Issue Rp 16,9 Triliun, Ada Rencana Tambahan Dividen Jumbo &nbsp;&nbsp; investor.id",
-  "corroboration": 2,
+  "corroboration": 3,
   "response": null,
-  "score": 21,
+  "score": 26,
   "outcome": null,
   "anomali": null
  },
@@ -2348,7 +2407,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun.  Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun &nbsp;&nbsp; IDX Channel",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 29,
   "outcome": null,
@@ -3678,7 +3737,7 @@
  {
   "id": "4c3b8c978b13",
   "title": "Kuasai 66,58 Persen Saham IDEA, Nawasena Gelar Tender Offer",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHA1UXowQ2wxVHVHQnN2UUUySDZ5ZWJ5cy1aWE9ZOTFSUnJKaTNPTV93SnplYkduZUtqQjg5LUdXV1Y2UXp6aVdLS0FoN0xmUDBxOEFsM0ZZYzZKLVEzVXpUcFVEdG1NZjhNOGtJcDBrLXlfRWRSYnJSLWI2b3ZQRVZ0Y0pXU0d6Q3lGV0ZVMXRWNnV6Y21CLTExRngxWlA1Y3fSAaIBQVVfeXFMT1hwNVF6MENsMVR1R0JzdlFFMkg2eWVieXMtWlhPWTkxUlJySmkzT01fd0p6ZWJHbmVLakI4OS1HV1dWNlF6emlXS0tBaDdMZlAwcThBbDNGWWM2Si1RM1V6VHBVRHRtTWY4TThrSXAway15X0VkUmJyUi1iNm92UEVWdGNKV1NHekN5RldGVTF0VjZ1emNtQi0xMUZ4MVpQNWN3?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2VUNVV1bU5ZaTZFNnplVlY3bDgyblFKWk5vQWxSWHBqQnk0c0VFeVlxZE41WGF1VTFBZXE5RUlneEZqUy1oNlgzWk1WSlBVWGNrZUNxR3BodDRuYUZ2ZUNHN2FXUXVRcFNQQ3hzZElGSFgxRzZXY3pEcGhGellyU0RvWlpDMFRrcUZNWFZrdDZWNU5iWTJrU2lWT2jSAaIBQVVfeXFMT1hwNVF6MENsMVR1R0JzdlFFMkg2eWVieXMtWlhPWTkxUlJySmkzT01fd0p6ZWJHbmVLakI4OS1HV1dWNlF6emlXS0tBaDdMZlAwcThBbDNGWWM2Si1RM1V6VHBVRHRtTWY4TThrSXAway15X0VkUmJyUi1iNm92UEVWdGNKV1NHekN5RldGVTF0VjZ1emNtQi0xMUZ4MVpQNWN3?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-04T04:06:00+00:00",
   "tickers": [],
@@ -3872,7 +3931,7 @@
  {
   "id": "ff7dc2719507",
   "title": "MBMA Private Placement 10,8 Miliar Saham, Potensi Dilusi 9,09 Persen",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnlsUWJSWUh5ejV5eTZkbTZoVGo5Qi1VVXRFNEJYVlk1cmpYczVsM3ZZX2hZM1RQS1FSd0hmbWlHYk9EQ2xtRV9TQ1VaQ2FVLUJ3RXpieUxLc1JvVzd5UngtdzZPMUhMMHJOQms1a21hSDFkOXhZeDBGcGdpLWJYdkRlU1pQUElyaHJfemxKSkwtYTJGbXVCYk5MM1JDeXFCYlp6aGVHeE8zYS1z0gGsAUFVX3lxTE0yeWxRYlJZSHl6NXl5NmRtNmhUajlCLVVVdEU0QlhWWTVyalhzNWwzdllfaFkzVFBLUVJ3SGZtaUdiT0RDbG1FX1NDVVpDYVUtQndFemJ5TEtzUm9XN3lSeC13Nk8xSEwwck5CazVrbWFIMWQ5eFl4MEZwZ2ktYlh2RGVTWlBQSXJocl96bEpKTC1hMkZtdUJiTkwzUkN5cUJiWnpoZUd4TzNhLXM?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2gxNmpyT3NhdGo0OHVBQkVac2FvWWQtdXFrRi1WSDJiVVZrcGJBMFV4aXEyUG5lblM3Mjh6R1VORHd3NnIwWlJyeEFiWTNPV21tSlppTUlOazFoalZJb0ozUWtnVTdkVllEQ1haN0IyUUhiN0duMXozLU5Val9VVWlGSlRYTmFNdU9SQ0hOUU5xQ1VTMjdhVFd4ek82bHNlbVJxT3BtUdIBrAFBVV95cUxNMnlsUWJSWUh5ejV5eTZkbTZoVGo5Qi1VVXRFNEJYVlk1cmpYczVsM3ZZX2hZM1RQS1FSd0hmbWlHYk9EQ2xtRV9TQ1VaQ2FVLUJ3RXpieUxLc1JvVzd5UngtdzZPMUhMMHJOQms1a21hSDFkOXhZeDBGcGdpLWJYdkRlU1pQUElyaHJfemxKSkwtYTJGbXVCYk5MM1JDeXFCYlp6aGVHeE8zYS1z?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-04T01:20:00+00:00",
   "tickers": [],
@@ -3900,7 +3959,7 @@
  {
   "id": "fffe04264d90",
   "title": "Merdeka Battery (MBMA) Gelar Private Placement, Siap Terbitkan 10,8 Miliar Saham",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcXQyMi1kUVVTenZiWUp6YWZRRHdsdF9CTzl6YTc3anBEMXRraVdOOHE1d053eDhYd0ZpSURISWdvNFJVREx4TFBrVGxwZ3VBam5pR2JpX24tUDN3SFE4VkdxYTdZbC0ybFB6NFdVRmxqaW1UckJvNzhFS2YzaFBhV0t0M0k3ZE53aGRrWTNRSmpybXEwZ0JQMUhOLVJZVFd5WDRPN0NwOFA2S2VBbVZPWGVuQ0dOZ9IBuwFBVV95cUxOM3hrVGtQV08yQXJfWTB4M1NDYi1xMm96OW5OQlcxdTNsemFsNGdTTlpwN3NwZHFQNDV2VHNmTkdtc2ZteHk2RU9SMEpGT3lWSW8zbi1Icl9aR1ozc200NV9PaWNZUFNxejFLUUZVRGRJWHlVTUV6TUlmckJ3eF95MW9na3pnYUJJN05SRkJndS1Wb1hSb1BrRVNNLURqckFxTkZBUEJKUk5QbUN6bUNONkRCUHRFbnZTSE9n?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3hrVGtQV08yQXJfWTB4M1NDYi1xMm96OW5OQlcxdTNsemFsNGdTTlpwN3NwZHFQNDV2VHNmTkdtc2ZteHk2RU9SMEpGT3lWSW8zbi1Icl9aR1ozc200NV9PaWNZUFNxejFLUUZVRGRJWHlVTUV6TUlmckJ3eF95MW9na3pnYUJJN05SRkJndS1Wb1hSb1BrRVNNLURqckFxTkZBUEJKUk5QbUN6bUNONkRCUHRFbnZTSE9n0gG7AUFVX3lxTE4zeGtUa1BXTzJBcl9ZMHgzU0NiLXEyb3o5bk5CVzF1M2x6YWw0Z1NOWnA3c3BkcVA0NXZUc2ZOR21zZm14eTZFT1IwSkZPeVZJbzNuLUhyX1pHWjNzbTQ1X09pY1lQU3F6MUtRRlVEZElYeVVNRXpNSWZyQnd4X3kxb2dremdhQkk3TlJGQmd1LVZvWFJvUGtFU00tRGpyQXFORkFQQkpSTlBtQ3ptQ042REJQdEVudlNIT2c?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-04T01:20:00+00:00",
   "tickers": [
