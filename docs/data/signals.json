@@ -30,6 +30,40 @@
   "anomali": null
  },
  {
+  "id": "212015bc7ce7",
+  "title": "OJK Sebut Gadai Saham Emiten Haji Isam ke Bank Mandiri Sesuai Aturan",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZlFILW9KVGVtRWlGT0xRQnMzTHRaRVo3OVVSaEVZdXBTZFVJWHZVMmFObmlHSjVubmM5ZjhIcGM4TFBBa1cweHBDdVJHenpISEd2R3hXZ05LNFBkN0U3aG4tS01udG1zNHVoS2JUZk0tWXVsRmNfV21FY2lOR3dQeEhJRTJWQk50dXpBTjRnaldMTzZUOHliMmRWUnR6NjdIc2JqUlFsNC1hZ3JuWlc3Q3JVSHBxQ09oclo1WmJ3d1dLUmhDUHY1RVNoZWtoVTTSAc8BQVVfeXFMT2ZRSC1vSlRlbUVpRk9MUUJzM0x0WkVaNzlVUmhFWXVwU2RVSVh2VTJhTm5pR0o1bm5jOWY4SHBjOExQQWtXMHhwQ3VSR3p6SEhHdkd4V2dOSzRQZDdFN2huLUtNbnRtczR1aEtiVGZNLVl1bEZjX1dtRWNpTkd3UHhISUUyVkJOdHV6QU40Z2pXTE82VDh5YjJkVlJ0ejY3SHNialJRbDQtYWdyblpXN0NyVUhwcUNPaHJaNVpid3dXS1JoQ1B2NUVTaGVraFU0?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-11-06T14:20:05+00:00",
+  "tickers": [
+   "BMRI"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-06T17:41:25.971751+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "OJK Sebut Gadai Saham Emiten Haji Isam ke Bank Mandiri Sesuai Aturan.  OJK Sebut Gadai Saham Emiten Haji Isam ke Bank Mandiri Sesuai Aturan &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 2,
+  "response": null,
+  "score": 18,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.13,
+   "abn5": -1.63,
+   "last": "2026-11-05"
+  }
+ },
+ {
   "id": "1c10cc0fb284",
   "title": "DOOH Akuisisi 29,88% Saham INET Senilai Rp 2 Triliun",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmFJNDlxaW1yWWxmbVhtOWtsTnVpanNtLVJDOUtxQ09TdUtsS09Jd2MxSF9Gc051QzBsWG16bVBpbzlqdTVNbkFTeTVUNE53Vms1SDFtb25rVEhxLWE1eWlmWmt2MnQyQUpncXh2Yk8xVVFabHREWEMtcEFQM3FqMHhKZlhueWh4SUJrag?oc=5",
@@ -89,8 +123,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.67,
-   "abn5": -5.61,
-   "last": "2026-11-06"
+   "abn5": -8.88,
+   "last": "2026-11-05"
   }
  },
  {
@@ -171,14 +205,14 @@
   "schedule": false,
   "party": false,
   "snippet": "Perusahaan Haji Isam Gadai Saham ke Bank Mandiri Buat Akuisisi, Ini Kata OJK.  Perusahaan Haji Isam Gadai Saham ke Bank Mandiri Buat Akuisisi, Ini Kata OJK &nbsp;&nbsp; Liputan6.com",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 6,
+  "score": 11,
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": -0.41,
-   "last": "2026-11-06"
+   "abn5": -1.63,
+   "last": "2026-11-05"
   }
  },
  {
@@ -281,6 +315,32 @@
   "schedule": false,
   "party": false,
   "snippet": "Prakiraan Mingguan Bitcoin: Penjual Memperkuat Cengkeraman saat BTC Membidik Penurunan Mingguan Kelima.  Prakiraan Mingguan Bitcoin: Penjual Memperkuat Cengkeraman saat BTC Membidik Penurunan Mingguan Kelima &nbsp;&nbsp; FXStreet",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "83cd28bf152d",
+  "title": "Prakiraan Mingguan Bitcoin: Penjual Perketat Cengkeraman, BTC Terancam Turun Lima Pekan Beruntun",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbHpCeEtUWnowc2xnbEhYa0NIY19XUkNQZDdmVDhzWWJoWDJBUlJJQ3pWVEs3QzBGNjlZUHg5MFRDN29SX0I5aVB6LURkMUdncnNXRUpUdjlBYVNrQ1J3Zl9oUGVBX3BhVEc5SHJZeEl6Q1FrUE5xSzdfY09QYU0yeUpWYUNiRzRqTWdjMkN0WkIzdEFpTWFVLXFBUkg0bFlaWEpYYkRJel9McDhMUmRjMkd6cnJKY3E5elMzMmNBOGtZbU9jMUdza0RYSkFYMkJmMllWdVJrN0NaWk9tcWxZMXhsR201cVdiNHVXR240MEZrXzI4NDl5WtIB_gFBVV95cUxOUGJOLUQ5a05FZ1lEYVU4aDZ3aGxjcHFkMFBZUTVyTU5XYmczZnRnaGRNdnFTV1htSWxiOEVOZ3JsTk5qOHNLRXhJQ0tERlFrQ0VZZS1EcmFYblFwYkVNVnRNbzFfLWhuc21zd1FWdGZmQlNnQXpfS0lFWkV3VThxZHFDZ2d0UXFYdTY2VkhZOXlaWmx6Q3JjYVFlQ2tIWWlfcnhqVU5FOXF6czg5YnEzMjFiM2hPbHdBeFdkQi1GaU5vekkwV0NjUXhnb1dKX3JxQ2VVVVBJTGs2M0lrNktxTTh2R3FNWjFUOWRjQ0lRMWc1QTlLX3FValZHOXFpUQ?oc=5",
+  "media": "FXStreet",
+  "published": "2026-11-06T11:49:24+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-06T17:41:25.971751+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prakiraan Mingguan Bitcoin: Penjual Perketat Cengkeraman, BTC Terancam Turun Lima Pekan Beruntun.  Prakiraan Mingguan Bitcoin: Penjual Perketat Cengkeraman, BTC Terancam Turun Lima Pekan Beruntun &nbsp;&nbsp; FXStreet",
   "corroboration": 0,
   "response": null,
   "score": 16,
@@ -3199,8 +3259,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": -1.58,
-   "last": "2026-11-06"
+   "abn5": 0.11,
+   "last": "2026-11-05"
   }
  },
  {
@@ -4049,6 +4109,34 @@
   "anomali": null
  },
  {
+  "id": "7be78aeb9771",
+  "title": "Penjualan ACES Tembus Rp6,9 Triliun, Laba Bersih Naik 25,7 Persen - landbank.id",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSk5WVnVsSGFOZGRwWEdrMHo5c3lzTWM4Nl8zcXZSSXNyTV9JaUJRUjBZQXFKQS1GTDd4NFQ5STJKblZHeEZncl9Nenk1bEJwN0wxY1l6YXVuaEhiYWtaVVFjXzQwSXhSa1BBX0V1ZjZoVHlBUVEtU25RMjQxcW1vWjFUV0MyMzJDLS1Ga1EtTTY4WkxLSGJWNU5VSkdMOXFKdU15WHJyTUTSAZoBQVVfeXFMTWFjUlVMSndXM0R1VjJqeExubEVPanhLYTQ4MjdJbkFpX296OW0waG5TYWRWcVZtYkMtNlFmbU1kUEVVTUNRQUhJeGZaUDlCRENvSVdRLUkwRk5qLWhRZDk1dUJaREJsR2dTU3kyRGRLbXRMQ09ELTRkM3ZvSTBONXRCd05PaXVVUENncmNzWkwxSnFXU2NOQjRPUQ?oc=5",
+  "media": "Landbank.co.id",
+  "published": "2026-11-04T05:14:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Laporan keuangan"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-06T17:41:25.971751+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 6900.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Penjualan ACES Tembus Rp6,9 Triliun, Laba Bersih Naik 25,7 Persen - landbank.id.  Penjualan ACES Tembus Rp6,9 Triliun, Laba Bersih Naik 25,7 Persen - landbank.id &nbsp;&nbsp; Landbank.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 26,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "60fb27fe1d2e",
   "title": "Prospek Saham Alfamart AMRT di Tengah Tekanan Rupiah dan Daya Beli",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OWlM1eWp2RlVSekZ0V21jeXdJOUFEd1FoTmdVT0JURFdJV2N3a29FQmxGYkxRcmVSeFJvcmJ1NWRSeklqZkh5bUZ5dVd1QjRoUWhvU21VVVNpZGVpa3hxcDlkUm9YZTJwQjJQdExsVQ?oc=5",
@@ -4230,12 +4318,12 @@
   "snippet": "MAP Boga (MAPB) Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya.  MAP Boga (MAPB) Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya &nbsp;&nbsp; StockWatch.id",
   "corroboration": 0,
   "response": null,
-  "score": 56,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": -9.29,
-   "last": "2026-11-06"
+   "abn5": 2.33,
+   "last": "2026-11-05"
   }
  },
  {
@@ -4620,8 +4708,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": -1.58,
-   "last": "2026-11-06"
+   "abn5": 0.11,
+   "last": "2026-11-05"
   }
  },
  {
@@ -4899,8 +4987,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.27,
-   "abn5": 4.59,
-   "last": "2026-11-06"
+   "abn5": 2.88,
+   "last": "2026-11-05"
   }
  },
  {
@@ -4931,8 +5019,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.12,
-   "abn5": -2.41,
-   "last": "2026-11-06"
+   "abn5": -0.19,
+   "last": "2026-11-05"
   }
  },
  {
@@ -5071,8 +5159,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.84,
-   "abn5": 0.92,
-   "last": "2026-11-06"
+   "abn5": 0.55,
+   "last": "2026-11-05"
   }
  },
  {
@@ -6201,8 +6289,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.18,
-   "abn5": -11.34,
-   "last": "2026-11-06"
+   "abn5": -16.53,
+   "last": "2026-11-05"
   }
  },
  {
@@ -6484,8 +6572,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.08,
-   "abn5": 0.13,
-   "last": "2026-11-06"
+   "abn5": 1.83,
+   "last": "2026-11-05"
   }
  },
  {
@@ -7378,8 +7466,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.35,
-   "abn5": -7.21,
-   "last": "2026-11-06"
+   "abn5": -9.97,
+   "last": "2026-11-05"
   }
  },
  {
@@ -7678,12 +7766,12 @@
   "snippet": "Harta Djaya Karya (MEJA) Incar Proyek Baru Rp 200 Miliar pada Tahun 2024.  Harta Djaya Karya (MEJA) Incar Proyek Baru Rp 200 Miliar pada Tahun 2024 &nbsp;&nbsp; TradingView",
   "corroboration": 1,
   "response": null,
-  "score": 22,
+  "score": 37,
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": -1.09,
-   "last": "2026-11-06"
+   "abn5": -7.46,
+   "last": "2026-11-05"
   }
  },
  {
@@ -8895,8 +8983,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.17,
-   "abn5": -8.2,
-   "last": "2026-11-06"
+   "abn5": -11.07,
+   "last": "2026-11-05"
   }
  },
  {
@@ -9723,8 +9811,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 2.54,
-   "last": "2026-11-06"
+   "abn5": 3.8,
+   "last": "2026-11-05"
   }
  },
  {
@@ -10030,30 +10118,6 @@
   "anomali": null
  },
  {
-  "id": "73d9e3715753",
-  "title": "Saham FILM dan COIN Masuk UMA",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WazVNYTFOWDl5N0dZVC1DeEs1dHU5amZGdWVmWF91eTBRMndtNkRsR25HSFJrVUpPQ25fTjM5RFNPeWpfQmNNTnZTVkxPemc1WXBEOXhkNGYzVnJZb1prQ0NDNk9IQmFJZnI2Umw2bEc?oc=5",
-  "media": "investor.id",
-  "published": "2026-10-29T07:00:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Saham FILM dan COIN Masuk UMA.  Saham FILM dan COIN Masuk UMA &nbsp;&nbsp; investor.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "5732848ab958",
   "title": "CIO Danantara Pandu Sjahrir Miliki Saham Supra Sekuritas yang Kena Sanksi OJK",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUdRX1BPNlk5YUZ5eDZlZjNRODlQQXQ0dnR5dDlvSUNqRmtvclNJWHMwdHNKeGFDaXNZdjN6WmRxdW9VSXB6SFpQd25zanY1dndJMEdHcWVqM3NvMlNtZjNHMGpocGpZMmlpZ01aSVotQVpRWmZINE5aX05rakQwR2JYX2c2X1pEMlAwWFNCMkNzMjAwRkxaMlVJNW5SUmVvd25MZUo1ZkdDVTBuWTh0Uw?oc=5",
@@ -10247,8 +10311,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 2.54,
-   "last": "2026-11-06"
+   "abn5": 3.8,
+   "last": "2026-11-05"
   }
  },
  {
@@ -10552,6 +10616,30 @@
   "anomali": null
  },
  {
+  "id": "73d9e3715753",
+  "title": "Saham FILM dan COIN Masuk UMA",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WazVNYTFOWDl5N0dZVC1DeEs1dHU5amZGdWVmWF91eTBRMndtNkRsR25HSFJrVUpPQ25fTjM5RFNPeWpfQmNNTnZTVkxPemc1WXBEOXhkNGYzVnJZb1prQ0NDNk9IQmFJZnI2Umw2bEc?oc=5",
+  "media": "investor.id",
+  "published": "2026-10-29T01:28:11+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham FILM dan COIN Masuk UMA.  Saham FILM dan COIN Masuk UMA &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "776da375967d",
   "title": "Saham SMDR Menguat 14,11%, Laba Bersih Naik pada 2026",
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CcVIyR1dSM0t3Rl8wZXB0RG5hRmpNRXc3MEQ1eVF1bHZOaFJtNW5NTTVnV3lwLXJMdGZsdHdRejdZb1VSLVZqUzFqRzVuME5YZWhQRER1OGI5bmVVSXBfU1lfTGQ0YzlvN1djWnRBY1pXbnVMVDd4YWJ5U1NMUQ?oc=5",
@@ -10609,8 +10697,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 2.54,
-   "last": "2026-11-06"
+   "abn5": 3.8,
+   "last": "2026-11-05"
   }
  },
  {
@@ -10643,8 +10731,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 2.54,
-   "last": "2026-11-06"
+   "abn5": 3.8,
+   "last": "2026-11-05"
   }
  },
  {
@@ -11051,8 +11139,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": -0.41,
-   "last": "2026-11-06"
+   "abn5": -1.63,
+   "last": "2026-11-05"
   }
  },
  {
@@ -11157,8 +11245,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": -0.41,
-   "last": "2026-11-06"
+   "abn5": -1.63,
+   "last": "2026-11-05"
   }
  },
  {
@@ -11881,8 +11969,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.67,
-   "abn5": -5.61,
-   "last": "2026-11-06"
+   "abn5": -8.88,
+   "last": "2026-11-05"
   }
  },
  {
