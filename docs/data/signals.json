@@ -1,5 +1,35 @@
 [
  {
+  "id": "5ff52e49db8f",
+  "title": "Tambah Modal, Garuda Indonesia (GIAA) Rights Issue 248,71 Miliar Saham",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOV9JRFZEdDJPSWJTRktXNGhMd2JiRWVsSEd5bDFHZVE1TVhpX3ZheERBemhXV19KUkhSdFZsbHN6M3lXZmJXTExQdDR2aTZiUmpZa0h1c0RkTEZMNWt3MkVwX2VNbnJNMGQ1M3BLdTZQUWNRS3FucVEyaVRkR0Y2ZXB2UzFyTzNGRVpzZVVjYzkxQ0w2Zlo5b1Y3N3VGQQ?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-06T14:31:00+00:00",
+  "tickers": [
+   "GIAA"
+  ],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-06T14:47:20.798943+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Tambah Modal, Garuda Indonesia (GIAA) Rights Issue 248,71 Miliar Saham.  Tambah Modal, Garuda Indonesia (GIAA) Rights Issue 248,71 Miliar Saham &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 5,
+  "response": null,
+  "score": 19,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "1c10cc0fb284",
   "title": "DOOH Akuisisi 29,88% Saham INET Senilai Rp 2 Triliun",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmFJNDlxaW1yWWxmbVhtOWtsTnVpanNtLVJDOUtxQ09TdUtsS09Jd2MxSF9Gc051QzBsWG16bVBpbzlqdTVNbkFTeTVUNE53Vms1SDFtb25rVEhxLWE1eWlmWmt2MnQyQUpncXh2Yk8xVVFabHREWEMtcEFQM3FqMHhKZlhueWh4SUJrag?oc=5",
@@ -26,6 +56,42 @@
   "score": 16,
   "outcome": null,
   "anomali": null
+ },
+ {
+  "id": "feb662d7671d",
+  "title": "OJK Tak Masalahkan Haji Isam Gadai Saham Demi Akuisisi Bayan (BYAN)",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLXNfRE9NY01lbXVSUXRwYTY3VlVwOUxTSEstM09CUU1tTTBPQmNTWWFTWnhXNjh1b0hvLVBnN1JhZi14Zi0tbWUtLUhBeDVndEstTS1ZZGl4M2NuNjZ3bWZscGpNVFAyM2VlUC1yTWw2T3EwdkRyNkwzdkZ0WHlNRWVuek1UWXkwLW5Ma0pQX2Q0cE9qNm01YVZqTUZjMUcwV3hZNU05alZDRTI2SjExczFhOW94SUc4XzJ4NERFZ9IBxAFBVV95cUxPeTNuT2pCVnRjTlVwSkFhWWt1VF9DaVhiYUZoWGNnV2phYmM2eHhFVXc1OTR3QXZfYi13UUc5eWFjZ3NPLVVFX2dMaWNKMDdXN0xmV0VwcHlhbXN0dzFzS1NfSFFhTWtHTW9URGZFNG1paWZoYXJiX3RDRENqWUtDZXBYeFdHUUV2RmY1dG1NZzBWQTJ5eDRPYU9aWklwbmhrLWdfUGRSVXZyQklLNkY1OHJIajAwd2JJSmNuTmRKOS1RZWlP?oc=5",
+  "media": "Katadata.co.id",
+  "published": "2026-11-06T13:19:00+00:00",
+  "tickers": [
+   "BYAN"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-06T14:47:20.798943+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "OJK Tak Masalahkan Haji Isam Gadai Saham Demi Akuisisi Bayan (BYAN).  OJK Tak Masalahkan Haji Isam Gadai Saham Demi Akuisisi Bayan (BYAN) &nbsp;&nbsp; Katadata.co.id",
+  "corroboration": 1,
+  "response": null,
+  "score": 27,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.67,
+   "abn5": -5.61,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "89299b2844cf",
@@ -272,7 +338,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya.  Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 25,
   "outcome": null,
@@ -283,7 +349,7 @@
   "title": "KOKA Jawab Pertanyaan BEI soal Volatilitas Saham, Ini Penjelasannya",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQTBUMmNJRmI1aWEyaGN6bWlsMEFFSlBISGhnbkE4ZDJIbnk5U2RTUTUtUjNHSnBrcERCVzdRYWM0WW15WWczeVc1N0JLTXc5NW5WekF4SDJnM19RRU9IUXJkSTNYMHB5TEIzUXdSVk5RaTl5R2dOXzl2TDFKODNGQU9Pb0RqSVVmZDdPOVlfTWh0akU?oc=5",
   "media": "StockWatch.id",
-  "published": "2026-11-06T08:09:11+00:00",
+  "published": "2026-11-06T08:53:52+00:00",
   "tickers": [],
   "uma": true,
   "jenis": [],
@@ -2028,7 +2094,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Garuda Indonesia (GIAA) Siapkan Rights Issue III, Inbreng 65,77% Saham GMFI.  Garuda Indonesia (GIAA) Siapkan Rights Issue III, Inbreng 65,77% Saham GMFI &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 4,
+  "corroboration": 5,
   "response": null,
   "score": 25,
   "outcome": null,
@@ -2086,7 +2152,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Garuda (GIAA) Rights Issue Jumbo, Dilusi Capai 37,92%.  Garuda (GIAA) Rights Issue Jumbo, Dilusi Capai 37,92% &nbsp;&nbsp; investor.id",
-  "corroboration": 4,
+  "corroboration": 5,
   "response": null,
   "score": 16,
   "outcome": null,
@@ -2116,7 +2182,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Garuda Indonesia (GIAA) Mau Rights Issue dan Inbreng Saham GMFI.  Garuda Indonesia (GIAA) Mau Rights Issue dan Inbreng Saham GMFI &nbsp;&nbsp; investor.id",
-  "corroboration": 4,
+  "corroboration": 5,
   "response": null,
   "score": 16,
   "outcome": null,
@@ -2366,7 +2432,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Garuda (GIAA) Akan Rights Issue Rp16,91 Triliun Termasuk Inbreng Saham GMFI - Bisnis.com.  Garuda (GIAA) Akan Rights Issue Rp16,91 Triliun Termasuk Inbreng Saham GMFI &nbsp;&nbsp; Bisnis.com - Market",
-  "corroboration": 4,
+  "corroboration": 5,
   "response": null,
   "score": 35,
   "outcome": null,
@@ -2396,7 +2462,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Garuda (GIAA) Rights Issue 248,7 M lembar, Danantara Setor Saham GMFI.  Garuda (GIAA) Rights Issue 248,7 M lembar, Danantara Setor Saham GMFI &nbsp;&nbsp; CNBC Indonesia",
-  "corroboration": 4,
+  "corroboration": 5,
   "response": null,
   "score": 24,
   "outcome": null,
@@ -6896,6 +6962,36 @@
   "anomali": null
  },
  {
+  "id": "37d358c1d5bd",
+  "title": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHJfVU5wME9pa0xmUHpNd19WZjhBZmNCVEppUVI2ZVZqeGM3VTFkUmlodExXcy1MRFAxdGozOV9BdEpud01IUmswdVRiNmdTXzhJWFVBbF9PdDlhVkNqa1FjQWxwRUtDTmlPMU44cXVMdlNMMUFhd29RU2tyakZoWEtkUzBuTnE4a2pWU21fN1E0aTVxd3FCbUlUcnJncG9JY3hZcVRVeWg2NW1yOEpEWTZSWnA5SzV4N3Vv?oc=5",
+  "media": "Jawa Pos",
+  "published": "2026-11-02T00:54:00+00:00",
+  "tickers": [
+   "SMGR"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-04T11:59:49.376094+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik.  Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik &nbsp;&nbsp; Jawa Pos",
+  "corroboration": 5,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "90a4a2e0795b",
   "title": "Bos BEI: Pihak Terduga Manipulasi Saham Akan Diumumkan ke Publik",
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3BXU1hlMzhuT3VZMDBXVndnbXBIZTcxSVlvWXJnTjExMjNudlVXRXVIamdPOGRRYUpaQkM0a0JYa0NlTzNJeUh4OU1NWTluMXRRZ0xTN3pFR2RLblpZd0ZOcnVBNHJZNG92UTc4NV9hcjd5Nm5lMC1pa050RVY3LVVJeGdvQzJkV2JEVGM0ZFZLbzZ6VkhCR3JLbUN0SEhGV3huYXgwWW5pSDFWN3ItUkxfWdIBuAFBVV95cUxOWk92a2tpLWZVbGpIcDdERzA4STV4ZU1ISV9mb3pCdmpmR0VZeG5KQXhESXVHZ3NrZ0ZuVGFmSG9MTV9oblU1NXRRN0U2eXgwR00tMkkzZDFVMWdDNlRvOWVOazJtS0RrN2hzRS1Kbm5VbEtYT21YTjJLUC1PR20tcHRVNG1MQm1faURZamJiSl95UkY5dzBYV0tEcnJiNzFVSTlsemc0QVVfNllUSWUzamh1NXdKUE1p?oc=5",
@@ -7149,36 +7245,6 @@
   "corroboration": 0,
   "response": null,
   "score": 6,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "37d358c1d5bd",
-  "title": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHJfVU5wME9pa0xmUHpNd19WZjhBZmNCVEppUVI2ZVZqeGM3VTFkUmlodExXcy1MRFAxdGozOV9BdEpud01IUmswdVRiNmdTXzhJWFVBbF9PdDlhVkNqa1FjQWxwRUtDTmlPMU44cXVMdlNMMUFhd29RU2tyakZoWEtkUzBuTnE4a2pWU21fN1E0aTVxd3FCbUlUcnJncG9JY3hZcVRVeWg2NW1yOEpEWTZSWnA5SzV4N3Vv?oc=5",
-  "media": "Jawa Pos",
-  "published": "2026-11-01T09:54:32+00:00",
-  "tickers": [
-   "SMGR"
-  ],
-  "uma": false,
-  "jenis": [
-   "Pembelian/penjualan besar"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-04T11:59:49.376094+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik.  Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik &nbsp;&nbsp; Jawa Pos",
-  "corroboration": 5,
-  "response": null,
-  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -9467,7 +9533,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.12,
+   "abn5": 2.54,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "420cee871686",
@@ -9963,7 +10033,11 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.12,
+   "abn5": 2.54,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "6f1f0e69e262",
@@ -10345,7 +10419,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.12,
+   "abn5": 2.54,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "5eead6220824",
@@ -10375,7 +10453,11 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.12,
+   "abn5": 2.54,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "692aa1cf9800",
@@ -10604,30 +10686,6 @@
   "anomali": null
  },
  {
-  "id": "14ff8c1c78d2",
-  "title": "Saham Melejit 106% Masuk UMA",
-  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrSE9FajBVVlNvTnpPY3pIVEFjTWwwcEVmaWEzTXlSbTFrSHdxQUFpWUlKTF9ab2k1Z24zY1BZM0FqaEtUbE9mejZhd2R3ZzRrSjFXVjZyWUtCTnN1N3BEMzZLZDRDLVBCamsyaDRB?oc=5",
-  "media": "investor.id",
-  "published": "2026-10-28T07:00:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-05T08:20:27.261079+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Saham Melejit 106% Masuk UMA.  Saham Melejit 106% Masuk UMA &nbsp;&nbsp; investor.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "444ebaa4443a",
   "title": "Pola Transaksi Saham BSML Masuk UMA",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LY0hNY29COHlSR0pkV3FjYjd1ejNnNktzTjdkMW1hdUJuWXJxallaR1VpX3lrZzlmeU1SSmRmSHc5WG5zcTY1YjN6RmRrcXhHUHNhZ2RLTGlJVXdLVjNPclpsM2huWU4weDZuTWE1NDdKWEpYNkplS3gtaU1sUVU?oc=5",
@@ -10674,6 +10732,30 @@
   "corroboration": 0,
   "response": null,
   "score": 44,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "14ff8c1c78d2",
+  "title": "Saham Melejit 106% Masuk UMA",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrSE9FajBVVlNvTnpPY3pIVEFjTWwwcEVmaWEzTXlSbTFrSHdxQUFpWUlKTF9ab2k1Z24zY1BZM0FqaEtUbE9mejZhd2R3ZzRrSjFXVjZyWUtCTnN1N3BEMzZLZDRDLVBCamsyaDRB?oc=5",
+  "media": "investor.id",
+  "published": "2026-10-28T01:40:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-05T08:20:27.261079+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham Melejit 106% Masuk UMA.  Saham Melejit 106% Masuk UMA &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
