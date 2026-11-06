@@ -4517,7 +4517,7 @@
  {
   "id": "482348cfe4a4",
   "title": "Danantara Bangun Kampung Haji di Makkah Mulai Desember, Akuisisi Novotel Thakher",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMm9iZ3NRTGhjejMtQV91YllhTWZWckhXUHY2eXlVRDNsSmZReUdEVHQ2dk9VMDVaVDNZNGRHZm9IaTFkaFk3ZHdGQmNCeld3Y192UHg1TXR2TlBXNWtTdkVQMWx0QUNnRVNqY3cteGpVMks1MHUxN1RLdFdudTlHSTYyMHZTWUhQWXNDYjl2R0RrNDktUWJYRVpvLVZDNEVhQkxCZnU4VG9ubHJ6WmJwZ2lhcmN6S1lFRU9FNGEtV20wS05pOVN3V0xpSDg2OG5FdEHSAdIBQVVfeXFMTTJvYmdzUUxoY3ozLUFfdWJZYU1mVnJIV1B2Nnl5VUQzbEpmUXlHRFR0NnZPVTA1WlQzWTRkR2ZvSGkxZGhZN2R3RkJjQnpXd2NfdlB4NU10dk5QVzVrU3ZFUDFsdEFDZ0VTamN3LXhqVTJLNTB1MTdUS3RXbnU5R0k2MjB2U1lIUFlzQ2I5dkdEazQ5LVFiWEVaby1WQzRFYUJMQmZ1OFRvbmxyelpicGdpYXJjektZRUVPRTRhLVdtMEtOaTlTd1dMaUg4NjhuRXRB?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnZBSWgzTFlNcEVwOUN5b3BUY25NZzFvVWU3Y2xwUFY1NHRCcmZTM0p0YlFNRHo5cEZwRlRNQmFxeGR4Q3hNcGpDY1haME9TVGNuQUZvbDItWk93QkpoTHc2RmZzTUZhcnZFSUx3cmJWNkg2aVhsTmFCc29MQ1JqLXZocm9lOE9pOTJCUkxhdThsRkJob2pMSV93cEFES05vZnRLay1qUWZmX1JBTnpIRHJGZThjU25RY0dzYkF2dWlBeXRrcThIU18zTzfSAdIBQVVfeXFMTTJvYmdzUUxoY3ozLUFfdWJZYU1mVnJIV1B2Nnl5VUQzbEpmUXlHRFR0NnZPVTA1WlQzWTRkR2ZvSGkxZGhZN2R3RkJjQnpXd2NfdlB4NU10dk5QVzVrU3ZFUDFsdEFDZ0VTamN3LXhqVTJLNTB1MTdUS3RXbnU5R0k2MjB2U1lIUFlzQ2I5dkdEazQ5LVFiWEVaby1WQzRFYUJMQmZ1OFRvbmxyelpicGdpYXJjektZRUVPRTRhLVdtMEtOaTlTd1dMaUg4NjhuRXRB?oc=5",
   "media": "Katadata.co.id",
   "published": "2026-11-04T01:36:00+00:00",
   "tickers": [],
@@ -8793,6 +8793,36 @@
   "anomali": null
  },
  {
+  "id": "90803159e802",
+  "title": "BCA Bantah Rumor Merger, Harga Saham Akhir Oktober Menguat",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHdHaUs2bk03bUJzVjczdkgzRXNLUmxPQ0NidlpIVGJKNW5ObG0xZ05xTktoQXI4QjczTkVSSkFGcnpRYi1yeDFSdDZxZTYyMWtjY3EtZVp4dlZqckg3Sy1MdEt4Rk55azZEM0xwVkFqMnZYT0EydjVTbGFnQTRMVmF3ZXhhYXR2Q3FRcWRB?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-10-30T10:33:42+00:00",
+  "tickers": [
+   "BBCA"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-06T21:31:33.095025+00:00",
+  "anon": [],
+  "corp": [
+   "merger"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BCA Bantah Rumor Merger, Harga Saham Akhir Oktober Menguat.  BCA Bantah Rumor Merger, Harga Saham Akhir Oktober Menguat &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 2,
+  "response": null,
+  "score": 14,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "4077a8495097",
   "title": "BCA Buka Suara soal Rumor Merger dengan DBS, Tegaskan Kabar Itu Tidak Benar",
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYXJMWUUxcXloU3dibHpnMUVpZS1xXzloeGxkcGZ2QzNnazhyR05rT1EzTlFXd191NVJfSWNMekcxeFU1MllZUkhWajFnSXBFdkVmM0dyVjRZN0FkZjF0S3JxaXNDMjFYZ2R1bWp0ZlR0QzliSmpEeFlhZ2hsV0tUaE9zN1BIN0lkUF9VM0h5QlcxRHFYaER4Tl9sNmhXaWlaQTV1YTBsYkdoQTRBUk5xLUZ5VdIBuAFBVV95cUxOMi0ySlpQZFpaRTZ4bW5vY1NubDd1NGdET1BVR2g0cXFvVXJneWxBRzhUS2o0MnRibU0xLXBvdHdlQ2w2NEpWTnFKVnJnRThKaElrRVJiWXlNQVFGZEw3Mk5vZm1WaFNiRnBqTnlHMlUwaXpKQ1hIR2I1WXRzcE5PVmg0dVU3em1JQmxrblc5UFhqSXRKaXVjdGdwbFM1SmRMQW9nMWI1Rm85YkloVlprT0owSXVOal9k?oc=5",
@@ -8816,9 +8846,9 @@
   "schedule": false,
   "party": false,
   "snippet": "BCA Buka Suara soal Rumor Merger dengan DBS, Tegaskan Kabar Itu Tidak Benar.  BCA Buka Suara soal Rumor Merger dengan DBS, Tegaskan Kabar Itu Tidak Benar &nbsp;&nbsp; IDX Channel",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": "membantah",
-  "score": 0,
+  "score": 4,
   "outcome": null,
   "anomali": null
  },
@@ -9277,9 +9307,9 @@
   "schedule": false,
   "party": false,
   "snippet": "DBS Pernah Gagal Caplok Danamon, Kini Terseret Rumor Merger BBCA.  DBS Pernah Gagal Caplok Danamon, Kini Terseret Rumor Merger BBCA &nbsp;&nbsp; IDX Channel",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": "membantah",
-  "score": 0,
+  "score": 4,
   "outcome": null,
   "anomali": null
  },
@@ -10111,9 +10141,9 @@
   "schedule": false,
   "party": false,
   "snippet": "DBS Bantah Rumor Merger, Saham BBCA Balik Jatuh 5 Persen.  DBS Bantah Rumor Merger, Saham BBCA Balik Jatuh 5 Persen &nbsp;&nbsp; IDX Channel",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": "membantah",
-  "score": 0,
+  "score": 4,
   "outcome": null,
   "anomali": null
  },
@@ -10361,9 +10391,9 @@
   "schedule": false,
   "party": false,
   "snippet": "DBS Bantah Rumor Merger dengan BCA.  DBS Bantah Rumor Merger dengan BCA &nbsp;&nbsp; IDX Channel",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": "membantah",
-  "score": 0,
+  "score": 4,
   "outcome": null,
   "anomali": null
  },
@@ -11544,7 +11574,7 @@
  {
   "id": "e570df36ee7e",
   "title": "BEI Tak Lagi Andalkan UMA, Saham Gorengan hingga Promosi Influencer Bakal Makin Disorot?",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3BCdHBrV0hMMkYxZktrRjJZX1dHb2h0cTJtY095NU5saHJaZ1lJenhQVUdpa2FhNUQ5bGh6Uy1iX0M2Uk9jdE1fbTJrNU9zdDk3WkJueDVTOGcwcXdFNUt5dkZNU3MzQlZFeUV0N3hKdVd2aDQzWDNQSXFHczYxRzh4UVBXU2YydzhVejlXc0tpRTViclNjdmljV2pkNE9qVjBhSHAzWlpmaGpyUmVaUkhaZ1V4TEQ2MWg1WnRicUprcUV1UmfSAcgBQVVfeXFMUDNIdEp2MFV1a3A5SzNrWm5vV2pDMGdIdS1Lc3Y3RGhfXzNUVUZXSFhUQVRJV2tRanEwVG9IOGlqTXEzLVplME1SNTdybUtON2E4d3JnNUtxRjBwbU1TY0FNZGdHT0t4UnR0ZmRmRUl6Y3JWbV9FWDY0TmdZWjRZOW1qQXBVd1NvZ3FjYTJCWTFJMGROaGlLY1owVEloaXJaZHpvU2FHVUFMb2wzNE5QZm9QdHJCbUhuQUdoRWVCZklyREJ3d0NaYnQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQanVNTm5IMGN5R1F5SE5NUjhDMlptaUlkRGtIYXN1QXdvYXc2TkV3WTlKNzJCR0hudFVXNzhFLXJCRGRhRHpGMVlkaWZwRUJVSEVIT0R4Y2FXT2hfZVY5X09tTWhTVk5LaUh2Tm43NllrLThwU2wzbmxpc2FoM2N2MndVUUdBV3l1dnlfVVE5LXloTkZya1JnOFZ3ZFlsUktlQi1sMnBtTHgzMHQ2aEVod3lIU2ZzVktCN2pHY0lOYVBNRkNTeWfSAcgBQVVfeXFMUDNIdEp2MFV1a3A5SzNrWm5vV2pDMGdIdS1Lc3Y3RGhfXzNUVUZXSFhUQVRJV2tRanEwVG9IOGlqTXEzLVplME1SNTdybUtON2E4d3JnNUtxRjBwbU1TY0FNZGdHT0t4UnR0ZmRmRUl6Y3JWbV9FWDY0TmdZWjRZOW1qQXBVd1NvZ3FjYTJCWTFJMGROaGlLY1owVEloaXJaZHpvU2FHVUFMb2wzNE5QZm9QdHJCbUhuQUdoRWVCZklyREJ3d0NaYnQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-10-26T07:00:00+00:00",
   "tickers": [],
