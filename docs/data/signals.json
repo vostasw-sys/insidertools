@@ -1,5 +1,41 @@
 [
  {
+  "id": "ad26d495a8df",
+  "title": "BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMjZPUUVVeXV6b1FzcmVDcHQyd0ZJTmZ5VWpVdGlzR1l5THRNdndLR0pPdzFtTTZOT1ZlNFZtOGJLMnYwRmVlQlV3X0pzZlY0RW1zMHkyRVBrc3Zzb2dqRi1MNkU3VzBlZFk3WXE0bHlOemxDemkyUjV3dXJuT2YyX2pXWmJIcG84U1hZRTByVVd1N2s2X0xDVDB3?oc=5",
+  "media": "stockwatch.id",
+  "published": "2026-11-07T06:51:10+00:00",
+  "tickers": [
+   "ICBP"
+  ],
+  "uma": true,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-07T07:51:10.402353+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 750.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman.  BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman &nbsp;&nbsp; stockwatch.id",
+  "corroboration": 1,
+  "response": null,
+  "score": 62,
+  "outcome": null,
+  "anomali": {
+   "vol_z": 1.15,
+   "abn5": 15.66,
+   "last": "2026-11-06"
+  }
+ },
+ {
   "id": "dfbca49e04c0",
   "title": "Electronic City Catat Pendapatan Rp 1,65 Triliun pada 2026",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZZHNnN2xCRUhQZGFVdWNYTnZUTkpIMERObUUxY1Y1QjV5OVI3TE5nOVBYRGxRcmhESmttNkdLTUtsYWRRQlBuaGlGMjNhb0FQcjhZc29FX0pxM2c4YVFqX3RjQ21lTktuSGZUY3dINGFuVlEyNWRraDVvcw?oc=5",
@@ -8825,11 +8861,15 @@
   "schedule": false,
   "party": false,
   "snippet": "Emiten ICBP Raup Penjualan Rp 64,45 Triliun.  Emiten ICBP Raup Penjualan Rp 64,45 Triliun &nbsp;&nbsp; Liputan6.com",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 16,
+  "score": 36,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 1.15,
+   "abn5": 15.66,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "971b03b5c873",
