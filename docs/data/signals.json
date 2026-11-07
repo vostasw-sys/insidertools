@@ -1,5 +1,63 @@
 [
  {
+  "id": "163a1444eb12",
+  "title": "IHSG Turun 1,97 Persen, Asing Borong Saham BUMN pada 6 November",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EVW42bEdFTFNsQkJzQ2szb29ZR1dUX3ZFOUJMQUhxR0pPZUFYdkRjVndiS2ZzWExQRlZjak9sVXNSaHAyTU8xekttd3JrSl9kdVFzR1ppMlBsWnJRVzlNLVJoMWlVSjhCWktVbzln?oc=5",
+  "media": "Cirebon Times",
+  "published": "2026-11-07T02:19:56+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-07T02:40:09.033570+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IHSG Turun 1,97 Persen, Asing Borong Saham BUMN pada 6 November.  IHSG Turun 1,97 Persen, Asing Borong Saham BUMN pada 6 November &nbsp;&nbsp; Cirebon Times",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "6df4b67849d4",
+  "title": "BSI (BRIS) Kantongi Restu Rights Issue, Bidik Penguatan Modal dan Free Float",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnlHMWZJa2dUa2tUaGR2c19LOTFqcDNkQm1yZTljUllMY3Rla1dLeER3cjBCWEF6Uk5YT0h3SWJWYzRveFZCLTJNMlZSdkdSekJ5cEY0QS1WYUxMekJDNlFwMm80anptOHJJbUh0WEp1eHpFRWNaVWxQZmg1eXcwVS1abGRMLXJCdUJmbERLdUFGS3JOb3V1WTExemdkWHBKR2JWV00zeXkzN0hwYkRTd0o0azZqek1rc2F4cmluRzZQTlV0S2c?oc=5",
+  "media": "Bisnis.com",
+  "published": "2026-11-07T00:42:38+00:00",
+  "tickers": [
+   "BRIS"
+  ],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-07T02:40:09.033570+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BSI (BRIS) Kantongi Restu Rights Issue, Bidik Penguatan Modal dan Free Float.  BSI (BRIS) Kantongi Restu Rights Issue, Bidik Penguatan Modal dan Free Float &nbsp;&nbsp; Bisnis.com",
+  "corroboration": 3,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "a2a8cba63435",
   "title": "Wall Street Bangkit Saat Saham Teknologi dan Semikonduktor Menguat",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9obUNHcTRnYjYyWWFnZkZwMmt3MlhSS01ETDBXQkNIWDlkNk5pWU1fRkZSSFlNSE0yWjRyb05GbXJyMnM3eUhGQUE3bGM3MGlZb1M5LUl1bUFfZDRTMGEwbGdDQ3BIQQ?oc=5",
@@ -85,9 +143,37 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": -1.63,
-   "last": "2026-11-05"
+   "abn5": -0.41,
+   "last": "2026-11-06"
   }
+ },
+ {
+  "id": "177e19c6b6fa",
+  "title": "DOOH Siapkan Akuisisi 29,88 Persen Saham INET",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZdUtpcUtmemE2OFFvWTZxcXB2enlyUUJhU09jWU5HZEtPRDk2YkNpNUZKeEhDTmZ5dlI1Zl9GbTdOd0pNWWFkdEdMa2txY3pmQmQyOFhLXzlVMTlXTVdJT00ycE5UY2w0R2hDVHh2bXFyM2JtbkJyMw?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-06T13:28:40+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-07T02:40:09.033570+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "DOOH Siapkan Akuisisi 29,88 Persen Saham INET.  DOOH Siapkan Akuisisi 29,88 Persen Saham INET &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
  },
  {
   "id": "1c10cc0fb284",
@@ -261,8 +347,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": -1.63,
-   "last": "2026-11-05"
+   "abn5": -0.41,
+   "last": "2026-11-06"
   }
  },
  {
@@ -692,9 +778,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Pemegang Saham Setujui Rights Issue BSI (BRIS), Perkuat Permodalan & Free Float.  Pemegang Saham Setujui Rights Issue BSI (BRIS), Perkuat Permodalan & Free Float &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 2,
+  "corroboration": 3,
   "response": null,
-  "score": 20,
+  "score": 25,
   "outcome": null,
   "anomali": null
  },
@@ -938,9 +1024,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Perkuat Permodalan dan Dorong Peningkatan Free Float, Pemegang Saham Setujui Rights Issue BSI (BRIS).  Perkuat Permodalan dan Dorong Peningkatan Free Float, Pemegang Saham Setujui Rights Issue BSI (BRIS) &nbsp;&nbsp; IDX Channel",
-  "corroboration": 2,
+  "corroboration": 3,
   "response": null,
-  "score": 14,
+  "score": 19,
   "outcome": null,
   "anomali": null
  },
@@ -3443,8 +3529,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": 0.11,
-   "last": "2026-11-05"
+   "abn5": -1.58,
+   "last": "2026-11-06"
   }
  },
  {
@@ -4472,12 +4558,12 @@
   "snippet": "MAP Boga (MAPB) Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya.  MAP Boga (MAPB) Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya &nbsp;&nbsp; StockWatch.id",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": 2.33,
-   "last": "2026-11-05"
+   "abn5": -9.29,
+   "last": "2026-11-06"
   }
  },
  {
@@ -4862,8 +4948,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": 0.11,
-   "last": "2026-11-05"
+   "abn5": -1.58,
+   "last": "2026-11-06"
   }
  },
  {
@@ -5141,8 +5227,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.27,
-   "abn5": 2.88,
-   "last": "2026-11-05"
+   "abn5": 4.59,
+   "last": "2026-11-06"
   }
  },
  {
@@ -5173,8 +5259,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.12,
-   "abn5": -0.19,
-   "last": "2026-11-05"
+   "abn5": -2.41,
+   "last": "2026-11-06"
   }
  },
  {
@@ -5262,6 +5348,34 @@
   "anomali": null
  },
  {
+  "id": "bd6d86aba199",
+  "title": "GDK Siap Serap Saham Buyback DGIK hingga Akhir Desember 2026",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd1pCc2pSVDd5cVdfTlFwLWE0NWpfeGJlRVdtVndOd0dBOGRfNXR6b1l5cFVQR0tmYVNmUVU2WXpWUDJLRnk4dzluWGlQOXExekQzN1FzVURrLUZfd2xFamlpQjRLaTMweE04anBBZ3FMUHltaE9pS2JRZURlT1o1U1NLV1dLM05GVENsU3dOSGw0Zw?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-03T09:54:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-07T02:40:09.033570+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "GDK Siap Serap Saham Buyback DGIK hingga Akhir Desember 2026.  GDK Siap Serap Saham Buyback DGIK hingga Akhir Desember 2026 &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "dcf750bc4b66",
   "title": "BOGA Group Akuisisi Sukiyaki Rin, Targetkan Perluasan Pasar ke Kota Besar di Indonesia",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3R5b0s0V0Q1N1lYN0VHWlFHd0MyN2RxY3p4ZWZNT3k5aW85Qjd4QzBKWlFaTEVQN3RXd0FJU3laLUFEZzNlTHRmb25sSGN4cTN0SFBmWV9obllreUl0QWRESHR2NE1WYk16VnB1elh4Y1JkanptLWZ3NHN5VXlHdUNhcFpBVWp1Z0J5OEQ0WURzQVFVaDNHUlN5bEVxOVVzVVpLaE14SVNsamdXVXcyb3hkblNtb29tSWNhNjRMaG5VYThS0gHHAUFVX3lxTE90cnhMSDRLUUpZZHFGUWJrODRwM3pLUzh4Vl9pdEVnVno3N1pNT1lzYjE3dnpPNC11UF9WVG1JTDlLeU1Fd0R5YnNFbEJJSkIzSGtHU2txNG1Gel9MWm1MeUNacHpBVlRtUHRLR3V2MUZ6RmhGZWlYVW9YeU11Z3praXFIM2hOX2dmeFR0WU82cUVHYWxsNVpLNDJfdHlnbFlLbFk5Y09kV2t5QTc2SXhCZldVMGdmblZQNmhvUFA2NG9ELTBQZ2c?oc=5",
@@ -5343,8 +5457,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.84,
-   "abn5": 0.55,
-   "last": "2026-11-05"
+   "abn5": 0.92,
+   "last": "2026-11-06"
   }
  },
  {
@@ -6499,8 +6613,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.18,
-   "abn5": -16.53,
-   "last": "2026-11-05"
+   "abn5": -11.34,
+   "last": "2026-11-06"
   }
  },
  {
@@ -6782,8 +6896,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.08,
-   "abn5": 1.83,
-   "last": "2026-11-05"
+   "abn5": 0.13,
+   "last": "2026-11-06"
   }
  },
  {
@@ -7478,6 +7592,36 @@
   "anomali": null
  },
  {
+  "id": "37d358c1d5bd",
+  "title": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHJfVU5wME9pa0xmUHpNd19WZjhBZmNCVEppUVI2ZVZqeGM3VTFkUmlodExXcy1MRFAxdGozOV9BdEpud01IUmswdVRiNmdTXzhJWFVBbF9PdDlhVkNqa1FjQWxwRUtDTmlPMU44cXVMdlNMMUFhd29RU2tyakZoWEtkUzBuTnE4a2pWU21fN1E0aTVxd3FCbUlUcnJncG9JY3hZcVRVeWg2NW1yOEpEWTZSWnA5SzV4N3Vv?oc=5",
+  "media": "Jawa Pos",
+  "published": "2026-11-02T00:54:00+00:00",
+  "tickers": [
+   "SMGR"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-04T11:59:49.376094+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik.  Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik &nbsp;&nbsp; Jawa Pos",
+  "corroboration": 5,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "90a4a2e0795b",
   "title": "Bos BEI: Pihak Terduga Manipulasi Saham Akan Diumumkan ke Publik",
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3BXU1hlMzhuT3VZMDBXVndnbXBIZTcxSVlvWXJnTjExMjNudlVXRXVIamdPOGRRYUpaQkM0a0JYa0NlTzNJeUh4OU1NWTluMXRRZ0xTN3pFR2RLblpZd0ZOcnVBNHJZNG92UTc4NV9hcjd5Nm5lMC1pa050RVY3LVVJeGdvQzJkV2JEVGM0ZFZLbzZ6VkhCR3JLbUN0SEhGV3huYXgwWW5pSDFWN3ItUkxfWdIBuAFBVV95cUxOWk92a2tpLWZVbGpIcDdERzA4STV4ZU1ISV9mb3pCdmpmR0VZeG5KQXhESXVHZ3NrZ0ZuVGFmSG9MTV9oblU1NXRRN0U2eXgwR00tMkkzZDFVMWdDNlRvOWVOazJtS0RrN2hzRS1Kbm5VbEtYT21YTjJLUC1PR20tcHRVNG1MQm1faURZamJiSl95UkY5dzBYV0tEcnJiNzFVSTlsemc0QVVfNllUSWUzamh1NXdKUE1p?oc=5",
@@ -7676,8 +7820,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.35,
-   "abn5": -9.97,
-   "last": "2026-11-05"
+   "abn5": -7.21,
+   "last": "2026-11-06"
   }
  },
  {
@@ -7731,36 +7875,6 @@
   "corroboration": 0,
   "response": null,
   "score": 6,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "37d358c1d5bd",
-  "title": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHJfVU5wME9pa0xmUHpNd19WZjhBZmNCVEppUVI2ZVZqeGM3VTFkUmlodExXcy1MRFAxdGozOV9BdEpud01IUmswdVRiNmdTXzhJWFVBbF9PdDlhVkNqa1FjQWxwRUtDTmlPMU44cXVMdlNMMUFhd29RU2tyakZoWEtkUzBuTnE4a2pWU21fN1E0aTVxd3FCbUlUcnJncG9JY3hZcVRVeWg2NW1yOEpEWTZSWnA5SzV4N3Vv?oc=5",
-  "media": "Jawa Pos",
-  "published": "2026-11-01T09:54:32+00:00",
-  "tickers": [
-   "SMGR"
-  ],
-  "uma": false,
-  "jenis": [
-   "Pembelian/penjualan besar"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-04T11:59:49.376094+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik.  Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik &nbsp;&nbsp; Jawa Pos",
-  "corroboration": 5,
-  "response": null,
-  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -8006,12 +8120,12 @@
   "snippet": "Harta Djaya Karya (MEJA) Incar Proyek Baru Rp 200 Miliar pada Tahun 2024.  Harta Djaya Karya (MEJA) Incar Proyek Baru Rp 200 Miliar pada Tahun 2024 &nbsp;&nbsp; TradingView",
   "corroboration": 1,
   "response": null,
-  "score": 37,
+  "score": 22,
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": -7.46,
-   "last": "2026-11-05"
+   "abn5": -1.09,
+   "last": "2026-11-06"
   }
  },
  {
@@ -9253,8 +9367,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.17,
-   "abn5": -11.07,
-   "last": "2026-11-05"
+   "abn5": -8.2,
+   "last": "2026-11-06"
   }
  },
  {
@@ -10081,8 +10195,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.8,
-   "last": "2026-11-05"
+   "abn5": 2.54,
+   "last": "2026-11-06"
   }
  },
  {
@@ -10629,8 +10743,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.8,
-   "last": "2026-11-05"
+   "abn5": 2.54,
+   "last": "2026-11-06"
   }
  },
  {
@@ -10967,8 +11081,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.8,
-   "last": "2026-11-05"
+   "abn5": 2.54,
+   "last": "2026-11-06"
   }
  },
  {
@@ -11001,8 +11115,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.8,
-   "last": "2026-11-05"
+   "abn5": 2.54,
+   "last": "2026-11-06"
   }
  },
  {
@@ -11409,8 +11523,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": -1.63,
-   "last": "2026-11-05"
+   "abn5": -0.41,
+   "last": "2026-11-06"
   }
  },
  {
@@ -11541,8 +11655,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": -1.63,
-   "last": "2026-11-05"
+   "abn5": -0.41,
+   "last": "2026-11-06"
   }
  },
  {
@@ -11676,7 +11790,7 @@
  {
   "id": "e570df36ee7e",
   "title": "BEI Tak Lagi Andalkan UMA, Saham Gorengan hingga Promosi Influencer Bakal Makin Disorot?",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3BCdHBrV0hMMkYxZktrRjJZX1dHb2h0cTJtY095NU5saHJaZ1lJenhQVUdpa2FhNUQ5bGh6Uy1iX0M2Uk9jdE1fbTJrNU9zdDk3WkJueDVTOGcwcXdFNUt5dkZNU3MzQlZFeUV0N3hKdVd2aDQzWDNQSXFHczYxRzh4UVBXU2YydzhVejlXc0tpRTViclNjdmljV2pkNE9qVjBhSHAzWlpmaGpyUmVaUkhaZ1V4TEQ2MWg1WnRicUprcUV1UmfSAcgBQVVfeXFMUDNIdEp2MFV1a3A5SzNrWm5vV2pDMGdIdS1Lc3Y3RGhfXzNUVUZXSFhUQVRJV2tRanEwVG9IOGlqTXEzLVplME1SNTdybUtON2E4d3JnNUtxRjBwbU1TY0FNZGdHT0t4UnR0ZmRmRUl6Y3JWbV9FWDY0TmdZWjRZOW1qQXBVd1NvZ3FjYTJCWTFJMGROaGlLY1owVEloaXJaZHpvU2FHVUFMb2wzNE5QZm9QdHJCbUhuQUdoRWVCZklyREJ3d0NaYnQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQanVNTm5IMGN5R1F5SE5NUjhDMlptaUlkRGtIYXN1QXdvYXc2TkV3WTlKNzJCR0hudFVXNzhFLXJCRGRhRHpGMVlkaWZwRUJVSEVIT0R4Y2FXT2hfZVY5X09tTWhTVk5LaUh2Tm43NllrLThwU2wzbmxpc2FoM2N2MndVUUdBV3l1dnlfVVE5LXloTkZya1JnOFZ3ZFlsUktlQi1sMnBtTHgzMHQ2aEVod3lIU2ZzVktCN2pHY0lOYVBNRkNTeWfSAcgBQVVfeXFMUDNIdEp2MFV1a3A5SzNrWm5vV2pDMGdIdS1Lc3Y3RGhfXzNUVUZXSFhUQVRJV2tRanEwVG9IOGlqTXEzLVplME1SNTdybUtON2E4d3JnNUtxRjBwbU1TY0FNZGdHT0t4UnR0ZmRmRUl6Y3JWbV9FWDY0TmdZWjRZOW1qQXBVd1NvZ3FjYTJCWTFJMGROaGlLY1owVEloaXJaZHpvU2FHVUFMb2wzNE5QZm9QdHJCbUhuQUdoRWVCZklyREJ3d0NaYnQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-10-26T07:00:00+00:00",
   "tickers": [],
