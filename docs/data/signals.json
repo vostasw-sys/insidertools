@@ -3055,7 +3055,9 @@
   ],
   "asal": [],
   "first_seen": "2026-11-05T08:20:27.261079+00:00",
-  "anon": [],
+  "anon": [
+   "sumber yang mengetahui"
+  ],
   "corp": [
    "akuisisi"
   ],
@@ -3066,7 +3068,7 @@
   "snippet": "Bidik Pasar Obesitas, AstraZeneca Siapkan Akuisisi Rhythm Pharmaceuticals.  Bidik Pasar Obesitas, AstraZeneca Siapkan Akuisisi Rhythm Pharmaceuticals &nbsp;&nbsp; kontan.co.id",
   "corroboration": 0,
   "response": null,
-  "score": 15,
+  "score": 25,
   "outcome": null,
   "anomali": null
  },
@@ -12453,6 +12455,32 @@
   }
  },
  {
+  "id": "e33f051e082d",
+  "title": "BEI Ubah Pengawasan Saham, Investigasi Manipulasi Harga Tak Lagi Andalkan UMA",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KVHVfNkZEcWFhS244bFBCRWtGRDJhVDBPcUJjRnFuMDFhUVhNbVVUd1RESmdxVkRNLVVmZGVmcDZ3U0tzdjhhUzRVSUlDeVh5U3VOczdORnpMc05mRnphdkszeEJOQlllVXh0RkJmd1NmM1dVSk4xTWhR?oc=5",
+  "media": "Stapo.id",
+  "published": "2026-10-26T22:39:52+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-07T19:34:31.734112+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Ubah Pengawasan Saham, Investigasi Manipulasi Harga Tak Lagi Andalkan UMA.  BEI Ubah Pengawasan Saham, Investigasi Manipulasi Harga Tak Lagi Andalkan UMA &nbsp;&nbsp; Stapo.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "f554b1766255",
   "title": "CIMB Niaga Buka Suara soal Gejolak Saham BNGA, Ini Penjelasannya",
   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2t3cEJRb1ZTVEJSWGZNQTNaQ2gtdkxVM1FGNDhoa1dNV2VPeTRVaXlMY3VIWG5oUmRFc0J1cTRXT2hhVmRRdUNsYk1QWU9lS2J1dmx1eEtKaDd3NWhFTEdQRzhUeGlBd1JMUzVUcnBiX0wwRFJQN2U4XzRNNUtUM05haWlobWJxSEp0M0pTSQ?oc=5",
@@ -13023,6 +13051,32 @@
   "anomali": null
  },
  {
+  "id": "7aed01f411d4",
+  "title": "BEI Bakal Kurangi UMA, Langsung Investigasi Indikasi Manipulasi Saham - kumparan.com",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVTVPcWdXTEh6OHREV3pselFYTXlxUm05YWNMS1hUclQ4Wnd2TXV1ZG9STjl6MlNPNC1kQnkzX3V5ZzFwOVZnR2NLWF93Rk5yQjBpeTNISUFrYVdlS29pTzJ0dENxSDFzSUFQS2NfVVd1aXZxbm5zeWd2ZTdXNldERU40Zk5uWXdZTGo0SDJEQzVKWFBUemhhOHZnRXlzbzNEMk9qM3BRdmxnRk1VSW8wdnFxbm5nZWPSAb8BQVVfeXFMTWtxSlFsWFV3elVVRDlxSEx6SUtWN0JlTkwtN2lrSUlZMm92MmRSOXBJUl9QRXJFaEhyMTdKMWs4MlFZWFZHdlFraXpEUkJnd0xTaEtMVWV3TGFsel96WkhMOHQ2OTl6ekRJalVMQnFSc3dhNnRuOWhhSjFvdnNhVWViQVVJbDlWSURrNDRIWEp4eWpyd25UbHhreDEtUGlxb1NPNUE2VlROQzAtQ1hvcjFHYmJuQmxYX1VIam9uMDg?oc=5",
+  "media": "Kumparan.com",
+  "published": "2026-10-26T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Bakal Kurangi UMA, Langsung Investigasi Indikasi Manipulasi Saham - kumparan.com.  BEI Bakal Kurangi UMA, Langsung Investigasi Indikasi Manipulasi Saham - kumparan.com &nbsp;&nbsp; Kumparan.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "28601952acf8",
   "title": "Suspensi Saham Diganti Pembekuan Rekening Efek oleh BEI",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdzlMVFROLVJOc09hYkNvZTBTbHkyOTZJaDBxUEV4ZVFvTnhaeWNFYWdBbGxSTzZ1ZTlmUDk4ck1JY3ZuMk1Td2dmQ3Jxak82UVpEQ0tKcFI5a3hhYW4xbkZuQ2NOSXlXOTV4OVRtaTZNWWJtMWdiRUVLQlp5SDkyNGFnaWVSOHM4dlVRZWdwdDVuam1rc2RuZ0lqWQ?oc=5",
@@ -13068,32 +13122,6 @@
   "schedule": false,
   "party": false,
   "snippet": "BEI Pangkas UMA, Siap Umumkan Saham yang Diinvestigasi.  BEI Pangkas UMA, Siap Umumkan Saham yang Diinvestigasi &nbsp;&nbsp; EGINDO",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "7aed01f411d4",
-  "title": "BEI Bakal Kurangi UMA, Langsung Investigasi Indikasi Manipulasi Saham - kumparan.com",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVTVPcWdXTEh6OHREV3pselFYTXlxUm05YWNMS1hUclQ4Wnd2TXV1ZG9STjl6MlNPNC1kQnkzX3V5ZzFwOVZnR2NLWF93Rk5yQjBpeTNISUFrYVdlS29pTzJ0dENxSDFzSUFQS2NfVVd1aXZxbm5zeWd2ZTdXNldERU40Zk5uWXdZTGo0SDJEQzVKWFBUemhhOHZnRXlzbzNEMk9qM3BRdmxnRk1VSW8wdnFxbm5nZWPSAb8BQVVfeXFMTWtxSlFsWFV3elVVRDlxSEx6SUtWN0JlTkwtN2lrSUlZMm92MmRSOXBJUl9QRXJFaEhyMTdKMWs4MlFZWFZHdlFraXpEUkJnd0xTaEtMVWV3TGFsel96WkhMOHQ2OTl6ekRJalVMQnFSc3dhNnRuOWhhSjFvdnNhVWViQVVJbDlWSURrNDRIWEp4eWpyd25UbHhreDEtUGlxb1NPNUE2VlROQzAtQ1hvcjFHYmJuQmxYX1VIam9uMDg?oc=5",
-  "media": "Kumparan.com",
-  "published": "2026-10-26T04:59:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "BEI Bakal Kurangi UMA, Langsung Investigasi Indikasi Manipulasi Saham - kumparan.com.  BEI Bakal Kurangi UMA, Langsung Investigasi Indikasi Manipulasi Saham - kumparan.com &nbsp;&nbsp; Kumparan.com",
   "corroboration": 0,
   "response": null,
   "score": 41,
