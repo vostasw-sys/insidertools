@@ -4809,6 +4809,34 @@
   "anomali": null
  },
  {
+  "id": "9c52564a3397",
+  "title": "BEI Delisting 18 Saham pada 10 November 2026, SRIL TOYS SUGI MABA TELE ENVY TRIL PLAS",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2VmRHhfd3h2QXVoN2tWSzlNYmpGMmptX1NuODhOa1VSUkt3MTJLdUxJTmlPTUZyR1NmekUtNWw5UkJqZ0IxUGNjWVJ1cTdvcy1RUHVHczRvVlFvQ0FFRnl3UnpCZUllcWIzUU5maU5xSUZMaWlHak5CUURtQ1VVNkFJeDMxNzVVNDNBNmxJRzBINzVLQlU2b3p2QmFheWlMekdZLS1wRGJHQWRxck4zaEx2R1owaEZMX2h2ZNIBtAFBVV95cUxNT0tDWTVVMXNQVzhOXzdFRHhLbnUwWHdnYzJfaHJjbEJlaldFY2ZMTFBTZ29ENENXNHUtVjl4ZGE4aHNSbGVHdVlmcmpnYzZfbFJzcVE4Skppbi1UcGFkd1NZcDgzWmZpX0s3djJGZVV4bV95WW0zUWY1MlpEMUFjdU5RRlh4RDRyX0lwZldYYmtSbDk1cUZtUE8yMEJDX2JKbXRZR1ZmX2NkbGJjNzZ4ZmJJTFY?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-04T08:35:35+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-07T20:27:56.483473+00:00",
+  "anon": [],
+  "corp": [
+   "delisting"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Delisting 18 Saham pada 10 November 2026, SRIL TOYS SUGI MABA TELE ENVY TRIL PLAS.  BEI Delisting 18 Saham pada 10 November 2026, SRIL TOYS SUGI MABA TELE ENVY TRIL PLAS &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "c292b24117be",
   "title": "Disney Dikabarkan Bakal PHK Ribuan Karyawan",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kZk52S2puVmcxWVVqU2txTU5wcmI5MC1BcWtsQjVuY1k2cGZCenRZQlVrZUdROFAzT3hfZXVZNE1zQW16YTJyTEtNck9aMWpWazdqMDI5eGw0RGxJZ2k2YUVkck05S3V1czB3V0NIcHRmblNJcG9R?oc=5",
@@ -11094,11 +11122,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.12,
-   "abn5": 2.54,
-   "last": "2026-11-06"
-  }
+  "anomali": null
  },
  {
   "id": "420cee871686",
@@ -11668,11 +11692,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.12,
-   "abn5": 2.54,
-   "last": "2026-11-06"
-  }
+  "anomali": null
  },
  {
   "id": "6f1f0e69e262",
@@ -11980,11 +12000,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.12,
-   "abn5": 2.54,
-   "last": "2026-11-06"
-  }
+  "anomali": null
  },
  {
   "id": "5eead6220824",
@@ -12014,11 +12030,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.12,
-   "abn5": 2.54,
-   "last": "2026-11-06"
-  }
+  "anomali": null
  },
  {
   "id": "692aa1cf9800",
@@ -12505,32 +12517,6 @@
   "anomali": null
  },
  {
-  "id": "ad3726a8e86a",
-  "title": "BEI Bisa Bekukan Rekening Saham, Ubah Aturan UMA dan Suspensi, Ini Dampaknya bagi Investor",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORUZmb2l1WUs5aHNHdEVPMHU5VWN2NDFiaWpzM1g1RDFxNG9Xb0FwOGJiNC1vdEREV3VoLVE2NVM2b3FBbGJXV3ZCRUtLMWRQekx3d0ZGa3RRWEMyR2l1eEs2QUJCRUwwLUtXWG1sRjBVZDZvMHBMaWozNm84OVJ0UXRyQkx0MTdwUGdsWGF5eTJVOFdaTWdGVGhHU0ZYXzNTZl9JeTdOMklFeHpZWkFJQzBUc1lEOXREbDYwZmNWLW5ZMTR2ejJQWUNVbUFIaTVEM0pvX3c5Y2hjZGtSXzBUUjhCX0LSAd4BQVVfeXFMTklKdGVHakZkYkRETjNPa2V4eUZLMUZVWVl1T0RBVWozUGxUX2Zxc2hQd0g4NUZKV1Y4S185NzRLUHFZTDE5VlhpanNVeUlUZkF2eEkzaHk1Q1dnNWh2bmFZU0ZzN3dGMGIxVzVOZUFHQ2tIdFp1Tm5ZX29jQl94QWNqWWtaRENVOW1nSnZPSGRrbW1OREJuZ21DdHpOeHJBcUh5azRWMlQweWlKRGwyOFFjMkRlc2d5Mkk4N1JNWUZlR3BiTDMxQmowMW1ia3JtVEt5eVZFQjVMNUN3Y0ZR?oc=5",
-  "media": "Pikiran-Rakyat.com",
-  "published": "2026-10-26T11:20:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "BEI Bisa Bekukan Rekening Saham, Ubah Aturan UMA dan Suspensi, Ini Dampaknya bagi Investor.  BEI Bisa Bekukan Rekening Saham, Ubah Aturan UMA dan Suspensi, Ini Dampaknya bagi Investor &nbsp;&nbsp; Pikiran-Rakyat.com",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "8c3dc35ff386",
   "title": "BEI Ubah Strategi Pengawasan: Kurangi UMA, Langsung Investigasi Dugaan Manipulasi Saham",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQy1KSDJYVEFmWDBtbEp6a1VjSHczUGVLaTBNYk9aUzZPbzBkbWFoMG11SHJmRS1iTFJaeFhQTEhFOHVWOWNRQ3ZCUzRIOWxRSko3SHFiOXI5RU9KWGloOWNsbnc1SHRlRHI4UUZrc3Z4aUlpcE1WOVNmUExONUNpdWNFTktUUTJRbHlNMlV3SmlYYWFmT1ZuZDJyVDRURVNCaEt1dTZsZUZGbVVZZkxXXzF6ZmhqcjJYcjdCZlNR?oc=5",
@@ -12576,6 +12562,32 @@
   "schedule": false,
   "party": false,
   "snippet": "BEI Perketat Pengawasan Saham Gorengan, Tak Cukup UMA dan Suspensi.  BEI Perketat Pengawasan Saham Gorengan, Tak Cukup UMA dan Suspensi &nbsp;&nbsp; Head Topics",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "ad3726a8e86a",
+  "title": "BEI Bisa Bekukan Rekening Saham, Ubah Aturan UMA dan Suspensi, Ini Dampaknya bagi Investor",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORUZmb2l1WUs5aHNHdEVPMHU5VWN2NDFiaWpzM1g1RDFxNG9Xb0FwOGJiNC1vdEREV3VoLVE2NVM2b3FBbGJXV3ZCRUtLMWRQekx3d0ZGa3RRWEMyR2l1eEs2QUJCRUwwLUtXWG1sRjBVZDZvMHBMaWozNm84OVJ0UXRyQkx0MTdwUGdsWGF5eTJVOFdaTWdGVGhHU0ZYXzNTZl9JeTdOMklFeHpZWkFJQzBUc1lEOXREbDYwZmNWLW5ZMTR2ejJQWUNVbUFIaTVEM0pvX3c5Y2hjZGtSXzBUUjhCX0LSAd4BQVVfeXFMTklKdGVHakZkYkRETjNPa2V4eUZLMUZVWVl1T0RBVWozUGxUX2Zxc2hQd0g4NUZKV1Y4S185NzRLUHFZTDE5VlhpanNVeUlUZkF2eEkzaHk1Q1dnNWh2bmFZU0ZzN3dGMGIxVzVOZUFHQ2tIdFp1Tm5ZX29jQl94QWNqWWtaRENVOW1nSnZPSGRrbW1OREJuZ21DdHpOeHJBcUh5azRWMlQweWlKRGwyOFFjMkRlc2d5Mkk4N1JNWUZlR3BiTDMxQmowMW1ia3JtVEt5eVZFQjVMNUN3Y0ZR?oc=5",
+  "media": "Pikiran-Rakyat.com",
+  "published": "2026-10-26T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Bisa Bekukan Rekening Saham, Ubah Aturan UMA dan Suspensi, Ini Dampaknya bagi Investor.  BEI Bisa Bekukan Rekening Saham, Ubah Aturan UMA dan Suspensi, Ini Dampaknya bagi Investor &nbsp;&nbsp; Pikiran-Rakyat.com",
   "corroboration": 0,
   "response": null,
   "score": 41,
