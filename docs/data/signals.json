@@ -7478,36 +7478,6 @@
   "anomali": null
  },
  {
-  "id": "37d358c1d5bd",
-  "title": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHJfVU5wME9pa0xmUHpNd19WZjhBZmNCVEppUVI2ZVZqeGM3VTFkUmlodExXcy1MRFAxdGozOV9BdEpud01IUmswdVRiNmdTXzhJWFVBbF9PdDlhVkNqa1FjQWxwRUtDTmlPMU44cXVMdlNMMUFhd29RU2tyakZoWEtkUzBuTnE4a2pWU21fN1E0aTVxd3FCbUlUcnJncG9JY3hZcVRVeWg2NW1yOEpEWTZSWnA5SzV4N3Vv?oc=5",
-  "media": "Jawa Pos",
-  "published": "2026-11-02T00:54:00+00:00",
-  "tickers": [
-   "SMGR"
-  ],
-  "uma": false,
-  "jenis": [
-   "Pembelian/penjualan besar"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-04T11:59:49.376094+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik.  Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik &nbsp;&nbsp; Jawa Pos",
-  "corroboration": 5,
-  "response": null,
-  "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "90a4a2e0795b",
   "title": "Bos BEI: Pihak Terduga Manipulasi Saham Akan Diumumkan ke Publik",
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3BXU1hlMzhuT3VZMDBXVndnbXBIZTcxSVlvWXJnTjExMjNudlVXRXVIamdPOGRRYUpaQkM0a0JYa0NlTzNJeUh4OU1NWTluMXRRZ0xTN3pFR2RLblpZd0ZOcnVBNHJZNG92UTc4NV9hcjd5Nm5lMC1pa050RVY3LVVJeGdvQzJkV2JEVGM0ZFZLbzZ6VkhCR3JLbUN0SEhGV3huYXgwWW5pSDFWN3ItUkxfWdIBuAFBVV95cUxOWk92a2tpLWZVbGpIcDdERzA4STV4ZU1ISV9mb3pCdmpmR0VZeG5KQXhESXVHZ3NrZ0ZuVGFmSG9MTV9oblU1NXRRN0U2eXgwR00tMkkzZDFVMWdDNlRvOWVOazJtS0RrN2hzRS1Kbm5VbEtYT21YTjJLUC1PR20tcHRVNG1MQm1faURZamJiSl95UkY5dzBYV0tEcnJiNzFVSTlsemc0QVVfNllUSWUzamh1NXdKUE1p?oc=5",
@@ -7761,6 +7731,36 @@
   "corroboration": 0,
   "response": null,
   "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "37d358c1d5bd",
+  "title": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHJfVU5wME9pa0xmUHpNd19WZjhBZmNCVEppUVI2ZVZqeGM3VTFkUmlodExXcy1MRFAxdGozOV9BdEpud01IUmswdVRiNmdTXzhJWFVBbF9PdDlhVkNqa1FjQWxwRUtDTmlPMU44cXVMdlNMMUFhd29RU2tyakZoWEtkUzBuTnE4a2pWU21fN1E0aTVxd3FCbUlUcnJncG9JY3hZcVRVeWg2NW1yOEpEWTZSWnA5SzV4N3Vv?oc=5",
+  "media": "Jawa Pos",
+  "published": "2026-11-01T09:54:32+00:00",
+  "tickers": [
+   "SMGR"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-04T11:59:49.376094+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik.  Semen Indonesia Kaji Rencana Buyback di Tengah Dinamika Pasar Saham Domestik &nbsp;&nbsp; Jawa Pos",
+  "corroboration": 5,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -10412,6 +10412,30 @@
   "anomali": null
  },
  {
+  "id": "73d9e3715753",
+  "title": "Saham FILM dan COIN Masuk UMA",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WazVNYTFOWDl5N0dZVC1DeEs1dHU5amZGdWVmWF91eTBRMndtNkRsR25HSFJrVUpPQ25fTjM5RFNPeWpfQmNNTnZTVkxPemc1WXBEOXhkNGYzVnJZb1prQ0NDNk9IQmFJZnI2Umw2bEc?oc=5",
+  "media": "investor.id",
+  "published": "2026-10-29T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham FILM dan COIN Masuk UMA.  Saham FILM dan COIN Masuk UMA &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5732848ab958",
   "title": "CIO Danantara Pandu Sjahrir Miliki Saham Supra Sekuritas yang Kena Sanksi OJK",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUdRX1BPNlk5YUZ5eDZlZjNRODlQQXQ0dnR5dDlvSUNqRmtvclNJWHMwdHNKeGFDaXNZdjN6WmRxdW9VSXB6SFpQd25zanY1dndJMEdHcWVqM3NvMlNtZjNHMGpocGpZMmlpZ01aSVotQVpRWmZINE5aX05rakQwR2JYX2c2X1pEMlAwWFNCMkNzMjAwRkxaMlVJNW5SUmVvd25MZUo1ZkdDVTBuWTh0Uw?oc=5",
@@ -10882,30 +10906,6 @@
   "corroboration": 1,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "73d9e3715753",
-  "title": "Saham FILM dan COIN Masuk UMA",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WazVNYTFOWDl5N0dZVC1DeEs1dHU5amZGdWVmWF91eTBRMndtNkRsR25HSFJrVUpPQ25fTjM5RFNPeWpfQmNNTnZTVkxPemc1WXBEOXhkNGYzVnJZb1prQ0NDNk9IQmFJZnI2Umw2bEc?oc=5",
-  "media": "investor.id",
-  "published": "2026-10-29T01:28:11+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Saham FILM dan COIN Masuk UMA.  Saham FILM dan COIN Masuk UMA &nbsp;&nbsp; investor.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
   "outcome": null,
   "anomali": null
  },
