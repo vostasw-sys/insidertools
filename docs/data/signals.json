@@ -11122,7 +11122,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.12,
+   "abn5": 2.54,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "420cee871686",
@@ -11692,7 +11696,11 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.12,
+   "abn5": 2.54,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "6f1f0e69e262",
@@ -12000,7 +12008,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.12,
+   "abn5": 2.54,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "5eead6220824",
@@ -12030,7 +12042,11 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.12,
+   "abn5": 2.54,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "692aa1cf9800",
