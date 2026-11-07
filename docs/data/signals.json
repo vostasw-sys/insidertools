@@ -1,5 +1,31 @@
 [
  {
+  "id": "c097d462be9f",
+  "title": "Dongkrak Free Float, BSI Siap Terbitkan 6,8 Miliar Saham Baru",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHRtZDFlVmFPZWJOTlJQMGpmOWdKZlhVUk9KQ0t5RVdZdDR6b0I0NWVkZEFQN2pObWIwN3p3LXpfNkNpR2RiamJ2NjdaLU5KX1A4MDgzYm1PZlNzVXdtbTlIb2NBUktuZGQta0VNMl9KYVBHSVlKdm9kWElkS1YxTF83QlhNUm9PbEdSUkRyRzFFcGpCa0FOTThmbjFIWDFBaV84eHBB0gGcAUFVX3lxTE5hZXpfNnhlTkJkVS04ZnhqZzFXUjhlX25sTHBPSUZFMTBER2NSeFlMdE03ZlBKUXI0VkdESTlUTGF1SUY0THVSekhFWl8zc0xqVWpSdGV5ZV8xNVczdDlrN0JCS2FFSVMzYlRzWjVvOVhOdE12Z1k5LXo0WFlnZkotRDJhd1Bua1VSRTRRbHBqV0V2bTdITVJuVkNmeA?oc=5",
+  "media": "Liputan6.com",
+  "published": "2026-11-07T03:35:42+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-07T04:42:28.933011+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Dongkrak Free Float, BSI Siap Terbitkan 6,8 Miliar Saham Baru.  Dongkrak Free Float, BSI Siap Terbitkan 6,8 Miliar Saham Baru &nbsp;&nbsp; Liputan6.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "163a1444eb12",
   "title": "IHSG Turun 1,97 Persen, Asing Borong Saham BUMN pada 6 November",
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EVW42bEdFTFNsQkJzQ2szb29ZR1dUX3ZFOUJMQUhxR0pPZUFYdkRjVndiS2ZzWExQRlZjak9sVXNSaHAyTU8xekttd3JrSl9kdVFzR1ppMlBsWnJRVzlNLVJoMWlVSjhCWktVbzln?oc=5",
@@ -1750,36 +1776,6 @@
   "corroboration": 0,
   "response": null,
   "score": 15,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "eeea478d4cad",
-  "title": "Investor Hong Kong Batal Akuisisi 86 Persen Saham Puri Sentul (KDTN)",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1Q4YWpDLVVpalZaaGNLTG9UNnNvcUk1TXk4RzJJS3RrQmktWmRGOHd3YXV1X0pxU3Z4bE0xOGh0U3RrdkNmallrcGstZ1l3M3A1VFFWSm0wMzFLcWpyVGR4Q2VKOF9GazRMSnhSY043bEFZN2pUX2hGZ2ZHa0I4SDk0QmVYNDU1Y1NhVFVyR21GSUpwM0VhdERIYkJTX3c?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-05T15:12:00+00:00",
-  "tickers": [
-   "KDTN"
-  ],
-  "uma": false,
-  "jenis": [
-   "M&A"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-05T16:30:41.156343+00:00",
-  "anon": [],
-  "corp": [
-   "akuisisi"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Investor Hong Kong Batal Akuisisi 86 Persen Saham Puri Sentul (KDTN).  Investor Hong Kong Batal Akuisisi 86 Persen Saham Puri Sentul (KDTN) &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 2,
-  "response": null,
-  "score": 14,
   "outcome": null,
   "anomali": null
  },
@@ -3612,6 +3608,36 @@
   "anomali": null
  },
  {
+  "id": "eeea478d4cad",
+  "title": "Investor Hong Kong Batal Akuisisi 86 Persen Saham Puri Sentul (KDTN)",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1Q4YWpDLVVpalZaaGNLTG9UNnNvcUk1TXk4RzJJS3RrQmktWmRGOHd3YXV1X0pxU3Z4bE0xOGh0U3RrdkNmallrcGstZ1l3M3A1VFFWSm0wMzFLcWpyVGR4Q2VKOF9GazRMSnhSY043bEFZN2pUX2hGZ2ZHa0I4SDk0QmVYNDU1Y1NhVFVyR21GSUpwM0VhdERIYkJTX3c?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-04T12:12:00+00:00",
+  "tickers": [
+   "KDTN"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-05T16:30:41.156343+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Investor Hong Kong Batal Akuisisi 86 Persen Saham Puri Sentul (KDTN).  Investor Hong Kong Batal Akuisisi 86 Persen Saham Puri Sentul (KDTN) &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 2,
+  "response": null,
+  "score": 14,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "15fb04869d04",
   "title": "MSCI Bisa Reklasifikasi RI — Pasar Modal Dituntut Transparan",
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1Z6SXJVam55YUcxS3ZNR1dTb3RHbDNObVAtZWJNelNyaGZBbEo3c2UwaUg3SGphMWktaXJ5YmlZaTIxRnEtM2JzT1k3YWJMbmpva0RaZ3RMeFdGdWxmSVo3aS1pdzExRWc2aUt6UVlzU3ZUWklrY2phSDY1c3JRbjAyWkZaSHlqM1V6SDdwaWJBQQ?oc=5",
@@ -4148,6 +4174,34 @@
   "corroboration": 0,
   "response": null,
   "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "1be235b18bd7",
+  "title": "FORU Rights Issue Rp27,1T, Ekuitas Rp23 Miliar Bakal Dikerek 1.178x?",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMm5IWGF4cTR2dzFDT1FFNDExYWNJUDJZalVhODhWdThrZzR2WmdET3RrWF9zamFkR09Sbl8welJxN2F0ZlROa3Ytd1NuelFrTWItSlM2U04yLVhrY2NiUnZkQjM3cHBqN2pkMDA1Y05lNXo3OVh1M3Jib1ljeEctbnlfZFVFbVdiUFhiUlhyblZNVGdPb21z?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-04T08:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-07T04:42:28.933011+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 23.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "FORU Rights Issue Rp27,1T, Ekuitas Rp23 Miliar Bakal Dikerek 1.178x?.  FORU Rights Issue Rp27,1T, Ekuitas Rp23 Miliar Bakal Dikerek 1.178x? &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 12,
   "outcome": null,
   "anomali": null
  },
@@ -10552,6 +10606,30 @@
   "anomali": null
  },
  {
+  "id": "73d9e3715753",
+  "title": "Saham FILM dan COIN Masuk UMA",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WazVNYTFOWDl5N0dZVC1DeEs1dHU5amZGdWVmWF91eTBRMndtNkRsR25HSFJrVUpPQ25fTjM5RFNPeWpfQmNNTnZTVkxPemc1WXBEOXhkNGYzVnJZb1prQ0NDNk9IQmFJZnI2Umw2bEc?oc=5",
+  "media": "investor.id",
+  "published": "2026-10-29T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham FILM dan COIN Masuk UMA.  Saham FILM dan COIN Masuk UMA &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5732848ab958",
   "title": "CIO Danantara Pandu Sjahrir Miliki Saham Supra Sekuritas yang Kena Sanksi OJK",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUdRX1BPNlk5YUZ5eDZlZjNRODlQQXQ0dnR5dDlvSUNqRmtvclNJWHMwdHNKeGFDaXNZdjN6WmRxdW9VSXB6SFpQd25zanY1dndJMEdHcWVqM3NvMlNtZjNHMGpocGpZMmlpZ01aSVotQVpRWmZINE5aX05rakQwR2JYX2c2X1pEMlAwWFNCMkNzMjAwRkxaMlVJNW5SUmVvd25MZUo1ZkdDVTBuWTh0Uw?oc=5",
@@ -11022,30 +11100,6 @@
   "corroboration": 1,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "73d9e3715753",
-  "title": "Saham FILM dan COIN Masuk UMA",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WazVNYTFOWDl5N0dZVC1DeEs1dHU5amZGdWVmWF91eTBRMndtNkRsR25HSFJrVUpPQ25fTjM5RFNPeWpfQmNNTnZTVkxPemc1WXBEOXhkNGYzVnJZb1prQ0NDNk9IQmFJZnI2Umw2bEc?oc=5",
-  "media": "investor.id",
-  "published": "2026-10-29T01:28:11+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Saham FILM dan COIN Masuk UMA.  Saham FILM dan COIN Masuk UMA &nbsp;&nbsp; investor.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
   "outcome": null,
   "anomali": null
  },
