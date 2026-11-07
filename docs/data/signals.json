@@ -1,5 +1,33 @@
 [
  {
+  "id": "dcfdda225f02",
+  "title": "Bedah Tuntas Akuisisi Tambang Nikel PACK: Nilai Jumbo Versus Kualitas Laba Proforma",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvZW1lcmF6aHBFRHlJdXpySlY4R294eDhYRkVvejk4Qm5oZURkTU5IZ3B4TVFzQUNxTk9veV8tZkNzV1JiYzlZQk5jUFdnSFZ6?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-07T11:52:36+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-07T13:23:57.702403+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Bedah Tuntas Akuisisi Tambang Nikel PACK: Nilai Jumbo Versus Kualitas Laba Proforma.  Bedah Tuntas Akuisisi Tambang Nikel PACK: Nilai Jumbo Versus Kualitas Laba Proforma &nbsp;&nbsp; KONTAN",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "83e1ab3231b7",
   "title": "China Blokir Akuisisi Robotika US$ 5,4 Miliar, SoftBank dan ABB Cari Jalan Keluar",
   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUdYQ214Z2dzUzZyWWxfdVFZcTcyclgtMmZ5REJmM0c5UXhSMjFGY2twX3o3TFlfZjBENlVlV1NWWmJsVWVMUjVLSWhnblhMNklpNkxsOWhvY2s2cmpHSDhkZXMwbjVteExDbFFSWGM4dXF3Rlg1TXYzM1Nid2d1SzYyc1M0U1VXY3VBV3BpajZYUGRzNUlBYnZ3bWxVQUNMZTBySWFXczg4NXBLT1lJQkNvVHNsZl9IbHfSAawBQVVfeXFMUG9NVEUyS3NaZkZ6SFRXZkFocGdYUW8wVkpPNVd4dlBmbXFfRlpSWERFZ3F4clBnb0stT09Dekxid3pRamFUZjkxakYwSVAzNW9GZnFqSEdOWmZkRURwcmRZNHcwRkgtdEpzdlpxTTRuWnFhdkp0VW9TSFhkejhHUi1vaWJKM09FRzV1bTQ5dXVwcEVvOUhodXF6ZGllbnUxZHVlODRiOEhqdW5Beg?oc=5",
@@ -250,6 +278,42 @@
   "score": 16,
   "outcome": null,
   "anomali": null
+ },
+ {
+  "id": "b9d2322fa073",
+  "title": "BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMjZPUUVVeXV6b1FzcmVDcHQyd0ZJTmZ5VWpVdGlzR1l5THRNdndLR0pPdzFtTTZOT1ZlNFZtOGJLMnYwRmVlQlV3X0pzZlY0RW1zMHkyRVBrc3Zzb2dqRi1MNkU3VzBlZFk3WXE0bHlOemxDemkyUjV3dXJuT2YyX2pXWmJIcG84U1hZRTByVVd1N2s2X0xDVDB3?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-11-07T06:54:46+00:00",
+  "tickers": [
+   "ICBP"
+  ],
+  "uma": true,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-07T13:23:57.702403+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 750.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman.  BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 1,
+  "response": null,
+  "score": 62,
+  "outcome": null,
+  "anomali": {
+   "vol_z": 1.15,
+   "abn5": 15.66,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "ad26d495a8df",
@@ -4333,7 +4397,7 @@
  {
   "id": "2545ab2bbd60",
   "title": "Kejar Target Free Float Saham 12,5% di 2027, PGEO Tak Mau Buyback",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXI2UFFfZnBGRXpDckNOZ05BeWUydTNGbTN2dFNrQ2FuZVdFSkZPcVJjV3ZjLUdTSUxHVTJfTHBqZGdwQ2U4N2FqejZtMGdwN01vaE1JVk9GNUpaU0RtTWdMUWRzcWYxZ3Z2T056bk9iWXg1dnhIRTZTUXpTYnh5TTlmWmZTMFcxQUJ6ZHpmMGNCMTMwdWxTcjA5cVhNcDJMWnFkcC15NGxwZnNWdm9EbnlxbGdrOFhrZXB3cklUTmJpY3FSN19F0gHHAUFVX3lxTFA5cjZQUV9mcEZFekNyQ05nTkF5ZTJ1M0ZtM3Z0U2tDYW5lV0VKRk9xUmNXdmMtR1NJTEdVMl9McGpkZ3BDZTg3YWp6Nm0wZ3A3TW9oTUlWT0Y1SlpTRG1NZ0xRZHNxZjFndnZPTnpuT2JZeDV2eEhFNlNRelNieHlNOWZaZlMwVzFBQnpkemYwY0IxMzB1bFNyMDlxWE1wMkxacWRwLXk0bHBmc1Z2b0RueXFsZ2s4WGtlcHdySVROYmljcVI3X0U?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeE01MlZCN1d4SGdJR0l5VlAzb1E1dDVtQUMxRk0xajRRMFpJOGNCekw0WGpPUzNHb1hzOXhWVTFaTWJtbjJVMjYwam5DQ0pDRGlLOTdvSEZGX19aZlJQUGNZaWJLalhLY3ZrUmYyTmJ5WTVXVmJrSUxoNDJ6OS1PYjVLblFWZmJtdGZXZTdtSVotVG9QaTRNekc4cDkzYkZMekRQY0JldFZQc1NkSUhYVEwwTUFUbU5VQUIybFJUVm5CZ9IBxwFBVV95cUxQOXI2UFFfZnBGRXpDckNOZ05BeWUydTNGbTN2dFNrQ2FuZVdFSkZPcVJjV3ZjLUdTSUxHVTJfTHBqZGdwQ2U4N2FqejZtMGdwN01vaE1JVk9GNUpaU0RtTWdMUWRzcWYxZ3Z2T056bk9iWXg1dnhIRTZTUXpTYnh5TTlmWmZTMFcxQUJ6ZHpmMGNCMTMwdWxTcjA5cVhNcDJMWnFkcC15NGxwZnNWdm9EbnlxbGdrOFhrZXB3cklUTmJpY3FSN19F?oc=5",
   "media": "CNBC Indonesia",
   "published": "2026-11-04T10:07:33+00:00",
   "tickers": [],
@@ -12026,6 +12090,32 @@
   "schedule": false,
   "party": false,
   "snippet": "BEI Perketat Pengawasan Saham Gorengan, Tak Cukup UMA dan Suspensi.  BEI Perketat Pengawasan Saham Gorengan, Tak Cukup UMA dan Suspensi &nbsp;&nbsp; Jawa Pos",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "bccf89c9ed54",
+  "title": "Lindungi Likuiditas Investor, BEI Rombak Aturan Suspensi dan UMA Saham Mulai November 2026",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVYzLU45S01XUTNQa2k4WHBiOF8wcmpiRzM3VDEyNERkQ01SNkxKaDVneU1zNF9SNG9BdE1jc3MyUUkwZ3NnOHNzQ0RUN19oMVpnZEJ6eFJMdVd4MVU2a0ZFcGJMa1BrekZJeXp3dldwTW0wNlRmYzQyX2s3NkVKVTFpT1ExektWeUYtMWN2VkdhRmdkREd1NnNoMml3NzM4RXFpRmRkcnpUVnlLRlhnMGVkajV6RjA?oc=5",
+  "media": "Stabilitas.id",
+  "published": "2026-10-27T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-07T13:23:57.702403+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Lindungi Likuiditas Investor, BEI Rombak Aturan Suspensi dan UMA Saham Mulai November 2026.  Lindungi Likuiditas Investor, BEI Rombak Aturan Suspensi dan UMA Saham Mulai November 2026 &nbsp;&nbsp; Stabilitas.id",
   "corroboration": 0,
   "response": null,
   "score": 41,
