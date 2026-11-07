@@ -1,5 +1,31 @@
 [
  {
+  "id": "a2a8cba63435",
+  "title": "Wall Street Bangkit Saat Saham Teknologi dan Semikonduktor Menguat",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9obUNHcTRnYjYyWWFnZkZwMmt3MlhSS01ETDBXQkNIWDlkNk5pWU1fRkZSSFlNSE0yWjRyb05GbXJyMnM3eUhGQUE3bGM3MGlZb1M5LUl1bUFfZDRTMGEwbGdDQ3BIQQ?oc=5",
+  "media": "ChatNews.id",
+  "published": "2026-11-06T22:31:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-07T00:07:36.625375+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Wall Street Bangkit Saat Saham Teknologi dan Semikonduktor Menguat.  Wall Street Bangkit Saat Saham Teknologi dan Semikonduktor Menguat &nbsp;&nbsp; ChatNews.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5ff52e49db8f",
   "title": "Tambah Modal, Garuda Indonesia (GIAA) Rights Issue 248,71 Miliar Saham",
   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOV9JRFZEdDJPSWJTRktXNGhMd2JiRWVsSEd5bDFHZVE1TVhpX3ZheERBemhXV19KUkhSdFZsbHN6M3lXZmJXTExQdDR2aTZiUmpZa0h1c0RkTEZMNWt3MkVwX2VNbnJNMGQ1M3BLdTZQUWNRS3FucVEyaVRkR0Y2ZXB2UzFyTzNGRVpzZVVjYzkxQ0w2Zlo5b1Y3N3VGQQ?oc=5",
@@ -119,13 +145,9 @@
   "snippet": "OJK Tak Masalahkan Haji Isam Gadai Saham Demi Akuisisi Bayan (BYAN).  OJK Tak Masalahkan Haji Isam Gadai Saham Demi Akuisisi Bayan (BYAN) &nbsp;&nbsp; Katadata.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 27,
+  "score": 12,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.67,
-   "abn5": -8.88,
-   "last": "2026-11-05"
-  }
+  "anomali": null
  },
  {
   "id": "89299b2844cf",
@@ -10366,6 +10388,30 @@
   "anomali": null
  },
  {
+  "id": "cb496ddebe1b",
+  "title": "Anjlok Drastis, Bursa Awasi Ketat Saham FILM dan COIN",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzFQVVd0ejZ6MEVaTmwzNjg1YWhod2VmSDlNT2FZYU8yMXk5MHR3SGhHMjllcks3b2t5NEVrb25LT0d5TDhUR0VGS2hJc3lsQkxiV25aN3hUZGFacllUZEVIMmVYeWU4ckQyY1p4b2E0QzNVcEJXbW1HaU9wZXpDU0hWVWFaTEFHSkk4VXNscllfVGt3aGhCWkV0c0ZCeVAtRXNsQkd6VURkcXR6VFhtazFrLULSAboBQVVfeXFMT2JXTmVBNEpYTzdpQXVPdlJHTjJ2VXVxWHFfekJEQ0FrM1VNdGFLRGszemhFNXItaGtZLXpMNFdIbktTenhxUzdsQ3NlU3U1UkRjOFdfdlY5YU02c0N4VHRnbkNLd2VVblFPamdVbmE1VHZ1QWU4Vzh5UGVGT01Gd0pETHlXZU5pMXFxR2t4QU9ZX0t3ejRpYlNjWmZTZ2pvLTZtVzgxaUFqSi1wUUFjVzNZTHdRQkNtam13?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-10-29T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Anjlok Drastis, Bursa Awasi Ketat Saham FILM dan COIN.  Anjlok Drastis, Bursa Awasi Ketat Saham FILM dan COIN &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 48,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5732848ab958",
   "title": "CIO Danantara Pandu Sjahrir Miliki Saham Supra Sekuritas yang Kena Sanksi OJK",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUdRX1BPNlk5YUZ5eDZlZjNRODlQQXQ0dnR5dDlvSUNqRmtvclNJWHMwdHNKeGFDaXNZdjN6WmRxdW9VSXB6SFpQd25zanY1dndJMEdHcWVqM3NvMlNtZjNHMGpocGpZMmlpZ01aSVotQVpRWmZINE5aX05rakQwR2JYX2c2X1pEMlAwWFNCMkNzMjAwRkxaMlVJNW5SUmVvd25MZUo1ZkdDVTBuWTh0Uw?oc=5",
@@ -10670,30 +10716,6 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "cb496ddebe1b",
-  "title": "Anjlok Drastis, Bursa Awasi Ketat Saham FILM dan COIN",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzFQVVd0ejZ6MEVaTmwzNjg1YWhod2VmSDlNT2FZYU8yMXk5MHR3SGhHMjllcks3b2t5NEVrb25LT0d5TDhUR0VGS2hJc3lsQkxiV25aN3hUZGFacllUZEVIMmVYeWU4ckQyY1p4b2E0QzNVcEJXbW1HaU9wZXpDU0hWVWFaTEFHSkk4VXNscllfVGt3aGhCWkV0c0ZCeVAtRXNsQkd6VURkcXR6VFhtazFrLULSAboBQVVfeXFMT2JXTmVBNEpYTzdpQXVPdlJHTjJ2VXVxWHFfekJEQ0FrM1VNdGFLRGszemhFNXItaGtZLXpMNFdIbktTenhxUzdsQ3NlU3U1UkRjOFdfdlY5YU02c0N4VHRnbkNLd2VVblFPamdVbmE1VHZ1QWU4Vzh5UGVGT01Gd0pETHlXZU5pMXFxR2t4QU9ZX0t3ejRpYlNjWmZTZ2pvLTZtVzgxaUFqSi1wUUFjVzNZTHdRQkNtam13?oc=5",
-  "media": "CNBC Indonesia",
-  "published": "2026-10-29T03:51:24+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Anjlok Drastis, Bursa Awasi Ketat Saham FILM dan COIN.  Anjlok Drastis, Bursa Awasi Ketat Saham FILM dan COIN &nbsp;&nbsp; CNBC Indonesia",
-  "corroboration": 0,
-  "response": null,
-  "score": 48,
   "outcome": null,
   "anomali": null
  },
@@ -12239,13 +12261,9 @@
   "snippet": "Bayan (BYAN) Ungkap Transaksi Saham, BEI Sorot Harga Jual ke Haji Isam.  Bayan (BYAN) Ungkap Transaksi Saham, BEI Sorot Harga Jual ke Haji Isam &nbsp;&nbsp; CNBC Indonesia",
   "corroboration": 0,
   "response": null,
-  "score": 63,
+  "score": 48,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.67,
-   "abn5": -8.88,
-   "last": "2026-11-05"
-  }
+  "anomali": null
  },
  {
   "id": "f2e749d9250b",
