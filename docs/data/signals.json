@@ -192,32 +192,6 @@
   "anomali": null
  },
  {
-  "id": "89299b2844cf",
-  "title": "IHSG Mengincar Level 5.200 pada 9 November 2026",
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mU1B1T19KLXNzVWhKZHRQS2JKNzU2bnFkblYxZDdDLXEyM3psa3pQZ1k3Skplb0R0WmhTQ0VtXzNCcW83ZFpHak52WHVMemFLdVE5YmtEX1ROb1B6cFlrZWR5YkQ4QXl2VDdfcEJqWQ?oc=5",
-  "media": "Demokratis.co.id",
-  "published": "2026-11-08T08:05:08+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-06T13:39:14.520372+00:00",
-  "anon": [
-   "mengincar"
-  ],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "IHSG Mengincar Level 5.200 pada 9 November 2026.  IHSG Mengincar Level 5.200 pada 9 November 2026 &nbsp;&nbsp; Demokratis.co.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "fef8170c8207",
   "title": "IHSG 5.050 Jelang Review MSCI, Asing Keluar Rp127,26 T",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUm9PNnJaMzZLcjBBenNqZlRpQUczclJNakMxVTVxdnRtUmppSFdudnhiVUJXLVBNMURCODMyWEo2Uzg3bGhuakpVZkZ6UERaVTVOYUF5ZWNyYXdqTXFrUDNTNTBhblM4dmpodERnM25tSkJhYVBYbmNUcThpWU5NcURoSjFtUm8zZGc?oc=5",
@@ -1688,6 +1662,32 @@
   "corroboration": 1,
   "response": null,
   "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "89299b2844cf",
+  "title": "IHSG Mengincar Level 5.200 pada 9 November 2026",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKSEdhc0kwSlE0ZENfMlc4SnVWemlTUmNfd1cyNWpNNTQ5b2k4elFGcGpiaXprWnFJcDdFWXJrTmU3bXgzRWp5OVpybUZBQWdfVzh5SXZoVG1aT1ZCNDZoNkFRSUI?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-06T13:18:30+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-06T13:39:14.520372+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IHSG Mengincar Level 5.200 pada 9 November 2026.  IHSG Mengincar Level 5.200 pada 9 November 2026 &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -6534,6 +6534,32 @@
   "corroboration": 0,
   "response": null,
   "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "df7e021df75d",
+  "title": "Laba Emiten 9M26 Tumbuh 16 Persen Ditopang Sektor Komoditas",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52bUg1cEtFd3htN0ppWjAyOGV6Zm1kLThLemNDLUpwRDQ3YW01LWVqVXhEdFZYSmxBVHkwSnNXWnZpTVVGYU1VZ3Y1Y3hmT0VjQ0luWDkyWUYxdGRFVGJQdFg1OFM2UnBQMFdvOG5yek5uc3o5M044bg?oc=5",
+  "media": "Suara Independent News",
+  "published": "2026-11-03T23:32:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-08T14:12:19.176883+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Laba Emiten 9M26 Tumbuh 16 Persen Ditopang Sektor Komoditas.  Laba Emiten 9M26 Tumbuh 16 Persen Ditopang Sektor Komoditas &nbsp;&nbsp; Suara Independent News",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
