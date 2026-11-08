@@ -2120,7 +2120,7 @@
   "asal": [],
   "first_seen": "2026-11-06T08:13:59.647557+00:00",
   "anon": [
-   "informasi yang dihimpun"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -7561,6 +7561,32 @@
   "corroboration": 0,
   "response": null,
   "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "6c208856068b",
+  "title": "Analis Petakan Saham Trading 3 November 2026",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4RDNIdEFrTWVEMzB3SkRuTnpxdU9mVnpnckRlbFZtc2pzSFBRM2RON0dzbjdRdzF2WDdTQWN5WkhDWmQydGtNWVh1dGVERnVFNzFyVjhBWUhnSlJJRmhEZEhhMEFka0dpY3cxclllbkFaQ1lQ?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-03T01:41:26+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-08T10:34:02.607155+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Analis Petakan Saham Trading 3 November 2026.  Analis Petakan Saham Trading 3 November 2026 &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -13080,13 +13106,9 @@
   "snippet": "Jawab BEI, Ancara Logistics (ALII) Sebut Pengendali dan Afiliasi Borong Saham.  Jawab BEI, Ancara Logistics (ALII) Sebut Pengendali dan Afiliasi Borong Saham &nbsp;&nbsp; StockWatch.id",
   "corroboration": 0,
   "response": null,
-  "score": 56,
+  "score": 41,
   "outcome": null,
-  "anomali": {
-   "vol_z": 0.72,
-   "abn5": 11.7,
-   "last": "2026-11-06"
-  }
+  "anomali": null
  },
  {
   "id": "48e9575a101e",
