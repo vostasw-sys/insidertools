@@ -1,5 +1,33 @@
 [
  {
+  "id": "cec38b78276d",
+  "title": "Mengapa Jaksa Tak Tersangkakan Direksi PT Mantimin Coal Mining?",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaV9oRjRjRVBOOHNyRjJxVUdtakdKYmc4SUZsQUZzdi1NempWc3UweTRqeThOUFJMSmJKYTMzOWtLOTVJdXo3d3dXQTVZdFZITDF1UWxOdG9yU0NESlVFMnRVek43UjI5VGFJSHhvQW9ZaGFlZV95WUdaZ0g5aDhJOEpmUENqNXJ3MUNOWFdUdmNldFA2NHROcUpybmFVQmlEN1A5UTFUSG9KdnAwNGRVRmtaRDNlTFl3Zl95WW1OV1U?oc=5",
+  "media": "Monitor Indonesia",
+  "published": "2026-11-08T03:53:56+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen"
+  ],
+  "first_seen": "2026-11-08T04:44:42.346987+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Mengapa Jaksa Tak Tersangkakan Direksi PT Mantimin Coal Mining?.  Mengapa Jaksa Tak Tersangkakan Direksi PT Mantimin Coal Mining? &nbsp;&nbsp; Monitor Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "966390cb7b0a",
   "title": "Berkshire Hathaway Percepat Buyback Saham, Greg Abel Mulai Gunakan Kas Jumbo",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdGJWREZTNC1YbzdhOG5VZXc5dFl1S19HVmI4WnVDWkdxYTBTVm9ibjdVemdqNS16TFdNQWY4SkNYZXhZQkR2NVYxc2Y4VkZRNjlpMUpCcUJKMnhwYklTelpOb0VLbFZHWGRYZTJrbHdXa2I0TGRkVmxIZFdLVlBIN29ra2ZiZThJRE1tamQxTkJuVTdsY25TcEEwSjVMVTA3VHVfZ0ZlV05DcVlfWHBENW1nTTA1UdIBqAFBVV95cUxOTEs4TzBsT08yWXpWSko4dVQzQVczU2NBSE5wSWgyM0dhdl9uRGlfaEJZay0yVVhHR2tjTUdkSnp3SUdKVzZBOWNSR2Rrd0owMGhPT3RRT2pGYTV1d3ZVRWdhd0hBcVdTdTdzWE9MWFRRdTFWS0JlVEdvSmR0MHJ6SnozcTBTTXhLYXgtcEpXcUNpNGFwSUdlUmkzTF9yMWhVc1JpMmNYTUY?oc=5",
@@ -1221,6 +1249,40 @@
   "schedule": false,
   "party": false,
   "snippet": "Perusahaan Haji Isam Gadai Saham ke Bank Mandiri Buat Akuisisi, Ini Kata OJK.  Perusahaan Haji Isam Gadai Saham ke Bank Mandiri Buat Akuisisi, Ini Kata OJK &nbsp;&nbsp; Liputan6.com",
+  "corroboration": 2,
+  "response": null,
+  "score": 11,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.13,
+   "abn5": -0.41,
+   "last": "2026-11-06"
+  }
+ },
+ {
+  "id": "e2098172440e",
+  "title": "Perusahaan Haji Isam Gadai Saham ke Bank Mandiri, Ini Kata OJK",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVHl1d2ZGdWhKbGZKZ05WVF9MdUdtNjhDc3AwTXI5Zi0zRzBrcC1BUm93cjlrTVBpckl2Tzl0VUtkdnQ5cVlUckstWVlYTzlvbHBVOTQtUnI3clRmQWd5ZFQ2a3pHaGxvVnRHb0FYV3dRajBnUnNXNEcxS3hIbVAtaFF0WHNFalVRWEN0Y2JNSFZ4NkJJUHloMnF0dGp0Ukw4NkJfcV9sTXDSAZ8BQVVfeXFMUHhhZHY4bDZEcWk5RHhNZHRJeDhEOXFTZmluZWw2UmtURHJpNkZUVmMwX0w4MFdLOE1fcjFwS2ZFRy1wb0JIX1IyTFBuaFpyNDE1WUJIdEg1eno2eGxUWWFEQkhJdFJJMVBXcWZ2NjdkUnFfZmFrdWk2Yk9oZXhickVVNDJ5YTNCTWZIb09yamxUZlYxRUhnX3NZRUltcFYw?oc=5",
+  "media": "Liputan6.com",
+  "published": "2026-11-06T12:29:07+00:00",
+  "tickers": [
+   "BMRI"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-08T04:44:42.346987+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Perusahaan Haji Isam Gadai Saham ke Bank Mandiri, Ini Kata OJK.  Perusahaan Haji Isam Gadai Saham ke Bank Mandiri, Ini Kata OJK &nbsp;&nbsp; Liputan6.com",
   "corroboration": 2,
   "response": null,
   "score": 11,
@@ -3848,7 +3910,7 @@
  {
   "id": "0bd1876073c0",
   "title": "ISSP Siapkan Dana Rp150 Miliar untuk Buyback",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UWkFJNXB5S3NIV3pHVWlIemNIRVBLNkJMTFgzTl9qRDBMczZUbmd0MUJjdVNpX3NlU3AySG0tU0txUklEVWYzd2RxLXBsa3N4MGhOcVhnRDJ2X1VPQk1VZGFBZWJacS1PakdZR1c5OVVaNFZXa3hJZkN3MFU?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOGZIXzVFcUk5Y0dQZUxYSFdIek5ZdUhQQ0FpMGJkRUs0T0RobTA1dDBfZjR4V3BqR2ZSWWViaWpPM3dFQkcyUHg0azF3TTVfVkQ3N3prN3FaLThiRGhwVUlud2hKR183VzhIUm11Um5vSlQySHhEVlduZDhrVW03ZHNB?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-05T02:25:00+00:00",
   "tickers": [],
