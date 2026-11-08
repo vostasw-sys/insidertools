@@ -8992,6 +8992,34 @@
   "anomali": null
  },
  {
+  "id": "594f8c0af608",
+  "title": "PART Siapkan Rights Issue 8 Miliar Saham untuk Modal Kerja",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yeVE5VDhNMXBfMnhmYi1VY0Q1YkRqal9UQkI0YnZkci1jc0hMNzdJeXZmZVVvNW96ZzRnTTdFcUlvZTk4WVEtVFB2SlJmb01kaDlZbDVoTTNjYkx0cFhvN1FkdWxjc2dN?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-02T07:47:23+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-08T21:09:28.118137+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "PART Siapkan Rights Issue 8 Miliar Saham untuk Modal Kerja.  PART Siapkan Rights Issue 8 Miliar Saham untuk Modal Kerja &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "8a79d02b0c47",
   "title": "APLN Balikkan Rugi Bersih Jadi Laba Rp216 M, Didukung Divestasi Aset",
   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlhjTl9sQ185SDMwWkl0TGsxcmlqc1I2MGFZc1YtbFVPem9kRk5iaGNOcXV5M2dUZDJpR3hzeFEtNDU2QmE0OUlmMExycXZRdkFHYVhsSWtxZ2xSMm5PSjRnVVpKeG1rSGZxRnAwZExSX2ppVjFMTWRtT2FpSUJNd1MwMkdPcURhLUYwSEdJeDZZZUpKVXFMcE5MaW1pZU5heGYyVG55ZUpEY3pmSlBUS0M4cHhLMWNya1Mw0gHAAUFVX3lxTE5pUWhkdGpxbjNTQnFZUXNlYkJaTXdFeGJaVmdiNTZ0eWFzQmYyTzI0MDNiYlVKM2g2Smsxa1lWSk5tV2ZjZEZuaTBtd3JqLWQ2RjBod0ktQmhQdExxaHpidGhwQWVMUmlWcjl5RHlhXzNCMWZSZWxCbjYxY1F3REg2QnpzX3lPcEZqQlJCMlozYWVoNWx0MXhfVWFwUTZQOGpkLTlxaFZXdHp0bjJmU3ZQQ1pkamZLM1Y3cnR3UE13Sw?oc=5",
@@ -13510,9 +13538,13 @@
   "snippet": "Jawab BEI, Ancara Logistics (ALII) Sebut Pengendali dan Afiliasi Borong Saham.  Jawab BEI, Ancara Logistics (ALII) Sebut Pengendali dan Afiliasi Borong Saham &nbsp;&nbsp; StockWatch.id",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.72,
+   "abn5": 11.7,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "48e9575a101e",
