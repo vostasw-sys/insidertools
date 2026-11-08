@@ -1,5 +1,31 @@
 [
  {
+  "id": "d6a3a5af1e39",
+  "title": "Wall Street Melemah Saat Lonjakan Harga Minyak Tekan Nasdaq",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XS25xSXNYaWFUSklZZVJIY3doUFdTRzltc1NvdDNoZ3hzanRsNzh6LU9UR1l1RDE0OVEtQTdDVlp4T0ZkRW5DZk14SU16aXNOLUs0UEVoME5tSG1ETHRuSHY5X3JvMHc?oc=5",
+  "media": "Lensa Hukum",
+  "published": "2026-11-08T17:01:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-08T17:05:35.248045+00:00",
+  "anon": [
+   "sedang menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Wall Street Melemah Saat Lonjakan Harga Minyak Tekan Nasdaq.  Wall Street Melemah Saat Lonjakan Harga Minyak Tekan Nasdaq &nbsp;&nbsp; Lensa Hukum",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "6c82e6614f10",
   "title": "Bank Ina (BINA) Kantongi Rp50 Miliar dari Aksi Private Placement",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3dLUV9KV1gwYVVmSXA4YUFKTGZUcTRkSWFmV3JxbkI4S0w0bUZIWXRsOXRsbEN0SzV1VFNBVmtxUmNRc0lXdDE0ejhlQWYzVHFaNEdvR1drZTdJcUxxaEVhVGFnR21hREUtRHBJbi1ERkpGeDZCZV9kY3YzZ3owT1hJLU13ZG5QcGVBU0syU19xUzdMSmxtYzFsTExSa3JpSzJ30gGoAUFVX3lxTE1UR1VMTWYzd0JCeTBTXzBvVlBGdm9Od1EtV2ZhVXFCQ1JtSmEtMGdsVE40RE9JcktKb3ZEX21SWWpTenQ3TVp6cGUzakxITG14WERlUGVnWEZpRndOaTlIdUtYNEg0TU1qRmhVQUxSZVZTdEI1ZVBXM25rcDl5ekx0eXpGTVo4RElnX2l6YWk4ZmR4TERWSkVGY0dOXzVMVnNYdlZKbThaYQ?oc=5",
@@ -382,6 +408,32 @@
   "corroboration": 2,
   "response": null,
   "score": 17,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "daee656e5cb7",
+  "title": "Helikopter Water Bombing Pemadam Karhutla Jatuh di Sungai Barito Kalsel",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1hNWnpCS1ZyYnV6SzV5d3hqSG0tMmF4N1RFS0JpaDV5YUY5S3VPZUhwbmk2bHQwQ1FKc3FCYkE5Q190VEJDS3p1V3phLXpwT2hVcURaalV4VlIxUVNNcFJ3cHZoSDlNR1hpbzBBSGJYcUxheHA4eVA2X0NOWUpvbWc2S3BFQ0FyeFNiNjcyT0tzdjFlWm12aGxrTEpPQ1NSRmprNks5RGVvT1d4TGVnU3FBS0tNd9IBtgFBVV95cUxNT1hNWnpCS1ZyYnV6SzV5d3hqSG0tMmF4N1RFS0JpaDV5YUY5S3VPZUhwbmk2bHQwQ1FKc3FCYkE5Q190VEJDS3p1V3phLXpwT2hVcURaalV4VlIxUVNNcFJ3cHZoSDlNR1hpbzBBSGJYcUxheHA4eVA2X0NOWUpvbWc2S3BFQ0FyeFNiNjcyT0tzdjFlWm12aGxrTEpPQ1NSRmprNks5RGVvT1d4TGVnU3FBS0tNdw?oc=5",
+  "media": "detikNews",
+  "published": "2026-11-08T05:46:46+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-08T17:05:35.248045+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Helikopter Water Bombing Pemadam Karhutla Jatuh di Sungai Barito Kalsel.  Helikopter Water Bombing Pemadam Karhutla Jatuh di Sungai Barito Kalsel &nbsp;&nbsp; detikNews",
+  "corroboration": 0,
+  "response": null,
+  "score": 19,
   "outcome": null,
   "anomali": null
  },
@@ -6606,7 +6658,7 @@
   "first_seen": "2026-11-08T14:12:19.176883+00:00",
   "anon": [],
   "corp": [
-   "buyback"
+   "private placement"
   ],
   "stance": null,
   "value_bn": 0.0,
