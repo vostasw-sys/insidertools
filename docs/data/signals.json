@@ -1,5 +1,31 @@
 [
  {
+  "id": "85b73fcf6a3b",
+  "title": "Anthropic targetkan IPO pekan depan di tengah volatilitas saham AI",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZm9GQjBHUjZON3dKN1FvS3NQVjBTYnA2ME1IMnU1ZkVtRk5kZXAwUmZPRWJXV3p0dEdvbzg0SmNFY1NVSHpQd2RjVmhxWklXM3pZQWx1SzBvdXphX0RRM3FzUVZiYXJlNGFFUlA1cXhNUFVNZXlyUWlXY3F3WnpWb1lqV2VkclphQlJBRVF6djZjNXV5ZlB0ZU9DVmw2cUU0NklPNUIxbVB0a0NuVGN3Rmk5Y3NrREM4dDBOeGRObw?oc=5",
+  "media": "Investing.com Indonesia",
+  "published": "2026-11-09T21:44:51+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-09T22:37:58.749199+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": true,
+  "party": false,
+  "snippet": "Anthropic targetkan IPO pekan depan di tengah volatilitas saham AI.  Anthropic targetkan IPO pekan depan di tengah volatilitas saham AI &nbsp;&nbsp; Investing.com Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 21,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "d1b0380db833",
   "title": "Menanti PT KAI Akuisisi INKA: Sinyal Bangkit atau Beban Baru Kereta Api",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQalJKYXNySGtFVDE0S0s0dmNJbVFOZUx6d0dPVE1pczF0bTRSM0x3RzFkWkhqelNwUk1wWkhKSzVJWDdhbW9vcHVRcDdKWks1VEszUHM4amdDeVZkT3J2U3BOQW5od2RpRWdCVGVxVlViZlZDZ1RjNWo2ZFdXUUpVaGhCT3RNX0tKRUpyRWFOdGd6dFV4bmprdk12a18zd1I4YzFIaHpXQW5OZmhnZWNVQVRZancyUm9kOUlxRzJtREQ?oc=5",
@@ -16529,9 +16555,13 @@
   "snippet": "Jawab BEI, Ancara Logistics (ALII) Sebut Pengendali dan Afiliasi Borong Saham.  Jawab BEI, Ancara Logistics (ALII) Sebut Pengendali dan Afiliasi Borong Saham &nbsp;&nbsp; StockWatch.id",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 1.78,
+   "abn5": 11.7,
+   "last": "2026-11-06"
+  }
  },
  {
   "id": "48e9575a101e",
