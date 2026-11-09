@@ -1,5 +1,33 @@
 [
  {
+  "id": "2b784e16db1b",
+  "title": "Senin 14 September, MKNT Izin Private Placement Jumbo",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3JpLVZucDBnOXVPNWlNLUI1akNUc2F2TFlsckVCQUEzT2txVFhYaDhKN2gzLUU3Y1dldmlmRDVMNXZPTXo0eFNGZjFPS3lLdjRCTmxHTEk0WDJJaDJEdGR0MG1QaHlzbzU4NW9GQzgtN044T0ZBOFBkSWdYM0FUaTV0Q3VSREU?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-09T16:11:06+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-09T17:50:01.800214+00:00",
+  "anon": [],
+  "corp": [
+   "private placement"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Senin 14 September, MKNT Izin Private Placement Jumbo.  Senin 14 September, MKNT Izin Private Placement Jumbo &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "898732e31216",
   "title": "Eramet Bahas Penjualan Saham Weda Bay Nickel",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rOVVMbmdyX0JES3NlYll2aEJDRG5OV2xzT2tJZDZ6YUwwaWdzOFE3TGV2OW5nNEQydkYtYTQ1dk81d3EtMjJFR281V0VZSjhyR3A4bjBxRlZFM2tzd0tHMGlwS095dw?oc=5",
@@ -145,8 +173,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.25,
-   "abn5": -1.46,
-   "last": "2026-11-09"
+   "abn5": -2.71,
+   "last": "2026-11-06"
   }
  },
  {
@@ -240,8 +268,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.25,
-   "abn5": -1.46,
-   "last": "2026-11-09"
+   "abn5": -2.71,
+   "last": "2026-11-06"
   }
  },
  {
@@ -591,8 +619,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.25,
-   "abn5": -1.46,
-   "last": "2026-11-09"
+   "abn5": -2.71,
+   "last": "2026-11-06"
   }
  },
  {
@@ -1403,9 +1431,9 @@
  {
   "id": "9b1952430654",
   "title": "Saham 18 Emiten Dihapus dari BEI, Ini Aturan Buyback dan Hak Investor Publik - Sindikat Post",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc3lyT0p3VzQ2UE5WV01SMndRRHlqTFBMOU1qa3lTVmNkd0ZseVN2elBlUlJSYWRrc1RwQnJzWjVyRm1fYVJIQ3kyLTV0OUoyWFlXeXVXUzNWN2FWbUpOT2ZWQzl6XzF1NXJSYkxkVElMTnNfMXozWXNOUEI4XzhuSzZmQXpIaFZ6ak04dHVyN0ZRUmFpdDU2MHhiYURHZ0Mxc1R0dGZMeWVLZUQzVEtHamRURHplYWcyNV9hanZfcmZlcWJYN3ltdXh30gHPAUFVX3lxTE1BN2RkVjJ5d04za250bVdjZUUxY3IybHlnRWpVUWtTMEZGWVhTdU9VYVptN295RmUwQWxMaktKZURDUGhxVUplTkJNeHBSMnFJRXF4bXJNN1RMcWJJMXl1bGtIMUEzS01PNzZzMDQ2ZzZjMkowWDFDZ0w2Q3YwNl9SeFB1VUJnNEdEMjdCem9NSzJsbFY2U1ZIZ3d0akZxQlFBUEVYZjJFWEdsTjhzNWJwNkhsSVA5X3BCZkxVQm1Hamc4cEc2SjJ6WVQ2d19BQQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQTdkZFYyeXdOM2tudG1XY2VFMWNyMmx5Z0VqVVFrUzBGRllYU3VPVWFabTdveUZlMEFsTGpLSmVEQ1BocVVKZU5CTXhwUjJxSUVxeG1yTTdUTHFiSTF5dWxrSDFBM0tNTzc2czA0Nmc2YzJKMFgxQ2dMNkN2MDZfUnhQdVVCZzRHRDI3QnpvTUsybGxWNlNWSGd3dGpGcUJRQVBFWGYyRVhHbE44czVicDZIbElQOV9wQmZMVUJtR2pnOHBHNkoyellUNndfQUHSAc8BQVVfeXFMTUE3ZGRWMnl3TjNrbnRtV2NlRTFjcjJseWdFalVRa1MwRkZZWFN1T1VhWm03b3lGZTBBbExqS0plRENQaHFVSmVOQk14cFIycUlFcXhtck03VExxYkkxeXVsa0gxQTNLTU83NnMwNDZnNmMySjBYMUNnTDZDdjA2X1J4UHVVQmc0R0QyN0J6b01LMmxsVjZTVkhnd3RqRnFCUUFQRVhmMkVYR2xOOHM1YnA2SGxJUDlfcEJmTFVCbUdqZzhwRzZKMnpZVDZ3X0FB?oc=5",
   "media": "Sindikat Post",
-  "published": "2026-11-09T04:09:43+00:00",
+  "published": "2026-11-09T04:09:00+00:00",
   "tickers": [],
   "uma": false,
   "jenis": [
@@ -2563,8 +2591,7 @@
   "first_seen": "2026-11-09T00:00:00.370534+00:00",
   "anon": [],
   "corp": [
-   "akuisisi",
-   "rights issue"
+   "akuisisi"
   ],
   "stance": null,
   "value_bn": 2000.0,
@@ -3999,8 +4026,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.93,
-   "abn5": 8.75,
-   "last": "2026-11-09"
+   "abn5": 15.66,
+   "last": "2026-11-06"
   }
  },
  {
@@ -4035,8 +4062,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.93,
-   "abn5": 8.75,
-   "last": "2026-11-09"
+   "abn5": 15.66,
+   "last": "2026-11-06"
   }
  },
  {
@@ -4148,8 +4175,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.93,
-   "abn5": 8.75,
-   "last": "2026-11-09"
+   "abn5": 15.66,
+   "last": "2026-11-06"
   }
  },
  {
@@ -4370,8 +4397,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 0.72,
-   "last": "2026-11-09"
+   "abn5": -0.41,
+   "last": "2026-11-06"
   }
  },
  {
@@ -4574,8 +4601,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 0.72,
-   "last": "2026-11-09"
+   "abn5": -0.41,
+   "last": "2026-11-06"
   }
  },
  {
@@ -4608,8 +4635,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 0.72,
-   "last": "2026-11-09"
+   "abn5": -0.41,
+   "last": "2026-11-06"
   }
  },
  {
@@ -4881,8 +4908,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.25,
-   "abn5": -1.46,
-   "last": "2026-11-09"
+   "abn5": -2.71,
+   "last": "2026-11-06"
   }
  },
  {
@@ -6216,8 +6243,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.25,
-   "abn5": -1.46,
-   "last": "2026-11-09"
+   "abn5": -2.71,
+   "last": "2026-11-06"
   }
  },
  {
@@ -6337,8 +6364,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.25,
-   "abn5": -1.46,
-   "last": "2026-11-09"
+   "abn5": -2.71,
+   "last": "2026-11-06"
   }
  },
  {
@@ -7577,8 +7604,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.25,
-   "abn5": -1.46,
-   "last": "2026-11-09"
+   "abn5": -2.71,
+   "last": "2026-11-06"
   }
  },
  {
@@ -7977,8 +8004,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.22,
-   "abn5": -0.15,
-   "last": "2026-11-09"
+   "abn5": -1.58,
+   "last": "2026-11-06"
   }
  },
  {
@@ -9099,7 +9126,7 @@
  {
   "id": "4c3b8c978b13",
   "title": "Kuasai 66,58 Persen Saham IDEA, Nawasena Gelar Tender Offer",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDh4cGp4dlFVWk5WaWpOWEJLeFZWSW1hTldpMkxjbTNkaE4yY0M0OU05ZXFnZjUyR29yeTNkSVlYR2VVZXFiWEV0Nk1NZmxJcFl5Ulo3ZzkzeWtDcjhRM0ZpMjdOWWdvaG00dDZEUFp2RDRXWmFPTTM3M2RwbVdrOERlZzlRSERXQk1JVHYwdHZhaGx1S0JwYnNtbG1wRk3SAaIBQVVfeXFMT1hwNVF6MENsMVR1R0JzdlFFMkg2eWVieXMtWlhPWTkxUlJySmkzT01fd0p6ZWJHbmVLakI4OS1HV1dWNlF6emlXS0tBaDdMZlAwcThBbDNGWWM2Si1RM1V6VHBVRHRtTWY4TThrSXAway15X0VkUmJyUi1iNm92UEVWdGNKV1NHekN5RldGVTF0VjZ1emNtQi0xMUZ4MVpQNWN3?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2VUNVV1bU5ZaTZFNnplVlY3bDgyblFKWk5vQWxSWHBqQnk0c0VFeVlxZE41WGF1VTFBZXE5RUlneEZqUy1oNlgzWk1WSlBVWGNrZUNxR3BodDRuYUZ2ZUNHN2FXUXVRcFNQQ3hzZElGSFgxRzZXY3pEcGhGellyU0RvWlpDMFRrcUZNWFZrdDZWNU5iWTJrU2lWT2jSAaIBQVVfeXFMT1hwNVF6MENsMVR1R0JzdlFFMkg2eWVieXMtWlhPWTkxUlJySmkzT01fd0p6ZWJHbmVLakI4OS1HV1dWNlF6emlXS0tBaDdMZlAwcThBbDNGWWM2Si1RM1V6VHBVRHRtTWY4TThrSXAway15X0VkUmJyUi1iNm92UEVWdGNKV1NHekN5RldGVTF0VjZ1emNtQi0xMUZ4MVpQNWN3?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-04T04:06:00+00:00",
   "tickers": [],
@@ -9200,12 +9227,12 @@
   "snippet": "MAP Boga (MAPB) Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya.  MAP Boga (MAPB) Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya &nbsp;&nbsp; StockWatch.id",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
    "vol_z": 0.21,
-   "abn5": -2.43,
-   "last": "2026-11-09"
+   "abn5": -9.29,
+   "last": "2026-11-06"
   }
  },
  {
@@ -9616,8 +9643,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.22,
-   "abn5": -0.15,
-   "last": "2026-11-09"
+   "abn5": -1.58,
+   "last": "2026-11-06"
   }
  },
  {
@@ -9895,8 +9922,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.24,
-   "abn5": 3.91,
-   "last": "2026-11-09"
+   "abn5": 4.59,
+   "last": "2026-11-06"
   }
  },
  {
@@ -9927,8 +9954,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.36,
-   "abn5": 0.45,
-   "last": "2026-11-09"
+   "abn5": -2.41,
+   "last": "2026-11-06"
   }
  },
  {
@@ -10095,8 +10122,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.89,
-   "abn5": -0.59,
-   "last": "2026-11-09"
+   "abn5": 0.92,
+   "last": "2026-11-06"
   }
  },
  {
@@ -11413,12 +11440,12 @@
   "snippet": "cum dividen reguler - Besok Cum Date Dividen Interim Puradelta Lestari (DMAS), Yield Hampir 14%.  cum dividen reguler - Besok Cum Date Dividen Interim Puradelta Lestari (DMAS), Yield Hampir 14% &nbsp;&nbsp; KONTAN",
   "corroboration": 1,
   "response": null,
-  "score": 25,
+  "score": 40,
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": -4.78,
-   "last": "2026-11-09"
+   "abn5": -11.34,
+   "last": "2026-11-06"
   }
  },
  {
@@ -11696,12 +11723,12 @@
   "snippet": "4 Segmen Bisnis Utama Tumbuh, Telkom (TLKM) Raup Pendapatan Rp113,5T.  4 Segmen Bisnis Utama Tumbuh, Telkom (TLKM) Raup Pendapatan Rp113,5T &nbsp;&nbsp; Emitennews.com",
   "corroboration": 1,
   "response": null,
-  "score": 34,
+  "score": 19,
   "outcome": null,
   "anomali": {
    "vol_z": 0.05,
-   "abn5": 5.04,
-   "last": "2026-11-09"
+   "abn5": 0.13,
+   "last": "2026-11-06"
   }
  },
  {
@@ -12652,8 +12679,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.35,
-   "abn5": -8.56,
-   "last": "2026-11-09"
+   "abn5": -7.21,
+   "last": "2026-11-06"
   }
  },
  {
@@ -12952,12 +12979,12 @@
   "snippet": "Harta Djaya Karya (MEJA) Incar Proyek Baru Rp 200 Miliar pada Tahun 2024.  Harta Djaya Karya (MEJA) Incar Proyek Baru Rp 200 Miliar pada Tahun 2024 &nbsp;&nbsp; TradingView",
   "corroboration": 1,
   "response": null,
-  "score": 37,
+  "score": 22,
   "outcome": null,
   "anomali": {
    "vol_z": -0.64,
-   "abn5": -6.21,
-   "last": "2026-11-09"
+   "abn5": -1.09,
+   "last": "2026-11-06"
   }
  },
  {
@@ -13474,8 +13501,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.93,
-   "abn5": 8.75,
-   "last": "2026-11-09"
+   "abn5": 15.66,
+   "last": "2026-11-06"
   }
  },
  {
@@ -14325,12 +14352,12 @@
   "snippet": "Saham Koka Indonesia (KOKA) Masuk Radar UMA di BEI.  Saham Koka Indonesia (KOKA) Masuk Radar UMA di BEI &nbsp;&nbsp; TradingView",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
    "vol_z": 0.07,
-   "abn5": -3.12,
-   "last": "2026-11-09"
+   "abn5": -8.2,
+   "last": "2026-11-06"
   }
  },
  {
@@ -15057,8 +15084,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.04,
-   "abn5": 3.19,
-   "last": "2026-11-09"
+   "abn5": 2.54,
+   "last": "2026-11-06"
   }
  },
  {
@@ -15631,8 +15658,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.04,
-   "abn5": 3.19,
-   "last": "2026-11-09"
+   "abn5": 2.54,
+   "last": "2026-11-06"
   }
  },
  {
@@ -15970,8 +15997,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.04,
-   "abn5": 3.19,
-   "last": "2026-11-09"
+   "abn5": 2.54,
+   "last": "2026-11-06"
   }
  },
  {
@@ -16004,8 +16031,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.04,
-   "abn5": 3.19,
-   "last": "2026-11-09"
+   "abn5": 2.54,
+   "last": "2026-11-06"
   }
  },
  {
@@ -16416,8 +16443,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 1.78,
-   "abn5": 13.05,
-   "last": "2026-11-09"
+   "abn5": 11.7,
+   "last": "2026-11-06"
   }
  },
  {
@@ -16472,8 +16499,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 0.72,
-   "last": "2026-11-09"
+   "abn5": -0.41,
+   "last": "2026-11-06"
   }
  },
  {
@@ -16656,8 +16683,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 0.72,
-   "last": "2026-11-09"
+   "abn5": -0.41,
+   "last": "2026-11-06"
   }
  },
  {
