@@ -16529,13 +16529,9 @@
   "snippet": "Jawab BEI, Ancara Logistics (ALII) Sebut Pengendali dan Afiliasi Borong Saham.  Jawab BEI, Ancara Logistics (ALII) Sebut Pengendali dan Afiliasi Borong Saham &nbsp;&nbsp; StockWatch.id",
   "corroboration": 0,
   "response": null,
-  "score": 56,
+  "score": 41,
   "outcome": null,
-  "anomali": {
-   "vol_z": 1.78,
-   "abn5": 11.7,
-   "last": "2026-11-06"
-  }
+  "anomali": null
  },
  {
   "id": "48e9575a101e",
