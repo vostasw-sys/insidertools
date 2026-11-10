@@ -1,5 +1,31 @@
 [
  {
+  "id": "c66244a42192",
+  "title": "Harga Bitcoin Hari Ini Berpeluang Rebound ke US$76.000, CPI AS Jadi Sorotan",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZElXVURCaEZUR2RrNzJkVXU5ejFUZFh1c2ItNU01X3FTRzQ2VjdFV25GVWNXaGFGajk2bDViek4xajhpUC1HSzdqRzdFUDdITXpYczdDY2otb1BfVWlyTnNZRDB0d2N5MkhaczY5X2xNY1RVTC05SjlLUHVRRnVpNzVvenlyaXYzb25oZHRxNjhKUWUzLWMw?oc=5",
+  "media": "Ajaib",
+  "published": "2026-11-10T03:59:36+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-10T04:44:04.382518+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Harga Bitcoin Hari Ini Berpeluang Rebound ke US$76.000, CPI AS Jadi Sorotan.  Harga Bitcoin Hari Ini Berpeluang Rebound ke US$76.000, CPI AS Jadi Sorotan &nbsp;&nbsp; Ajaib",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "ccf7a9af5ced",
   "title": "Geliat DOOH Ganti Nama jadi Nexora hingga Rights Issue Jumbo, Saham Naik 6,6%",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDFxb0F6U2J3c2NmaVlfY0NSU25xZDZldTBMbFpIUW9yT0gxZmhvQVk2UW5sN0h6bW0wSl9aMG9CVXFacjdmY1haVkxxMW41SXo5aWthQlg4Nml6Smh5VndyY1AzSlJ5MGZsWVRaSkM5VExHTmNzbGltZ1dfWHY0ZlBtQ1B4V3RWeGNoU1ROeGNxREFGaUM5TjZBVnYwd19hcG13Y2NnaXgxSlhudlFCRHBXd2tNVmpIdHhxeDF4ejdybV8zcVBn0gHMAUFVX3lxTE1qa3VxSDZ5bWdiYy1wUDEzVkhQYTBCUnJOTHNYVmlkaWl0TFJLenJsOTJ4YW9GQ2xJX19vcW5MUlhPNG94cjZHQ05BanpETF8tY0dsczNVTUh0MG5pTWVUSXRjeVJJM1RGS3FLMC1XYVltUG5FZ1dPZzZsVkd0NDBndzBmYXA4LWEzb3p0M1dFRWNEV2R1cE1kQUx3ck1wX2VReGFpRG5fSUF5NUxXXzJKQzRxZ1dCNGJYRVFUUlE5QXliOTB0NHpoV2N3dw?oc=5",
@@ -644,11 +670,11 @@
   "snippet": "Ultrajaya Milk (ULTJ) Bagi Dividen Tambahan Rp1,04 Triliun, Cek Jadwalnya.  Ultrajaya Milk (ULTJ) Bagi Dividen Tambahan Rp1,04 Triliun, Cek Jadwalnya &nbsp;&nbsp; StockWatch.id",
   "corroboration": 1,
   "response": null,
-  "score": 41,
+  "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": -5.61,
+   "vol_z": -0.35,
+   "abn5": -4.83,
    "last": "2026-11-10"
   }
  },
@@ -770,11 +796,11 @@
   "snippet": "RUPSLB Ultrajaya (ULTJ) Setujui Rights Issue hingga Pembagian Dividen Spesial Rp1,04 Triliun.  RUPSLB Ultrajaya (ULTJ) Setujui Rights Issue hingga Pembagian Dividen Spesial Rp1,04 Triliun &nbsp;&nbsp; IDX Channel",
   "corroboration": 3,
   "response": null,
-  "score": 44,
+  "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": -5.61,
+   "vol_z": -0.35,
+   "abn5": -4.83,
    "last": "2026-11-10"
   }
  },
@@ -1147,11 +1173,11 @@
   "snippet": "Susu Ultra (ULTJ) Tebar Dividen Rp1,03 Triliun, Siap Akuisisi Frisian Flag - Bisnis.com.  Susu Ultra (ULTJ) Tebar Dividen Rp1,03 Triliun, Siap Akuisisi Frisian Flag &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 3,
   "response": null,
-  "score": 50,
+  "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": -5.61,
+   "vol_z": -0.35,
+   "abn5": -4.83,
    "last": "2026-11-10"
   }
  },
@@ -4614,8 +4640,8 @@
   "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.57,
-   "abn5": 6.38,
+   "vol_z": 0.59,
+   "abn5": 6.23,
    "last": "2026-11-10"
   }
  },
@@ -4650,8 +4676,8 @@
   "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.57,
-   "abn5": 6.38,
+   "vol_z": 0.59,
+   "abn5": 6.23,
    "last": "2026-11-10"
   }
  },
@@ -4763,8 +4789,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.57,
-   "abn5": 6.38,
+   "vol_z": 0.59,
+   "abn5": 6.23,
    "last": "2026-11-10"
   }
  },
@@ -4985,8 +5011,8 @@
   "score": 18,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.38,
-   "abn5": -0.95,
+   "vol_z": -0.37,
+   "abn5": -0.62,
    "last": "2026-11-10"
   }
  },
@@ -5189,8 +5215,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.38,
-   "abn5": -0.95,
+   "vol_z": -0.37,
+   "abn5": -0.62,
    "last": "2026-11-10"
   }
  },
@@ -5223,8 +5249,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.38,
-   "abn5": -0.95,
+   "vol_z": -0.37,
+   "abn5": -0.62,
    "last": "2026-11-10"
   }
  },
@@ -5493,11 +5519,11 @@
   "snippet": "Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya.  Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya &nbsp;&nbsp; kontan.co.id",
   "corroboration": 9,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": -5.61,
+   "vol_z": -0.35,
+   "abn5": -4.83,
    "last": "2026-11-10"
   }
  },
@@ -6880,11 +6906,11 @@
   "snippet": "Akuisisi FFI, Ultrajaya (ULTJ) Siap Terbitkan 7,87 Miliar Saham Baru.  Akuisisi FFI, Ultrajaya (ULTJ) Siap Terbitkan 7,87 Miliar Saham Baru &nbsp;&nbsp; Emitennews.com",
   "corroboration": 3,
   "response": null,
-  "score": 34,
+  "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": -5.61,
+   "vol_z": -0.35,
+   "abn5": -4.83,
    "last": "2026-11-10"
   }
  },
@@ -7001,11 +7027,11 @@
   "snippet": "Ultrajaya (ULTJ) Rights Issue Rp 16,9 Triliun, Ada Rencana Tambahan Dividen Jumbo.  Ultrajaya (ULTJ) Rights Issue Rp 16,9 Triliun, Ada Rencana Tambahan Dividen Jumbo &nbsp;&nbsp; investor.id",
   "corroboration": 3,
   "response": null,
-  "score": 41,
+  "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": -5.61,
+   "vol_z": -0.35,
+   "abn5": -4.83,
    "last": "2026-11-10"
   }
  },
@@ -8241,11 +8267,11 @@
   "snippet": "Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun.  Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun &nbsp;&nbsp; IDX Channel",
   "corroboration": 5,
   "response": null,
-  "score": 44,
+  "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": -5.61,
+   "vol_z": -0.35,
+   "abn5": -4.83,
    "last": "2026-11-10"
   }
  },
@@ -8644,8 +8670,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.54,
-   "abn5": -4.01,
+   "vol_z": -0.48,
+   "abn5": -4.12,
    "last": "2026-11-10"
   }
  },
@@ -9871,8 +9897,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.05,
-   "abn5": -5.66,
+   "vol_z": 0.06,
+   "abn5": -5.82,
    "last": "2026-11-10"
   }
  },
@@ -10283,8 +10309,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.54,
-   "abn5": -4.01,
+   "vol_z": -0.48,
+   "abn5": -4.12,
    "last": "2026-11-10"
   }
  },
@@ -10562,8 +10588,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.12,
-   "abn5": 0.25,
+   "vol_z": 0.16,
+   "abn5": 0.26,
    "last": "2026-11-10"
   }
  },
@@ -10595,7 +10621,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.44,
-   "abn5": -3.59,
+   "abn5": -2.72,
    "last": "2026-11-10"
   }
  },
@@ -10762,8 +10788,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": -2.21,
+   "vol_z": -1.01,
+   "abn5": -2.45,
    "last": "2026-11-10"
   }
  },
@@ -12085,7 +12111,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.58,
-   "abn5": -3.25,
+   "abn5": -2.33,
    "last": "2026-11-10"
   }
  },
@@ -12367,8 +12393,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": 3.34,
+   "vol_z": -0.18,
+   "abn5": 4.25,
    "last": "2026-11-10"
   }
  },
@@ -13320,7 +13346,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.4,
-   "abn5": -9.76,
+   "abn5": -10.39,
    "last": "2026-11-10"
   }
  },
@@ -13623,8 +13649,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.73,
-   "abn5": -1.46,
+   "vol_z": -0.72,
+   "abn5": -2.36,
    "last": "2026-11-10"
   }
  },
@@ -14141,8 +14167,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.57,
-   "abn5": 6.38,
+   "vol_z": 0.59,
+   "abn5": 6.23,
    "last": "2026-11-10"
   }
  },
@@ -14997,7 +15023,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": -1.45,
+   "abn5": -1.16,
    "last": "2026-11-10"
   }
  },
@@ -15725,7 +15751,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": 2.06,
+   "abn5": 2.39,
    "last": "2026-11-10"
   }
  },
@@ -16299,7 +16325,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": 2.06,
+   "abn5": 2.39,
    "last": "2026-11-10"
   }
  },
@@ -16638,7 +16664,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": 2.06,
+   "abn5": 2.39,
    "last": "2026-11-10"
   }
  },
@@ -16672,7 +16698,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": 2.06,
+   "abn5": 2.39,
    "last": "2026-11-10"
   }
  },
@@ -17084,7 +17110,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 1.72,
-   "abn5": 8.16,
+   "abn5": 7.7,
    "last": "2026-11-10"
   }
  },
@@ -17139,8 +17165,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.38,
-   "abn5": -0.95,
+   "vol_z": -0.37,
+   "abn5": -0.62,
    "last": "2026-11-10"
   }
  },
@@ -17323,8 +17349,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.38,
-   "abn5": -0.95,
+   "vol_z": -0.37,
+   "abn5": -0.62,
    "last": "2026-11-10"
   }
  },
