@@ -555,7 +555,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.39,
+   "abn5": -3.66,
+   "last": "2026-11-09"
+  }
  },
  {
   "id": "2b2730f1eefa",
@@ -1271,6 +1275,32 @@
   "corroboration": 0,
   "response": null,
   "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "bae5c5ba3794",
+  "title": "Phintraco Prediksi IHSG Menguat ke Level 5.200",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sZUFUTk5iVnpoT1RKc2VHMU9MY1JCRk83OEctVjdFOWZ4Mmh1My1DT3NxNUhJU0dScWNKc1pRMzkzaXd0dUsxdW1GRG40NDZWRWRvMFJCOW13R0szdmd6dERrZUtWN3M?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-09T22:54:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-10T20:36:59.114084+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Phintraco Prediksi IHSG Menguat ke Level 5.200.  Phintraco Prediksi IHSG Menguat ke Level 5.200 &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
