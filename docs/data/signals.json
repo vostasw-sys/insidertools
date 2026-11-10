@@ -1,5 +1,33 @@
 [
  {
+  "id": "091509d579b7",
+  "title": "Eramet Jual Saham Weda Bay Nickel untuk Kurangi Utang",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1bGxPRjdZLThraW1yV2tVSTZuY0tQNlFNaS1LRWZ1MDdac3RLQmJLLTBqUHZNbmVvQ0RkU3daWTVOZVpOaXRWQ1pkcW9MUGpqTmx3X2d6R0pXdw?oc=5",
+  "media": "ChatNews.id",
+  "published": "2026-11-10T05:56:33+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-10T06:52:26.371891+00:00",
+  "anon": [
+   "tengah menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Eramet Jual Saham Weda Bay Nickel untuk Kurangi Utang.  Eramet Jual Saham Weda Bay Nickel untuk Kurangi Utang &nbsp;&nbsp; ChatNews.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "dc71db575bfc",
   "title": "Koperasi Mau Rebut Kembali Bukopin Ferry Juliantono Siapkan Konsorsium Akuisisi",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZVHV3Sm5rZWNxS2dFZE9hS2JYelQ3NW5hQ0Y1NXluT2lkc3pjeEtCV0Joc0o3Q2xpVi1XZ0I3R0p0NWF5V3ZIc2pGTm5XaDgzY3ZR?oc=5",
@@ -102,6 +130,34 @@
   "corroboration": 0,
   "response": null,
   "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "68b5003494f5",
+  "title": "Performa Merah Saham Nvidia (NVDA) Makin Dalam! Diselimuti Skandal Perselingkuhan, Mata-Mata China, Hingga Ketergantungan Nvidia - Sinar Harapan",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUjJsTXI2RUlTakVCYTJndGdJLTh0UUp3WW1vQV90b0dScmw1NjRBbWQ1NnJzaWtaQ3Q3djlid1JSdmF1ZHdFZnhqQm1vM3Z1dE5iN0hhaVQ2bEJIbGV6ZlpmcVZ2eS00bHU5c2M1OUladnc4YjJLYjA3ajhpWEpvSmw4ZEtucG5iNzcydTJMUW12dWYxTzhHa2JZNzVDcUo0Wm1xR0hWYy15bVdUSEpLckxiWVpNLXpuSEtOeDZUV0Q0X0dzNm9DY3prNWd1clpvVkNlOEtzLThkZXZNR3dtaU9NejE4bjVNNXd2c3FCVHRqMGQtVHFTeml2VzQ2OFRHSVJfb3R30gGGAkFVX3lxTFBSMmxNcjZFSVNqRUJhMmd0Z0ktOHRRSndZbW9BX3RvR1JybDU2NEFtZDU2cnNpa1pDdDd2OWJ3UlJ2YXVkd0VmeGpCbW8zdnV0TmI3SGFpVDZsQkhsZXpmWmZxVnZ5LTRsdTlzYzU5SVp2dzhiMktiMDdqOGlYSm9KbDhkS25wbmI3NzJ1MkxRbXZ1ZjFPOEdrYlk3NUNxSjRabXFHSFZjLXltV1RISktyTGJZWk0tem5IS054NlRXRDRfR3M2b0Njems1Z3VyWm9WQ2U4S3MtOGRldk1Hd21pT016MThuNU01d3ZzcUJUdGowZC1UcVN6aXZXNDY4VEdJUl9vdHc?oc=5",
+  "media": "Sinar Harapan",
+  "published": "2026-11-10T04:30:00+00:00",
+  "tickers": [
+   "NVDA"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-10T06:52:26.371891+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Performa Merah Saham Nvidia (NVDA) Makin Dalam! Diselimuti Skandal Perselingkuhan, Mata-Mata China, Hingga Ketergantungan Nvidia - Sinar Harapan.  Performa Merah Saham Nvidia (NVDA) Makin Dalam! Diselimuti Skandal Perselingkuhan, Mata-Mata China, Hingga Ketergantungan Nvidia - Sinar Harapan &nbsp;&n",
+  "corroboration": 1,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -780,7 +836,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.35,
-   "abn5": -4.53,
+   "abn5": -4.81,
    "last": "2026-11-10"
   }
  },
@@ -906,7 +962,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.35,
-   "abn5": -4.53,
+   "abn5": -4.81,
    "last": "2026-11-10"
   }
  },
@@ -1283,7 +1339,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.35,
-   "abn5": -4.53,
+   "abn5": -4.81,
    "last": "2026-11-10"
   }
  },
@@ -4746,8 +4802,8 @@
   "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.6,
-   "abn5": 6.53,
+   "vol_z": 0.61,
+   "abn5": 6.69,
    "last": "2026-11-10"
   }
  },
@@ -4782,8 +4838,8 @@
   "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.6,
-   "abn5": 6.53,
+   "vol_z": 0.61,
+   "abn5": 6.69,
    "last": "2026-11-10"
   }
  },
@@ -4895,8 +4951,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.6,
-   "abn5": 6.53,
+   "vol_z": 0.61,
+   "abn5": 6.69,
    "last": "2026-11-10"
   }
  },
@@ -5117,8 +5173,8 @@
   "score": 18,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.36,
-   "abn5": -0.63,
+   "vol_z": -0.35,
+   "abn5": -1.13,
    "last": "2026-11-10"
   }
  },
@@ -5321,8 +5377,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.36,
-   "abn5": -0.63,
+   "vol_z": -0.35,
+   "abn5": -1.13,
    "last": "2026-11-10"
   }
  },
@@ -5355,8 +5411,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.36,
-   "abn5": -0.63,
+   "vol_z": -0.35,
+   "abn5": -1.13,
    "last": "2026-11-10"
   }
  },
@@ -5629,7 +5685,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.35,
-   "abn5": -4.53,
+   "abn5": -4.81,
    "last": "2026-11-10"
   }
  },
@@ -7016,7 +7072,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.35,
-   "abn5": -4.53,
+   "abn5": -4.81,
    "last": "2026-11-10"
   }
  },
@@ -7137,7 +7193,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.35,
-   "abn5": -4.53,
+   "abn5": -4.81,
    "last": "2026-11-10"
   }
  },
@@ -8377,7 +8433,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.35,
-   "abn5": -4.53,
+   "abn5": -4.81,
    "last": "2026-11-10"
   }
  },
@@ -8776,8 +8832,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.44,
-   "abn5": -4.13,
+   "vol_z": -0.41,
+   "abn5": -4.61,
    "last": "2026-11-10"
   }
  },
@@ -10004,7 +10060,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.06,
-   "abn5": -5.52,
+   "abn5": -5.8,
    "last": "2026-11-10"
   }
  },
@@ -10415,8 +10471,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.44,
-   "abn5": -4.13,
+   "vol_z": -0.41,
+   "abn5": -4.61,
    "last": "2026-11-10"
   }
  },
@@ -10695,7 +10751,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.16,
-   "abn5": 0.56,
+   "abn5": 0.28,
    "last": "2026-11-10"
   }
  },
@@ -10726,8 +10782,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.43,
-   "abn5": -2.95,
+   "vol_z": -1.42,
+   "abn5": -3.23,
    "last": "2026-11-10"
   }
  },
@@ -10816,7 +10872,7 @@
  {
   "id": "dcf750bc4b66",
   "title": "BOGA Group Akuisisi Sukiyaki Rin, Targetkan Perluasan Pasar ke Kota Besar di Indonesia",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXlfM2Jpc3RjdERId1N4V3FDSWpWUndxSzhQZDRfeEVXNjAyNVc2TjFEUVhvMVgtS1RqTWlhN1BiOFVyRDk1Q19ONi1NTVdfRkhiWFgzTHA1YUNVNDhMSWhIeXpidC1zdXQ0VENoSks0ZXc1YWcxMkhMV1M3b3ZuSXM2TFZwa1hXblN0V1lybEpVRUFMR3RJaFZrdGlDVDlpLThJNlpWSlRLMkw0eWRVLXJtQVlONUZZWm1oNEdWTVJ2SEp40gHHAUFVX3lxTE90cnhMSDRLUUpZZHFGUWJrODRwM3pLUzh4Vl9pdEVnVno3N1pNT1lzYjE3dnpPNC11UF9WVG1JTDlLeU1Fd0R5YnNFbEJJSkIzSGtHU2txNG1Gel9MWm1MeUNacHpBVlRtUHRLR3V2MUZ6RmhGZWlYVW9YeU11Z3praXFIM2hOX2dmeFR0WU82cUVHYWxsNVpLNDJfdHlnbFlLbFk5Y09kV2t5QTc2SXhCZldVMGdmblZQNmhvUFA2NG9ELTBQZ2c?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejU2eGNhR2llbUQ1SU85ZGVvS0wybzFOU05nZGtudHVtTjh6X29wN2trLUJtT0czU3ZFbW8tY2N4cTFYdWs5b1dBdTV2VUlwYWJiWEJvd19DT2t5aVhhMkNEZk9wdThINnhyWHhUcXZlVHdldm1pNnVtQTdMVWFPcG1mWTlVOGs1V1FGczhOdlFpRWJsdmxFZzZGMEdJSjIyWEw3WDVGRmZRRFJZWlpaUnhkczdmN25oRGhGUFY4eFlRQdIBxwFBVV95cUxPdHJ4TEg0S1FKWWRxRlFiazg0cDN6S1M4eFZfaXRFZ1Z6NzdaTU9Zc2IxN3Z6TzQtdVBfVlRtSUw5S3lNRXdEeWJzRWxCSUpCM0hrR1NrcTRtRnpfTFptTHlDWnB6QVZUbVB0S0d1djFGekZoRmVpWFVvWHlNdWd6a2lxSDNoTl9nZnhUdFlPNnFFR2FsbDVaSzQyX3R5Z2xZS2xZOWNPZFdreUE3Nkl4QmZXVTBnZm5WUDZob1BQNjRvRC0wUGdn?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-03T09:27:00+00:00",
   "tickers": [],
@@ -10895,7 +10951,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.0,
-   "abn5": -2.11,
+   "abn5": -2.34,
    "last": "2026-11-10"
   }
  },
@@ -12217,7 +12273,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.58,
-   "abn5": -2.03,
+   "abn5": -2.94,
    "last": "2026-11-10"
   }
  },
@@ -12500,7 +12556,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.18,
-   "abn5": 3.98,
+   "abn5": 4.76,
    "last": "2026-11-10"
   }
  },
@@ -13452,7 +13508,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.4,
-   "abn5": -10.09,
+   "abn5": -10.37,
    "last": "2026-11-10"
   }
  },
@@ -13756,7 +13812,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.72,
-   "abn5": -2.06,
+   "abn5": -1.11,
    "last": "2026-11-10"
   }
  },
@@ -14273,8 +14329,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.6,
-   "abn5": 6.53,
+   "vol_z": 0.61,
+   "abn5": 6.69,
    "last": "2026-11-10"
   }
  },
@@ -15128,8 +15184,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -0.86,
+   "vol_z": -0.11,
+   "abn5": -3.89,
    "last": "2026-11-10"
   }
  },
@@ -15857,7 +15913,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": 2.34,
+   "abn5": 2.12,
    "last": "2026-11-10"
   }
  },
@@ -16431,7 +16487,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": 2.34,
+   "abn5": 2.12,
    "last": "2026-11-10"
   }
  },
@@ -16770,7 +16826,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": 2.34,
+   "abn5": 2.12,
    "last": "2026-11-10"
   }
  },
@@ -16804,7 +16860,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": 2.34,
+   "abn5": 2.12,
    "last": "2026-11-10"
   }
  },
@@ -17215,8 +17271,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.73,
-   "abn5": 6.41,
+   "vol_z": 2.7,
+   "abn5": 7.74,
    "last": "2026-11-10"
   }
  },
@@ -17271,8 +17327,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.36,
-   "abn5": -0.63,
+   "vol_z": -0.35,
+   "abn5": -1.13,
    "last": "2026-11-10"
   }
  },
@@ -17455,8 +17511,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.36,
-   "abn5": -0.63,
+   "vol_z": -0.35,
+   "abn5": -1.13,
    "last": "2026-11-10"
   }
  },
