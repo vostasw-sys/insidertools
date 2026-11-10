@@ -555,11 +555,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.39,
-   "abn5": -3.66,
-   "last": "2026-11-09"
-  }
+  "anomali": null
  },
  {
   "id": "2b2730f1eefa",
@@ -8267,7 +8263,7 @@
  {
   "id": "2c765a6079b3",
   "title": "Pemilik Liverpool FC Bidik Cadillac F1, Siapkan Dana Akuisisi Miliaran Dolar - harian.disway.id",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXd0ZHk1NkdoTnFaX0lhWkFXVzZpMXNUZkstSHhCQW95R1lFM1hWbWhUUmM2LUZkaVZzNVBKRHRTU21CYmM2V1RQSFEzSTd4dDlwbl9GOTdNc29CYnptY2dacEVLVDMtX29JREVFb0pFNkUwaWNNb0k5bGMwYnctTFNHQXRNcVlId2d5Wm5VSnYxOUV5UFpaOHBsR0Rpdi1wVXBwcWZxNHZmN1dJbUFlNNIBsAFBVV95cUxPUXd0ZHk1NkdoTnFaX0lhWkFXVzZpMXNUZkstSHhCQW95R1lFM1hWbWhUUmM2LUZkaVZzNVBKRHRTU21CYmM2V1RQSFEzSTd4dDlwbl9GOTdNc29CYnptY2dacEVLVDMtX29JREVFb0pFNkUwaWNNb0k5bGMwYnctTFNHQXRNcVlId2d5Wm5VSnYxOUV5UFpaOHBsR0Rpdi1wVXBwcWZxNHZmN1dJbUFlNA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaEUxbTh2MVBJUC1FX0FiNjJjV3JsbUI2bWVMc0JhdVJTQXpKUk84NWowUldxbFhiNUJkVFdXYXhwYjdGc0dLNFRfalBtc3dHOFhvU2hUMi1jUmJ2MXNoRzdDeTg4TlROTWh3VVdSTDFlelpBRzRtd1A5Wmxwa0NwcVFZTVJ6dWYwYlpGLUROM2ZmbF9GcjdzNEItXzhDUVdiZ2JydlRyNFNmR1hwZDZMQ0Zn0gGwAUFVX3lxTE9Rd3RkeTU2R2hOcVpfSWFaQVdXNmkxc1RmSy1IeEJBb3lHWUUzWFZtaFRSYzYtRmRpVnM1UEpEdFNTbUJiYzZXVFBIUTNJN3h0OXBuX0Y5N01zb0Jiem1jZ1pwRUtUMy1fb0lERUVvSkU2RTBpY01vSTlsYzBidy1MU0dBdE1xWUh3Z3lablVKdjE5RXlQWlo4cGxHRGl2LXBVcHBxZnE0dmY3V0ltQWU0?oc=5",
   "media": "HARIAN DISWAY",
   "published": "2026-11-05T09:24:00+00:00",
   "tickers": [],
