@@ -1,5 +1,63 @@
 [
  {
+  "id": "6c8fb4def644",
+  "title": "Entitas Usaha Tiran Nusantara Grup Mengempit 2% Saham Bayan (BYAN)",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjNGRHI3UEpNbU42YURvVk1CanRJblZ5ZFVydjZsRm5LNlRJOXBKV1lsUUZiX0RzT1dzaThtSDlaOHNTaU1RQk0zX2JZbXc3UzlyTWU3MnVlSWJIRkhSWlh0Ymx4YWJXRkRoX2hZRm9FY0hZdWFscmdIeWQ4d0pVb0J6blRGNEg0TGpXeGtiOUJBbnpMcml2eURpWnFRODE10gGYAUFVX3lxTE82Ylg5QzRqRUJuVFAySWhYcnNFWTJUek9sbVJaWlprRnZMdnQ0Z3UwcVhtSm9EYkdIY1NZdzNPSnkwSFdtdlM2Y0hHaVpreXVKem1ibE1JdWcxYTJTR1lfVDFTM0JvQmNIR1Z3VklRQnA0eG52OUh5Y2FRTG9lSmNmR19MSmR5OW5rU25sUWNkYUJuX2ZDTU5D?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-10T09:20:22+00:00",
+  "tickers": [
+   "BYAN"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-10T10:22:08.337509+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Entitas Usaha Tiran Nusantara Grup Mengempit 2% Saham Bayan (BYAN).  Entitas Usaha Tiran Nusantara Grup Mengempit 2% Saham Bayan (BYAN) &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 2,
+  "response": null,
+  "score": 20,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "7cf65c0f97c7",
+  "title": "18 Emiten Didepak dari BEI, 12 Belum Buyback Saham Publik, Bagaimana Nasib Investor? - Koropak.co.id",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOGRyV1M1M3psOXp0cjJGUjVxanBzV1QyU21ucEp0dXAxaVhfTmM1UVQzeGw3aEl6WXl6RHNlQ2JIUDd2YW5wUVBSRENLSVFhUjRkeXdfZlJhUHIzTDZiQ21zRjJLcy01Z0pjTnhkamNwV29pTU1yVHUzcGxQbEJhSlRneTdoUXlvSV94ZHhidkU3Z2JOX0FNUG9JZm50NjVibWZtRVpNSmtxOFhxdmhkWmZ6NUJkRzVLZlZJZW45a2pIbXNINzJNcVRYTlE3UdIBzgFBVV95cUxOOGRyV1M1M3psOXp0cjJGUjVxanBzV1QyU21ucEp0dXAxaVhfTmM1UVQzeGw3aEl6WXl6RHNlQ2JIUDd2YW5wUVBSRENLSVFhUjRkeXdfZlJhUHIzTDZiQ21zRjJLcy01Z0pjTnhkamNwV29pTU1yVHUzcGxQbEJhSlRneTdoUXlvSV94ZHhidkU3Z2JOX0FNUG9JZm50NjVibWZtRVpNSmtxOFhxdmhkWmZ6NUJkRzVLZlZJZW45a2pIbXNINzJNcVRYTlE3UQ?oc=5",
+  "media": "Koropak.co.id",
+  "published": "2026-11-10T07:10:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-10T10:22:08.337509+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "18 Emiten Didepak dari BEI, 12 Belum Buyback Saham Publik, Bagaimana Nasib Investor? - Koropak.co.id.  18 Emiten Didepak dari BEI, 12 Belum Buyback Saham Publik, Bagaimana Nasib Investor? - Koropak.co.id &nbsp;&nbsp; Koropak.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "f3a791dc1221",
   "title": "Meta Luncurkan Muse Ember untuk Pangkas Biaya Operasional AI",
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lcnJ4dnAwUjRPM1h0SkV1V1JvQWJxeE9oVUJGSTllT1JqZFdVRVIybVZJbHkwNUNkLWJpR3EyUTB3MEp5cERwUlc5WEhPRWNlZ2paV1VDYy1fNGFM?oc=5",
@@ -1649,7 +1707,7 @@
  {
   "id": "3ca91a7845ce",
   "title": "China Bantah Memata-matai Nvidia",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1EyVk9IclZvNHp2bkVZejFFR054WDRfalo1Ykc5NVUwWkpaR3YxMHo0RnBObFFFUWhic2M1dVNqbHB5Y0hJSXF4dWRyeFdsamd2eDY3aGZvNkRKc0hGbFZiZDZ6R1RfNkJaem5ZaDYtM1VhNWZFZ09MTHFnWTQ4MFZCSDkyVnVMdk1nSzJCNktBRS0yWHkxSU1wa3VGcDdDMmVYeHdDMjg?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT0VZbUxwaWQ3NC1CQkxKRGdVSVFzdXl0WFl4dlc4aThxMVY2RkpCUEZIc1A2cVlBWVBoV2thVXZCQzdGSjEzaDI5NTY0c0JVMTRuaHBGb3A4dUdxdDZ5VmRKM3lPbDJsYm9yOUc3cDM3dmkyanV4ZFFwd25HajVQQXA5NFFnSmVaamJmeVlBc242d0ZoMllWTXVxdzVrZ0MtZHJVWGVfNWw?oc=5",
   "media": "Kompas.id",
   "published": "2026-11-09T08:43:59+00:00",
   "tickers": [],
@@ -4935,7 +4993,7 @@
   "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.68,
+   "vol_z": 0.69,
    "abn5": 6.99,
    "last": "2026-11-10"
   }
@@ -4971,7 +5029,7 @@
   "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.68,
+   "vol_z": 0.69,
    "abn5": 6.99,
    "last": "2026-11-10"
   }
@@ -5084,7 +5142,7 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.68,
+   "vol_z": 0.69,
    "abn5": 6.99,
    "last": "2026-11-10"
   }
@@ -5393,9 +5451,9 @@
   "schedule": false,
   "party": false,
   "snippet": "OJK Tak Masalahkan Haji Isam Gadai Saham Demi Akuisisi Bayan (BYAN).  OJK Tak Masalahkan Haji Isam Gadai Saham Demi Akuisisi Bayan (BYAN) &nbsp;&nbsp; Katadata.co.id",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 12,
+  "score": 17,
   "outcome": null,
   "anomali": null
  },
@@ -7178,7 +7236,7 @@
  {
   "id": "3d0c4cca73f8",
   "title": "Akuisisi FFI, Ultrajaya (ULTJ) Siap Terbitkan 7,87 Miliar Saham Baru",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRjlqdWd0LURRQkg1S005SUJmUVpRVjZzY1ZxRFVxYUt6cnUzR2NlWG94RW5BVjBsRExTMF9NNlFLU2lDNGIzQXZseW9MLU1hQ3NZUTFlamtEd2JrM09qQmxSZW5rc2QxSno3U2lGYm9YZUlVMlB6T0lXZlZiZFhva25wb2dUMTFyT3EyWGtESVlHZVlTb21J?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMzhjZkUtQ1RsRUJoa1RkQjZ4SjA1TVZtYlBia0YwNlZLUlFOMWZLcHFaUHlpSFVXT1M4SnplbzhLNEdyZElTMXdMQkh4Z3VoRHMzNDA0clNRRVhBNzM3R0xSSEw3YmN0UGdoSmpJYVdZd0dFcEtsUElWb1ZRVmNfSURrZFV5OWhwNUtBNTRVX0FlMUhwWHl0WjQ1Nmk?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-05T13:31:00+00:00",
   "tickers": [
@@ -7499,7 +7557,7 @@
  {
   "id": "2c765a6079b3",
   "title": "Pemilik Liverpool FC Bidik Cadillac F1, Siapkan Dana Akuisisi Miliaran Dolar - harian.disway.id",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaEUxbTh2MVBJUC1FX0FiNjJjV3JsbUI2bWVMc0JhdVJTQXpKUk84NWowUldxbFhiNUJkVFdXYXhwYjdGc0dLNFRfalBtc3dHOFhvU2hUMi1jUmJ2MXNoRzdDeTg4TlROTWh3VVdSTDFlelpBRzRtd1A5Wmxwa0NwcVFZTVJ6dWYwYlpGLUROM2ZmbF9GcjdzNEItXzhDUVdiZ2JydlRyNFNmR1hwZDZMQ0Zn0gGwAUFVX3lxTE9Rd3RkeTU2R2hOcVpfSWFaQVdXNmkxc1RmSy1IeEJBb3lHWUUzWFZtaFRSYzYtRmRpVnM1UEpEdFNTbUJiYzZXVFBIUTNJN3h0OXBuX0Y5N01zb0Jiem1jZ1pwRUtUMy1fb0lERUVvSkU2RTBpY01vSTlsYzBidy1MU0dBdE1xWUh3Z3lablVKdjE5RXlQWlo4cGxHRGl2LXBVcHBxZnE0dmY3V0ltQWU0?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXd0ZHk1NkdoTnFaX0lhWkFXVzZpMXNUZkstSHhCQW95R1lFM1hWbWhUUmM2LUZkaVZzNVBKRHRTU21CYmM2V1RQSFEzSTd4dDlwbl9GOTdNc29CYnptY2dacEVLVDMtX29JREVFb0pFNkUwaWNNb0k5bGMwYnctTFNHQXRNcVlId2d5Wm5VSnYxOUV5UFpaOHBsR0Rpdi1wVXBwcWZxNHZmN1dJbUFlNNIBsAFBVV95cUxPUXd0ZHk1NkdoTnFaX0lhWkFXVzZpMXNUZkstSHhCQW95R1lFM1hWbWhUUmM2LUZkaVZzNVBKRHRTU21CYmM2V1RQSFEzSTd4dDlwbl9GOTdNc29CYnptY2dacEVLVDMtX29JREVFb0pFNkUwaWNNb0k5bGMwYnctTFNHQXRNcVlId2d5Wm5VSnYxOUV5UFpaOHBsR0Rpdi1wVXBwcWZxNHZmN1dJbUFlNA?oc=5",
   "media": "HARIAN DISWAY",
   "published": "2026-11-05T09:24:00+00:00",
   "tickers": [],
@@ -14462,7 +14520,7 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.68,
+   "vol_z": 0.69,
    "abn5": 6.99,
    "last": "2026-11-10"
   }
