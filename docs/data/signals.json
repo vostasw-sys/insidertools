@@ -1,5 +1,33 @@
 [
  {
+  "id": "54562c0481fe",
+  "title": "Korea Selatan Setujui Sinar Mas Akuisisi Hyundai LNG Shipping dengan Syarat",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVk4V0cyUHpFSHpNRmliellsdV9nTzJnN2xGVllMaGZTT1Q1ZlNtdXhaUVVpQ3o4dFBJTEVfbjZlOFdidkgxc3gtYTZWLXdrSTY0VXV6OXVQNXgxQUlTcjJSN29RcWpFV2J2VlpqUlhrcTY0SDlMMFpfckFtUWJvNGZBLWRZWHV1TW1OVHVPTklvRlR0VWJZU191XzJCWUY2akVOZ3B0QkpXSWZNYlV3eGJn0gG3AUFVX3lxTE9UeXNublZFSXZvQnp6eU1ka1F1LURPd3dHS24yWUZudVN5UnJuWmkzSkl2ZlVackRiTmxTWFhaRTAwX2ZKcG1HNVczenRMXzBrU3dQTFdOWUtsejFIMzQ0WjliMUJlV1p2NE5VaFBVNmdjbUVHREd2OHRYMnloMWNGa0wxWmtPbk1nOXhlWkZySjFMMnFYNjA2bS14OTRyaUM5bWk3b0FJenFGTnhCQmNfOXhyQ2xSZw?oc=5",
+  "media": "IDX Channel",
+  "published": "2026-11-11T05:28:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-11T05:50:42.527203+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Korea Selatan Setujui Sinar Mas Akuisisi Hyundai LNG Shipping dengan Syarat.  Korea Selatan Setujui Sinar Mas Akuisisi Hyundai LNG Shipping dengan Syarat &nbsp;&nbsp; IDX Channel",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "c6795c44701b",
   "title": "IPO Anthropic: Porsi Ritel hingga 20%, Australia Dibuka",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFd6MVZLR3BXbDdOaVMtZnN6TUZHMTBuLWFWN1hrbU5XcTVuVjdaRkxIUWF1blJwR1ZVbkhlVVd0THV6S20ySDNxLUJjYmNVNnQyTnB3Z3pWR1FydFNZYzVOcGFKR0Fqa19fMmxpVVB4S09WaWVUQUZHLW9mYVQtd1E0UEYtMUww?oc=5",
@@ -268,6 +296,32 @@
   "anomali": null
  },
  {
+  "id": "700d347be0f9",
+  "title": "Longsor Rusak Lima Rumah di Kemang Selatan Jaksel",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMbXRNUXZaaTdLWDVScFpueS1hajRoQjNJbjI4bTQ3cE9yVC03VDFERmhJdWdPRlZIeVpPM1ZINUdIeFJrczE4Ym9ZMzZqUWFYY2J2Zk5rSzdON1Y5?oc=5",
+  "media": "bsinews.id",
+  "published": "2026-11-11T01:29:42+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-11T05:50:42.527203+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Longsor Rusak Lima Rumah di Kemang Selatan Jaksel.  Longsor Rusak Lima Rumah di Kemang Selatan Jaksel &nbsp;&nbsp; bsinews.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "3b0c85cea67e",
   "title": "GIAA Siap Rights Issue Rp6,21 Triliun, Cermati Dilusi 37,92%",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSG1nRWxqRGJzSkhHeXhzMVFpcXlLUWpSS2pxRnBZbTJPU0ktbEVnLWthdXZXTjJTeE1fVjV4RjMwcU95THVzZW1NNllERmhMeHdUNE9fTW5LS1NwMExvTzY3Vnl0aURpUmQydnZpbFc5Z1pTQy1qLUtabzJiVmpDZ1luUEtwMVVyZE9ISw?oc=5",
@@ -459,7 +513,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -4.07,
+   "abn5": -3.95,
    "last": "2026-11-11"
   }
  },
@@ -1015,7 +1069,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": 4.16,
+   "abn5": 4.27,
    "last": "2026-11-11"
   }
  },
@@ -1047,7 +1101,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.63,
-   "abn5": -4.51,
+   "abn5": -4.38,
    "last": "2026-11-11"
   }
  },
@@ -1352,7 +1406,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": 4.16,
+   "abn5": 4.27,
    "last": "2026-11-11"
   }
  },
@@ -2165,7 +2219,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -4.07,
+   "abn5": -3.95,
    "last": "2026-11-11"
   }
  },
@@ -2291,7 +2345,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -4.07,
+   "abn5": -3.95,
    "last": "2026-11-11"
   }
  },
@@ -2666,7 +2720,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -4.07,
+   "abn5": -3.95,
    "last": "2026-11-11"
   }
  },
@@ -5257,9 +5311,9 @@
  {
   "id": "5437066a63fd",
   "title": "Kementerian UMKM Dorong Waralaba Lokal Naik Kelas, Papan Akselerasi BEI Jadi Jalan Menuju IPO dan Pendanaan - Hallo Emiten",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcGplWWI3ZFA2cURPWGZuNmVvY2ZIWkc1UHROa08zSWVuSVVjNlJpUkpZUEQ2QUJPWGpIS05xeGtaV3BfY0FvU1ZtSG5IS21uamk4OS02VElZbTBmY01saERVRU9YZGcwZG1TanRFczI3ZUZad19GRTcxTEhNRGhMb0xFU0pEMTRSUGQ0Vms1OC03a00zdUxFemt1elFHSlZlQXE2dVhwUFR0b1ZfQWdtWnUwR0lzaWVpNUR1eGRFdXJHNTNmSkpMVTRmTzNScFBUOW5tTFdwUThvd3JLZ05pODVBZU5qUkJCUHNwX2pR0gHuAUFVX3lxTE9wamVZYjdkUDZxRE9YZm42ZW9jZkhaRzVQdE5rTzNJZW5JVWM2UmlSSllQRDZBQk9YakhLTnF4a1pXcF9jQW9TVm1IbkhLbW5qaTg5LTZUSVltMGZjTWxoRFVFT1hkZzBkbVNqdEVzMjdlRlp3X0ZFNzFMSE1EaExvTEVTSkQxNFJQZDRWazU4LTdrTTN1TEV6a3V6UUdKVmVBcTZ1WHBQVHRvVl9BZ21adTBHSXNpZWk1RHV4ZEV1ckc1M2ZKSkxVNGZPM1JwUFQ5bm1MV3BROG93cktnTmk4NUFlTmpSQkJQc3BfalE?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaFgyMDJsbFZiOWdxVEdfaEZxVmNZRnVrWXUtbEdXNXZhSm9RN09iZDU1Yk9zUUhaaEN3UlJKN2psbXRnUV9EbFFIYjZNcmdncmt3Z3FCRGJiYV8yS3FBbmZFWWlVajFaa3I4dU51WU5lSmZlVU9qMFRMSGpVa1AtV0V6cU1tSEpGRVhoTENlSTh4cWVXUDdWWUtuZ1AxbUZUNFg3WDUyaHp2b2pGRVhFbGx1dUFjdk4tVVB5ZHFFWGVOcV9jZ0RCUjY0YjFpWE1LWE94X2tPam92RHM5MG51NHB5Skl3MnI00gHuAUFVX3lxTE9wamVZYjdkUDZxRE9YZm42ZW9jZkhaRzVQdE5rTzNJZW5JVWM2UmlSSllQRDZBQk9YakhLTnF4a1pXcF9jQW9TVm1IbkhLbW5qaTg5LTZUSVltMGZjTWxoRFVFT1hkZzBkbVNqdEVzMjdlRlp3X0ZFNzFMSE1EaExvTEVTSkQxNFJQZDRWazU4LTdrTTN1TEV6a3V6UUdKVmVBcTZ1WHBQVHRvVl9BZ21adTBHSXNpZWk1RHV4ZEV1ckc1M2ZKSkxVNGZPM1JwUFQ5bm1MV3BROG93cktnTmk4NUFlTmpSQkJQc3BfalE?oc=5",
   "media": "Hallo.id",
-  "published": "2026-11-08T04:55:00+00:00",
+  "published": "2026-11-08T04:55:24+00:00",
   "tickers": [],
   "uma": false,
   "jenis": [],
@@ -6157,8 +6211,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.29,
-   "abn5": 3.95,
+   "vol_z": 0.3,
+   "abn5": 4.06,
    "last": "2026-11-11"
   }
  },
@@ -6193,8 +6247,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.29,
-   "abn5": 3.95,
+   "vol_z": 0.3,
+   "abn5": 4.06,
    "last": "2026-11-11"
   }
  },
@@ -6306,8 +6360,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.29,
-   "abn5": 3.95,
+   "vol_z": 0.3,
+   "abn5": 4.06,
    "last": "2026-11-11"
   }
  },
@@ -7058,7 +7112,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -4.07,
+   "abn5": -3.95,
    "last": "2026-11-11"
   }
  },
@@ -8445,7 +8499,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -4.07,
+   "abn5": -3.95,
    "last": "2026-11-11"
   }
  },
@@ -8536,7 +8590,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -4.07,
+   "abn5": -3.95,
    "last": "2026-11-11"
   }
  },
@@ -9776,7 +9830,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -4.07,
+   "abn5": -3.95,
    "last": "2026-11-11"
   }
  },
@@ -10176,7 +10230,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.21,
-   "abn5": -5.85,
+   "abn5": -5.73,
    "last": "2026-11-11"
   }
  },
@@ -11484,7 +11538,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.03,
-   "abn5": -4.07,
+   "abn5": -3.95,
    "last": "2026-11-11"
   }
  },
@@ -11896,7 +11950,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.21,
-   "abn5": -5.85,
+   "abn5": -5.73,
    "last": "2026-11-11"
   }
  },
@@ -12175,7 +12229,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.16,
-   "abn5": 0.36,
+   "abn5": 0.15,
    "last": "2026-11-11"
   }
  },
@@ -12207,7 +12261,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.39,
-   "abn5": -2.72,
+   "abn5": -3.16,
    "last": "2026-11-11"
   }
  },
@@ -12346,8 +12400,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.98,
-   "abn5": -1.07,
+   "vol_z": -0.97,
+   "abn5": -1.24,
    "last": "2026-11-11"
   }
  },
@@ -13669,7 +13723,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.73,
-   "abn5": 0.98,
+   "abn5": 0.48,
    "last": "2026-11-11"
   }
  },
@@ -13952,7 +14006,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": 4.16,
+   "abn5": 4.27,
    "last": "2026-11-11"
   }
  },
@@ -14904,7 +14958,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.4,
-   "abn5": -2.09,
+   "abn5": -1.97,
    "last": "2026-11-11"
   }
  },
@@ -15208,7 +15262,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.72,
-   "abn5": -0.41,
+   "abn5": -1.52,
    "last": "2026-11-11"
   }
  },
@@ -15725,8 +15779,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.29,
-   "abn5": 3.95,
+   "vol_z": 0.3,
+   "abn5": 4.06,
    "last": "2026-11-11"
   }
  },
@@ -16581,7 +16635,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -11.57,
+   "abn5": -11.45,
    "last": "2026-11-11"
   }
  },
@@ -17308,8 +17362,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": 3.17,
+   "vol_z": -0.38,
+   "abn5": 2.99,
    "last": "2026-11-11"
   }
  },
@@ -17882,8 +17936,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": 3.17,
+   "vol_z": -0.38,
+   "abn5": 2.99,
    "last": "2026-11-11"
   }
  },
@@ -18221,8 +18275,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": 3.17,
+   "vol_z": -0.38,
+   "abn5": 2.99,
    "last": "2026-11-11"
   }
  },
@@ -18255,8 +18309,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": 3.17,
+   "vol_z": -0.38,
+   "abn5": 2.99,
    "last": "2026-11-11"
   }
  },
