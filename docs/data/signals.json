@@ -1,5 +1,39 @@
 [
  {
+  "id": "583f08f25bfe",
+  "title": "Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTI0TEJXaURicTdCcUw1VVU0YmItZzE0VDJSNGRmaFJOdVZCeEdlQ0daTU9kdGpQb0tqZm1JVzU1MjBwSGV4VUd4V3AxeFN6ejJQdWJRRThZX05hNW5wMEdGQXJLSFJZODZJLXpmVjNKXzVzQkFBWUp2SktaakhzVFJEQWpzSEdoVXMzSmRqYnZlRERTeFBaQzd5T3prRFhQc0RKVVVaRXJLUXFpQmVnbG1MSmJPUGRo?oc=5",
+  "media": "Bisnis Indonesia Premium",
+  "published": "2026-11-10T23:45:00+00:00",
+  "tickers": [
+   "ULTJ"
+  ],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-10T14:45:42.993770+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue.  Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue &nbsp;&nbsp; Bisnis Indonesia Premium",
+  "corroboration": 4,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.33,
+   "abn5": -1.46,
+   "last": "2026-11-09"
+  }
+ },
+ {
   "id": "d29bab50fb69",
   "title": "HELI Siapkan Private Placement 83,28 Juta Saham untuk Danai Akuisisi PEAR",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVlRMEhVZG5RZmRpanRjbDRGblg3ZEVKX3ZreFBRU1JWeVN2ZEo3WU1XSUZxdlI5VUxOQk5jYk1KT1c3OG9zbTJGYnlsbG5ha0pxOGZGdF96NWtybUhVYUR1NzZrcVBTOXdYd0dFZnZlYlVLS2dqVGloZ2ZfRVZUWW9ETkZNMUdyamdZZFhUQzdYSHBoMFVwaU5BM2VvZ1pxWHJPcmsybXV2cGNNenF6OdIBtgFBVV95cUxQb3Z6djhCQnR3OW90VVU0a2w5YXVlWHBuc3hjSTdZUmVpRmxuQldSUmpEckh6MVFMNy0yLXRYdlRVeWNKNktBZ015dFJrZXJDaGljZmxNclhqQTNJSm9sanZ3a0t1MjRldFZNY1pJMDdLeVVIdWliSnZjRm5BY1JlUDlsUVoyUEJFYzZ3a3VwdmVZQnVIZ0NKR2xlLVJCdTF2Wm13T211Q1FqQVNnNXAzdkNRQVhRdw?oc=5",
@@ -555,7 +589,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.39,
+   "abn5": -3.66,
+   "last": "2026-11-09"
+  }
  },
  {
   "id": "2b2730f1eefa",
@@ -1193,40 +1231,6 @@
   "score": 18,
   "outcome": null,
   "anomali": null
- },
- {
-  "id": "583f08f25bfe",
-  "title": "Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObE9FTjJCblZralZiekJEZDVRc0tUQURzWmRIMV8tZG1yVG9PZVNIVW9SMFV0bjB5OHIwLWRRNHdoMVZYV0U5RWtBc0hOMmY2UldIemZEZFhTeVR0NmZvM2pyWURvTVh2LXI5N3VVbHRVWjEzTlQtLXN4a2xMSHNWenI0V1o4dGl0NWJ1RDQ5VHJkLVVINURQVndNLTJtdDE0YUpEeEQ1OVRnaWhyU3B0cGhwcF9hWDhh?oc=5",
-  "media": "Bisnis Indonesia Premium",
-  "published": "2026-11-09T23:45:00+00:00",
-  "tickers": [
-   "ULTJ"
-  ],
-  "uma": false,
-  "jenis": [
-   "Penerbitan saham"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-10T14:45:42.993770+00:00",
-  "anon": [],
-  "corp": [
-   "rights issue"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue.  Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue &nbsp;&nbsp; Bisnis Indonesia Premium",
-  "corroboration": 4,
-  "response": null,
-  "score": 25,
-  "outcome": null,
-  "anomali": {
-   "vol_z": -0.33,
-   "abn5": -1.46,
-   "last": "2026-11-09"
-  }
  },
  {
   "id": "6b5690cbd69c",
@@ -6099,11 +6103,7 @@
   "response": null,
   "score": 18,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.3,
-   "abn5": 0.72,
-   "last": "2026-11-09"
-  }
+  "anomali": null
  },
  {
   "id": "177e19c6b6fa",
@@ -6303,11 +6303,7 @@
   "response": null,
   "score": 11,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.3,
-   "abn5": 0.72,
-   "last": "2026-11-09"
-  }
+  "anomali": null
  },
  {
   "id": "e2098172440e",
@@ -6337,11 +6333,7 @@
   "response": null,
   "score": 11,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.3,
-   "abn5": 0.72,
-   "last": "2026-11-09"
-  }
+  "anomali": null
  },
  {
   "id": "173e168d7926",
@@ -10029,6 +10021,34 @@
   "anomali": null
  },
  {
+  "id": "bd6d86aba199",
+  "title": "GDK Siap Serap Saham Buyback DGIK hingga Akhir Desember 2026",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd1pCc2pSVDd5cVdfTlFwLWE0NWpfeGJlRVdtVndOd0dBOGRfNXR6b1l5cFVQR0tmYVNmUVU2WXpWUDJLRnk4dzluWGlQOXExekQzN1FzVURrLUZfd2xFamlpQjRLaTMweE04anBBZ3FMUHltaE9pS2JRZURlT1o1U1NLV1dLM05GVENsU3dOSGw0Zw?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-04T10:23:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-07T02:40:09.033570+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "GDK Siap Serap Saham Buyback DGIK hingga Akhir Desember 2026.  GDK Siap Serap Saham Buyback DGIK hingga Akhir Desember 2026 &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "c5d9a51837ea",
   "title": "Kertas Indonesia - Dirut Gencar Divestasi, Harga Saham Perusahaan Kertas Ini Malah Melambung",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVeTlFOUdtN0NKaTkyMWRnYllVdEZ3YWxIaG00NHdDZVIwTmZwa1NvUDl0Zm1rR3F1ODk2SHkwMDhiRGstSno4bEZZV3FXalh1Wlkw?oc=5",
@@ -11761,34 +11781,6 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "bd6d86aba199",
-  "title": "GDK Siap Serap Saham Buyback DGIK hingga Akhir Desember 2026",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd1pCc2pSVDd5cVdfTlFwLWE0NWpfeGJlRVdtVndOd0dBOGRfNXR6b1l5cFVQR0tmYVNmUVU2WXpWUDJLRnk4dzluWGlQOXExekQzN1FzVURrLUZfd2xFamlpQjRLaTMweE04anBBZ3FMUHltaE9pS2JRZURlT1o1U1NLV1dLM05GVENsU3dOSGw0Zw?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-03T09:54:00+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [
-   "Pembelian/penjualan besar"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-07T02:40:09.033570+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "GDK Siap Serap Saham Buyback DGIK hingga Akhir Desember 2026.  GDK Siap Serap Saham Buyback DGIK hingga Akhir Desember 2026 &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 0,
-  "response": null,
-  "score": 9,
   "outcome": null,
   "anomali": null
  },
@@ -18191,13 +18183,9 @@
   "snippet": "Jawab BEI, Ancara Logistics (ALII) Sebut Pengendali dan Afiliasi Borong Saham.  Jawab BEI, Ancara Logistics (ALII) Sebut Pengendali dan Afiliasi Borong Saham &nbsp;&nbsp; StockWatch.id",
   "corroboration": 0,
   "response": null,
-  "score": 56,
+  "score": 41,
   "outcome": null,
-  "anomali": {
-   "vol_z": 2.72,
-   "abn5": 13.05,
-   "last": "2026-11-09"
-  }
+  "anomali": null
  },
  {
   "id": "48e9575a101e",
@@ -18249,11 +18237,7 @@
   "response": null,
   "score": 41,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.3,
-   "abn5": 0.72,
-   "last": "2026-11-09"
-  }
+  "anomali": null
  },
  {
   "id": "e33f051e082d",
@@ -18433,11 +18417,7 @@
   "response": null,
   "score": 41,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.3,
-   "abn5": 0.72,
-   "last": "2026-11-09"
-  }
+  "anomali": null
  },
  {
   "id": "98ff43e6998b",
