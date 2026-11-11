@@ -498,6 +498,36 @@
   "anomali": null
  },
  {
+  "id": "9bf9bc6e3ba2",
+  "title": "Haji Isam Dikabarkan Kaji Akuisisi Tambang Nikel Eramat di RI",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFE3ZEY0M2VnX2t1b3FUWmw1eGp5aDlFVUwxejJudThINFA2clRfNllWaVVubWFfeExyeUo1RklyR0Q4NmtyNlMybU5JSzVaVjktSEJGNk9rQTV2Umk1eWJRTG1RSnNmUm1vODJGR1JONkdtWkZvSlVEUXdlajYwUndmY2dUYk5CaGRXNm00WFVSUkxBUkZ3SzBtNl9mNmRBVW5wQXZJTDRWX2RPZThXR0hfcw?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-11T10:22:49+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-11T21:24:57.226610+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Haji Isam Dikabarkan Kaji Akuisisi Tambang Nikel Eramat di RI.  Haji Isam Dikabarkan Kaji Akuisisi Tambang Nikel Eramat di RI &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "7b0e91a2707d",
   "title": "KB Bank (BBKP) Bantah Isu Divestasi, KB Financial Group Tetap Jadi Pengendali",
   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSUhFZWZ5WXJjRU5ScXQzQmpWdkgwYXlIUW1aUVVPeUo0amhUYkhIRThWMThOWUtpdXNma1RTMjFKb0ZzN2duUERrOU1meXJkOVhZN2FlQUFfTTV5Y201UUptNnFLN09QN0tQa2tJcUVwWlhUUUtKdXhDN1Z0ZHZrR3J4N3dvaHBhUDVoZ2ZOeWplTGVSeUF2M0RZaDlGSTdKampGdHBYeHhkb2RmTjNzc0dpLWY0XzAxRVNHdXA4Mms3NGVSa2YzUVJ0QdIB0AFBVV95cUxQRjZKUXNSb2JsTHZJYW9fb1FpZE9UeFJIZ2tKZE4xSUR0NUJVWDYzdnI3ZGxnUko2RHFQSEtKRUF2d2c2a2cwT2hqZlk5cnVVd3FGSjdzOEpoMGJJSURFRUNqTk1aWVd2TVdFbm94WkxYVUhXMEhoUDdiOWNmd2t6Si12MHJzbkdFOHlFSkJ3MzYwZm5PLVhmaGVFemQxR0puTlJYQ3dTNm5DYjl6Q2xmVm9KNWFjSy1ZX1l3Z3pnZlpSUmJIemExNWQ5c0RYUzRw?oc=5",
@@ -2218,7 +2248,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.54,
+   "abn5": -3.65,
+   "last": "2026-11-10"
+  }
  },
  {
   "id": "2b2730f1eefa",
@@ -7749,6 +7783,32 @@
   "anomali": null
  },
  {
+  "id": "83cd28bf152d",
+  "title": "Prakiraan Mingguan Bitcoin: Penjual Perketat Cengkeraman, BTC Terancam Turun Lima Pekan Beruntun",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbHpCeEtUWnowc2xnbEhYa0NIY19XUkNQZDdmVDhzWWJoWDJBUlJJQ3pWVEs3QzBGNjlZUHg5MFRDN29SX0I5aVB6LURkMUdncnNXRUpUdjlBYVNrQ1J3Zl9oUGVBX3BhVEc5SHJZeEl6Q1FrUE5xSzdfY09QYU0yeUpWYUNiRzRqTWdjMkN0WkIzdEFpTWFVLXFBUkg0bFlaWEpYYkRJel9McDhMUmRjMkd6cnJKY3E5elMzMmNBOGtZbU9jMUdza0RYSkFYMkJmMllWdVJrN0NaWk9tcWxZMXhsR201cVdiNHVXR240MEZrXzI4NDl5Wg?oc=5",
+  "media": "FXStreet",
+  "published": "2026-11-06T16:12:43+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-06T17:41:25.971751+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prakiraan Mingguan Bitcoin: Penjual Perketat Cengkeraman, BTC Terancam Turun Lima Pekan Beruntun.  Prakiraan Mingguan Bitcoin: Penjual Perketat Cengkeraman, BTC Terancam Turun Lima Pekan Beruntun &nbsp;&nbsp; FXStreet",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5ff52e49db8f",
   "title": "Tambah Modal, Garuda Indonesia (GIAA) Rights Issue 248,71 Miliar Saham",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkl6Slc3U0RUaGtrVkZsbHBzZWk2bjdJMnFHLTI5LU05YkxiNHJIWGkzRzdqcTRjYXdMbWRJTm5FVGgwTFRhSVlsd01TTjlwenlRdjBaS1A0OWxQakN5T1pQQ3Y0NWxreVlvZE5TaU1LYnRzcUhETlVpcVVKcy1NR2JyRkNKSmhRZTMyOFgwdG4zeTJWeTBwMQ?oc=5",
@@ -8190,32 +8250,6 @@
   "schedule": false,
   "party": false,
   "snippet": "Prakiraan Mingguan Bitcoin: Penjual Memperkuat Cengkeraman saat BTC Membidik Penurunan Mingguan Kelima.  Prakiraan Mingguan Bitcoin: Penjual Memperkuat Cengkeraman saat BTC Membidik Penurunan Mingguan Kelima &nbsp;&nbsp; FXStreet",
-  "corroboration": 0,
-  "response": null,
-  "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "83cd28bf152d",
-  "title": "Prakiraan Mingguan Bitcoin: Penjual Perketat Cengkeraman, BTC Terancam Turun Lima Pekan Beruntun",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbHpCeEtUWnowc2xnbEhYa0NIY19XUkNQZDdmVDhzWWJoWDJBUlJJQ3pWVEs3QzBGNjlZUHg5MFRDN29SX0I5aVB6LURkMUdncnNXRUpUdjlBYVNrQ1J3Zl9oUGVBX3BhVEc5SHJZeEl6Q1FrUE5xSzdfY09QYU0yeUpWYUNiRzRqTWdjMkN0WkIzdEFpTWFVLXFBUkg0bFlaWEpYYkRJel9McDhMUmRjMkd6cnJKY3E5elMzMmNBOGtZbU9jMUdza0RYSkFYMkJmMllWdVJrN0NaWk9tcWxZMXhsR201cVdiNHVXR240MEZrXzI4NDl5WtIB_gFBVV95cUxOUGJOLUQ5a05FZ1lEYVU4aDZ3aGxjcHFkMFBZUTVyTU5XYmczZnRnaGRNdnFTV1htSWxiOEVOZ3JsTk5qOHNLRXhJQ0tERlFrQ0VZZS1EcmFYblFwYkVNVnRNbzFfLWhuc21zd1FWdGZmQlNnQXpfS0lFWkV3VThxZHFDZ2d0UXFYdTY2VkhZOXlaWmx6Q3JjYVFlQ2tIWWlfcnhqVU5FOXF6czg5YnEzMjFiM2hPbHdBeFdkQi1GaU5vekkwV0NjUXhnb1dKX3JxQ2VVVVBJTGs2M0lrNktxTTh2R3FNWjFUOWRjQ0lRMWc1QTlLX3FValZHOXFpUQ?oc=5",
-  "media": "FXStreet",
-  "published": "2026-11-06T11:49:24+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-06T17:41:25.971751+00:00",
-  "anon": [
-   "mengincar"
-  ],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Prakiraan Mingguan Bitcoin: Penjual Perketat Cengkeraman, BTC Terancam Turun Lima Pekan Beruntun.  Prakiraan Mingguan Bitcoin: Penjual Perketat Cengkeraman, BTC Terancam Turun Lima Pekan Beruntun &nbsp;&nbsp; FXStreet",
   "corroboration": 0,
   "response": null,
   "score": 16,
