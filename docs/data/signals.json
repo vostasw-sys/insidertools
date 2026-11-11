@@ -80,6 +80,34 @@
   "anomali": null
  },
  {
+  "id": "49e3b852e64c",
+  "title": "Haji Isam Pertimbangkan Beli Saham Weda Bay Nickel",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MYmFyLWdUN3owNG1uRk9abnZVVXFPS29TSVBfMjIydXRmcEtRZnNqZXJNOFBvQVVXQm5BdWdXVTJMRFR2SWc1REhKWkQyYnRoclZfREtucEs1NW1UaURFVA?oc=5",
+  "media": "Koridor.co.id",
+  "published": "2026-11-11T10:27:33+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-11T12:22:33.258181+00:00",
+  "anon": [
+   "sedang menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Haji Isam Pertimbangkan Beli Saham Weda Bay Nickel.  Haji Isam Pertimbangkan Beli Saham Weda Bay Nickel &nbsp;&nbsp; Koridor.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "03d96c8e5353",
   "title": "Ultra Jaya (ULTJ) Rights Issue Rp 16,94 Triliun, Ini Prospek Kinerjanya",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMG9yT1FwUlNnUWVINjJBZjljV0dSV3BQaTg0VUVlYnpPWkJNZmZwbkdDeUpqN2swVkVKeDZYWnRqV01lZmJJU2pzT2U2TDdYczR5NmN2LVF1bkpxUkpPTDlRVzBNR05QWVVPSnNZQmZRUWpyRkZKVkFiN3FlcFViN1BCd2F5M1k2eXBfTXJwM0pVblBZaXd6a280ZTdiTUsyMjRsZk1n0gGeAUFVX3lxTE5TeUg3LTRMczNSM1V5WDVrTHdOZVV1a1NOM2xBUWZ5TFkxZ2ZNZHBFRmRuaGdyYVNTRS1vRndLanNXZWhWdFFpSlBXVkR6cGtpQkVsbFRQdDVmdklTVV9NZU01R0pGdXNTeHRlS08xcEF3TmNKeEpGWEJyVGhQU2w4TmdNaXdRM1c0c0dGMkNqYzBCTEs2Q05RQ250bXVn?oc=5",
@@ -1799,9 +1827,13 @@
   "snippet": "ADRO dan AADI Catat Transaksi Saham Rp66 Triliun.  ADRO dan AADI Catat Transaksi Saham Rp66 Triliun &nbsp;&nbsp; Koridor.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.54,
+   "abn5": -5.67,
+   "last": "2026-11-11"
+  }
  },
  {
   "id": "2b2730f1eefa",
@@ -5501,7 +5533,8 @@
   "first_seen": "2026-11-09T00:00:00.370534+00:00",
   "anon": [],
   "corp": [
-   "akuisisi"
+   "akuisisi",
+   "rights issue"
   ],
   "stance": null,
   "value_bn": 2000.0,
@@ -10551,7 +10584,7 @@
  {
   "id": "3d9b982558f4",
   "title": "Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVk52M2dIa3ZueWJ6WmNreUJhOGFIRGZzT0pnQTMwOU94WHk2TUMzQXZ1S191M2ZWYUxqNlV3b0ZIY0w1dWFLWGJPTF9uVVB4S09VLXJMdXAyMzZSWTNLRV95UUN2aDdiNHYtQ1RkX3dXSlZsSExoVVlKczZEVll1dzMtSFlCNEpQMWlLeVhVeEJxekdEdDhMMFhodXh1OFNjQWpUam84VEx2OGxnb1R0TXZXRkNjNU0wZU530gG-AUFVX3lxTFBPZVdpbnVDbDRoNDVVOHliNzUzbTlkeGRyblhzRnc5LXNxNmVrYmRyaFBrbkhvYmgzT1NqTzJtZ2poZ1cycUdfNmJoMGF2VWdhUGJFMFlqQ3FDZnNlR0FDU2lKVHlSS0UwNHJ4cVV4Y1hyYTF3MGpwc3M4U0x2TVdtMG5WczgxSS1ab1dpcjJWUThZMWktRHo1VlQ1RENwZFBLaTZXbGJsdXdkY1VHZVZSNENUc2wwM2tCSEJaV1E?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmQ2Ylh5cGtNZUhkZnR4Mkw4MUdGM3dPYXNRYkE2QUEzRnZqVkFBdm0xeE5HaTE1TG5tRTI4NEpaMF9DWFQwY2UwNzJHSnpMQzdLMFlCRXhyLVMwTTRKR2JXNGkteWswSTFBYnpOVTBIUFVwZHBSMWNzSTBtRFRyQUoxOXJrdjhXUVNhVzRzQ0JJYVFVc2daNDdNWmlSV09zQmlDSk0wRF9KazFTNU56TlVCcko2enps0gG-AUFVX3lxTFBPZVdpbnVDbDRoNDVVOHliNzUzbTlkeGRyblhzRnc5LXNxNmVrYmRyaFBrbkhvYmgzT1NqTzJtZ2poZ1cycUdfNmJoMGF2VWdhUGJFMFlqQ3FDZnNlR0FDU2lKVHlSS0UwNHJ4cVV4Y1hyYTF3MGpwc3M4U0x2TVdtMG5WczgxSS1ab1dpcjJWUThZMWktRHo1VlQ1RENwZFBLaTZXbGJsdXdkY1VHZVZSNENUc2wwM2tCSEJaV1E?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-05T00:40:00+00:00",
   "tickers": [
@@ -18520,6 +18553,33 @@
   "anomali": null
  },
  {
+  "id": "85aa157f1955",
+  "title": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FV1QyUXZJVEs2Yml4SEV2eUZSZE9VX2VPU29ZQVNuWkg0NU5zOGJUc29MU05uSFdLOHNmSEJUdTRmelViVmUxbXZkV09IQnhWQjJtT2wxWjNrQ2tUOWV3RDgzSVNhYjhYbVJULVNqQlZpNVc3emlHM3dWT2g?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-10-29T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen",
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-08T22:02:59.188871+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI.  Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5732848ab958",
   "title": "CIO Danantara Pandu Sjahrir Miliki Saham Supra Sekuritas yang Kena Sanksi OJK",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUdRX1BPNlk5YUZ5eDZlZjNRODlQQXQ0dnR5dDlvSUNqRmtvclNJWHMwdHNKeGFDaXNZdjN6WmRxdW9VSXB6SFpQd25zanY1dndJMEdHcWVqM3NvMlNtZjNHMGpocGpZMmlpZ01aSVotQVpRWmZINE5aX05rakQwR2JYX2c2X1pEMlAwWFNCMkNzMjAwRkxaMlVJNW5SUmVvd25MZUo1ZkdDVTBuWTh0Uw?oc=5",
@@ -18766,33 +18826,6 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "85aa157f1955",
-  "title": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FV1QyUXZJVEs2Yml4SEV2eUZSZE9VX2VPU29ZQVNuWkg0NU5zOGJUc29MU05uSFdLOHNmSEJUdTRmelViVmUxbXZkV09IQnhWQjJtT2wxWjNrQ2tUOWV3RDgzSVNhYjhYbVJULVNqQlZpNVc3emlHM3dWT2g?oc=5",
-  "media": "StockWatch.id",
-  "published": "2026-10-29T04:26:22+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Direksi/manajemen",
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-08T22:02:59.188871+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI.  Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI &nbsp;&nbsp; StockWatch.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
   "outcome": null,
   "anomali": null
  },
