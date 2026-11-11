@@ -135,8 +135,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": 0.74,
-   "last": "2026-11-11"
+   "abn5": 1.37,
+   "last": "2026-11-10"
   }
  },
  {
@@ -407,12 +407,12 @@
   "snippet": "Ultra Jaya (ULTJ) Rights Issue Rp 16,94 Triliun, Ini Prospek Kinerjanya.  Ultra Jaya (ULTJ) Rights Issue Rp 16,94 Triliun, Ini Prospek Kinerjanya &nbsp;&nbsp; kontan.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 35,
+  "score": 50,
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -3.97,
-   "last": "2026-11-11"
+   "abn5": -5.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -438,6 +438,36 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "04e35c900a84",
+  "title": "Haji Isam Dikabarkan Kaji Akuisisi Tambang Nikel Eramet di RI",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczMydDM2aXhkMVY3bnhweWF5N2UzcW50RFB5S25BNThNdmFNYkhCb29uUzdjWUJwRGNDTE56M1ZIdnQzbnVlUjVrVVdMajFZSG4wblc4eTJFWWRiNGd4QmZ0V1ZPbzJScjd0Rnl0TTN4MDdTT1VDTHZMX2lSbGdqTVpkc3ZRbWxYRFJVblVRY09PdW5tQThUeHJseTFaTmJkWE1weHk5bWlZcmw5SVBoQ08xSQ?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-11T10:22:49+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-11T17:48:18.968577+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Haji Isam Dikabarkan Kaji Akuisisi Tambang Nikel Eramet di RI.  Haji Isam Dikabarkan Kaji Akuisisi Tambang Nikel Eramet di RI &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
   "outcome": null,
   "anomali": null
  },
@@ -549,12 +579,12 @@
   "snippet": "Simak Jadwal Rights Issue Ultra Jaya (ULTJ) Senilai Rp 16,94 Triliun.  Simak Jadwal Rights Issue Ultra Jaya (ULTJ) Senilai Rp 16,94 Triliun &nbsp;&nbsp; kontan.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 35,
+  "score": 50,
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -3.97,
-   "last": "2026-11-11"
+   "abn5": -5.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -836,12 +866,12 @@
   "snippet": "Ultrajaya (ULTJ) Gelar Rights Issue, Harga Pelaksanaan Dipatok Senilai Rp2.150 per Saham.  Ultrajaya (ULTJ) Gelar Rights Issue, Harga Pelaksanaan Dipatok Senilai Rp2.150 per Saham &nbsp;&nbsp; IDX Channel",
   "corroboration": 4,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -3.97,
-   "last": "2026-11-11"
+   "abn5": -5.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -1513,12 +1543,12 @@
   "snippet": "Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue.  Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue &nbsp;&nbsp; Bisnis Indonesia Premium",
   "corroboration": 4,
   "response": null,
-  "score": 25,
+  "score": 40,
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -3.97,
-   "last": "2026-11-11"
+   "abn5": -5.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -1964,6 +1994,34 @@
   "anomali": null
  },
  {
+  "id": "6efdee3850e4",
+  "title": "Saham Nvidia anjlok di tengah berita tentang penyelidikan terhadap CEO Jensen Huang.",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXJZUmhHZnFqSjNJRU83bkpIZDREcU54Vlo2QU5XOWZWakRvMVRDVnNzNVc5N2JjUHNBR3QtdjZsYmVqc3p0Y1pkdi1xSnZsWWNYSlQ2dzRsXzR2TnRJeWhTSDBpVnI5blJDbnFHanJtSUF5WTlyS3lTYU4tS1pnYUJXMXc3V09ZbVdBbDJPSVByV3pjU3p3?oc=5",
+  "media": "Vietnam.vn",
+  "published": "2026-11-10T08:57:29+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen"
+  ],
+  "first_seen": "2026-11-11T17:48:18.968577+00:00",
+  "anon": [
+   "sedang menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham Nvidia anjlok di tengah berita tentang penyelidikan terhadap CEO Jensen Huang..  Saham Nvidia anjlok di tengah berita tentang penyelidikan terhadap CEO Jensen Huang. &nbsp;&nbsp; Vietnam.vn",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "75062bd8aa5c",
   "title": "Indeks VN naik lebih dari 25 poin menjadi 1.740 karena dua putaran suntikan likuiditas VND membuka jalan bagi penurunan suku bunga pinjaman.",
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2ZQbkdOSTh3M2N2UHROVlBzZmlpdzVVdmxRNkxSdWdNdklTcGJrZ1hVbVljNUZQSjZ0M09DbUtyTHlRNnhvYk0tUXNGMXE4bGJTRk1EaFlZM2hydklLS20xV3NmUTg1M3BFQjk4SjloX1B5dzI5VTlremY0TkFkOGpRZmJWOVFuamdNc1dONTlkTTQwaFFMLXdrbVJqUlRmd2daZ3BMT0FuQzBZa0dNZng3cV9jMzV0Zm1YTkxPZ0YyQQ?oc=5",
@@ -2069,12 +2127,12 @@
   "snippet": "Nasib Investasi Lo Kheng Hong, Telkom & Dapen Pertamina usai SRIL, TELE, & SUGI Delisting - Bisnis.com.  Nasib Investasi Lo Kheng Hong, Telkom & Dapen Pertamina usai SRIL, TELE, & SUGI Delisting &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 1,
   "response": null,
-  "score": 30,
+  "score": 15,
   "outcome": null,
   "anomali": {
    "vol_z": -0.24,
-   "abn5": 5.31,
-   "last": "2026-11-11"
+   "abn5": 4.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -2132,12 +2190,12 @@
   "snippet": "ADRO dan AADI Catat Transaksi Saham Rp66 Triliun.  ADRO dan AADI Catat Transaksi Saham Rp66 Triliun &nbsp;&nbsp; Koridor.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 41,
+  "score": 26,
   "outcome": null,
   "anomali": {
    "vol_z": -0.54,
-   "abn5": -5.67,
-   "last": "2026-11-11"
+   "abn5": -3.65,
+   "last": "2026-11-10"
   }
  },
  {
@@ -2437,12 +2495,12 @@
   "snippet": "Percepat Streamlining, Telkom Rampingkan Anak Usaha Lewat Dua Merger Sekaligus.  Percepat Streamlining, Telkom Rampingkan Anak Usaha Lewat Dua Merger Sekaligus &nbsp;&nbsp; kontan.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 30,
+  "score": 15,
   "outcome": null,
   "anomali": {
    "vol_z": -0.24,
-   "abn5": 5.31,
-   "last": "2026-11-11"
+   "abn5": 4.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -3248,12 +3306,12 @@
   "snippet": "Ultrajaya Milk (ULTJ) Bagi Dividen Tambahan Rp1,04 Triliun, Cek Jadwalnya.  Ultrajaya Milk (ULTJ) Bagi Dividen Tambahan Rp1,04 Triliun, Cek Jadwalnya &nbsp;&nbsp; StockWatch.id",
   "corroboration": 1,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -3.97,
-   "last": "2026-11-11"
+   "abn5": -5.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -3374,12 +3432,12 @@
   "snippet": "RUPSLB Ultrajaya (ULTJ) Setujui Rights Issue hingga Pembagian Dividen Spesial Rp1,04 Triliun.  RUPSLB Ultrajaya (ULTJ) Setujui Rights Issue hingga Pembagian Dividen Spesial Rp1,04 Triliun &nbsp;&nbsp; IDX Channel",
   "corroboration": 4,
   "response": null,
-  "score": 29,
+  "score": 44,
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -3.97,
-   "last": "2026-11-11"
+   "abn5": -5.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -3749,12 +3807,12 @@
   "snippet": "Susu Ultra (ULTJ) Tebar Dividen Rp1,03 Triliun, Siap Akuisisi Frisian Flag - Bisnis.com.  Susu Ultra (ULTJ) Tebar Dividen Rp1,03 Triliun, Siap Akuisisi Frisian Flag &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 3,
   "response": null,
-  "score": 35,
+  "score": 50,
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -3.97,
-   "last": "2026-11-11"
+   "abn5": -5.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -5866,8 +5924,7 @@
   "first_seen": "2026-11-09T00:00:00.370534+00:00",
   "anon": [],
   "corp": [
-   "akuisisi",
-   "rights issue"
+   "akuisisi"
   ],
   "stance": null,
   "value_bn": 2000.0,
@@ -7328,8 +7385,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.43,
-   "abn5": 5.31,
-   "last": "2026-11-11"
+   "abn5": 6.99,
+   "last": "2026-11-10"
   }
  },
  {
@@ -7364,8 +7421,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.43,
-   "abn5": 5.31,
-   "last": "2026-11-11"
+   "abn5": 6.99,
+   "last": "2026-11-10"
   }
  },
  {
@@ -7477,8 +7534,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.43,
-   "abn5": 5.31,
-   "last": "2026-11-11"
+   "abn5": 6.99,
+   "last": "2026-11-10"
   }
  },
  {
@@ -8250,12 +8307,12 @@
   "snippet": "Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya.  Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya &nbsp;&nbsp; kontan.co.id",
   "corroboration": 11,
   "response": null,
-  "score": 25,
+  "score": 40,
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -3.97,
-   "last": "2026-11-11"
+   "abn5": -5.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -9637,12 +9694,12 @@
   "snippet": "Akuisisi FFI, Ultrajaya (ULTJ) Siap Terbitkan 7,87 Miliar Saham Baru.  Akuisisi FFI, Ultrajaya (ULTJ) Siap Terbitkan 7,87 Miliar Saham Baru &nbsp;&nbsp; Emitennews.com",
   "corroboration": 3,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -3.97,
-   "last": "2026-11-11"
+   "abn5": -5.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -9728,12 +9785,12 @@
   "snippet": "Ultrajaya (ULTJ) Rights Issue Rp 16,9 Triliun, Ada Rencana Tambahan Dividen Jumbo.  Ultrajaya (ULTJ) Rights Issue Rp 16,9 Triliun, Ada Rencana Tambahan Dividen Jumbo &nbsp;&nbsp; investor.id",
   "corroboration": 4,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -3.97,
-   "last": "2026-11-11"
+   "abn5": -5.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -10994,12 +11051,12 @@
   "snippet": "Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun.  Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun &nbsp;&nbsp; IDX Channel",
   "corroboration": 6,
   "response": null,
-  "score": 29,
+  "score": 44,
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -3.97,
-   "last": "2026-11-11"
+   "abn5": -5.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -11394,12 +11451,12 @@
   "snippet": "Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun - Bisnis.com.  Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 1,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": -5.12,
-   "last": "2026-11-11"
+   "abn5": -4.31,
+   "last": "2026-11-10"
   }
  },
  {
@@ -12728,12 +12785,12 @@
   "snippet": "MAP Boga (MAPB) Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya.  MAP Boga (MAPB) Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya &nbsp;&nbsp; StockWatch.id",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
    "vol_z": -0.03,
-   "abn5": -3.97,
-   "last": "2026-11-11"
+   "abn5": -5.5,
+   "last": "2026-11-10"
   }
  },
  {
@@ -13140,12 +13197,12 @@
   "snippet": "Indo Tambangraya Megah (ITMG) Tebar Dividen US$ 74,2 Juta, Ini Jadwalnya.  Indo Tambangraya Megah (ITMG) Tebar Dividen US$ 74,2 Juta, Ini Jadwalnya &nbsp;&nbsp; Ajaib",
   "corroboration": 1,
   "response": null,
-  "score": 31,
+  "score": 16,
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": -5.12,
-   "last": "2026-11-11"
+   "abn5": -4.31,
+   "last": "2026-11-10"
   }
  },
  {
@@ -13423,8 +13480,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.18,
-   "abn5": 0.13,
-   "last": "2026-11-11"
+   "abn5": 0.25,
+   "last": "2026-11-10"
   }
  },
  {
@@ -13455,8 +13512,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.31,
-   "abn5": 1.23,
-   "last": "2026-11-11"
+   "abn5": -2.94,
+   "last": "2026-11-10"
   }
  },
  {
@@ -13595,8 +13652,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.95,
-   "abn5": -0.97,
-   "last": "2026-11-11"
+   "abn5": -2.36,
+   "last": "2026-11-10"
   }
  },
  {
@@ -14917,8 +14974,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.7,
-   "abn5": 1.09,
-   "last": "2026-11-11"
+   "abn5": -2.64,
+   "last": "2026-11-10"
   }
  },
  {
@@ -15196,12 +15253,12 @@
   "snippet": "4 Segmen Bisnis Utama Tumbuh, Telkom (TLKM) Raup Pendapatan Rp113,5T.  4 Segmen Bisnis Utama Tumbuh, Telkom (TLKM) Raup Pendapatan Rp113,5T &nbsp;&nbsp; Emitennews.com",
   "corroboration": 1,
   "response": null,
-  "score": 34,
+  "score": 19,
   "outcome": null,
   "anomali": {
    "vol_z": -0.24,
-   "abn5": 5.31,
-   "last": "2026-11-11"
+   "abn5": 4.0,
+   "last": "2026-11-10"
   }
  },
  {
@@ -16148,12 +16205,12 @@
   "snippet": "Ini Alasan Puri Global Sukses (PURI) Optimistis Cetak Kinerja Tumbuh Positif di 2024.  Ini Alasan Puri Global Sukses (PURI) Optimistis Cetak Kinerja Tumbuh Positif di 2024 &nbsp;&nbsp; TradingView",
   "corroboration": 1,
   "response": null,
-  "score": 16,
+  "score": 31,
   "outcome": null,
   "anomali": {
    "vol_z": -0.39,
-   "abn5": -1.99,
-   "last": "2026-11-11"
+   "abn5": -8.22,
+   "last": "2026-11-10"
   }
  },
  {
@@ -16456,8 +16513,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.7,
-   "abn5": -2.75,
-   "last": "2026-11-11"
+   "abn5": -0.81,
+   "last": "2026-11-10"
   }
  },
  {
@@ -16974,8 +17031,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.43,
-   "abn5": 5.31,
-   "last": "2026-11-11"
+   "abn5": 6.99,
+   "last": "2026-11-10"
   }
  },
  {
@@ -17825,12 +17882,12 @@
   "snippet": "Saham Koka Indonesia (KOKA) Masuk Radar UMA di BEI.  Saham Koka Indonesia (KOKA) Masuk Radar UMA di BEI &nbsp;&nbsp; TradingView",
   "corroboration": 0,
   "response": null,
-  "score": 56,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": -0.32,
-   "abn5": -12.3,
-   "last": "2026-11-11"
+   "abn5": -2.68,
+   "last": "2026-11-10"
   }
  },
  {
@@ -18557,8 +18614,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": 2.34,
-   "last": "2026-11-11"
+   "abn5": 1.73,
+   "last": "2026-11-10"
   }
  },
  {
@@ -18938,33 +18995,6 @@
   "anomali": null
  },
  {
-  "id": "85aa157f1955",
-  "title": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FV1QyUXZJVEs2Yml4SEV2eUZSZE9VX2VPU29ZQVNuWkg0NU5zOGJUc29MU05uSFdLOHNmSEJUdTRmelViVmUxbXZkV09IQnhWQjJtT2wxWjNrQ2tUOWV3RDgzSVNhYjhYbVJULVNqQlZpNVc3emlHM3dWT2g?oc=5",
-  "media": "StockWatch.id",
-  "published": "2026-10-29T07:00:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Direksi/manajemen",
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-08T22:02:59.188871+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI.  Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI &nbsp;&nbsp; StockWatch.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "5732848ab958",
   "title": "CIO Danantara Pandu Sjahrir Miliki Saham Supra Sekuritas yang Kena Sanksi OJK",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUdRX1BPNlk5YUZ5eDZlZjNRODlQQXQ0dnR5dDlvSUNqRmtvclNJWHMwdHNKeGFDaXNZdjN6WmRxdW9VSXB6SFpQd25zanY1dndJMEdHcWVqM3NvMlNtZjNHMGpocGpZMmlpZ01aSVotQVpRWmZINE5aX05rakQwR2JYX2c2X1pEMlAwWFNCMkNzMjAwRkxaMlVJNW5SUmVvd25MZUo1ZkdDVTBuWTh0Uw?oc=5",
@@ -19158,8 +19188,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": 2.34,
-   "last": "2026-11-11"
+   "abn5": 1.73,
+   "last": "2026-11-10"
   }
  },
  {
@@ -19211,6 +19241,33 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "85aa157f1955",
+  "title": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FV1QyUXZJVEs2Yml4SEV2eUZSZE9VX2VPU29ZQVNuWkg0NU5zOGJUc29MU05uSFdLOHNmSEJUdTRmelViVmUxbXZkV09IQnhWQjJtT2wxWjNrQ2tUOWV3RDgzSVNhYjhYbVJULVNqQlZpNVc3emlHM3dWT2g?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-10-29T04:26:22+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen",
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-08T22:02:59.188871+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI.  Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -19470,8 +19527,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": 2.34,
-   "last": "2026-11-11"
+   "abn5": 1.73,
+   "last": "2026-11-10"
   }
  },
  {
@@ -19504,8 +19561,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": 2.34,
-   "last": "2026-11-11"
+   "abn5": 1.73,
+   "last": "2026-11-10"
   }
  },
  {
