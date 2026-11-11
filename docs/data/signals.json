@@ -1,5 +1,31 @@
 [
  {
+  "id": "826ef029f96f",
+  "title": "Penulis Kaitkan Robohnya Surau Kami dengan Kritik Politik Gibran",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DM1djcHlUT3JvX0NmWWl3UkRJRVJSdWhSSEN1SGZ6YWwtNUQ4Y1dPNGF1TUV1X3gwNDBvQWRrQld3aU9scW9HVUtjZVdNX2oxdmR2MnZ5QkN2MFB4cnhFVkxWTXV1WGg5MVV3RzNJZ2s?oc=5",
+  "media": "Koridor.co.id",
+  "published": "2026-11-11T06:25:41+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-11T06:56:33.456981+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Penulis Kaitkan Robohnya Surau Kami dengan Kritik Politik Gibran.  Penulis Kaitkan Robohnya Surau Kami dengan Kritik Politik Gibran &nbsp;&nbsp; Koridor.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "54562c0481fe",
   "title": "Korea Selatan Setujui Sinar Mas Akuisisi Hyundai LNG Shipping dengan Syarat",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVk4V0cyUHpFSHpNRmliellsdV9nTzJnN2xGVllMaGZTT1Q1ZlNtdXhaUVVpQ3o4dFBJTEVfbjZlOFdidkgxc3gtYTZWLXdrSTY0VXV6OXVQNXgxQUlTcjJSN29RcWpFV2J2VlpqUlhrcTY0SDlMMFpfckFtUWJvNGZBLWRZWHV1TW1OVHVPTklvRlR0VWJZU191XzJCWUY2akVOZ3B0QkpXSWZNYlV3eGJn0gG3AUFVX3lxTE9UeXNublZFSXZvQnp6eU1ka1F1LURPd3dHS24yWUZudVN5UnJuWmkzSkl2ZlVackRiTmxTWFhaRTAwX2ZKcG1HNVczenRMXzBrU3dQTFdOWUtsejFIMzQ0WjliMUJlV1p2NE5VaFBVNmdjbUVHREd2OHRYMnloMWNGa0wxWmtPbk1nOXhlWkZySjFMMnFYNjA2bS14OTRyaUM5bWk3b0FJenFGTnhCQmNfOXhyQ2xSZw?oc=5",
@@ -513,7 +539,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -3.95,
+   "abn5": -3.98,
    "last": "2026-11-11"
   }
  },
@@ -1069,7 +1095,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": 4.27,
+   "abn5": 4.75,
    "last": "2026-11-11"
   }
  },
@@ -1099,11 +1125,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.63,
-   "abn5": -4.38,
-   "last": "2026-11-11"
-  }
+  "anomali": null
  },
  {
   "id": "2b2730f1eefa",
@@ -1406,7 +1428,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": 4.27,
+   "abn5": 4.75,
    "last": "2026-11-11"
   }
  },
@@ -1624,6 +1646,32 @@
   "schedule": false,
   "party": false,
   "snippet": "Senyum Alice Huang Memandang Wajah Bos Nvidia, Dituduh Mata-Mata China.  Senyum Alice Huang Memandang Wajah Bos Nvidia, Dituduh Mata-Mata China &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 24,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "9ab77ab3c97d",
+  "title": "Sorot Mata Alice Huang Memandang Wajah Bos Nvidia di Tengah Skandal",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLVBld2xJc0s2SHdUU0k3eEV3bE5nWk1lWmttdkVqTkp4TDNLNkh6aEIzbXZKaE5SdkY0RnhwRzNuVGJUdHRoZXVRb3ItSnV6bmRiX0oyaDFSQl8xY216WWJpeHV6cFhFYnF5MUJKRGNUQW5CTlF1Y3I2YkhNSWdqcWR4cEZUdGh4Skg4RkZYTVNxdjg0OFhXVzBhcDVKYnB4Wklrb3g3MWw0MW9BMlk2cU02N19iU3ZrZV9MaEFlTGdTQW93M2c?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-11-10T01:25:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-11T06:56:33.456981+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Sorot Mata Alice Huang Memandang Wajah Bos Nvidia di Tengah Skandal.  Sorot Mata Alice Huang Memandang Wajah Bos Nvidia di Tengah Skandal &nbsp;&nbsp; CNBC Indonesia",
   "corroboration": 0,
   "response": null,
   "score": 24,
@@ -2219,7 +2267,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -3.95,
+   "abn5": -3.98,
    "last": "2026-11-11"
   }
  },
@@ -2345,7 +2393,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -3.95,
+   "abn5": -3.98,
    "last": "2026-11-11"
   }
  },
@@ -2720,14 +2768,14 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -3.95,
+   "abn5": -3.98,
    "last": "2026-11-11"
   }
  },
  {
   "id": "c76d18f325b6",
   "title": "ULTJ Tebar Dividen Rp1,039 Triliun, Gaspol Right Issue 10 Miliar Saham",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHpoREd4VTYyT1hDYmhYdGl0RlpHN3lPTzVXa3RjRHdEXzlwRmI3NjlHaGJjRjlxTUZrcGlKTUxkcmttZk5LUzV4V25KaXdLRWJPNm9PeWNMcXpheFUwMUc5QXZyNEFYaUtDTy1pUkxZaW85QlVSWG5zT2thdHkyeEtHMkc1S2xzcU9ZOWwzX3VfN0dyQXE4MjVMbWw5NF9xWnc?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdm50YUtPMjZZZDRPTVphVE5fTFE4VVl4TUZLV2VxcjJReDJ3ekhQSDRNUmFEQlQtVVRvanZ1TWhIbTE0eUNXRFpUQ1Q4NXFNR0RrVmpQQzZIcG5PcXlNa1NXSWF2YXpRbm9ENUZPVDNYYUVVaE9acnlMQWRCdm5PbVJrMXY3TWNMTkR3TGZmcTUzNk1fNHBiaEt5S2w?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-09T11:23:00+00:00",
   "tickers": [],
@@ -2755,9 +2803,9 @@
  {
   "id": "7092af2343bf",
   "title": "18 Emiten Segera Didepak dari BEI, Bagaimana Nasib Uang Investor yang Belum Di-buyback? - Nawacita Post",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkZtazhSRkljNDRRSmNlVkdRQ1JxeWhQekVOTGdST24zWVdBcXZGSTlXUk9LVmY1ZzhkMGt3dUc3aUVXelZVUS1hb2JrcXdPb29wbG11WlRBRlRUS1F4V3BhT1l3cjhENHpYNGlyOE5LdlN3N0NxVGRZbUdnUS1sb09JNGJabVlPVWxoUnV1NmJUbHFQQ0Nwc2hwazZfYU9xUEplamJvVC1CT09fVnItOEZEekJKc1VLQ3ozb0tKSC1WcXBYWDV1LWRscG_SAdIBQVVfeXFMUE9TVGNjdEVpU3MxX0Y5U29pMnRrRkJXdkdkbG9STlhTWG9zQWNYVHFzcFdUMFF2ZXZQWk1OQnNDb0w1Y0tJWG1GdllVbmgwcVk5V3hiUWxmdUU2bDU0R2Q4TUwxWkZUQjZzaTNmZHc5ekNCZmNfUXRMcTl0eDAwTnNtZjlhWUNRTjZaS3o4RVd2dEY0OFdFUzVEa1E3c2sweGZBS1BQWXBXNzNZWDlwYXRHZ0ItVGlYcE9vXzIzNUI0MzlTSnRUTlprb2hkSmNFNmd3?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT1NUY2N0RWlTczFfRjlTb2kydGtGQld2R2Rsb1JOWFNYb3NBY1hUcXNwV1QwUXZldlBaTU5Cc0NvTDVjS0lYbUZ2WVVuaDBxWTlXeGJRbGZ1RTZsNTRHZDhNTDFaRlRCNnNpM2Zkdzl6Q0JmY19RdExxOXR4MDBOc21mOWFZQ1FONlpLejhFV3Z0RjQ4V0VTNURrUTdzazB4ZkFLUFBZcFc3M1lYOXBhdEdnQi1UaVhwT29fMjM1QjQzOVNKdFROWmtvaGRKY0U2Z3fSAdIBQVVfeXFMUE9TVGNjdEVpU3MxX0Y5U29pMnRrRkJXdkdkbG9STlhTWG9zQWNYVHFzcFdUMFF2ZXZQWk1OQnNDb0w1Y0tJWG1GdllVbmgwcVk5V3hiUWxmdUU2bDU0R2Q4TUwxWkZUQjZzaTNmZHc5ekNCZmNfUXRMcTl0eDAwTnNtZjlhWUNRTjZaS3o4RVd2dEY0OFdFUzVEa1E3c2sweGZBS1BQWXBXNzNZWDlwYXRHZ0ItVGlYcE9vXzIzNUI0MzlTSnRUTlprb2hkSmNFNmd3?oc=5",
   "media": "Nawacita Post",
-  "published": "2026-11-09T10:16:32+00:00",
+  "published": "2026-11-09T10:16:00+00:00",
   "tickers": [],
   "uma": false,
   "jenis": [
@@ -6212,7 +6260,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 4.06,
+   "abn5": 4.03,
    "last": "2026-11-11"
   }
  },
@@ -6248,7 +6296,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 4.06,
+   "abn5": 4.03,
    "last": "2026-11-11"
   }
  },
@@ -6361,7 +6409,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 4.06,
+   "abn5": 4.03,
    "last": "2026-11-11"
   }
  },
@@ -7112,7 +7160,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -3.95,
+   "abn5": -3.98,
    "last": "2026-11-11"
   }
  },
@@ -8499,7 +8547,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -3.95,
+   "abn5": -3.98,
    "last": "2026-11-11"
   }
  },
@@ -8590,7 +8638,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -3.95,
+   "abn5": -3.98,
    "last": "2026-11-11"
   }
  },
@@ -9830,7 +9878,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": -3.95,
+   "abn5": -3.98,
    "last": "2026-11-11"
   }
  },
@@ -10229,8 +10277,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": -5.73,
+   "vol_z": -0.18,
+   "abn5": -5.46,
    "last": "2026-11-11"
   }
  },
@@ -11538,7 +11586,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.03,
-   "abn5": -3.95,
+   "abn5": -3.99,
    "last": "2026-11-11"
   }
  },
@@ -11949,8 +11997,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": -5.73,
+   "vol_z": -0.18,
+   "abn5": -5.46,
    "last": "2026-11-11"
   }
  },
@@ -12229,7 +12277,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.16,
-   "abn5": 0.15,
+   "abn5": 0.47,
    "last": "2026-11-11"
   }
  },
@@ -12260,8 +12308,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.39,
-   "abn5": -3.16,
+   "vol_z": -1.38,
+   "abn5": -2.63,
    "last": "2026-11-11"
   }
  },
@@ -12401,7 +12449,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.97,
-   "abn5": -1.24,
+   "abn5": -0.98,
    "last": "2026-11-11"
   }
  },
@@ -13722,8 +13770,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.73,
-   "abn5": 0.48,
+   "vol_z": -0.72,
+   "abn5": 1.7,
    "last": "2026-11-11"
   }
  },
@@ -14006,7 +14054,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": 4.27,
+   "abn5": 4.75,
    "last": "2026-11-11"
   }
  },
@@ -14958,7 +15006,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.4,
-   "abn5": -1.97,
+   "abn5": -2.0,
    "last": "2026-11-11"
   }
  },
@@ -15261,8 +15309,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.72,
-   "abn5": -1.52,
+   "vol_z": -0.71,
+   "abn5": 0.88,
    "last": "2026-11-11"
   }
  },
@@ -15780,7 +15828,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 4.06,
+   "abn5": 4.03,
    "last": "2026-11-11"
   }
  },
@@ -16635,7 +16683,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -11.45,
+   "abn5": -11.49,
    "last": "2026-11-11"
   }
  },
@@ -17363,7 +17411,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": 2.99,
+   "abn5": 2.93,
    "last": "2026-11-11"
   }
  },
@@ -17744,6 +17792,33 @@
   "anomali": null
  },
  {
+  "id": "85aa157f1955",
+  "title": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FV1QyUXZJVEs2Yml4SEV2eUZSZE9VX2VPU29ZQVNuWkg0NU5zOGJUc29MU05uSFdLOHNmSEJUdTRmelViVmUxbXZkV09IQnhWQjJtT2wxWjNrQ2tUOWV3RDgzSVNhYjhYbVJULVNqQlZpNVc3emlHM3dWT2g?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-10-29T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen",
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-08T22:02:59.188871+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI.  Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5732848ab958",
   "title": "CIO Danantara Pandu Sjahrir Miliki Saham Supra Sekuritas yang Kena Sanksi OJK",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUdRX1BPNlk5YUZ5eDZlZjNRODlQQXQ0dnR5dDlvSUNqRmtvclNJWHMwdHNKeGFDaXNZdjN6WmRxdW9VSXB6SFpQd25zanY1dndJMEdHcWVqM3NvMlNtZjNHMGpocGpZMmlpZ01aSVotQVpRWmZINE5aX05rakQwR2JYX2c2X1pEMlAwWFNCMkNzMjAwRkxaMlVJNW5SUmVvd25MZUo1ZkdDVTBuWTh0Uw?oc=5",
@@ -17937,7 +18012,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": 2.99,
+   "abn5": 2.93,
    "last": "2026-11-11"
   }
  },
@@ -17990,33 +18065,6 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "85aa157f1955",
-  "title": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FV1QyUXZJVEs2Yml4SEV2eUZSZE9VX2VPU29ZQVNuWkg0NU5zOGJUc29MU05uSFdLOHNmSEJUdTRmelViVmUxbXZkV09IQnhWQjJtT2wxWjNrQ2tUOWV3RDgzSVNhYjhYbVJULVNqQlZpNVc3emlHM3dWT2g?oc=5",
-  "media": "StockWatch.id",
-  "published": "2026-10-29T04:26:22+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Direksi/manajemen",
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-08T22:02:59.188871+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI.  Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI &nbsp;&nbsp; StockWatch.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -18276,7 +18324,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": 2.99,
+   "abn5": 2.93,
    "last": "2026-11-11"
   }
  },
@@ -18310,7 +18358,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": 2.99,
+   "abn5": 2.93,
    "last": "2026-11-11"
   }
  },
