@@ -1,5 +1,57 @@
 [
  {
+  "id": "9f48614da381",
+  "title": "Haji Isam Bidik Saham Eramet di Tambang Nikel Weda Bay",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GeVI5QTB1SmJfMGRBR2FVRmRRQks1MWdGdGt2Z2lidnN1NTBLelR5aXJOTndUd0RDOVE4MzcxbUNXbm95bWpsUm1fNDNhb3EySUZrTjFaZEE3MzUwOWtONkptS2hLeWF2OFc5MktSSQ?oc=5",
+  "media": "Koridor.co.id",
+  "published": "2026-11-11T14:12:25+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-11T14:46:10.007597+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Haji Isam Bidik Saham Eramet di Tambang Nikel Weda Bay.  Haji Isam Bidik Saham Eramet di Tambang Nikel Weda Bay &nbsp;&nbsp; Koridor.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "be2c618908dd",
+  "title": "Saham Sea Tertekan Usai Kinerja Keuangan Tak Capai Ekspektasi",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Bc0ZkWGViMmp2X0JTeUFpMElEQzVodXFiM2dzbjJ3MWwyTjI1Wk1PS1BGNEkxLUJIbFJPTlhud0g4Q0JoYXZxczZTbkxkeGZvcjU4?oc=5",
+  "media": "شبكة تواصل الإخبارية",
+  "published": "2026-11-11T13:46:16+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-11T14:46:10.007597+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham Sea Tertekan Usai Kinerja Keuangan Tak Capai Ekspektasi.  Saham Sea Tertekan Usai Kinerja Keuangan Tak Capai Ekspektasi &nbsp;&nbsp; شبكة تواصل الإخبارية",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "65b5d61c6e7e",
   "title": "Mengapa Anthropic Lebih Peduli pada Kas daripada Harga US$1,5 Triliun",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00TldwYW1vRFQ5RHFzaVUyWERPeG9GY3c0RDNrQlEycDcyN3ZhWXlVZDVSbTR2Y2ZPN2pKSzd2a1VxTzZ3azhXaXplNEhYLUhYT0FOUll3U1o2WVR0cDhTNTFxdXdWZHdXc2NZRW9faw?oc=5",
@@ -19,6 +71,32 @@
   "schedule": false,
   "party": false,
   "snippet": "Mengapa Anthropic Lebih Peduli pada Kas daripada Harga US$1,5 Triliun.  Mengapa Anthropic Lebih Peduli pada Kas daripada Harga US$1,5 Triliun &nbsp;&nbsp; BeInCrypto",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "7da421fe7799",
+  "title": "Bitcoin nyaris tidak terpengaruh oleh data CPI AS yang tinggi saat penjualan ETF melambat: Crypto Daily",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdDJKUW50QkRQT2dNVnItOEk2aGFMQlpYQjdmZFg2VHk0VUpSQU5BLTQtMGhrVy1SRHEzeEdSLXVvQnljWWpiZkVpVVQ0SFZRNzB4Q241dkh6ZnNxRkRRcGpxcHZIaWZROE1CU3ZoaldrSXlNWUxndVRBR09KZmZ3OHFmZVhLdmpfazFuelFMaVlTeUw0eVBaX3AxQUVIcHJIVVotZ0xIQnk?oc=5",
+  "media": "CoinDesk",
+  "published": "2026-11-11T12:25:21+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-11T14:46:10.007597+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Bitcoin nyaris tidak terpengaruh oleh data CPI AS yang tinggi saat penjualan ETF melambat: Crypto Daily.  Bitcoin nyaris tidak terpengaruh oleh data CPI AS yang tinggi saat penjualan ETF melambat: Crypto Daily &nbsp;&nbsp; CoinDesk",
   "corroboration": 0,
   "response": null,
   "score": 16,
@@ -1940,13 +2018,9 @@
   "snippet": "ADRO dan AADI Catat Transaksi Saham Rp66 Triliun.  ADRO dan AADI Catat Transaksi Saham Rp66 Triliun &nbsp;&nbsp; Koridor.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 41,
+  "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.54,
-   "abn5": -5.67,
-   "last": "2026-11-11"
-  }
+  "anomali": null
  },
  {
   "id": "2b2730f1eefa",
@@ -7846,6 +7920,32 @@
   "anomali": null
  },
  {
+  "id": "5a08b7606113",
+  "title": "Kinerja Emiten Kawasan Industri Beda Arah, DMAS dan SSIA Jadi Andalan",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUVmNGUxUU13V2lXYmhCTXZOOTFzQldSRHRlbWhpT0pZcFJDTmFNRThoUEVGNldmLThBRWx6LU5vdDBCeDh0YUNRZVNENm9mUjVvdXViNlNuY1BjQ0YtRC0tN2JLYzVSdmhjZ0RCR3FUR2lRZFBoSTBKSmw3N0ZVMFFkQnN2SGZ1WWNUN3lOUG9nZnVnazI5TTJ4R0d2Z3hteFRFcUtKONIBnwFBVV95cUxPRGdkaXl4Uk90aFZBLWlRRFkxN3dBaGZIN19JTFVLaEFnODZaUTJkN3lYOXpwdFB0eHZEUFZPOWJqd2pnbHlQemxBNmJEVWNUZXh2aDZkdkhDM2QtcWlTVHFnMDZaVUFDdlg5V2FiRnR1OFRfS050dUluaEM3Q1Y5RTJsTTh5b3BiV1VlekE2SHZVT0VhTEpfNWRFYWwtclE?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-06T11:58:56+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-11T14:46:10.007597+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Kinerja Emiten Kawasan Industri Beda Arah, DMAS dan SSIA Jadi Andalan.  Kinerja Emiten Kawasan Industri Beda Arah, DMAS dan SSIA Jadi Andalan &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "a1118d7e157c",
   "title": "Prakiraan Mingguan Bitcoin: Penjual Memperkuat Cengkeraman saat BTC Membidik Penurunan Mingguan Kelima",
   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbHpCeEtUWnowc2xnbEhYa0NIY19XUkNQZDdmVDhzWWJoWDJBUlJJQ3pWVEs3QzBGNjlZUHg5MFRDN29SX0I5aVB6LURkMUdncnNXRUpUdjlBYVNrQ1J3Zl9oUGVBX3BhVEc5SHJZeEl6Q1FrUE5xSzdfY09QYU0yeUpWYUNiRzRqTWdjMkN0WkIzdEFpTWFVLXFBUkg0bFlaWEpYYkRJel9McDhMUmRjMkd6cnJKY3E5elMzMmNBOGtZbU9jMUdza0RYSkFYMkJmMllWdVJrN0NaWk9tcWxZMXhsR201cVdiNHVXR240MEZrXzI4NDl5WtIB_gFBVV95cUxOUGJOLUQ5a05FZ1lEYVU4aDZ3aGxjcHFkMFBZUTVyTU5XYmczZnRnaGRNdnFTV1htSWxiOEVOZ3JsTk5qOHNLRXhJQ0tERlFrQ0VZZS1EcmFYblFwYkVNVnRNbzFfLWhuc21zd1FWdGZmQlNnQXpfS0lFWkV3VThxZHFDZ2d0UXFYdTY2VkhZOXlaWmx6Q3JjYVFlQ2tIWWlfcnhqVU5FOXF6czg5YnEzMjFiM2hPbHdBeFdkQi1GaU5vekkwV0NjUXhnb1dKX3JxQ2VVVVBJTGs2M0lrNktxTTh2R3FNWjFUOWRjQ0lRMWc1QTlLX3FValZHOXFpUQ?oc=5",
@@ -8456,7 +8556,7 @@
   "asal": [],
   "first_seen": "2026-11-06T06:58:04.628370+00:00",
   "anon": [
-   "tengah menjajaki"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -8948,7 +9048,7 @@
  {
   "id": "ffb021569cce",
   "title": "BINA Private Placement 350 Juta Saham, Dua Entitas Anthoni Salim Jadi Pembeli",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHdDMG1KYkVJNXNHWmZoY0hDYURRQzZGaDlHazloSWMxZk40ZzB1QVRqVVlCeU51cTJ5dXVkYXl3SjN2WVh0dzYwb3dOZGJOcTBLT2hkQ0VHdF9WZlJ6ejRmeXo3VkNMbG9LcTlzM3kzSWhmYXFFNHFkQzJ6VnYtaFEtVV9XbEhNMWZZSFFLZGthSWVueHhjVE92SFBIMWZrMVVvbkRXajFITW9jcEtGaVJfVUM0QXlN0gG7AUFVX3lxTE1fMUF3ZldLdlJQcjY1eThnQnpvbmpRX1lxWlNkVXIwYnh3MU01VUpzQTNkeUZiSGlLQVB1d1RKU0FNNk9PUmt5UEg5Tm9sOU1XT2hacWpESEJPRjA4WnZ0N0huX1RtU1BLTVNLcmxSZTd5dG1JalhiNUNGM2I5aUltb1N2UDJ2bEllMWNVMW5FOXVWaEhCM3hlNlVkZXZDaldjNkpGM0VfemN2NjN3Yi13ZmhyMDl6VFpuZms?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1pFY3NyZ2Z4QUdRWXlzMDcydnVnWWllZTd0RUZNMXctZ0VuelZzemxqVzhYZG5fSFo0aW1FcFRDSk1yYWs0eHdKTk4yWURNdHpRVFFfb1p6eWdELUpaVVpnLTRTUHRUejVPNk12NkRfM0xSWFZGdlh6S3A0a0VpSUcwNXdmNmNBckhIY0w4dUM5SG9ta0o1SjdGTHAweUJNVElUZWFqVTYtVFdRVGRKbThfTFZsQdIBuwFBVV95cUxNXzFBd2ZXS3ZSUHI2NXk4Z0J6b25qUV9ZcVpTZFVyMGJ4dzFNNVVKc0EzZHlGYkhpS0FQdXdUSlNBTTZPT1JreVBIOU5vbDlNV09oWnFqREhCT0YwOFp2dDdIbl9UbVNQS01TS3JsUmU3eXRtSWpYYjVDRjNiOWlJbW9TdlAydmxJZTFjVTFuRTl1VmhIQjN4ZTZVZGV2Q2pXYzZKRjNFX3pjdjYzd2Itd2ZocjA5elRabmZr?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-06T01:10:00+00:00",
   "tickers": [],
@@ -18692,6 +18792,33 @@
   "anomali": null
  },
  {
+  "id": "85aa157f1955",
+  "title": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FV1QyUXZJVEs2Yml4SEV2eUZSZE9VX2VPU29ZQVNuWkg0NU5zOGJUc29MU05uSFdLOHNmSEJUdTRmelViVmUxbXZkV09IQnhWQjJtT2wxWjNrQ2tUOWV3RDgzSVNhYjhYbVJULVNqQlZpNVc3emlHM3dWT2g?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-10-29T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen",
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-08T22:02:59.188871+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI.  Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5732848ab958",
   "title": "CIO Danantara Pandu Sjahrir Miliki Saham Supra Sekuritas yang Kena Sanksi OJK",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUdRX1BPNlk5YUZ5eDZlZjNRODlQQXQ0dnR5dDlvSUNqRmtvclNJWHMwdHNKeGFDaXNZdjN6WmRxdW9VSXB6SFpQd25zanY1dndJMEdHcWVqM3NvMlNtZjNHMGpocGpZMmlpZ01aSVotQVpRWmZINE5aX05rakQwR2JYX2c2X1pEMlAwWFNCMkNzMjAwRkxaMlVJNW5SUmVvd25MZUo1ZkdDVTBuWTh0Uw?oc=5",
@@ -18938,33 +19065,6 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "85aa157f1955",
-  "title": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FV1QyUXZJVEs2Yml4SEV2eUZSZE9VX2VPU29ZQVNuWkg0NU5zOGJUc29MU05uSFdLOHNmSEJUdTRmelViVmUxbXZkV09IQnhWQjJtT2wxWjNrQ2tUOWV3RDgzSVNhYjhYbVJULVNqQlZpNVc3emlHM3dWT2g?oc=5",
-  "media": "StockWatch.id",
-  "published": "2026-10-29T04:26:22+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Direksi/manajemen",
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-08T22:02:59.188871+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI.  Saham GTSI Bergejolak, Manajemen Buka Suara ke BEI &nbsp;&nbsp; StockWatch.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
   "outcome": null,
   "anomali": null
  },
