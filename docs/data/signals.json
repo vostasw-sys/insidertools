@@ -376,12 +376,12 @@
   "snippet": "Proses Akuisisi Frisian Flag, Penjualan-Laba Ultrajaya (ULTJ) Naik per Kuartal III 2026.  Proses Akuisisi Frisian Flag, Penjualan-Laba Ultrajaya (ULTJ) Naik per Kuartal III 2026 &nbsp;&nbsp; Databoks",
   "corroboration": 3,
   "response": null,
-  "score": 36,
+  "score": 21,
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -5.82,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -958,12 +958,12 @@
   "snippet": "Saham TLKM: Asing Net Buy Rp22,8 Miliar, Pendapatan Tumbuh 3,5%.  Saham TLKM: Asing Net Buy Rp22,8 Miliar, Pendapatan Tumbuh 3,5% &nbsp;&nbsp; KabaSumbar",
   "corroboration": 1,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
    "vol_z": -0.25,
-   "abn5": 2.65,
-   "last": "2026-11-12"
+   "abn5": 5.31,
+   "last": "2026-11-11"
   }
  },
  {
@@ -1417,6 +1417,38 @@
   "anomali": null
  },
  {
+  "id": "0a2c191197e2",
+  "title": "Aplikasi Makmur: Mengulas Transformasi Bisnis dan Kinerja Saham NINE, ADRO, dan CUAN",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQzlfZ1VzY3MtanNPVDJXTVFJZXUwUzdYNmVOVFNtb3FOV1daVjBMcEN3TEFLd0JMUndITmZnYUNEZnpudmd3b29keV9yY3J2cW9WdmZROUs1bGxUYlJGWUJVSzV4QkRmXzVwMFhMck9KazlPOU5aYWExa1ZfSlAxQ2dSQi1nbUtYMXRjeVhMYmVWS2RPWEV4R3RIQ2I5UVVHWWJKelI2WUo5YnlId1HSAa4BQVVfeXFMT0M5X2dVc2NzLWpzT1QyV01RSWV1MFM3WDZlTlRTbW9xTldXWlYwTHBDd0xBS3dCTFJ3SE5mZ2FDRGZ6bnZnd29vZHlfcmNydnFvVnZmUTlLNWxsVGJSRllCVUs1eEJEZl81cDBYTHJPSms5TzlOWmFhMWtWX0pQMUNnUkItZ21LWDF0Y3lYTGJlVktkT1hFeEd0SENiOVFVR1liSnpSNllKOWJ5SHdR?oc=5",
+  "media": "Semartara.news",
+  "published": "2026-11-11T14:29:28+00:00",
+  "tickers": [
+   "ADRO"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-12T17:45:55.955068+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Aplikasi Makmur: Mengulas Transformasi Bisnis dan Kinerja Saham NINE, ADRO, dan CUAN.  Aplikasi Makmur: Mengulas Transformasi Bisnis dan Kinerja Saham NINE, ADRO, dan CUAN &nbsp;&nbsp; Semartara.news",
+  "corroboration": 1,
+  "response": null,
+  "score": 21,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.36,
+   "abn5": -5.67,
+   "last": "2026-11-11"
+  }
+ },
+ {
   "id": "6b691b104a0a",
   "title": "Haji Isam Dikabarkan Kaji Akuisisi Tambang Nikel Eramet di RI - Energi",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaE9nSF9uNTUyR1dWM05lbUVrWWNMWEJHUlVDaDV4SlRONTM0NVVqaC1IbThmbFRXWjBKUjJvU3JlQlhZMm9SMXhORE1YcDJIS1ZiaG10bDVGS1dmTm4tY3FVdlYxTnJEY2JfRmxsLXg5QW1Pam4zLVRaeUVuYXU3blE2QnBXckcxalZweWdZMTNxVTlfNDk4RVpoVDZtVkZKNVppY0FRRmM5ei1aUWNyLV9RQkVkUQ?oc=5",
@@ -1552,8 +1584,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.17,
-   "abn5": 1.43,
-   "last": "2026-11-12"
+   "abn5": 0.74,
+   "last": "2026-11-11"
   }
  },
  {
@@ -1824,12 +1856,12 @@
   "snippet": "Ultra Jaya (ULTJ) Rights Issue Rp 16,94 Triliun, Ini Prospek Kinerjanya.  Ultra Jaya (ULTJ) Rights Issue Rp 16,94 Triliun, Ini Prospek Kinerjanya &nbsp;&nbsp; kontan.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 50,
+  "score": 35,
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -5.82,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -2026,12 +2058,12 @@
   "snippet": "Simak Jadwal Rights Issue Ultra Jaya (ULTJ) Senilai Rp 16,94 Triliun.  Simak Jadwal Rights Issue Ultra Jaya (ULTJ) Senilai Rp 16,94 Triliun &nbsp;&nbsp; kontan.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 50,
+  "score": 35,
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -5.82,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -2313,12 +2345,12 @@
   "snippet": "Ultrajaya (ULTJ) Gelar Rights Issue, Harga Pelaksanaan Dipatok Senilai Rp2.150 per Saham.  Ultrajaya (ULTJ) Gelar Rights Issue, Harga Pelaksanaan Dipatok Senilai Rp2.150 per Saham &nbsp;&nbsp; IDX Channel",
   "corroboration": 4,
   "response": null,
-  "score": 34,
+  "score": 19,
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -5.82,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -3100,12 +3132,12 @@
   "snippet": "Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue.  Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue &nbsp;&nbsp; Bisnis Indonesia Premium",
   "corroboration": 4,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -5.82,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -3792,12 +3824,12 @@
   "snippet": "Nasib Investasi Lo Kheng Hong, Telkom & Dapen Pertamina usai SRIL, TELE, & SUGI Delisting - Bisnis.com.  Nasib Investasi Lo Kheng Hong, Telkom & Dapen Pertamina usai SRIL, TELE, & SUGI Delisting &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 1,
   "response": null,
-  "score": 15,
+  "score": 30,
   "outcome": null,
   "anomali": {
    "vol_z": -0.25,
-   "abn5": 2.65,
-   "last": "2026-11-12"
+   "abn5": 5.31,
+   "last": "2026-11-11"
   }
  },
  {
@@ -3855,12 +3887,12 @@
   "snippet": "ADRO dan AADI Catat Transaksi Saham Rp66 Triliun.  ADRO dan AADI Catat Transaksi Saham Rp66 Triliun &nbsp;&nbsp; Koridor.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": -0.36,
-   "abn5": 0.76,
-   "last": "2026-11-12"
+   "abn5": -5.67,
+   "last": "2026-11-11"
   }
  },
  {
@@ -4160,12 +4192,12 @@
   "snippet": "Percepat Streamlining, Telkom Rampingkan Anak Usaha Lewat Dua Merger Sekaligus.  Percepat Streamlining, Telkom Rampingkan Anak Usaha Lewat Dua Merger Sekaligus &nbsp;&nbsp; kontan.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 15,
+  "score": 30,
   "outcome": null,
   "anomali": {
    "vol_z": -0.25,
-   "abn5": 2.65,
-   "last": "2026-11-12"
+   "abn5": 5.31,
+   "last": "2026-11-11"
   }
  },
  {
@@ -5001,12 +5033,12 @@
   "snippet": "Ultrajaya Milk (ULTJ) Bagi Dividen Tambahan Rp1,04 Triliun, Cek Jadwalnya.  Ultrajaya Milk (ULTJ) Bagi Dividen Tambahan Rp1,04 Triliun, Cek Jadwalnya &nbsp;&nbsp; StockWatch.id",
   "corroboration": 1,
   "response": null,
-  "score": 41,
+  "score": 26,
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -5.82,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -5156,12 +5188,12 @@
   "snippet": "RUPSLB Ultrajaya (ULTJ) Setujui Rights Issue hingga Pembagian Dividen Spesial Rp1,04 Triliun.  RUPSLB Ultrajaya (ULTJ) Setujui Rights Issue hingga Pembagian Dividen Spesial Rp1,04 Triliun &nbsp;&nbsp; IDX Channel",
   "corroboration": 4,
   "response": null,
-  "score": 44,
+  "score": 29,
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -5.82,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -5532,12 +5564,12 @@
   "snippet": "Susu Ultra (ULTJ) Tebar Dividen Rp1,03 Triliun, Siap Akuisisi Frisian Flag - Bisnis.com.  Susu Ultra (ULTJ) Tebar Dividen Rp1,03 Triliun, Siap Akuisisi Frisian Flag &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 4,
   "response": null,
-  "score": 50,
+  "score": 35,
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -5.82,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -9245,8 +9277,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.27,
-   "abn5": 6.23,
-   "last": "2026-11-12"
+   "abn5": 5.31,
+   "last": "2026-11-11"
   }
  },
  {
@@ -9281,8 +9313,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.27,
-   "abn5": 6.23,
-   "last": "2026-11-12"
+   "abn5": 5.31,
+   "last": "2026-11-11"
   }
  },
  {
@@ -9394,8 +9426,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.27,
-   "abn5": 6.23,
-   "last": "2026-11-12"
+   "abn5": 5.31,
+   "last": "2026-11-11"
   }
  },
  {
@@ -10195,12 +10227,12 @@
   "snippet": "Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya.  Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya &nbsp;&nbsp; kontan.co.id",
   "corroboration": 11,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -5.82,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -11582,12 +11614,12 @@
   "snippet": "Akuisisi FFI, Ultrajaya (ULTJ) Siap Terbitkan 7,87 Miliar Saham Baru.  Akuisisi FFI, Ultrajaya (ULTJ) Siap Terbitkan 7,87 Miliar Saham Baru &nbsp;&nbsp; Emitennews.com",
   "corroboration": 4,
   "response": null,
-  "score": 34,
+  "score": 19,
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -5.82,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -11673,12 +11705,12 @@
   "snippet": "Ultrajaya (ULTJ) Rights Issue Rp 16,9 Triliun, Ada Rencana Tambahan Dividen Jumbo.  Ultrajaya (ULTJ) Rights Issue Rp 16,9 Triliun, Ada Rencana Tambahan Dividen Jumbo &nbsp;&nbsp; investor.id",
   "corroboration": 4,
   "response": null,
-  "score": 41,
+  "score": 26,
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -5.82,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -12939,12 +12971,12 @@
   "snippet": "Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun.  Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun &nbsp;&nbsp; IDX Channel",
   "corroboration": 7,
   "response": null,
-  "score": 44,
+  "score": 29,
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -5.82,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -13343,8 +13375,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": -5.0,
-   "last": "2026-11-12"
+   "abn5": -5.12,
+   "last": "2026-11-11"
   }
  },
  {
@@ -14677,8 +14709,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.04,
-   "abn5": -4.88,
-   "last": "2026-11-12"
+   "abn5": -3.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -15063,8 +15095,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": -5.0,
-   "last": "2026-11-12"
+   "abn5": -5.12,
+   "last": "2026-11-11"
   }
  },
  {
@@ -15342,8 +15374,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": -2.83,
-   "last": "2026-11-12"
+   "abn5": 0.13,
+   "last": "2026-11-11"
   }
  },
  {
@@ -15374,8 +15406,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.25,
-   "abn5": -0.27,
-   "last": "2026-11-12"
+   "abn5": 1.23,
+   "last": "2026-11-11"
   }
  },
  {
@@ -15514,8 +15546,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.94,
-   "abn5": -3.28,
-   "last": "2026-11-12"
+   "abn5": -0.97,
+   "last": "2026-11-11"
   }
  },
  {
@@ -16862,8 +16894,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.7,
-   "abn5": 1.83,
-   "last": "2026-11-12"
+   "abn5": 1.09,
+   "last": "2026-11-11"
   }
  },
  {
@@ -17141,12 +17173,12 @@
   "snippet": "4 Segmen Bisnis Utama Tumbuh, Telkom (TLKM) Raup Pendapatan Rp113,5T.  4 Segmen Bisnis Utama Tumbuh, Telkom (TLKM) Raup Pendapatan Rp113,5T &nbsp;&nbsp; Emitennews.com",
   "corroboration": 1,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
    "vol_z": -0.25,
-   "abn5": 2.65,
-   "last": "2026-11-12"
+   "abn5": 5.31,
+   "last": "2026-11-11"
   }
  },
  {
@@ -18097,8 +18129,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -0.46,
-   "last": "2026-11-12"
+   "abn5": -1.99,
+   "last": "2026-11-11"
   }
  },
  {
@@ -18401,8 +18433,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.69,
-   "abn5": -1.98,
-   "last": "2026-11-12"
+   "abn5": -2.75,
+   "last": "2026-11-11"
   }
  },
  {
@@ -18945,8 +18977,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.27,
-   "abn5": 6.23,
-   "last": "2026-11-12"
+   "abn5": 5.31,
+   "last": "2026-11-11"
   }
  },
  {
@@ -19800,8 +19832,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.35,
-   "abn5": -5.27,
-   "last": "2026-11-12"
+   "abn5": -12.3,
+   "last": "2026-11-11"
   }
  },
  {
@@ -20528,8 +20560,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 0.13,
-   "last": "2026-11-12"
+   "abn5": 2.34,
+   "last": "2026-11-11"
   }
  },
  {
@@ -21155,8 +21187,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 0.13,
-   "last": "2026-11-12"
+   "abn5": 2.34,
+   "last": "2026-11-11"
   }
  },
  {
@@ -21467,8 +21499,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 0.13,
-   "last": "2026-11-12"
+   "abn5": 2.34,
+   "last": "2026-11-11"
   }
  },
  {
@@ -21501,8 +21533,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 0.13,
-   "last": "2026-11-12"
+   "abn5": 2.34,
+   "last": "2026-11-11"
   }
  },
  {
