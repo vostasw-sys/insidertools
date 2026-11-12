@@ -935,6 +935,34 @@
   "anomali": null
  },
  {
+  "id": "9018399713c9",
+  "title": "Divestasi Aset Dongkrak Profitabilitas PTPP",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdEJzVHEzU3hXY095cjU1c0VsSnRNREw3TWNpbFY0akJjMDJ6dmZTdVhRaWQzV0ZFeU0tajVmZHhkWDUtTDBPU0pSM2hPSXZaZmJCdW1OcS1tT3VZcFJLQ2JaUFBzZ25fN2Z3cEVmUnlMTW95UEtMTmVfZUFLdUdwM0pn?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-12T01:00:34+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-12T19:46:53.967802+00:00",
+  "anon": [],
+  "corp": [
+   "divestasi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Divestasi Aset Dongkrak Profitabilitas PTPP.  Divestasi Aset Dongkrak Profitabilitas PTPP &nbsp;&nbsp; KONTAN",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "3d2f89195ac9",
   "title": "Dugaan Hubungan dengan Eksekutif Nvidia Tekan Posisi Jensen Huang",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GQ1FmVmprRVBPOUl5b2diYlRrZFR0d0NGbUpvNnZkQTN4RmdaS3NsM0RnME91cGNvY0F2eWRVS3lpTHVNVVFGTTVHMElZS2h2Vzd5N1loUjlHM3I2clRUdUFxbGo4b29Y?oc=5",
@@ -1466,13 +1494,9 @@
   "snippet": "Aplikasi Makmur: Mengulas Transformasi Bisnis dan Kinerja Saham NINE, ADRO, dan CUAN.  Aplikasi Makmur: Mengulas Transformasi Bisnis dan Kinerja Saham NINE, ADRO, dan CUAN &nbsp;&nbsp; Semartara.news",
   "corroboration": 1,
   "response": null,
-  "score": 21,
+  "score": 6,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.36,
-   "abn5": -5.67,
-   "last": "2026-11-11"
-  }
+  "anomali": null
  },
  {
   "id": "6b691b104a0a",
@@ -3943,13 +3967,9 @@
   "snippet": "ADRO dan AADI Catat Transaksi Saham Rp66 Triliun.  ADRO dan AADI Catat Transaksi Saham Rp66 Triliun &nbsp;&nbsp; Koridor.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 41,
+  "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.36,
-   "abn5": -5.67,
-   "last": "2026-11-11"
-  }
+  "anomali": null
  },
  {
   "id": "2b2730f1eefa",
@@ -4285,7 +4305,7 @@
  {
   "id": "ccf7a9af5ced",
   "title": "Geliat DOOH Ganti Nama jadi Nexora hingga Rights Issue Jumbo, Saham Naik 6,6%",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNamt1cUg2eW1nYmMtcFAxM1ZIUGEwQlJyTkxzWFZpZGlpdExSS3pybDkyeGFvRkNsSV9fb3FuTFJYTzRveHI2R0NOQWp6RExfLWNHbHMzVU1IdDBuaU1lVEl0Y3lSSTNURktxSzAtV2FZbVBuRWdXT2c2bFZHdDQwZ3cwZmFwOC1hM296dDNXRUVjRFdkdXBNZEFMd3JNcF9lUXhhaURuX0lBeTVMV18ySkM0cWdXQjRiWEVRVFJROUF5YjkwdDR6aFdjd3fSAcwBQVVfeXFMTWprdXFINnltZ2JjLXBQMTNWSFBhMEJSck5Mc1hWaWRpaXRMUkt6cmw5Mnhhb0ZDbElfX29xbkxSWE80b3hyNkdDTkFqekRMXy1jR2xzM1VNSHQwbmlNZVRJdGN5UkkzVEZLcUswLVdhWW1QbkVnV09nNmxWR3Q0MGd3MGZhcDgtYTNvenQzV0VFY0RXZHVwTWRBTHdyTXBfZVF4YWlEbl9JQXk1TFdfMkpDNHFnV0I0YlhFUVRSUTlBeWI5MHQ0emhXY3d3?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDFxb0F6U2J3c2NmaVlfY0NSU25xZDZldTBMbFpIUW9yT0gxZmhvQVk2UW5sN0h6bW0wSl9aMG9CVXFacjdmY1haVkxxMW41SXo5aWthQlg4Nml6Smh5VndyY1AzSlJ5MGZsWVRaSkM5VExHTmNzbGltZ1dfWHY0ZlBtQ1B4V3RWeGNoU1ROeGNxREFGaUM5TjZBVnYwd19hcG13Y2NnaXgxSlhudlFCRHBXd2tNVmpIdHhxeDF4ejdybV8zcVBn0gHMAUFVX3lxTE1qa3VxSDZ5bWdiYy1wUDEzVkhQYTBCUnJOTHNYVmlkaWl0TFJLenJsOTJ4YW9GQ2xJX19vcW5MUlhPNG94cjZHQ05BanpETF8tY0dsczNVTUh0MG5pTWVUSXRjeVJJM1RGS3FLMC1XYVltUG5FZ1dPZzZsVkd0NDBndzBmYXA4LWEzb3p0M1dFRWNEV2R1cE1kQUx3ck1wX2VReGFpRG5fSUF5NUxXXzJKQzRxZ1dCNGJYRVFUUlE5QXliOTB0NHpoV2N3dw?oc=5",
   "media": "Katadata.co.id",
   "published": "2026-11-10T03:04:00+00:00",
   "tickers": [],
@@ -6070,6 +6090,36 @@
   "schedule": false,
   "party": false,
   "snippet": "SpaceX: Ukraine Starlink Access Dispute and Launch-Driven Stock Jump.  SpaceX: Ukraine Starlink Access Dispute and Launch-Driven Stock Jump &nbsp;&nbsp; Gotrade",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "5a9c69e4ca95",
+  "title": "Bagaimana akuisisi saham 5% di bisnis mineral MSR oleh konglomerat Jepang tersebut akan berjalan?",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcXBjbWhSUTktUnh5NVVBX2pPZDQ0XzlWR0JZekJvMm9QLWsxYzdJNHVpVWtPVlNDLUxnTWdOUzBPRlgwVW01U05YaGl5dnl5Zm1kRTFTS09zX0tJWlFmOFJWNE9Nb2ZQb09SNWJBMGIzQ19kYkE2Z3dac0RqNG1pYnZPWFNjVUlRaVVuNGtIUQ?oc=5",
+  "media": "Vietnam.vn",
+  "published": "2026-11-09T08:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-12T19:46:53.967802+00:00",
+  "anon": [
+   "sedang menjajaki"
+  ],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Bagaimana akuisisi saham 5% di bisnis mineral MSR oleh konglomerat Jepang tersebut akan berjalan?.  Bagaimana akuisisi saham 5% di bisnis mineral MSR oleh konglomerat Jepang tersebut akan berjalan? &nbsp;&nbsp; Vietnam.vn",
   "corroboration": 0,
   "response": null,
   "score": 16,
