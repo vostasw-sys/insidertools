@@ -110,6 +110,32 @@
   "anomali": null
  },
  {
+  "id": "1a4e1661f429",
+  "title": "Eric Schmidt diduga menjanjikan mantannya sepotong jackpot Antropisnya — tapi dia masih menunggunya: sumber",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeTVwTDdua2U5Qm1yeFFubTlHc2plTkRaTWFSd09CaWkyNjlQN29WdWY0amxmZEVZb3JmWEZyd29vT2w4QXhZUnhSOWRGM3hfTWhyZmFvdGgzaXZQOUJrRXI4ZVlJTjJsU25TTnlaaGtOMklSYTNsTlRzUUs4Q1R5SmdIbUxzcWZyRk5CR1l6dWh6QXViQzBMMVpBNF91QzFhbnRvN1M3TGFtLW9lOExtNEltYkJMUkxXWEV6OFpiSlF6cTlvYWNNQV9RdzNjeTBlWjUtSW1kaHBYQQ?oc=5",
+  "media": "https://www.rakyatpos.id/",
+  "published": "2026-11-12T12:10:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-12T18:43:21.206509+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Eric Schmidt diduga menjanjikan mantannya sepotong jackpot Antropisnya — tapi dia masih menunggunya: sumber.  Eric Schmidt diduga menjanjikan mantannya sepotong jackpot Antropisnya — tapi dia masih menunggunya: sumber &nbsp;&nbsp; https://www.rakyatpos.id/",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "191993e605f8",
   "title": "Pertamina Akuisisi Blok Migas 50 Ribu Barel di Awal 2027",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbTZsY2NmWjZyQlQ2TDhyZVN6N2dtOEg1SHhKcnc0QlI1RWRhSkxPMHY3ZW9SaWUwUzdKUmFVV1hIVDRXZjQtcjdZN09sTjY4aW9DeEpKNnJqTGh5Z1paUmFiYU1GRFFNRVpCRGlKRTNIdFJ0aEpVWE45NUhiclZPX3FzWFpYdXVaeVpsZHJwVGZKaUhvMExBaGdvZDJaY196Z2ZLWVBFM3gtZFBxNkk1U3J3UXhNQdIBuwFBVV95cUxOZm1fTUlidnFQSnhQaFJlMHBGUFlVREk5MnlleGxscGl6aGF3SGFmMzJTaFhJVi12V3ZmRUtkV1AyV2RuYjI0dkRxUUx4QzR0LUVjTmJ6cld0XzlQeUljYTU1UWxsZ1ZtSWlrSmlPWVA1Q0o2emx6c1VJSmM4MUx2S3BCdjU4Njd5RkMybzMzQ3J2UmU4bWdEbHB0d25xVmJzdXAtWDhVZzNlLUs4REdwR3RZbFhzMXhjOVRR?oc=5",
@@ -3715,6 +3741,36 @@
   "corroboration": 0,
   "response": null,
   "score": 44,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "83c99d04a03d",
+  "title": "BEI Curigai Insider Trading di Divestasi Saham RUNS Milik Pengendali",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2c4bVhKVlk0bk1CNmtqVlMxR0t4WDN0X3dtNEkwQUl1dHkyZXZjeHNmRFMtck10Y00tcmR6Q2dLNDFjRVhTMkJFd3dpaHhpeGl4Um0tVnlpLTBHRE0zS0ZkY2xkS2JpU2k4QmpPS2FaZjljZWM1TXIyUlZiYVpJRlBUNWRLV2hPMDlDRkJSNWp4RTNERjlUajFqLXk?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-10T08:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-12T18:43:21.206509+00:00",
+  "anon": [],
+  "corp": [
+   "divestasi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Curigai Insider Trading di Divestasi Saham RUNS Milik Pengendali.  BEI Curigai Insider Trading di Divestasi Saham RUNS Milik Pengendali &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
   "outcome": null,
   "anomali": null
  },
