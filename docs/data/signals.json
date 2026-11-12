@@ -453,7 +453,9 @@
   ],
   "asal": [],
   "first_seen": "2026-11-12T06:58:56.415659+00:00",
-  "anon": [],
+  "anon": [
+   "mengincar"
+  ],
   "corp": [
    "akuisisi"
   ],
@@ -464,7 +466,7 @@
   "snippet": "Gurita Bisnis Haji Isam, Usai Akuisisi Saham BYAN Kini Incar Tambang Weda Bay.  Gurita Bisnis Haji Isam, Usai Akuisisi Saham BYAN Kini Incar Tambang Weda Bay &nbsp;&nbsp; Katadata.co.id",
   "corroboration": 0,
   "response": null,
-  "score": 12,
+  "score": 22,
   "outcome": null,
   "anomali": null
  },
@@ -1494,9 +1496,13 @@
   "snippet": "Aplikasi Makmur: Mengulas Transformasi Bisnis dan Kinerja Saham NINE, ADRO, dan CUAN.  Aplikasi Makmur: Mengulas Transformasi Bisnis dan Kinerja Saham NINE, ADRO, dan CUAN &nbsp;&nbsp; Semartara.news",
   "corroboration": 1,
   "response": null,
-  "score": 6,
+  "score": 21,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.36,
+   "abn5": -5.67,
+   "last": "2026-11-11"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -3967,9 +3973,13 @@
   "snippet": "ADRO dan AADI Catat Transaksi Saham Rp66 Triliun.  ADRO dan AADI Catat Transaksi Saham Rp66 Triliun &nbsp;&nbsp; Koridor.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.36,
+   "abn5": -5.67,
+   "last": "2026-11-11"
+  }
  },
  {
   "id": "2b2730f1eefa",
@@ -10556,7 +10566,7 @@
  {
   "id": "9bcff630078e",
   "title": "Pemegang Saham Setujui Rights Issue BSI (BRIS), Perkuat Permodalan & Free Float",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmRBdkVYX2VpOS04NGIzdldGOFltV1dEMDhZU3o4cHNUZThzQzlXMjJxaG1hZ29rU1ZVTlJCQVpDbWFSNW4ya3pvYTJTdWNaY2NaU0ZqS2gxeUlsamR3UnpQMnBKZk1HWTBnVF9iMGNXMnBnLUNibC1qaU5NZVVyWC1FTF90amp4TXVHdmFzRzRKY1BoNEdkOUNlUWQ0Q1JkbjVmanBrbENSNlgwaWc?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmRBdkVYX2VpOS04NGIzdldGOFltV1dEMDhZU3o4cHNUZThzQzlXMjJxaG1hZ29rU1ZVTlJCQVpDbWFSNW4ya3pvYTJTdWNaY2NaU0ZqS2gxeUlsamR3UnpQMnBKZk1HWTBnVF9iMGNXMnBnLUNibC1qaU5NZVVyWC1FTF90amp4TXVHdmFzRzRKY1BoNEdkOUNlUWQ0Q1JkbjVmanBrbENSNlgwaWfSAacBQVVfeXFMTWs1TnRTLVlENHg5eFNIUXFZb1V0VTlKcU5BZWViUDRjbmd2NFUyaFkzWWhNTVk5Mm5NNDdqWkJuMEpEa1pwOVF5TDM5UmNnX2JFQ0NaaUNaQUlfYnFwYjNPZjVZdWpWU1pYT1J5amRXWHpHZVRZQmZrNmI3dFMwajBvV0VVbVZfb0tLT2VwN05LVWhUZnJyOG5wcGFlMW5hcXRuSHFDZzA?oc=5",
   "media": "kontan.co.id",
   "published": "2026-11-06T06:55:54+00:00",
   "tickers": [
