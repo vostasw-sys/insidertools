@@ -1,5 +1,37 @@
 [
  {
+  "id": "a74dcabe63ff",
+  "title": "Saham TLKM: Asing Net Buy Rp22,8 Miliar, Pendapatan Tumbuh 3,5%",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0lCLWsyTHZSLTNNM1FNeFhaS3pOMENKeE5jYVNYOG1pNzZMMUQ3aUZ2RlM3T1FiUFd1dGFOSjVnZlFSTjdiV2FHcHB6RlNnOEJBOXpURUhiSnZmUTVxdm9jY0RWQm5sWDljRVhQa2xpblA4anVXZDR2S1ZHZklsdHU0b3psWDl0?oc=5",
+  "media": "KabaSumbar",
+  "published": "2026-11-12T00:28:39+00:00",
+  "tickers": [
+   "TLKM"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-12T01:45:46.472070+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 22.8,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham TLKM: Asing Net Buy Rp22,8 Miliar, Pendapatan Tumbuh 3,5%.  Saham TLKM: Asing Net Buy Rp22,8 Miliar, Pendapatan Tumbuh 3,5% &nbsp;&nbsp; KabaSumbar",
+  "corroboration": 1,
+  "response": null,
+  "score": 19,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.24,
+   "abn5": 4.0,
+   "last": "2026-11-10"
+  }
+ },
+ {
   "id": "51bebf154566",
   "title": "PACK Bidik Saham Eramet di Tambang Nikel Weda Bay",
   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUkdzZ1hDdGNZUkI5Q0ZGV0ItZEItWnhXNDNrVjhlT3BxVUVSVGNERFEzYWRCU1FmUmhJS2wxWVZ4akNDOG5lZ1BrYlpSWXR6LVhOaWcyeEFTNE9VWU50UG9Cc3M?oc=5",
@@ -254,6 +286,34 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "5c7a4d2ac04d",
+  "title": "Haji Isam Pertimbangkan Akuisisi Saham Tambang Nikel Eramet",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VQW12OVlnWFM2U0RfdUZsMnRucFhadVJJNlRiTWNwWGpLZXFqaHlYUWhpTHFlWnJ6QnpndjV0dDRNNTZVWm1PWnBCb0JmeS1SZVJWT2w0RnZmV1pNZl9jZlY3dENZRXl3X01scjhfYnY?oc=5",
+  "media": "Limapagi",
+  "published": "2026-11-11T22:27:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-12T01:45:46.472070+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Haji Isam Pertimbangkan Akuisisi Saham Tambang Nikel Eramet.  Haji Isam Pertimbangkan Akuisisi Saham Tambang Nikel Eramet &nbsp;&nbsp; Limapagi",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -1325,6 +1385,33 @@
   "anomali": null
  },
  {
+  "id": "11ca138cc92b",
+  "title": "DWGL Klarifikasi Volatilitas Saham, Ini Jawaban Manajemen ke BEI",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUE1kSk4taGgxNkNJZ1lVUUQxb2VkUjZVX2FTNkpkZFpNQTVMRC02TFVfenNqVVB1WlZGekpySFAxbzJ2MzBFREJWRlJUUUpzb1RhMHBVU0Z0VEN3YnFrQUJRclRGa243Vzc4SE5HaFVLdEFiUVJad1pRY0JSbmNjZ3FtUFZvQ1B1dkQtRjY5NA?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-11-11T04:16:13+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen",
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-12T01:45:46.472070+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "DWGL Klarifikasi Volatilitas Saham, Ini Jawaban Manajemen ke BEI.  DWGL Klarifikasi Volatilitas Saham, Ini Jawaban Manajemen ke BEI &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "c6795c44701b",
   "title": "IPO Anthropic: Porsi Ritel hingga 20%, Australia Dibuka",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFd6MVZLR3BXbDdOaVMtZnN6TUZHMTBuLWFWN1hrbU5XcTVuVjdaRkxIUWF1blJwR1ZVbkhlVVd0THV6S20ySDNxLUJjYmNVNnQyTnB3Z3pWR1FydFNZYzVOcGFKR0Fqa19fMmxpVVB4S09WaWVUQUZHLW9mYVQtd1E0UEYtMUww?oc=5",
@@ -2060,36 +2147,6 @@
   "anomali": null
  },
  {
-  "id": "1a1bbb7b6bda",
-  "title": "Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP)",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVjY2UEFoRFVaVVBaS3JoU3VVTEdLN2JnTW1sWF9vaUdGQVZqV3lQb0pRbkZySnFtclYxbXlrMmRWaGt2VEQ1TU9mMk4yMjlhNEFacE4yZTFMcTZLZWRJMHY4M1BpNlJ0YWVfNTl1TnJXZjhrVnZaNUtKU294b0RKbHF2VUZGaTRYdU04Ui1hblJ5al93Sk9hMG9aMk9sWmt1anVWeTd6Q2RMT29WUlRBNFg0MURmMExCdDNDQlZwN3o3Y2p0aGxXamVaNTRuUdIBzgFBVV95cUxOVjY2UEFoRFVaVVBaS3JoU3VVTEdLN2JnTW1sWF9vaUdGQVZqV3lQb0pRbkZySnFtclYxbXlrMmRWaGt2VEQ1TU9mMk4yMjlhNEFacE4yZTFMcTZLZWRJMHY4M1BpNlJ0YWVfNTl1TnJXZjhrVnZaNUtKU294b0RKbHF2VUZGaTRYdU04Ui1hblJ5al93Sk9hMG9aMk9sWmt1anVWeTd6Q2RMT29WUlRBNFg0MURmMExCdDNDQlZwN3o3Y2p0aGxXamVaNTRuUQ?oc=5",
-  "media": "CNBC Indonesia",
-  "published": "2026-11-10T11:40:11+00:00",
-  "tickers": [
-   "BBKP"
-  ],
-  "uma": false,
-  "jenis": [
-   "M&A"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-10T12:15:18.811089+00:00",
-  "anon": [],
-  "corp": [
-   "akuisisi"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP).  Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP) &nbsp;&nbsp; CNBC Indonesia",
-  "corroboration": 2,
-  "response": null,
-  "score": 18,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "383894c342fe",
   "title": "Harga Minyak Dunia Turun, Begini Prospek dan Rekomendasi Saham Emiten Migas",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdEZid1FUZENmZHl3dXhmR0hfeUVPQjRtR1dxenZ3cEwtZmZweTBKaFpYRkplZkstbnAyb19Ud0F3NDNFdlkzSW5SNmk2TWIxaVpkY1RUQ2lEWFdzTkNfRU1qY09ZZUk3Nm9raHA5bXJOLVhoc1d2Qm1KbDkxd0dfOGZxcFRrQllnV1BsNXhIeXBva3hMelczUHZyNmVkNFpWUVRqVkZtWVZaN2x6WUVV0gGnAUFVX3lxTFBZd2V3VUk5b3J2bmNGN1FSUlA0Y0N6blZxdjUwd2FIYTdPeVN1cGlwYWZRZ1NTbHlsTXppRGttLVNRS3ZmbXRwQWo0TmYtc29HN0VMTUxJZ1NrQ1FVNlh6Qk1yVzRfbW5DYl9GT0RJVTlCUU5ZRE1yVFVHenBCRnQ2aGRjSVB3Rlp0WlF0eUVEQ2ZaMG5aUFFNeVh0blV6U285UjdQVzdR?oc=5",
@@ -2536,7 +2593,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.54,
+   "abn5": -3.65,
+   "last": "2026-11-10"
+  }
  },
  {
   "id": "2b2730f1eefa",
@@ -2952,6 +3013,36 @@
   "corroboration": 2,
   "response": null,
   "score": 11,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "1a1bbb7b6bda",
+  "title": "Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP)",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc2pqcVIzU2xhVDRFeUtoWjZxZGozYnRHblFPN090VkRnZklkSU1oU3V5dWg5dlJMcXB5RHEzYlFBSldMN2ZwdjRhVjlNZGNuTXhENE5ydDdBRmIwWmI0VFZnQ0VyUUZNZ1pkOHdLNVI3dUxCbC1yemV1WFhMMFdpaTdicDBBOGRaUzluejkwZlpPb05wSVMwT0hCMFJ3bnVjNUZETFVZMnFUczd2ZG1aOHVZSE1OWDVBS1JvQUpCMGJSYkVScDBaadIBzgFBVV95cUxOVjY2UEFoRFVaVVBaS3JoU3VVTEdLN2JnTW1sWF9vaUdGQVZqV3lQb0pRbkZySnFtclYxbXlrMmRWaGt2VEQ1TU9mMk4yMjlhNEFacE4yZTFMcTZLZWRJMHY4M1BpNlJ0YWVfNTl1TnJXZjhrVnZaNUtKU294b0RKbHF2VUZGaTRYdU04Ui1hblJ5al93Sk9hMG9aMk9sWmt1anVWeTd6Q2RMT29WUlRBNFg0MURmMExCdDNDQlZwN3o3Y2p0aGxXamVaNTRuUQ?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-11-10T02:45:03+00:00",
+  "tickers": [
+   "BBKP"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-10T12:15:18.811089+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP).  Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP) &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 2,
+  "response": null,
+  "score": 18,
   "outcome": null,
   "anomali": null
  },
@@ -5328,6 +5419,32 @@
   "corroboration": 0,
   "response": null,
   "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "a347661ae61d",
+  "title": "OpenAI Rampungkan Pendanaan Awal Senilai 11 Miliar Dolar AS",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsRmpaWWV2NW5TbWtaR2didEhHN2I3NUJGZnl3dGtNd0c1c1RUQWVzRmd4cGl0SFpLQlBpaU1GcXdzSzZxeGJYSnNHZTU4VUlfbDFIY0xrby1hY25LRWNhSVFKRQ?oc=5",
+  "media": "Koridor.co.id",
+  "published": "2026-11-09T03:28:16+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-12T01:45:46.472070+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "OpenAI Rampungkan Pendanaan Awal Senilai 11 Miliar Dolar AS.  OpenAI Rampungkan Pendanaan Awal Senilai 11 Miliar Dolar AS &nbsp;&nbsp; Koridor.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
