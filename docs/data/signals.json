@@ -2592,6 +2592,37 @@
   "anomali": null
  },
  {
+  "id": "1acc06767bc7",
+  "title": "BEI Belum Terima Laporan Buyback Usai Delisting 18 Emiten",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYmx5VlExckZBTm51UF9HaGJEZ1RRbU9PeHE0SldybjlhWkNNaFFpMjlucjdRZENlME9PT3VJaC1ZWWdBazgzR09jRC1mbnhuOEhYSHhRY05IYy0yNkp6MjkySnZCVTBXdzA3cUpKazVNdzY4SzhQamt2RFhaRGZORXRkRUp1Y09TWmc?oc=5",
+  "media": "ifakta.co",
+  "published": "2026-11-11T03:56:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-12T14:48:29.513497+00:00",
+  "anon": [],
+  "corp": [
+   "buyback",
+   "delisting"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Belum Terima Laporan Buyback Usai Delisting 18 Emiten.  BEI Belum Terima Laporan Buyback Usai Delisting 18 Emiten &nbsp;&nbsp; ifakta.co",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "372f7ff1e42f",
   "title": "Garuda (GIAA) Siapkan Rights Issue III hingga Rp6,22 Triliun",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDgySUhGQ0ZkNWYtN2pHT3pvZGZCRG51TEV1SlpTN2lhWjk4T3l2T0VXSXpOV1JDZ3VwaVEyWWdjVDhwdTZ3bHQ1QnlTNC1tVW96NGwzcTVGOFZNMmx6MlVXc1BFWF81Uk5vbVh5TWdvVThnU2tXd0VRSGdFeUlhdXppalJGVHJPWnRvMkpiMGc1eHBxU1RfeENHR2h6cGprc016M2FVMEl1bnNPUnd4cDdhYnlNeEdRejYtT3ZB0gHDAUFVX3lxTFBLNnliMFZHdnFZV1BJc0dad2JSNDBTMm9vdEozeEZLR3ZIZHA3aVVHNWN4OVAwZUxIT0RHWjA0VG9qV3BlVUhTNE9Odkl2MlR5cThNblg3SG52Y3FiZzJ5aG5oRkJ2QnpXSTd6SVZqcDdSX2ZkamtIWmlqNE9FdXZNeTQ5dGVtcno3T2o2MzFFUHFqWkhiYTdtclp0bUh5RFB6Z0w5Z3ItRzBpSWxIMk1tczh4allZOTctb0J0Q1FtdWxzMA?oc=5",
@@ -3800,7 +3831,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.36,
+   "abn5": 0.76,
+   "last": "2026-11-12"
+  }
  },
  {
   "id": "2b2730f1eefa",
