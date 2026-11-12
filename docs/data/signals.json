@@ -52,6 +52,32 @@
   "anomali": null
  },
  {
+  "id": "62a03d592735",
+  "title": "Indeks Nikkei Jepang Menguat Kamis (12/11), Saham Pemasok Nvidia Justru Berguguran",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0E2NkRKSWtBdUFkOUlPU2ljLWFsaTJsaXA4NGl4T28xWE1TTkZWX194cF9MWGRxM2Vfa3I3YkVsakhCY1JaVmRub2sxT21xbFFtZkFwbUNzamJkNE9ibXI1dzVKLVJTaW5fenNtYTREcjdpRTRaRDFxd1VLOHBDUXQ5Nm9qeU5CXzdGYVVGUGN4NlprSWtaSWRCRkhzY0MzWExRdnZ1N1VQLWZH0gGsAUFVX3lxTE5nQTY2REpJa0F1QWQ5SU9TaWMtYWxpMmxpcDg0aXhPbzFYTVNORlZfX3hwX0xYZHEzZV9rcjdiRWxqSEJjUlpWZG5vazFPbXFsUW1mQXBtQ3NqYmQ0T2JtcjV3NUotUlNpbl96c21hNERyN2lFNFpEMXF3VUs4cENRdDk2b2p5TkJfN0ZhVUZQY3g2WmtJa1pJZEJGSHNjQzNYTFF2dnU3VVAtZkc?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-12T02:29:17+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-12T04:49:56.375353+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Indeks Nikkei Jepang Menguat Kamis (12/11), Saham Pemasok Nvidia Justru Berguguran.  Indeks Nikkei Jepang Menguat Kamis (12/11), Saham Pemasok Nvidia Justru Berguguran &nbsp;&nbsp; KONTAN",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "cabcbd224363",
   "title": "Saham Nvidia Anjlok Saat Direksi Bahas Posisi Huang",
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sWFBHbWNtUnZVclJ3aVMxUVd2TUlaTjA1S3BQb0ItblhhRnhwd3RSbE5QcVpMQzlVV09RZy1tNW9taU9KYVFFTVREQ21BelAwLXJERmJaRGl5MVdUWlNpU2tWeG9iRFhsNjNXYy1R?oc=5",
@@ -214,8 +240,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": 3.43,
+   "vol_z": -0.34,
+   "abn5": 4.74,
    "last": "2026-11-12"
   }
  },
@@ -324,6 +350,34 @@
   "corroboration": 1,
   "response": null,
   "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "c88a8621be95",
+  "title": "Garuda Indonesia Bidik Rp 6,2 Triliun dari Rights Issue",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNel9NWWJJTk84OFVJSlFmeG8xcW5xOFhnczBla3RIRkNYMGY3cGJZenRmOEc1VlY2ekpiU1ByMk9sWThHVGt0MXo3czYtZHRKMXpZckdJZVJlQ184Zk9uU1NUWlZVTUhyYm05R2VpM1B6bzJoTmZ3Z050UHdubGZrelJiWGVyZGwzNEJqODRMOHJhdWdfUmZaaExmQ3FCTTDSAZYBQVVfeXFMUEx1S1A3VERXM3hlQ1BtbUxJQ1E1cFZ6QTZURVpRMHdFSG9TSjBseG5fRm1PR0FkU0ttdG1VVHhsVDhWdkticjVDaXRUN05GbzFUZUtrblJvbnBDZk9RbmxUU00teXpXZHYtQ2RDaXJXc2dfd3pISUNjRXZvdFh4NzJldnI4NkJfcFlVRzRqbXprTG1LXzl3?oc=5",
+  "media": "Liputan6.com",
+  "published": "2026-11-11T23:00:44+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-12T04:49:56.375353+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 6200.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Garuda Indonesia Bidik Rp 6,2 Triliun dari Rights Issue.  Garuda Indonesia Bidik Rp 6,2 Triliun dari Rights Issue &nbsp;&nbsp; Liputan6.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -778,8 +832,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.06,
-   "abn5": 0.4,
+   "vol_z": 0.1,
+   "abn5": 0.85,
    "last": "2026-11-12"
   }
  },
@@ -1051,11 +1105,11 @@
   "snippet": "Ultra Jaya (ULTJ) Rights Issue Rp 16,94 Triliun, Ini Prospek Kinerjanya.  Ultra Jaya (ULTJ) Rights Issue Rp 16,94 Triliun, Ini Prospek Kinerjanya &nbsp;&nbsp; kontan.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 35,
+  "score": 50,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -4.48,
+   "vol_z": -0.49,
+   "abn5": -5.72,
    "last": "2026-11-12"
   }
  },
@@ -1253,11 +1307,11 @@
   "snippet": "Simak Jadwal Rights Issue Ultra Jaya (ULTJ) Senilai Rp 16,94 Triliun.  Simak Jadwal Rights Issue Ultra Jaya (ULTJ) Senilai Rp 16,94 Triliun &nbsp;&nbsp; kontan.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 35,
+  "score": 50,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -4.48,
+   "vol_z": -0.49,
+   "abn5": -5.72,
    "last": "2026-11-12"
   }
  },
@@ -1540,11 +1594,11 @@
   "snippet": "Ultrajaya (ULTJ) Gelar Rights Issue, Harga Pelaksanaan Dipatok Senilai Rp2.150 per Saham.  Ultrajaya (ULTJ) Gelar Rights Issue, Harga Pelaksanaan Dipatok Senilai Rp2.150 per Saham &nbsp;&nbsp; IDX Channel",
   "corroboration": 4,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -4.48,
+   "vol_z": -0.49,
+   "abn5": -5.72,
    "last": "2026-11-12"
   }
  },
@@ -2244,13 +2298,41 @@
   "snippet": "Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue.  Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue &nbsp;&nbsp; Bisnis Indonesia Premium",
   "corroboration": 4,
   "response": null,
-  "score": 25,
+  "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -4.48,
+   "vol_z": -0.49,
+   "abn5": -5.72,
    "last": "2026-11-12"
   }
+ },
+ {
+  "id": "e2105a93623b",
+  "title": "Gunakan Laba Ditahan, NFCX Berencana Buyback 49 Juta Saham",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMEZMc3R0SGxtRXl3RHZxX0MzWHI1YnRKY2x6M3JjWEFkWHltQzQwTVFpQTh0QUVKb3R4bGdPSTRpdW9Zamc4d2lRbXFpNTdoTXV1MXo1NzAxaXJnVUIwd2xGWnJKc3J6NFFoRU1xeTVLVENXWW5uMm4tMW1IRUdjVXZPMTBwZzNhYWRBcVV6NHhSc1NPeDcwRGcweXjSAaIBQVVfeXFMT1UwZnZOT1hnWEFPUTBibnY5eWdxS3VTVHlMSXFTV0ZTdWFfSlNxZHNPSEtKNmRxUkpvZ21lYjdqdG9rRmJYM2U3dUtqTzVYc0dCU2czRGhKNXhZelk0c0diM0pOV1d0MEVJcEtEYlRMRk1rbk1OcWtJQ1lPT2sxdVRleGpwZmdOM2l5ajZkNWs0U0RjQlRvR1hMeDVmZ29WUXN3?oc=5",
+  "media": "IDX Channel",
+  "published": "2026-11-10T22:05:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-12T04:49:56.375353+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Gunakan Laba Ditahan, NFCX Berencana Buyback 49 Juta Saham.  Gunakan Laba Ditahan, NFCX Berencana Buyback 49 Juta Saham &nbsp;&nbsp; IDX Channel",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
  },
  {
   "id": "d29bab50fb69",
@@ -2857,8 +2939,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": 3.43,
+   "vol_z": -0.34,
+   "abn5": 4.74,
    "last": "2026-11-12"
   }
  },
@@ -2920,8 +3002,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.56,
-   "abn5": 0.77,
+   "vol_z": -0.51,
+   "abn5": 0.95,
    "last": "2026-11-12"
   }
  },
@@ -3225,8 +3307,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": 3.43,
+   "vol_z": -0.34,
+   "abn5": 4.74,
    "last": "2026-11-12"
   }
  },
@@ -4033,11 +4115,11 @@
   "snippet": "Ultrajaya Milk (ULTJ) Bagi Dividen Tambahan Rp1,04 Triliun, Cek Jadwalnya.  Ultrajaya Milk (ULTJ) Bagi Dividen Tambahan Rp1,04 Triliun, Cek Jadwalnya &nbsp;&nbsp; StockWatch.id",
   "corroboration": 1,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -4.48,
+   "vol_z": -0.49,
+   "abn5": -5.72,
    "last": "2026-11-12"
   }
  },
@@ -4159,11 +4241,11 @@
   "snippet": "RUPSLB Ultrajaya (ULTJ) Setujui Rights Issue hingga Pembagian Dividen Spesial Rp1,04 Triliun.  RUPSLB Ultrajaya (ULTJ) Setujui Rights Issue hingga Pembagian Dividen Spesial Rp1,04 Triliun &nbsp;&nbsp; IDX Channel",
   "corroboration": 4,
   "response": null,
-  "score": 29,
+  "score": 44,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -4.48,
+   "vol_z": -0.49,
+   "abn5": -5.72,
    "last": "2026-11-12"
   }
  },
@@ -4535,11 +4617,11 @@
   "snippet": "Susu Ultra (ULTJ) Tebar Dividen Rp1,03 Triliun, Siap Akuisisi Frisian Flag - Bisnis.com.  Susu Ultra (ULTJ) Tebar Dividen Rp1,03 Triliun, Siap Akuisisi Frisian Flag &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 3,
   "response": null,
-  "score": 35,
+  "score": 50,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -4.48,
+   "vol_z": -0.49,
+   "abn5": -5.72,
    "last": "2026-11-12"
   }
  },
@@ -5458,36 +5540,6 @@
   "anomali": null
  },
  {
-  "id": "e45e5ed1bbb4",
-  "title": "18 Emiten Dihapus dari BEI 10 November 2026, Bagaimana Nasib Saham Investor yang Belum Di-buyback? - Edisi",
-  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeEFMYlpCY2FLU3g0d3cyQ19mYjhkMlRlOWMzaUYzM0l0Qlh3LVpTN05ydkEyeUx5R2t4a0lUYlZOYWdNNmRuX0pmbko4Yk1ldDQzbW9vOW5NdkFxVHV2c3d4bktuSHhqdXNqX3BBLWhreW8xMkNDaXFjS0NpdWN0bWJiTXE1UzRSa1Z2RXA2SmEtTXdBNWstVlo1Z0haNTk2UlpzZndtdTIyTEl0cXc1R2FFeVJmUURkUXdRcXVSSWlhWlM5emZXZERJSWpadXVxVy1QUnp30gHbAUFVX3lxTE5DZXgzUndDOEdaX3pvNU1TN3BPcEJYTE1ya3BPQnlMOWJ2dkQzNFV2bXdFTFhnZGlsdjY2Q3B4anl0MlNqQVB2V1Z0VXRaT1AtSzVJSUNPZDlDRDRicWNNTVVuOUFWN1NIVTA3R0hlaTJxZXd5Ql9Lb0VTRmJGUHlDejYzWk5rSmZpNjl2bXlLazlfVkExMk43Z21YeW5xMXE0TFhzbGtoTjJwTkxNcWFBWUhGS3BKYk5CUkVzVkxYbU5UVmV4dGl6el9ZWHVkZkdLN041MktWbGVvYw?oc=5",
-  "media": "Edisi",
-  "published": "2026-11-09T04:09:52+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [
-   "Pembelian/penjualan besar"
-  ],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-09T08:44:03.964963+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "18 Emiten Dihapus dari BEI 10 November 2026, Bagaimana Nasib Saham Investor yang Belum Di-buyback? - Edisi.  18 Emiten Dihapus dari BEI 10 November 2026, Bagaimana Nasib Saham Investor yang Belum Di-buyback? - Edisi &nbsp;&nbsp; Edisi",
-  "corroboration": 0,
-  "response": null,
-  "score": 6,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "9b1952430654",
   "title": "Saham 18 Emiten Dihapus dari BEI, Ini Aturan Buyback dan Hak Investor Publik - Sindikat Post",
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc3lyT0p3VzQ2UE5WV01SMndRRHlqTFBMOU1qa3lTVmNkd0ZseVN2elBlUlJSYWRrc1RwQnJzWjVyRm1fYVJIQ3kyLTV0OUoyWFlXeXVXUzNWN2FWbUpOT2ZWQzl6XzF1NXJSYkxkVElMTnNfMXozWXNOUEI4XzhuSzZmQXpIaFZ6ak04dHVyN0ZRUmFpdDU2MHhiYURHZ0Mxc1R0dGZMeWVLZUQzVEtHamRURHplYWcyNV9hanZfcmZlcWJYN3ltdXh30gHPAUFVX3lxTE1BN2RkVjJ5d04za250bVdjZUUxY3IybHlnRWpVUWtTMEZGWVhTdU9VYVptN295RmUwQWxMaktKZURDUGhxVUplTkJNeHBSMnFJRXF4bXJNN1RMcWJJMXl1bGtIMUEzS01PNzZzMDQ2ZzZjMkowWDFDZ0w2Q3YwNl9SeFB1VUJnNEdEMjdCem9NSzJsbFY2U1ZIZ3d0akZxQlFBUEVYZjJFWEdsTjhzNWJwNkhsSVA5X3BCZkxVQm1Hamc4cEc2SjJ6WVQ2d19BQQ?oc=5",
@@ -5518,9 +5570,39 @@
   "anomali": null
  },
  {
+  "id": "e45e5ed1bbb4",
+  "title": "18 Emiten Dihapus dari BEI 10 November 2026, Bagaimana Nasib Saham Investor yang Belum Di-buyback? - Edisi",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2V4M1J3QzhHWl96bzVNUzdwT3BCWExNcmtwT0J5TDlidnZEMzRVdm13RUxYZ2RpbHY2NkNweGp5dDJTakFQdldWdFV0Wk9QLUs1SUlDT2Q5Q0Q0YnFjTU1VbjlBVjdTSFUwN0dIZWkycWV3eUJfS29FU0ZiRlB5Q3o2M1pOa0pmaTY5dm15S2s5X1ZBMTJON2dtWHlucTFxNExYc2xraE4ycE5MTXFhQVlIRktwSmJOQlJFc1ZMWG1OVFZleHRpenpfWVh1ZGZHSzdONTJLVmxlb2PSAdsBQVVfeXFMTkNleDNSd0M4R1pfem81TVM3cE9wQlhMTXJrcE9CeUw5YnZ2RDM0VXZtd0VMWGdkaWx2NjZDcHhqeXQyU2pBUHZXVnRVdFpPUC1LNUlJQ09kOUNENGJxY01NVW45QVY3U0hVMDdHSGVpMnFld3lCX0tvRVNGYkZQeUN6NjNaTmtKZmk2OXZteUtrOV9WQTEyTjdnbVh5bnExcTRMWHNsa2hOMnBOTE1xYUFZSEZLcEpiTkJSRXNWTFhtTlRWZXh0aXp6X1lYdWRmR0s3TjUyS1ZsZW9j?oc=5",
+  "media": "Edisi",
+  "published": "2026-11-09T04:09:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-09T08:44:03.964963+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "18 Emiten Dihapus dari BEI 10 November 2026, Bagaimana Nasib Saham Investor yang Belum Di-buyback? - Edisi.  18 Emiten Dihapus dari BEI 10 November 2026, Bagaimana Nasib Saham Investor yang Belum Di-buyback? - Edisi &nbsp;&nbsp; Edisi",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "3bd8ab90a128",
   "title": "Ikuti Arahan Danantara, BRI Siapkan Aksi Merger hingga Akuisisi Anak Usaha",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTFuWTg1dDlBaGUtbWd0S1VkWmsxTnBLNUx0S2pPbXg0dTlNYjF6MW1OdXNRcVRvZ2FBdTBpM25IbkUtYUdCelFCSFlsY1g2cEJXLUZpVlBFNDA3NUVYSlJoYUtuaTVvYlJwNWJ5VWtYbFpRVE5hT3M0Mjhab01lRjJCdGdaY3lsbE92ZHlFWUE1NGFIY3dQTmNTY0hHRV91akxpRnZTdmxtSU9T0gGyAUFVX3lxTE5jbmlPeFdXWWFLR2pJeVMzdjRqZW5hcDBFeGRiX1RUWXU5UGdFMldlN0VzVVhlN3NPRnZOZnpmcXpaSExENzJiYm1vV3hQWjdaaF9DcXhTV0N6blFsS3MtQ0F4OXVibGM4TGYwWkhkWnFiVnFDazJzcUJOZjg3RUtwT2R0QkZkT0hqOVplY1RuWUNrUFZkUXVSNkNGeGZlWndkRERWM2Y1MUFLXzR2UDVUaFE?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHBxYmVlZi13MGZGS1F3R3lJQmxpVXJUM1hyN3hnU1NRUTJlOTFMYkNCMVRtakQwTUdROEJuV1owendfNS1keV9zVk5OTF9SNTBxWUZZazJLbG1hZEVMSmpIVTNfeE1Za0JwUjRLUHNySk1jeW9rdFJaMkFfaWJGZ25PU1k1d21vR0VhYjZ1bXE0MjR0NFJBaGk3YUpTLURmMDU4akNqa3lJWklmZ2xr0gGyAUFVX3lxTE5jbmlPeFdXWWFLR2pJeVMzdjRqZW5hcDBFeGRiX1RUWXU5UGdFMldlN0VzVVhlN3NPRnZOZnpmcXpaSExENzJiYm1vV3hQWjdaaF9DcXhTV0N6blFsS3MtQ0F4OXVibGM4TGYwWkhkWnFiVnFDazJzcUJOZjg3RUtwT2R0QkZkT0hqOVplY1RuWUNrUFZkUXVSNkNGeGZlWndkRERWM2Y1MUFLXzR2UDVUaFE?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-09T04:06:00+00:00",
   "tickers": [
@@ -6612,7 +6694,7 @@
  {
   "id": "6c82e6614f10",
   "title": "Bank Ina (BINA) Kantongi Rp50 Miliar dari Aksi Private Placement",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3dLUV9KV1gwYVVmSXA4YUFKTGZUcTRkSWFmV3JxbkI4S0w0bUZIWXRsOXRsbEN0SzV1VFNBVmtxUmNRc0lXdDE0ejhlQWYzVHFaNEdvR1drZTdJcUxxaEVhVGFnR21hREUtRHBJbi1ERkpGeDZCZV9kY3YzZ3owT1hJLU13ZG5QcGVBU0syU19xUzdMSmxtYzFsTExSa3JpSzJ30gGoAUFVX3lxTE1UR1VMTWYzd0JCeTBTXzBvVlBGdm9Od1EtV2ZhVXFCQ1JtSmEtMGdsVE40RE9JcktKb3ZEX21SWWpTenQ3TVp6cGUzakxITG14WERlUGVnWEZpRndOaTlIdUtYNEg0TU1qRmhVQUxSZVZTdEI1ZVBXM25rcDl5ekx0eXpGTVo4RElnX2l6YWk4ZmR4TERWSkVGY0dOXzVMVnNYdlZKbThaYQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEdVTE1mM3dCQnkwU18wb1ZQRnZvTndRLVdmYVVxQkNSbUphLTBnbFRONERPSXJLSm92RF9tUllqU3p0N01aenBlM2pMSExteFhEZVBlZ1hGaUZ3Tmk5SHVLWDRINE1NakZoVUFMUmVWU3RCNWVQVzNua3A5eXpMdHl6Rk1aOERJZ19pemFpOGZkeExEVkpFRmNHTl81TFZzWHZWSm04WmHSAagBQVVfeXFMTVRHVUxNZjN3QkJ5MFNfMG9WUEZ2b053US1XZmFVcUJDUm1KYS0wZ2xUTjRET0lyS0pvdkRfbVJZalN6dDdNWnpwZTNqTEhMbXhYRGVQZWdYRmlGd05pOUh1S1g0SDRNTWpGaFVBTFJlVlN0QjVlUFczbmtwOXl6THR5ekZNWjhESWdfaXphaThmZHhMRFZKRUZjR05fNUxWc1h2VkptOFph?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-08T13:15:00+00:00",
   "tickers": [
@@ -8193,8 +8275,8 @@
   "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.13,
-   "abn5": 5.93,
+   "vol_z": 0.16,
+   "abn5": 6.4,
    "last": "2026-11-12"
   }
  },
@@ -8229,8 +8311,8 @@
   "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.13,
-   "abn5": 5.93,
+   "vol_z": 0.16,
+   "abn5": 6.4,
    "last": "2026-11-12"
   }
  },
@@ -8342,8 +8424,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.13,
-   "abn5": 5.93,
+   "vol_z": 0.16,
+   "abn5": 6.4,
    "last": "2026-11-12"
   }
  },
@@ -9116,11 +9198,11 @@
   "snippet": "Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya.  Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya &nbsp;&nbsp; kontan.co.id",
   "corroboration": 11,
   "response": null,
-  "score": 25,
+  "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -4.48,
+   "vol_z": -0.49,
+   "abn5": -5.72,
    "last": "2026-11-12"
   }
  },
@@ -10503,11 +10585,11 @@
   "snippet": "Akuisisi FFI, Ultrajaya (ULTJ) Siap Terbitkan 7,87 Miliar Saham Baru.  Akuisisi FFI, Ultrajaya (ULTJ) Siap Terbitkan 7,87 Miliar Saham Baru &nbsp;&nbsp; Emitennews.com",
   "corroboration": 3,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -4.48,
+   "vol_z": -0.49,
+   "abn5": -5.72,
    "last": "2026-11-12"
   }
  },
@@ -10594,11 +10676,11 @@
   "snippet": "Ultrajaya (ULTJ) Rights Issue Rp 16,9 Triliun, Ada Rencana Tambahan Dividen Jumbo.  Ultrajaya (ULTJ) Rights Issue Rp 16,9 Triliun, Ada Rencana Tambahan Dividen Jumbo &nbsp;&nbsp; investor.id",
   "corroboration": 4,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -4.48,
+   "vol_z": -0.49,
+   "abn5": -5.72,
    "last": "2026-11-12"
   }
  },
@@ -11860,11 +11942,11 @@
   "snippet": "Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun.  Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun &nbsp;&nbsp; IDX Channel",
   "corroboration": 6,
   "response": null,
-  "score": 29,
+  "score": 44,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -4.48,
+   "vol_z": -0.49,
+   "abn5": -5.72,
    "last": "2026-11-12"
   }
  },
@@ -12263,8 +12345,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.22,
-   "abn5": -3.25,
+   "vol_z": -0.18,
+   "abn5": -3.91,
    "last": "2026-11-12"
   }
  },
@@ -13598,7 +13680,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.07,
-   "abn5": -3.54,
+   "abn5": -4.3,
    "last": "2026-11-12"
   }
  },
@@ -14009,8 +14091,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.22,
-   "abn5": -3.25,
+   "vol_z": -0.18,
+   "abn5": -3.91,
    "last": "2026-11-12"
   }
  },
@@ -14288,8 +14370,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.09,
-   "abn5": -1.81,
+   "vol_z": -0.07,
+   "abn5": -2.24,
    "last": "2026-11-12"
   }
  },
@@ -14320,8 +14402,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.28,
-   "abn5": 1.07,
+   "vol_z": -1.27,
+   "abn5": 0.31,
    "last": "2026-11-12"
   }
  },
@@ -14460,8 +14542,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.98,
-   "abn5": -1.45,
+   "vol_z": -0.96,
+   "abn5": -2.42,
    "last": "2026-11-12"
   }
  },
@@ -15782,8 +15864,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.74,
-   "abn5": 3.16,
+   "vol_z": -0.73,
+   "abn5": 3.03,
    "last": "2026-11-12"
   }
  },
@@ -16065,8 +16147,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": 3.43,
+   "vol_z": -0.34,
+   "abn5": 4.74,
    "last": "2026-11-12"
   }
  },
@@ -17017,8 +17099,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.4,
-   "abn5": -0.15,
+   "vol_z": -0.39,
+   "abn5": 0.12,
    "last": "2026-11-12"
   }
  },
@@ -17321,8 +17403,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.72,
-   "abn5": -0.64,
+   "vol_z": -0.71,
+   "abn5": -0.19,
    "last": "2026-11-12"
   }
  },
@@ -17839,8 +17921,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.13,
-   "abn5": 5.93,
+   "vol_z": 0.16,
+   "abn5": 6.4,
    "last": "2026-11-12"
   }
  },
@@ -18695,7 +18777,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.36,
-   "abn5": -3.93,
+   "abn5": -3.81,
    "last": "2026-11-12"
   }
  },
@@ -19422,8 +19504,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": 0.26,
+   "vol_z": -0.33,
+   "abn5": 0.75,
    "last": "2026-11-12"
   }
  },
@@ -20023,8 +20105,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": 0.26,
+   "vol_z": -0.33,
+   "abn5": 0.75,
    "last": "2026-11-12"
   }
  },
@@ -20335,8 +20417,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": 0.26,
+   "vol_z": -0.33,
+   "abn5": 0.75,
    "last": "2026-11-12"
   }
  },
@@ -20369,8 +20451,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.37,
-   "abn5": 0.26,
+   "vol_z": -0.33,
+   "abn5": 0.75,
    "last": "2026-11-12"
   }
  },
