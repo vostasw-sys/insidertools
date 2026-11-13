@@ -1,5 +1,33 @@
 [
  {
+  "id": "b32e8dd4b99d",
+  "title": "Perusahaan Raffi Ahmad Akuisisi Rumah Sakit",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWYwcXhOaU1XcFlIZzZmVk1oZXZ0RVZfNTEyellLQ0hlQjNzMnF4QXY4ck5aam9FR0R5eFhydEt2NWZhQmgtdzFwVE1PLWVZRUdLbTdsV0ZMOW05UnVZQVFuNnZhOUFxUlFVa2FZRkhwUk53M183cFFGallETTYtc1VZcw?oc=5",
+  "media": "investor.id",
+  "published": "2026-11-13T06:09:48+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-13T06:57:29.895835+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Perusahaan Raffi Ahmad Akuisisi Rumah Sakit.  Perusahaan Raffi Ahmad Akuisisi Rumah Sakit &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "e8c18b0d1540",
   "title": "PT Pukul Rata Kanan Kembali Akumulasi MMIX, Cek Profil Emiten dan Kinerja Terbaru",
   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTNrb1drVU9GanlBNjViNDZKMjFfNjBOaWdiN2ZpVkNsNUdBZHUtVVFXQ2NBN0ZFSFM4ZGZ0R1ZBV0dKcHRxN3FNZ0hYQWZBbjZReEpqckFaWWNCNFRMOFY1QnF5T2tlVFA3YWNYMkUwTEh3eFd2aFFQejR4WllyNnc5c3NlcmxFWnJlRUNNc2dSSUFkWURONUM5bzg5Vk12Qk0xRHJOTHhsTVVHREprSGF1bnlheVnSAa8BQVVfeXFMT0ZCSXlVSzY5Y0ZOUllTRjZjTUJxTHdBSVdPNHlud0loR0FfTUFoWGptNTBGSHVEX18tXzFzcDN2M3VhY0ZvRDJVSFNTYV82dTQ1QUl3cTU3b05ZbFlORzd3aG12dWVEQ3Ntc3RGVjl6RDhaWmZrTnhTenZralN1alVCZFlFbU9zNVZ1SnFIUnFtLWJGT2VlVncwMEhVU0xKdGwyZW1ldEtjYzZHT3BHYw?oc=5",
@@ -21,6 +49,34 @@
   "schedule": false,
   "party": false,
   "snippet": "PT Pukul Rata Kanan Kembali Akumulasi MMIX, Cek Profil Emiten dan Kinerja Terbaru.  PT Pukul Rata Kanan Kembali Akumulasi MMIX, Cek Profil Emiten dan Kinerja Terbaru &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "64115c34218b",
+  "title": "PT Pukul Rata Kanan Kembali Akumulasi MMIX, Cek Profil Emiten dan Kinerja Terbaru",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRkJJeVVLNjljRk5SWVNGNmNNQnFMd0FJV080eW53SWhHQV9NQWhYam01MEZIdURfXy1fMXNwM3YzdWFjRm9EMlVIU1NhXzZ1NDVBSXdxNTdvTllsWU5HN3dobXZ1ZURDc21zdEZWOXpEOFpaZmtOeFN6dmtqU3VqVUJkWUVtT3M1VnVKcUhScW0tYkZPZWVWdzAwSFVTTEp0bDJlbWV0S2NjNkdPcEdj0gGvAUFVX3lxTE9GQkl5VUs2OWNGTlJZU0Y2Y01CcUx3QUlXTzR5bndJaEdBX01BaFhqbTUwRkh1RF9fLV8xc3AzdjN1YWNGb0QyVUhTU2FfNnU0NUFJd3E1N29OWWxZTkc3d2htdnVlRENzbXN0RlY5ekQ4Wlpma054U3p2a2pTdWpVQmRZRW1PczVWdUpxSFJxbS1iRk9lZVZ3MDBIVVNMSnRsMmVtZXRLY2M2R09wR2M?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-13T04:13:47+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-13T06:57:29.895835+00:00",
+  "anon": [],
+  "corp": [
+   "private placement"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "PT Pukul Rata Kanan Kembali Akumulasi MMIX, Cek Profil Emiten dan Kinerja Terbaru.  PT Pukul Rata Kanan Kembali Akumulasi MMIX, Cek Profil Emiten dan Kinerja Terbaru &nbsp;&nbsp; KONTAN",
   "corroboration": 0,
   "response": null,
   "score": 15,
@@ -850,6 +906,34 @@
   "party": false,
   "snippet": "Petrosea (PTRO) Mulai Petik Hasil Akuisisi.  Petrosea (PTRO) Mulai Petik Hasil Akuisisi &nbsp;&nbsp; investor.id",
   "corroboration": 1,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "1ddf77b51fae",
+  "title": "BEI Ungkap Syarat Saham Emiten Keluar dari Daftar HSC - Info Mase",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWdPVjM1YURvVEhSbWVTTEVwUTZoVVI4ejRrdzRCQi1zOFJ5eUIwSWt2bE8taEU2Nnd1bm5NNDlQQThnZGkwc0xhSU1JSzFMVGlfZXNvaC1YcFFGRVFRNVo3T0dVQWlWam5RakJMSDJsak1NRzI5UFBxMUhSdjY5ZnAxSnJYLUd3V3gxZHdVUnYyOGthb1dkM19Ua9IBoAFBVV95cUxOQXhHVGxUSzJycEVOcTRWUnJCSHB0X0RKY3RXWWlCYk56RUVTd0VoQjdlUlY0XzVLTW5kZm1mN2xLY2xQU1NhM1p0dUx0ZzNjMVRzQzB1UlZZU0ZzWDh0S0FSbUNGd1l3eUZfRl91ZG9mdVFlWkFaS2FPdFpRTkFtbHBwdi01WkpkT1A5djVURHVzUGRIS2Z2ZEJweFk0QU4x?oc=5",
+  "media": "Info Mase",
+  "published": "2026-11-12T06:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-13T06:57:29.895835+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Ungkap Syarat Saham Emiten Keluar dari Daftar HSC - Info Mase.  BEI Ungkap Syarat Saham Emiten Keluar dari Daftar HSC - Info Mase &nbsp;&nbsp; Info Mase",
+  "corroboration": 0,
   "response": null,
   "score": 6,
   "outcome": null,
@@ -1729,7 +1813,7 @@
   "asal": [],
   "first_seen": "2026-11-11T23:19:35.314325+00:00",
   "anon": [
-   "tengah menjajaki"
+   "menurut sumber"
   ],
   "corp": [
    "akuisisi"
@@ -18067,30 +18151,6 @@
   "anomali": null
  },
  {
-  "id": "c76be82e6993",
-  "title": "Pola Transaksi Saham GPSO Masuk UMA",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00MnVDN1NRekhXQ1Z3Q2x6TWtncXA5QUQzTHltMHVSVkJpMEFabFE3MV9USXBmVHdXVXlLcjRmYUwyZFNHZUtTNFBGMzNoMDRON2lFQWhHdmF6alYxeEthV1h1SWpPSXdTc2FVV0pPR2pWNDRqUWYtTjVVSVF3Zw?oc=5",
-  "media": "Pasardana",
-  "published": "2026-11-02T08:00:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Pola Transaksi Saham GPSO Masuk UMA.  Pola Transaksi Saham GPSO Masuk UMA &nbsp;&nbsp; Pasardana",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "594f8c0af608",
   "title": "PART Siapkan Rights Issue 8 Miliar Saham untuk Modal Kerja",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yeVE5VDhNMXBfMnhmYi1VY0Q1YkRqal9UQkI0YnZkci1jc0hMNzdJeXZmZVVvNW96ZzRnTTdFcUlvZTk4WVEtVFB2SlJmb01kaDlZbDVoTTNjYkx0cFhvN1FkdWxjc2dN?oc=5",
@@ -18318,6 +18378,30 @@
   "corroboration": 2,
   "response": null,
   "score": 20,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "c76be82e6993",
+  "title": "Pola Transaksi Saham GPSO Masuk UMA",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00MnVDN1NRekhXQ1Z3Q2x6TWtncXA5QUQzTHltMHVSVkJpMEFabFE3MV9USXBmVHdXVXlLcjRmYUwyZFNHZUtTNFBGMzNoMDRON2lFQWhHdmF6alYxeEthV1h1SWpPSXdTc2FVV0pPR2pWNDRqUWYtTjVVSVF3Zw?oc=5",
+  "media": "Pasardana",
+  "published": "2026-11-02T05:45:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Pola Transaksi Saham GPSO Masuk UMA.  Pola Transaksi Saham GPSO Masuk UMA &nbsp;&nbsp; Pasardana",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
