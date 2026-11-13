@@ -1,5 +1,59 @@
 [
  {
+  "id": "c6b99e1f4613",
+  "title": "Dana Asing Masuk dan Angkat Saham Big Banks Indonesia",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zdVRWMzVzakdZQXJVVDhiaU9nb3RCWlV2OHBMOVFIVXJnenBEV2s4WTM4WU5FdUs1cjJpRWp2Ymc3RVk2dXdDLTRTZUhubzlBc3pPTkIwanVYQnR6Z2poMg?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-13T12:00:39+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-13T12:22:45.676962+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Dana Asing Masuk dan Angkat Saham Big Banks Indonesia.  Dana Asing Masuk dan Angkat Saham Big Banks Indonesia &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "f37b294d2914",
+  "title": "Danantara Tegaskan Tak Terlibat dalam Konsorsium Akuisisi Weda Bay",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPendGTDhlWVJzbHRWejRuQzZHSURuQjlRTU8zaGc2amxEMlQ3Q2R5TjFVb295RzdyRWs2X1lIejFIWEQwRC1BOXVJaUpNQ0RrMGY5YTR5NzA2YVV2c0dMWmp5aGhpVjQ4SHZlYlVvZmlIRGpoY003ZDdyeUhzX1JrLXVSYzlBY2J5WGpDU3h5R015M3VKbUg3M3hGOEJZZl90Zm5R0gGcAUFVX3lxTE9VTFltQlh5TzItaHI5YjRpamttODF2MHI4Q3duYzlfQzJuNWZiaVE1dHVUcW42Wi1kU2ZESFhkX3lJa0lxQjRNeVZHMnlCdFUzcmpTR1VKOGZoNTdMcEVha1FPQWVuT21oYUVyckRERFJycEhLdnVBUm5vSFgzcVJiT0NqMTNWdHF3Q3dZVzN5blFFZEtDRzk5SWI4aA?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-13T11:40:18+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-13T12:22:45.676962+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Danantara Tegaskan Tak Terlibat dalam Konsorsium Akuisisi Weda Bay.  Danantara Tegaskan Tak Terlibat dalam Konsorsium Akuisisi Weda Bay &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5642eadbb4a8",
   "title": "GMF Aero (GMFI) Bidik Tambahan Kas hingga Rp1,05 Triliun Lewat Rights Issue - Bisnis.com",
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUE41TDk4QTNETkdRUEplQWpJZDNkRXhSbVAyNWFzQ2pGMXkwVVkySUt5WE9adDRKVG15THZEaTl4X0pwQ0puTE84eGRFeW9BQ2kzQ0tVS3ZwZXl0eWpFQ3NRTjU0dGtFS3NoREp3VU8zU3hGazFWQUdBMVU2TFF4emRlS1BjY0c2WURwNGh1T0RHcnZmeVdmRTQ5cWJiNFdRb2h6TWpDdHNDbU5JdGlxSFNwOEtaNTZ4V3MxbkpNRV9zQQ?oc=5",
@@ -2489,11 +2543,7 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.4,
-   "abn5": 1.54,
-   "last": "2026-11-13"
-  }
+  "anomali": null
  },
  {
   "id": "6b691b104a0a",
@@ -5186,11 +5236,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.4,
-   "abn5": 1.54,
-   "last": "2026-11-13"
-  }
+  "anomali": null
  },
  {
   "id": "2b2730f1eefa",
@@ -18777,6 +18823,30 @@
   "anomali": null
  },
  {
+  "id": "c76be82e6993",
+  "title": "Pola Transaksi Saham GPSO Masuk UMA",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00MnVDN1NRekhXQ1Z3Q2x6TWtncXA5QUQzTHltMHVSVkJpMEFabFE3MV9USXBmVHdXVXlLcjRmYUwyZFNHZUtTNFBGMzNoMDRON2lFQWhHdmF6alYxeEthV1h1SWpPSXdTc2FVV0pPR2pWNDRqUWYtTjVVSVF3Zw?oc=5",
+  "media": "Pasardana",
+  "published": "2026-11-02T08:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Pola Transaksi Saham GPSO Masuk UMA.  Pola Transaksi Saham GPSO Masuk UMA &nbsp;&nbsp; Pasardana",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "594f8c0af608",
   "title": "PART Siapkan Rights Issue 8 Miliar Saham untuk Modal Kerja",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yeVE5VDhNMXBfMnhmYi1VY0Q1YkRqal9UQkI0YnZkci1jc0hMNzdJeXZmZVVvNW96ZzRnTTdFcUlvZTk4WVEtVFB2SlJmb01kaDlZbDVoTTNjYkx0cFhvN1FkdWxjc2dN?oc=5",
@@ -19004,30 +19074,6 @@
   "corroboration": 2,
   "response": null,
   "score": 20,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "c76be82e6993",
-  "title": "Pola Transaksi Saham GPSO Masuk UMA",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00MnVDN1NRekhXQ1Z3Q2x6TWtncXA5QUQzTHltMHVSVkJpMEFabFE3MV9USXBmVHdXVXlLcjRmYUwyZFNHZUtTNFBGMzNoMDRON2lFQWhHdmF6alYxeEthV1h1SWpPSXdTc2FVV0pPR2pWNDRqUWYtTjVVSVF3Zw?oc=5",
-  "media": "Pasardana",
-  "published": "2026-11-02T05:45:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Pola Transaksi Saham GPSO Masuk UMA.  Pola Transaksi Saham GPSO Masuk UMA &nbsp;&nbsp; Pasardana",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
   "outcome": null,
   "anomali": null
  },
