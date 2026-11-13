@@ -26,34 +26,6 @@
   "anomali": null
  },
  {
-  "id": "6d584734b71d",
-  "title": "Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEMwNVJfNXJOcjF6eWhxUVZ6RXkyeDRXQ3N0emc5QkJkZl8wXzVmUUR1TVo5OWVuT05GVlNDMHMtbmZYTlJtSVJ3TFdDaUZyLWhCaHg3LUJaMXhyN1FZVHhOUjRQLXp6aVVZZDlOcTZCWk5ucjVQWVlXN3NzbWljWnUyM2YybUszVWN5MFZ1cmlPdndHb3RXbURKOVp3dw?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-13T13:01:00+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [
-   "Utang/restrukturisasi"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-13T13:41:07.513523+00:00",
-  "anon": [],
-  "corp": [
-   "pkpu"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham.  Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 0,
-  "response": null,
-  "score": 9,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "c6b99e1f4613",
   "title": "Dana Asing Masuk dan Angkat Saham Big Banks Indonesia",
   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zdVRWMzVzakdZQXJVVDhiaU9nb3RCWlV2OHBMOVFIVXJnenBEV2s4WTM4WU5FdUs1cjJpRWp2Ymc3RVk2dXdDLTRTZUhubzlBc3pPTkIwanVYQnR6Z2poMg?oc=5",
@@ -408,6 +380,33 @@
   "corroboration": 1,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "46b10a875ab5",
+  "title": "BEI Telisik KDTN, Manajemen Buka Suara Soal Gejolak Saham",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQk44Z2p3TGZEY1VCbWxUSjBBd3c4VUZKaHJxbF9HVFRELUpYRkJCREotVnBQZ05DNGF1WFNYSFJJYUZCdXpMZzQ0WmtMT1NSNFhqZVg2NC10N1NMcl80Sk9KM3hLTWw3SEVSUUVnalNsZ3IxcTZHSEdCZi1UVklUZGZoakZ4QQ?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-11-13T07:49:57+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen",
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-13T19:46:00.261230+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Telisik KDTN, Manajemen Buka Suara Soal Gejolak Saham.  BEI Telisik KDTN, Manajemen Buka Suara Soal Gejolak Saham &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -1518,7 +1517,7 @@
  {
   "id": "1ddf77b51fae",
   "title": "BEI Ungkap Syarat Saham Emiten Keluar dari Daftar HSC - Info Mase",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWdPVjM1YURvVEhSbWVTTEVwUTZoVVI4ejRrdzRCQi1zOFJ5eUIwSWt2bE8taEU2Nnd1bm5NNDlQQThnZGkwc0xhSU1JSzFMVGlfZXNvaC1YcFFGRVFRNVo3T0dVQWlWam5RakJMSDJsak1NRzI5UFBxMUhSdjY5ZnAxSnJYLUd3V3gxZHdVUnYyOGthb1dkM19Ua9IBoAFBVV95cUxOQXhHVGxUSzJycEVOcTRWUnJCSHB0X0RKY3RXWWlCYk56RUVTd0VoQjdlUlY0XzVLTW5kZm1mN2xLY2xQU1NhM1p0dUx0ZzNjMVRzQzB1UlZZU0ZzWDh0S0FSbUNGd1l3eUZfRl91ZG9mdVFlWkFaS2FPdFpRTkFtbHBwdi01WkpkT1A5djVURHVzUGRIS2Z2ZEJweFk0QU4x?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXhHVGxUSzJycEVOcTRWUnJCSHB0X0RKY3RXWWlCYk56RUVTd0VoQjdlUlY0XzVLTW5kZm1mN2xLY2xQU1NhM1p0dUx0ZzNjMVRzQzB1UlZZU0ZzWDh0S0FSbUNGd1l3eUZfRl91ZG9mdVFlWkFaS2FPdFpRTkFtbHBwdi01WkpkT1A5djVURHVzUGRIS2Z2ZEJweFk0QU4x0gGgAUFVX3lxTE5BeEdUbFRLMnJwRU5xNFZSckJIcHRfREpjdFdZaUJiTnpFRVN3RWhCN2VSVjRfNUtNbmRmbWY3bEtjbFBTU2EzWnR1THRnM2MxVHNDMHVSVllTRnNYOHRLQVJtQ0Z3WXd5Rl9GX3Vkb2Z1UWVaQVpLYU90WlFOQW1scHB2LTVaSmRPUDl2NVREdXNQZEhLZnZkQnB4WTRBTjE?oc=5",
   "media": "Info Mase",
   "published": "2026-11-12T06:00:00+00:00",
   "tickers": [],
@@ -2116,6 +2115,32 @@
   "corroboration": 0,
   "response": null,
   "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "02c2c03aebe5",
+  "title": "Pengumuman MSCI November Resmi Dirilis: Ini Rincian Saham yang Keluar dan Turun Kelas, Efektif Desember 2026! - Sinar Harapan",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOS0JHVFlLVVV4R1hhUzg5V2lLa1NYXzJtWVYxV0dlSkR0Y0UzY0hJNVIzby03YzY3U2t1RldMbl9mNEN4NW52elRjMkZkcUJOellRZk5FbUVETnREU2FyMDdIYUxLN3hGb3AxeG9CMHNySXBQa1NtZ2FXc2czR2JQYkxtdDVzbUJTSTZPZWp6VEdOemtBXzlzWTZJZThFN3UyUUlGMk90SGp4MWZCLUF5TFlsLVltbDZ6ZjY1OVZLRl9RWEUtUDZXdzNjQXdHTkhwTUY2LURNLWR3ODdIWFV2UXhNSHJHaU5fT1FPSXJyRk1lZ1HSAfgBQVVfeXFMTUVkZ2lPUDAydGUxNl9YMWgyNG1qd1BFa3RuOHlsOFV3MmlCdGFOa1NoNDZPcHkxT1A3OGg1MmJuRFBZWHhPTXk4MHlqSDl5WGowN04tVlBNZTZIcUNoT2ltdUkxRVB2Q0JaTGc1bGpkbWZCRGRoNFM5SFNDRm41QnNnSkdJUXFIS0dfeFlxTUlqT211dXV0VFdfZW82SXNka1praE5CWVJISXo2TDZ1bzd4azh6TjVIQ3hfRGtmdnBLaEp2UUkyWWRpdkxiZVliaWFCZ3czT1ktYkZzUlFVdy1yelZ0bVZDM19wejBYSmcxNlVralZhTVY?oc=5",
+  "media": "Sinar Harapan",
+  "published": "2026-11-12T00:50:14+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-13T19:46:00.261230+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Pengumuman MSCI November Resmi Dirilis: Ini Rincian Saham yang Keluar dan Turun Kelas, Efektif Desember 2026! - Sinar Harapan.  Pengumuman MSCI November Resmi Dirilis: Ini Rincian Saham yang Keluar dan Turun Kelas, Efektif Desember 2026! - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -2928,6 +2953,34 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "6d584734b71d",
+  "title": "Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEMwNVJfNXJOcjF6eWhxUVZ6RXkyeDRXQ3N0emc5QkJkZl8wXzVmUUR1TVo5OWVuT05GVlNDMHMtbmZYTlJtSVJ3TFdDaUZyLWhCaHg3LUJaMXhyN1FZVHhOUjRQLXp6aVVZZDlOcTZCWk5ucjVQWVlXN3NzbWljWnUyM2YybUszVWN5MFZ1cmlPdndHb3RXbURKOVp3dw?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-11T12:17:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Utang/restrukturisasi"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-13T13:41:07.513523+00:00",
+  "anon": [],
+  "corp": [
+   "pkpu"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham.  Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
   "outcome": null,
   "anomali": null
  },
@@ -3862,7 +3915,7 @@
  {
   "id": "ca17b8d0a17a",
   "title": "BRIS Right Issue 6,8 Miliar Saham Baru, Cek Profil hingga Kinerja Terbarunya",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXgtLWZSTlRKMGVLaDdCelZXU1UzckpSdVR3NXRhZXBXWGYzTEFZS2I0VzhJTDRndFBYNDdqUVI2c3dtN0lzTWNvWUVtdHVmb0NqbHFHUXo0OHdEQXhjVXMzWERxLU4tU2ozSGh6eUljUHd4LXFLUG9SdFotdDR5NlRtMDZpSVE4aTd0Q2dvYlJBUlozRVBxZnFmWE04Umw3ajRyYnVRNDRwU0ZENTY00gGnAUFVX3lxTFBRdWFvaDJCMHJRR2ItMHlxRDl2dDhjYjROV0RjLVVwMkNZTlVQRWh0clJkZEZpcEt2VWpNWHY5bmVrY0dRd3lTN3h4WlhwYTRya1NQWmRMakxIVWlkTEZZRDEyS0VTdU80cHRtcVdvVjVZMDVUalJVazdjY0lyOTl2TDZoTnFfbHp1Y0x1Q2xic0dYMmFUM3BPb3ZIQ0x6eEVFY25rQTlv?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXgtLWZSTlRKMGVLaDdCelZXU1UzckpSdVR3NXRhZXBXWGYzTEFZS2I0VzhJTDRndFBYNDdqUVI2c3dtN0lzTWNvWUVtdHVmb0NqbHFHUXo0OHdEQXhjVXMzWERxLU4tU2ozSGh6eUljUHd4LXFLUG9SdFotdDR5NlRtMDZpSVE4aTd0Q2dvYlJBUlozRVBxZnFmWE04Umw3ajRyYnVRNDRwU0ZENTY0?oc=5",
   "media": "kontan.co.id",
   "published": "2026-11-11T04:09:45+00:00",
   "tickers": [],
@@ -4162,6 +4215,32 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "615d28917395",
+  "title": "IHSG Turun Lagi Pada Pembukaan Pasar Pagi Ini - Sinar Harapan",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSks1WTFCMjFaVVZGdGFLNXJzZVJWc3JQbmI5X2ZPZ3EyOUQ5dE4wbmN2UUVlVGJYRzBNaG9GVC0tRDE5TFpzMnJxSkNnZUpFdmJqWThGbzVIMThwbWxVTzMyVmFPbmlJQjJTeElsLXBTcktMRGVtNnVWQmdmb0ZBeE5sLWxDcEVaWmpicm5kZjhacmlBV2JmMNIBngFBVV95cUxQSjZzbTBCMEx0bzVneE51UW0xc0RhLUJYdUVCckZDakhrNEFsenhXOTFwV01MZXRJUC1TZE5WbG0wVnpmd1B3V0xjTTd2Zlk3dXpXdjd4MW8xcHowbE81TFlWZVhka1gtdDdoOFNid1YtV0tocDFPVnh6UmxqQWFvRnV3akxyN1lfS3BfQjJTSTRfdkJlUkpTR2wyVEVRZw?oc=5",
+  "media": "Sinar Harapan",
+  "published": "2026-11-11T02:21:37+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-13T19:46:00.261230+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IHSG Turun Lagi Pada Pembukaan Pasar Pagi Ini - Sinar Harapan.  IHSG Turun Lagi Pada Pembukaan Pasar Pagi Ini - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -9706,6 +9785,36 @@
   "anomali": null
  },
  {
+  "id": "a8bc6bc9a579",
+  "title": "Buyback Saham BCA Rp5 Triliun: Sinyal Keyakinan atau Strategi Menahan Tekanan? - kumparan.com",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSnp2aTVOOEVWbWNzMTc3emlkOHhUcFA5cHhJUVRnczYtT3M1U0xMOUkyNDktejBGeGppNERNTTJIdW5JTkN0YmdXZkpmUzNLMzVSZE5XNzFLMWRnNW9UNHA5dnZKSDZMbU5kS25WNjdob1FGQi1MSklRRWxiUWRjMndxSVVvMl9yV2ljSTAzSXdhT2xuOU4zUkUyNGFpaHFoTUZDeEhidmtrNGlOYnpsRC1hTktTUGNPSEUxUVR2alRseGfSAcMBQVVfeXFMTUp6dmk1TjhFVm1jczE3N3ppZDh4VHBQOXB4SVFUZ3M2LU9zNVNMTDlJMjQ5LXowRnhqaTRETU0ySHVuSU5DdGJnV2ZKZlMzSzM1UmROVzcxSzFkZzVvVDRwOXZ2Skg2TG1OZEtuVjY3aG9RRkItTEpJUUVsYlFkYzJ3cUlVbzJfcldpY0kwM0l3YU9sbjlOM1JFMjRhaWhxaE1GQ3hIYnZrazRpTmJ6bEQtYU5LU1BjT0hFMVFUdmpUbHhn?oc=5",
+  "media": "kumparan",
+  "published": "2026-11-08T08:24:00+00:00",
+  "tickers": [
+   "BBCA"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-13T19:46:00.261230+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 5000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Buyback Saham BCA Rp5 Triliun: Sinyal Keyakinan atau Strategi Menahan Tekanan? - kumparan.com.  Buyback Saham BCA Rp5 Triliun: Sinyal Keyakinan atau Strategi Menahan Tekanan? - kumparan.com &nbsp;&nbsp; kumparan",
+  "corroboration": 2,
+  "response": null,
+  "score": 21,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "b9fc777fe2f2",
   "title": "Pemerintah Percepat Reformasi Pasar Modal dan Privatisasi BUMN",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mVmQyRXVENktDYTBYQzFBUGhLVHB4M3pfUHR3YXlBYm1iOWN2Tk90M3hiZzg2VkpZNGJ3aHd5UVZtQUt0b1pkSmVwRm9GRE5HNGN3MHoyWnpwcEk2cHUzMTNTUUE3UXVEZ2lUQ0YwTQ?oc=5",
@@ -12654,9 +12763,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Porsi Asing di Saham BBCA Turun, Buyback dan Dividen Berpotensi Jadi Katalis.  Porsi Asing di Saham BBCA Turun, Buyback dan Dividen Berpotensi Jadi Katalis &nbsp;&nbsp; IDX Channel",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 9,
+  "score": 14,
   "outcome": null,
   "anomali": null
  },
