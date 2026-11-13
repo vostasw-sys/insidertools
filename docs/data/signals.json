@@ -1,5 +1,60 @@
 [
  {
+  "id": "e8c18b0d1540",
+  "title": "PT Pukul Rata Kanan Kembali Akumulasi MMIX, Cek Profil Emiten dan Kinerja Terbaru",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTNrb1drVU9GanlBNjViNDZKMjFfNjBOaWdiN2ZpVkNsNUdBZHUtVVFXQ2NBN0ZFSFM4ZGZ0R1ZBV0dKcHRxN3FNZ0hYQWZBbjZReEpqckFaWWNCNFRMOFY1QnF5T2tlVFA3YWNYMkUwTEh3eFd2aFFQejR4WllyNnc5c3NlcmxFWnJlRUNNc2dSSUFkWURONUM5bzg5Vk12Qk0xRHJOTHhsTVVHREprSGF1bnlheVnSAa8BQVVfeXFMT0ZCSXlVSzY5Y0ZOUllTRjZjTUJxTHdBSVdPNHlud0loR0FfTUFoWGptNTBGSHVEX18tXzFzcDN2M3VhY0ZvRDJVSFNTYV82dTQ1QUl3cTU3b05ZbFlORzd3aG12dWVEQ3Ntc3RGVjl6RDhaWmZrTnhTenZralN1alVCZFlFbU9zNVZ1SnFIUnFtLWJGT2VlVncwMEhVU0xKdGwyZW1ldEtjYzZHT3BHYw?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-13T04:13:47+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-13T04:50:00.006901+00:00",
+  "anon": [],
+  "corp": [
+   "private placement"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "PT Pukul Rata Kanan Kembali Akumulasi MMIX, Cek Profil Emiten dan Kinerja Terbaru.  PT Pukul Rata Kanan Kembali Akumulasi MMIX, Cek Profil Emiten dan Kinerja Terbaru &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "eed4c14a3705",
+  "title": "Saham BAJA Bergejolak, Manajemen Beri Penjelasan Begini ke BEI",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkdoTFNPNVV1Rm5DU2RPSkJseVpJMkZ5WTJubkFjeGJsVjVSOHVLSW42a0x0QWpNaEJ3eWZha0dxeFR3WmlZVzBjVW04X2pvazJMOUxMSHpaYVIycU1LMklNWFdONUctME5LZFgxX21FQ056aW9LUVd5OXljdWlXZlZ0ZXlTeHAwa1JIYw?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-11-13T03:59:10+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen",
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-13T04:50:00.006901+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham BAJA Bergejolak, Manajemen Beri Penjelasan Begini ke BEI.  Saham BAJA Bergejolak, Manajemen Beri Penjelasan Begini ke BEI &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "825a49d14507",
   "title": "Polri Pastikan TK Kasus Penyadapan Ilegal Berpangkat Brigjen",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdExIbWpVN3Q0T0FZTFVWdHROZFcxMDlfR1VKdjRoYU5haEYzSWJsY3lmYU5zNlFONFlldUNYWGNuZlliZzZDRzVtalF2YXZuRHlnV3hWR3FfN2tpV0QtUnJEeXFvSHNWUDJZVW91ZzhxdldiREZYZ21DZUhiekpvZ050cnpNYlMzaThaZXByUEg1QkY1czhUT2M4MlBGUU1PRFFJdFhn?oc=5",
@@ -765,8 +820,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -3.9,
+   "vol_z": -0.45,
+   "abn5": -3.7,
    "last": "2026-11-13"
   }
  },
@@ -1021,6 +1076,32 @@
   "corroboration": 0,
   "response": null,
   "score": 26,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "df4d0830f0be",
+  "title": "MSCI Keluarkan BRPT dan BRMS dari Indeks Global Standard",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzek1ScXpNLUZHLXJfXzR3M0J6UnF6RnRXcmFueVdBQl9kMF82ZlhKUGpuNFZYWjNsM0k3SnlGaUtBbWxXRWFIUDVhMkgtTGs5OFZCU1FOeTRBRktDZDAw?oc=5",
+  "media": "ChatNews.id",
+  "published": "2026-11-12T04:15:59+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-13T04:50:00.006901+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "MSCI Keluarkan BRPT dan BRMS dari Indeks Global Standard.  MSCI Keluarkan BRPT dan BRMS dari Indeks Global Standard &nbsp;&nbsp; ChatNews.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -1403,8 +1484,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 4.21,
+   "vol_z": -0.32,
+   "abn5": 3.92,
    "last": "2026-11-13"
   }
  },
@@ -1911,8 +1992,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.52,
-   "abn5": 2.88,
+   "vol_z": -0.49,
+   "abn5": 2.63,
    "last": "2026-11-13"
   }
  },
@@ -2052,7 +2133,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": -0.21,
+   "abn5": -0.52,
    "last": "2026-11-13"
   }
  },
@@ -2327,8 +2408,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -3.9,
+   "vol_z": -0.45,
+   "abn5": -3.7,
    "last": "2026-11-13"
   }
  },
@@ -2529,8 +2610,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -3.9,
+   "vol_z": -0.45,
+   "abn5": -3.7,
    "last": "2026-11-13"
   }
  },
@@ -2816,8 +2897,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -3.9,
+   "vol_z": -0.45,
+   "abn5": -3.7,
    "last": "2026-11-13"
   }
  },
@@ -3603,8 +3684,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -3.9,
+   "vol_z": -0.45,
+   "abn5": -3.7,
    "last": "2026-11-13"
   }
  },
@@ -4409,8 +4490,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 4.21,
+   "vol_z": -0.32,
+   "abn5": 3.92,
    "last": "2026-11-13"
   }
  },
@@ -4472,8 +4553,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.52,
-   "abn5": 2.88,
+   "vol_z": -0.49,
+   "abn5": 2.63,
    "last": "2026-11-13"
   }
  },
@@ -4804,8 +4885,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 4.21,
+   "vol_z": -0.32,
+   "abn5": 3.92,
    "last": "2026-11-13"
   }
  },
@@ -5645,8 +5726,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -3.9,
+   "vol_z": -0.45,
+   "abn5": -3.7,
    "last": "2026-11-13"
   }
  },
@@ -5800,8 +5881,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -3.9,
+   "vol_z": -0.45,
+   "abn5": -3.7,
    "last": "2026-11-13"
   }
  },
@@ -6176,8 +6257,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -3.9,
+   "vol_z": -0.45,
+   "abn5": -3.7,
    "last": "2026-11-13"
   }
  },
@@ -9943,8 +10024,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": 2.25,
+   "vol_z": -0.1,
+   "abn5": 1.55,
    "last": "2026-11-13"
   }
  },
@@ -9979,8 +10060,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": 2.25,
+   "vol_z": -0.1,
+   "abn5": 1.55,
    "last": "2026-11-13"
   }
  },
@@ -10092,8 +10173,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": 2.25,
+   "vol_z": -0.1,
+   "abn5": 1.55,
    "last": "2026-11-13"
   }
  },
@@ -10897,8 +10978,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -3.9,
+   "vol_z": -0.45,
+   "abn5": -3.7,
    "last": "2026-11-13"
   }
  },
@@ -12284,8 +12365,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -3.9,
+   "vol_z": -0.45,
+   "abn5": -3.7,
    "last": "2026-11-13"
   }
  },
@@ -12375,8 +12456,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -3.9,
+   "vol_z": -0.45,
+   "abn5": -3.7,
    "last": "2026-11-13"
   }
  },
@@ -13641,8 +13722,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -3.9,
+   "vol_z": -0.45,
+   "abn5": -3.7,
    "last": "2026-11-13"
   }
  },
@@ -14038,11 +14119,11 @@
   "snippet": "Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun - Bisnis.com.  Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 1,
   "response": null,
-  "score": 25,
+  "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.08,
-   "abn5": -4.86,
+   "vol_z": -0.04,
+   "abn5": -5.27,
    "last": "2026-11-13"
   }
  },
@@ -15372,11 +15453,11 @@
   "snippet": "MAP Boga (MAPB) Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya.  MAP Boga (MAPB) Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya &nbsp;&nbsp; StockWatch.id",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
    "vol_z": -0.07,
-   "abn5": -4.86,
+   "abn5": -5.17,
    "last": "2026-11-13"
   }
  },
@@ -15758,11 +15839,11 @@
   "snippet": "Indo Tambangraya Megah (ITMG) Tebar Dividen US$ 74,2 Juta, Ini Jadwalnya.  Indo Tambangraya Megah (ITMG) Tebar Dividen US$ 74,2 Juta, Ini Jadwalnya &nbsp;&nbsp; Ajaib",
   "corroboration": 1,
   "response": null,
-  "score": 16,
+  "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.08,
-   "abn5": -4.86,
+   "vol_z": -0.04,
+   "abn5": -5.27,
    "last": "2026-11-13"
   }
  },
@@ -16040,8 +16121,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.24,
-   "abn5": -2.05,
+   "vol_z": -0.22,
+   "abn5": -1.73,
    "last": "2026-11-13"
   }
  },
@@ -16073,7 +16154,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.25,
-   "abn5": -0.21,
+   "abn5": -0.52,
    "last": "2026-11-13"
   }
  },
@@ -16212,8 +16293,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.92,
-   "abn5": -3.5,
+   "vol_z": -0.91,
+   "abn5": -4.33,
    "last": "2026-11-13"
   }
  },
@@ -17560,8 +17641,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.76,
-   "abn5": 0.65,
+   "vol_z": -0.75,
+   "abn5": 0.39,
    "last": "2026-11-13"
   }
  },
@@ -17843,8 +17924,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 4.21,
+   "vol_z": -0.32,
+   "abn5": 3.92,
    "last": "2026-11-13"
   }
  },
@@ -17950,6 +18031,30 @@
   "schedule": false,
   "party": false,
   "snippet": "BEI Rombak Aturan Suspensi dan UMA Saham Mulai November 2026.  BEI Rombak Aturan Suspensi dan UMA Saham Mulai November 2026 &nbsp;&nbsp; Ajaib",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "c76be82e6993",
+  "title": "Pola Transaksi Saham GPSO Masuk UMA",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00MnVDN1NRekhXQ1Z3Q2x6TWtncXA5QUQzTHltMHVSVkJpMEFabFE3MV9USXBmVHdXVXlLcjRmYUwyZFNHZUtTNFBGMzNoMDRON2lFQWhHdmF6alYxeEthV1h1SWpPSXdTc2FVV0pPR2pWNDRqUWYtTjVVSVF3Zw?oc=5",
+  "media": "Pasardana",
+  "published": "2026-11-02T08:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Pola Transaksi Saham GPSO Masuk UMA.  Pola Transaksi Saham GPSO Masuk UMA &nbsp;&nbsp; Pasardana",
   "corroboration": 0,
   "response": null,
   "score": 41,
@@ -18184,30 +18289,6 @@
   "corroboration": 2,
   "response": null,
   "score": 20,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "c76be82e6993",
-  "title": "Pola Transaksi Saham GPSO Masuk UMA",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00MnVDN1NRekhXQ1Z3Q2x6TWtncXA5QUQzTHltMHVSVkJpMEFabFE3MV9USXBmVHdXVXlLcjRmYUwyZFNHZUtTNFBGMzNoMDRON2lFQWhHdmF6alYxeEthV1h1SWpPSXdTc2FVV0pPR2pWNDRqUWYtTjVVSVF3Zw?oc=5",
-  "media": "Pasardana",
-  "published": "2026-11-02T05:45:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Pola Transaksi Saham GPSO Masuk UMA.  Pola Transaksi Saham GPSO Masuk UMA &nbsp;&nbsp; Pasardana",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -18795,8 +18876,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.41,
-   "abn5": -2.88,
+   "vol_z": -0.4,
+   "abn5": -1.21,
    "last": "2026-11-13"
   }
  },
@@ -19099,8 +19180,8 @@
   "score": 37,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": 5.02,
+   "vol_z": -0.65,
+   "abn5": 9.65,
    "last": "2026-11-13"
   }
  },
@@ -19643,8 +19724,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": 2.25,
+   "vol_z": -0.1,
+   "abn5": 1.55,
    "last": "2026-11-13"
   }
  },
@@ -20522,8 +20603,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.16,
-   "abn5": 13.27,
+   "vol_z": -0.12,
+   "abn5": 12.11,
    "last": "2026-11-13"
   }
  },
