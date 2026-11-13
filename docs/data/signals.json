@@ -250,6 +250,32 @@
   "anomali": null
  },
  {
+  "id": "c33c466882e9",
+  "title": "xFusion Mengincar RMB 8 Miliar dalam IPO ChiNext; Pendaftaran Masih Tertunda",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNUZYbEpwMndvd1NzWVJueDRmd1NCZXpWMDVqd1hCejcyMGlBXzlqR29lMDJ3LWl4cTdjd2ZfZDNIOFBzdGZOX3ZEbDBGRkktWmQwUmNBSFlFWXRwLUQ2cW1jNWZISGo1d0k1bXlsV3BFbGdCT2o1dWJDdXJncktMWFhqdEdqYTVxTlZyUGxqbnc?oc=5",
+  "media": "Unite.AI",
+  "published": "2026-11-13T10:06:02+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-13T14:45:56.964020+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "xFusion Mengincar RMB 8 Miliar dalam IPO ChiNext; Pendaftaran Masih Tertunda.  xFusion Mengincar RMB 8 Miliar dalam IPO ChiNext; Pendaftaran Masih Tertunda &nbsp;&nbsp; Unite.AI",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "a6a9ce37f880",
   "title": "RUPSLB ADHI Mundur ke Desember 2026, Bahas Divestasi Tol Jogja-Solo - Bisnis.com",
   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1AtdHp2UDJOOFVtNmIyeWdpX1dyNl9uTGRDNlRQcXJBemdGSGRWY0J6a1lveVVYX0NSWmVYS0s5THItd1BEOFZVZGg3djJvTTBkYVNYS2NnVVFaaG1MS19EMWNORHQwVnp6VHlpS1BQNDBEU3drdDU0Z21sSnNEYzdkS0pTTG5ndGZfRlhQNGdLVEw2bHFDbEVvUnhuamRwNlBHNmNiZFlRNVNtbmc4NG5OMkJ6TnRHdlE?oc=5",
@@ -4682,6 +4708,36 @@
   "anomali": null
  },
  {
+  "id": "1a1bbb7b6bda",
+  "title": "Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP)",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVjY2UEFoRFVaVVBaS3JoU3VVTEdLN2JnTW1sWF9vaUdGQVZqV3lQb0pRbkZySnFtclYxbXlrMmRWaGt2VEQ1TU9mMk4yMjlhNEFacE4yZTFMcTZLZWRJMHY4M1BpNlJ0YWVfNTl1TnJXZjhrVnZaNUtKU294b0RKbHF2VUZGaTRYdU04Ui1hblJ5al93Sk9hMG9aMk9sWmt1anVWeTd6Q2RMT29WUlRBNFg0MURmMExCdDNDQlZwN3o3Y2p0aGxXamVaNTRuUdIBzgFBVV95cUxOVjY2UEFoRFVaVVBaS3JoU3VVTEdLN2JnTW1sWF9vaUdGQVZqV3lQb0pRbkZySnFtclYxbXlrMmRWaGt2VEQ1TU9mMk4yMjlhNEFacE4yZTFMcTZLZWRJMHY4M1BpNlJ0YWVfNTl1TnJXZjhrVnZaNUtKU294b0RKbHF2VUZGaTRYdU04Ui1hblJ5al93Sk9hMG9aMk9sWmt1anVWeTd6Q2RMT29WUlRBNFg0MURmMExCdDNDQlZwN3o3Y2p0aGxXamVaNTRuUQ?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-11-10T11:40:11+00:00",
+  "tickers": [
+   "BBKP"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-10T12:15:18.811089+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP).  Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP) &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 2,
+  "response": null,
+  "score": 18,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "383894c342fe",
   "title": "Harga Minyak Dunia Turun, Begini Prospek dan Rekomendasi Saham Emiten Migas",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdEZid1FUZENmZHl3dXhmR0hfeUVPQjRtR1dxenZ3cEwtZmZweTBKaFpYRkplZkstbnAyb19Ud0F3NDNFdlkzSW5SNmk2TWIxaVpkY1RUQ2lEWFdzTkNfRU1qY09ZZUk3Nm9raHA5bXJOLVhoc1d2Qm1KbDkxd0dfOGZxcFRrQllnV1BsNXhIeXBva3hMelczUHZyNmVkNFpWUVRqVkZtWVZaN2x6WUVV0gGnAUFVX3lxTFBZd2V3VUk5b3J2bmNGN1FSUlA0Y0N6blZxdjUwd2FIYTdPeVN1cGlwYWZRZ1NTbHlsTXppRGttLVNRS3ZmbXRwQWo0TmYtc29HN0VMTUxJZ1NrQ1FVNlh6Qk1yVzRfbW5DYl9GT0RJVTlCUU5ZRE1yVFVHenBCRnQ2aGRjSVB3Rlp0WlF0eUVEQ2ZaMG5aUFFNeVh0blV6U285UjdQVzdR?oc=5",
@@ -5715,36 +5771,6 @@
   "corroboration": 2,
   "response": null,
   "score": 11,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "1a1bbb7b6bda",
-  "title": "Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP)",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc2pqcVIzU2xhVDRFeUtoWjZxZGozYnRHblFPN090VkRnZklkSU1oU3V5dWg5dlJMcXB5RHEzYlFBSldMN2ZwdjRhVjlNZGNuTXhENE5ydDdBRmIwWmI0VFZnQ0VyUUZNZ1pkOHdLNVI3dUxCbC1yemV1WFhMMFdpaTdicDBBOGRaUzluejkwZlpPb05wSVMwT0hCMFJ3bnVjNUZETFVZMnFUczd2ZG1aOHVZSE1OWDVBS1JvQUpCMGJSYkVScDBaadIBzgFBVV95cUxOVjY2UEFoRFVaVVBaS3JoU3VVTEdLN2JnTW1sWF9vaUdGQVZqV3lQb0pRbkZySnFtclYxbXlrMmRWaGt2VEQ1TU9mMk4yMjlhNEFacE4yZTFMcTZLZWRJMHY4M1BpNlJ0YWVfNTl1TnJXZjhrVnZaNUtKU294b0RKbHF2VUZGaTRYdU04Ui1hblJ5al93Sk9hMG9aMk9sWmt1anVWeTd6Q2RMT29WUlRBNFg0MURmMExCdDNDQlZwN3o3Y2p0aGxXamVaNTRuUQ?oc=5",
-  "media": "CNBC Indonesia",
-  "published": "2026-11-10T02:45:03+00:00",
-  "tickers": [
-   "BBKP"
-  ],
-  "uma": false,
-  "jenis": [
-   "M&A"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-10T12:15:18.811089+00:00",
-  "anon": [],
-  "corp": [
-   "akuisisi"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP).  Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP) &nbsp;&nbsp; CNBC Indonesia",
-  "corroboration": 2,
-  "response": null,
-  "score": 18,
   "outcome": null,
   "anomali": null
  },
@@ -18972,6 +18998,30 @@
   "anomali": null
  },
  {
+  "id": "c76be82e6993",
+  "title": "Pola Transaksi Saham GPSO Masuk UMA",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00MnVDN1NRekhXQ1Z3Q2x6TWtncXA5QUQzTHltMHVSVkJpMEFabFE3MV9USXBmVHdXVXlLcjRmYUwyZFNHZUtTNFBGMzNoMDRON2lFQWhHdmF6alYxeEthV1h1SWpPSXdTc2FVV0pPR2pWNDRqUWYtTjVVSVF3Zw?oc=5",
+  "media": "Pasardana",
+  "published": "2026-11-02T08:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Pola Transaksi Saham GPSO Masuk UMA.  Pola Transaksi Saham GPSO Masuk UMA &nbsp;&nbsp; Pasardana",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "594f8c0af608",
   "title": "PART Siapkan Rights Issue 8 Miliar Saham untuk Modal Kerja",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yeVE5VDhNMXBfMnhmYi1VY0Q1YkRqal9UQkI0YnZkci1jc0hMNzdJeXZmZVVvNW96ZzRnTTdFcUlvZTk4WVEtVFB2SlJmb01kaDlZbDVoTTNjYkx0cFhvN1FkdWxjc2dN?oc=5",
@@ -19199,30 +19249,6 @@
   "corroboration": 2,
   "response": null,
   "score": 20,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "c76be82e6993",
-  "title": "Pola Transaksi Saham GPSO Masuk UMA",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00MnVDN1NRekhXQ1Z3Q2x6TWtncXA5QUQzTHltMHVSVkJpMEFabFE3MV9USXBmVHdXVXlLcjRmYUwyZFNHZUtTNFBGMzNoMDRON2lFQWhHdmF6alYxeEthV1h1SWpPSXdTc2FVV0pPR2pWNDRqUWYtTjVVSVF3Zw?oc=5",
-  "media": "Pasardana",
-  "published": "2026-11-02T05:45:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Pola Transaksi Saham GPSO Masuk UMA.  Pola Transaksi Saham GPSO Masuk UMA &nbsp;&nbsp; Pasardana",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
   "outcome": null,
   "anomali": null
  },
