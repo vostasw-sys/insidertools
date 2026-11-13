@@ -1729,7 +1729,7 @@
   "asal": [],
   "first_seen": "2026-11-11T23:19:35.314325+00:00",
   "anon": [
-   "menurut sumber"
+   "tengah menjajaki"
   ],
   "corp": [
    "akuisisi"
@@ -1788,7 +1788,9 @@
   ],
   "asal": [],
   "first_seen": "2026-11-12T01:45:46.472070+00:00",
-  "anon": [],
+  "anon": [
+   "sumber yang mengetahui"
+  ],
   "corp": [
    "akuisisi"
   ],
@@ -1799,7 +1801,7 @@
   "snippet": "Haji Isam Pertimbangkan Akuisisi Saham Tambang Nikel Eramet.  Haji Isam Pertimbangkan Akuisisi Saham Tambang Nikel Eramet &nbsp;&nbsp; Limapagi",
   "corroboration": 0,
   "response": null,
-  "score": 6,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -3994,6 +3996,36 @@
   "anomali": null
  },
  {
+  "id": "1a1bbb7b6bda",
+  "title": "Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP)",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVjY2UEFoRFVaVVBaS3JoU3VVTEdLN2JnTW1sWF9vaUdGQVZqV3lQb0pRbkZySnFtclYxbXlrMmRWaGt2VEQ1TU9mMk4yMjlhNEFacE4yZTFMcTZLZWRJMHY4M1BpNlJ0YWVfNTl1TnJXZjhrVnZaNUtKU294b0RKbHF2VUZGaTRYdU04Ui1hblJ5al93Sk9hMG9aMk9sWmt1anVWeTd6Q2RMT29WUlRBNFg0MURmMExCdDNDQlZwN3o3Y2p0aGxXamVaNTRuUdIBzgFBVV95cUxOVjY2UEFoRFVaVVBaS3JoU3VVTEdLN2JnTW1sWF9vaUdGQVZqV3lQb0pRbkZySnFtclYxbXlrMmRWaGt2VEQ1TU9mMk4yMjlhNEFacE4yZTFMcTZLZWRJMHY4M1BpNlJ0YWVfNTl1TnJXZjhrVnZaNUtKU294b0RKbHF2VUZGaTRYdU04Ui1hblJ5al93Sk9hMG9aMk9sWmt1anVWeTd6Q2RMT29WUlRBNFg0MURmMExCdDNDQlZwN3o3Y2p0aGxXamVaNTRuUQ?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-11-10T11:40:11+00:00",
+  "tickers": [
+   "BBKP"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-10T12:15:18.811089+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP).  Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP) &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 2,
+  "response": null,
+  "score": 18,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "383894c342fe",
   "title": "Harga Minyak Dunia Turun, Begini Prospek dan Rekomendasi Saham Emiten Migas",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdEZid1FUZENmZHl3dXhmR0hfeUVPQjRtR1dxenZ3cEwtZmZweTBKaFpYRkplZkstbnAyb19Ud0F3NDNFdlkzSW5SNmk2TWIxaVpkY1RUQ2lEWFdzTkNfRU1qY09ZZUk3Nm9raHA5bXJOLVhoc1d2Qm1KbDkxd0dfOGZxcFRrQllnV1BsNXhIeXBva3hMelczUHZyNmVkNFpWUVRqVkZtWVZaN2x6WUVV0gGnAUFVX3lxTFBZd2V3VUk5b3J2bmNGN1FSUlA0Y0N6blZxdjUwd2FIYTdPeVN1cGlwYWZRZ1NTbHlsTXppRGttLVNRS3ZmbXRwQWo0TmYtc29HN0VMTUxJZ1NrQ1FVNlh6Qk1yVzRfbW5DYl9GT0RJVTlCUU5ZRE1yVFVHenBCRnQ2aGRjSVB3Rlp0WlF0eUVEQ2ZaMG5aUFFNeVh0blV6U285UjdQVzdR?oc=5",
@@ -5003,36 +5035,6 @@
   "anomali": null
  },
  {
-  "id": "1a1bbb7b6bda",
-  "title": "Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP)",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc2pqcVIzU2xhVDRFeUtoWjZxZGozYnRHblFPN090VkRnZklkSU1oU3V5dWg5dlJMcXB5RHEzYlFBSldMN2ZwdjRhVjlNZGNuTXhENE5ydDdBRmIwWmI0VFZnQ0VyUUZNZ1pkOHdLNVI3dUxCbC1yemV1WFhMMFdpaTdicDBBOGRaUzluejkwZlpPb05wSVMwT0hCMFJ3bnVjNUZETFVZMnFUczd2ZG1aOHVZSE1OWDVBS1JvQUpCMGJSYkVScDBaadIBzgFBVV95cUxOVjY2UEFoRFVaVVBaS3JoU3VVTEdLN2JnTW1sWF9vaUdGQVZqV3lQb0pRbkZySnFtclYxbXlrMmRWaGt2VEQ1TU9mMk4yMjlhNEFacE4yZTFMcTZLZWRJMHY4M1BpNlJ0YWVfNTl1TnJXZjhrVnZaNUtKU294b0RKbHF2VUZGaTRYdU04Ui1hblJ5al93Sk9hMG9aMk9sWmt1anVWeTd6Q2RMT29WUlRBNFg0MURmMExCdDNDQlZwN3o3Y2p0aGxXamVaNTRuUQ?oc=5",
-  "media": "CNBC Indonesia",
-  "published": "2026-11-10T02:45:03+00:00",
-  "tickers": [
-   "BBKP"
-  ],
-  "uma": false,
-  "jenis": [
-   "M&A"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-10T12:15:18.811089+00:00",
-  "anon": [],
-  "corp": [
-   "akuisisi"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP).  Menteri Koperasi Mau Bentuk Konsorsium Buat Akuisisi KB Bank (BBKP) &nbsp;&nbsp; CNBC Indonesia",
-  "corroboration": 2,
-  "response": null,
-  "score": 18,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "c0b7491ac6d5",
   "title": "Teka-Teki di Balik Masuknya Haji Isam ke Bayan Hingga Jadi Penguasa 30,25% Saham BYAN",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTER5OFR2RklpMU0tcGExMjdxTE9BMWF4bzl0bW5YSk80c2RlbWR4RkhJekUyWG5MN1V2eUZKRkdoclh5WUxUZkdaVUtiM245dVJ6TzE4NENDc01uZ0NpMXJjQ2dYWEs4T2Nnc0RZUWhUX2dLLUxFVlhPb0JSZXM1QTRsS3NSZTU3NVJRZVFRUE5WaDB6d2VOc3hjZU41TDNDdXp0cGFRNjJoZ0NNVm1fQmVNZmx0d9IBswFBVV95cUxQLXZhRjl5QnNPVGV1QlFSeE9QOHZocVFOb2FRY0lKTDJsNndJa0ZfX2lMQnZvdEEwSjVrOXpzdWFVcVdjZ2tNWm1xT2RMaVVqQTR6WDc4SklLZExvZ29Nby0zVWE0T2pTd0VzSFlxQWI4eGQ0MTl4b21wRmRLaUVwOWZ5bDJSNzVMbmZwN3RJai1HZmlKd3Q0NkViVkR4cWRxMkdHZGV5ZXNwWUtWQkNRbDc5Zw?oc=5",
@@ -5219,6 +5221,33 @@
   "corroboration": 0,
   "response": null,
   "score": 21,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "87813d782439",
+  "title": "18 Emiten Resmi Delisting, 20,23 Miliar Saham Ritel Nyangkut di SRIL hingga ENVY",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTlVWMHZYN0x2c0pJWXBLdFdvR2g0NHpCamI3ZXdvNTRWUV9Ra3dXUDdWWF9CVU92dlprR2ZJNjVqV193NEJsdzlWSVZQRHlWMFVOWnprTTY3eHdKSVBNdUhQRzF1eTFVT09mU1dMMTBQNHFoeC1oR0cwdlpfdTlYSlVrak52YXdSMDZkQ0FQV1NaWGhyOHNsUXJ6bXc3MjE3VHdXQzJBcWtaWDFWdi1QYktvSkFxUnpoRHVSeTVZWU9xWHFrYW1BXzZHNnJjQzF5RVHSAdIBQVVfeXFMUE5VVjB2WDdMdnNKSVlwS3RXb0doNDR6QmpiN2V3bzU0VlFfUWt3V1A3VlhfQlVPdnZaa0dmSTY1aldfdzRCbHc5VklWUER5VjBVTlp6a002N3h3SklQTXVIUEcxdXkxVU9PZlNXTDEwUDRxaHgtaEdHMHZaX3U5WEpVa2pOdmF3UjA2ZENBUFdTWlhocjhzbFFyem13NzIxN1R3V0MyQXFrWlgxVnYtUGJLb0pBcVJ6aER1Unk1WVlPcVhxa2FtQV82RzZyY0MxeUVR?oc=5",
+  "media": "Katadata.co.id",
+  "published": "2026-11-10T00:15:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-13T05:51:29.215412+00:00",
+  "anon": [],
+  "corp": [
+   "delisting",
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "18 Emiten Resmi Delisting, 20,23 Miliar Saham Ritel Nyangkut di SRIL hingga ENVY.  18 Emiten Resmi Delisting, 20,23 Miliar Saham Ritel Nyangkut di SRIL hingga ENVY &nbsp;&nbsp; Katadata.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 12,
   "outcome": null,
   "anomali": null
  },
