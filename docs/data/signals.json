@@ -1,5 +1,31 @@
 [
  {
+  "id": "825a49d14507",
+  "title": "Polri Pastikan TK Kasus Penyadapan Ilegal Berpangkat Brigjen",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdExIbWpVN3Q0T0FZTFVWdHROZFcxMDlfR1VKdjRoYU5haEYzSWJsY3lmYU5zNlFONFlldUNYWGNuZlliZzZDRzVtalF2YXZuRHlnV3hWR3FfN2tpV0QtUnJEeXFvSHNWUDJZVW91ZzhxdldiREZYZ21DZUhiekpvZ050cnpNYlMzaThaZXByUEg1QkY1czhUT2M4MlBGUU1PRFFJdFhn?oc=5",
+  "media": "BERNAS.id",
+  "published": "2026-11-13T02:44:07+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-13T03:44:54.853514+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Polri Pastikan TK Kasus Penyadapan Ilegal Berpangkat Brigjen.  Polri Pastikan TK Kasus Penyadapan Ilegal Berpangkat Brigjen &nbsp;&nbsp; BERNAS.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "89a2092b690b",
   "title": "GIAA Right Issue Rp6,21 Triliun, Intip Profil, Lini Bisnis, dan Kinerja Terkini",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjlCWGwxdmN0bE1Uam5ZdmhmWlZIaWg2S1pNNjVzNFp0RkgxM3B6aklzQmJ1aXU4NXNsUkFUUHFjV2UwYW05ODJMYkNUMHNBeWQ1VEVSWmRzYVBuM3Jlamg1ZXQtT1o3YWJCbnpoUUdjQnJDMHZPc0M1cnNCWkZTMXdYUlgzNTRkTlhmMmNYemVnVzhoN2NqSHJqbjdZZjl1ZlpyTWRzXzJmNmUzVVdwZmdB?oc=5",
@@ -739,8 +765,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -4.88,
+   "vol_z": -0.46,
+   "abn5": -3.9,
    "last": "2026-11-13"
   }
  },
@@ -1374,11 +1400,11 @@
   "snippet": "Saham TLKM: Asing Net Buy Rp22,8 Miliar, Pendapatan Tumbuh 3,5%.  Saham TLKM: Asing Net Buy Rp22,8 Miliar, Pendapatan Tumbuh 3,5% &nbsp;&nbsp; KabaSumbar",
   "corroboration": 1,
   "response": null,
-  "score": 34,
+  "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.36,
-   "abn5": 5.19,
+   "vol_z": -0.34,
+   "abn5": 4.21,
    "last": "2026-11-13"
   }
  },
@@ -1885,8 +1911,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.57,
-   "abn5": 2.78,
+   "vol_z": -0.52,
+   "abn5": 2.88,
    "last": "2026-11-13"
   }
  },
@@ -2025,8 +2051,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.02,
-   "abn5": -0.79,
+   "vol_z": 0.04,
+   "abn5": -0.21,
    "last": "2026-11-13"
   }
  },
@@ -2301,8 +2327,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -4.88,
+   "vol_z": -0.46,
+   "abn5": -3.9,
    "last": "2026-11-13"
   }
  },
@@ -2503,8 +2529,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -4.88,
+   "vol_z": -0.46,
+   "abn5": -3.9,
    "last": "2026-11-13"
   }
  },
@@ -2790,8 +2816,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -4.88,
+   "vol_z": -0.46,
+   "abn5": -3.9,
    "last": "2026-11-13"
   }
  },
@@ -3577,8 +3603,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -4.88,
+   "vol_z": -0.46,
+   "abn5": -3.9,
    "last": "2026-11-13"
   }
  },
@@ -3747,6 +3773,36 @@
   "corroboration": 0,
   "response": null,
   "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "9e6f1b56a713",
+  "title": "Pembatalan Homologasi Buat Totalindo (TOPS) Pailit",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVW9RTUI3cWZZblVfNDBMdmZZay01LUVTc0ZFWEh5cm9SMjdENFg5bXl0ekxaaHVtN2xnVHNuczBCN0RyWGFjRDdOcGxzNUZ6Q1BtRlJIZ1llUzZTaGI1M0F1cXl6TnZaNmRQc05hNHM0RjdSRWlHeGZIc2JzWkhXOFlUQThjLTA?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-10T13:53:00+00:00",
+  "tickers": [
+   "TOPS"
+  ],
+  "uma": false,
+  "jenis": [
+   "Utang/restrukturisasi"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-13T03:44:54.853514+00:00",
+  "anon": [],
+  "corp": [
+   "pailit"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Pembatalan Homologasi Buat Totalindo (TOPS) Pailit.  Pembatalan Homologasi Buat Totalindo (TOPS) Pailit &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 1,
+  "response": null,
+  "score": 9,
   "outcome": null,
   "anomali": null
  },
@@ -4219,6 +4275,32 @@
   "anomali": null
  },
  {
+  "id": "17ad5a24266e",
+  "title": "Dua Saham Ditetapkan UMA oleh BEI, Nasibnya Jomplang: ARA dan Nyungsep",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNnY5cG9CakZIbHl1YlVqNzJ2QVNqbGhMU1hRZTl4T0dEc2ZacnFaZG11aU15VEN4Ul85Mkp3VHhvSkpRZm5mSzFXV3FPQm4xbWpWOEdDb29QU3VUSUJ4c2FDVjVCX3ljZXkzNTVYeVZNV09EdlJVRFJieTllNGNHeUNDbWZXemdpc21WUzJlS2wyamk4YWFNRWI4dmE?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-10T08:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-13T03:44:54.853514+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Dua Saham Ditetapkan UMA oleh BEI, Nasibnya Jomplang: ARA dan Nyungsep.  Dua Saham Ditetapkan UMA oleh BEI, Nasibnya Jomplang: ARA dan Nyungsep &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 44,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "75062bd8aa5c",
   "title": "Indeks VN naik lebih dari 25 poin menjadi 1.740 karena dua putaran suntikan likuiditas VND membuka jalan bagi penurunan suku bunga pinjaman.",
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2ZQbkdOSTh3M2N2UHROVlBzZmlpdzVVdmxRNkxSdWdNdklTcGJrZ1hVbVljNUZQSjZ0M09DbUtyTHlRNnhvYk0tUXNGMXE4bGJTRk1EaFlZM2hydklLS20xV3NmUTg1M3BFQjk4SjloX1B5dzI5VTlremY0TkFkOGpRZmJWOVFuamdNc1dONTlkTTQwaFFMLXdrbVJqUlRmd2daZ3BMT0FuQzBZa0dNZng3cV9jMzV0Zm1YTkxPZ0YyQQ?oc=5",
@@ -4324,11 +4406,11 @@
   "snippet": "Nasib Investasi Lo Kheng Hong, Telkom & Dapen Pertamina usai SRIL, TELE, & SUGI Delisting - Bisnis.com.  Nasib Investasi Lo Kheng Hong, Telkom & Dapen Pertamina usai SRIL, TELE, & SUGI Delisting &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 1,
   "response": null,
-  "score": 30,
+  "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.36,
-   "abn5": 5.19,
+   "vol_z": -0.34,
+   "abn5": 4.21,
    "last": "2026-11-13"
   }
  },
@@ -4390,8 +4472,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.57,
-   "abn5": 2.78,
+   "vol_z": -0.52,
+   "abn5": 2.88,
    "last": "2026-11-13"
   }
  },
@@ -4719,11 +4801,11 @@
   "snippet": "Percepat Streamlining, Telkom Rampingkan Anak Usaha Lewat Dua Merger Sekaligus.  Percepat Streamlining, Telkom Rampingkan Anak Usaha Lewat Dua Merger Sekaligus &nbsp;&nbsp; kontan.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 30,
+  "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.36,
-   "abn5": 5.19,
+   "vol_z": -0.34,
+   "abn5": 4.21,
    "last": "2026-11-13"
   }
  },
@@ -5563,8 +5645,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -4.88,
+   "vol_z": -0.46,
+   "abn5": -3.9,
    "last": "2026-11-13"
   }
  },
@@ -5718,8 +5800,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -4.88,
+   "vol_z": -0.46,
+   "abn5": -3.9,
    "last": "2026-11-13"
   }
  },
@@ -6094,8 +6176,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -4.88,
+   "vol_z": -0.46,
+   "abn5": -3.9,
    "last": "2026-11-13"
   }
  },
@@ -9861,8 +9943,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 2.46,
+   "vol_z": -0.12,
+   "abn5": 2.25,
    "last": "2026-11-13"
   }
  },
@@ -9897,8 +9979,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 2.46,
+   "vol_z": -0.12,
+   "abn5": 2.25,
    "last": "2026-11-13"
   }
  },
@@ -10010,8 +10092,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 2.46,
+   "vol_z": -0.12,
+   "abn5": 2.25,
    "last": "2026-11-13"
   }
  },
@@ -10815,8 +10897,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -4.88,
+   "vol_z": -0.46,
+   "abn5": -3.9,
    "last": "2026-11-13"
   }
  },
@@ -12202,8 +12284,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -4.88,
+   "vol_z": -0.46,
+   "abn5": -3.9,
    "last": "2026-11-13"
   }
  },
@@ -12293,8 +12375,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -4.88,
+   "vol_z": -0.46,
+   "abn5": -3.9,
    "last": "2026-11-13"
   }
  },
@@ -13559,8 +13641,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -4.88,
+   "vol_z": -0.46,
+   "abn5": -3.9,
    "last": "2026-11-13"
   }
  },
@@ -13956,11 +14038,11 @@
   "snippet": "Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun - Bisnis.com.  Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 1,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.14,
-   "abn5": -5.03,
+   "vol_z": -0.08,
+   "abn5": -4.86,
    "last": "2026-11-13"
   }
  },
@@ -15290,11 +15372,11 @@
   "snippet": "MAP Boga (MAPB) Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya.  MAP Boga (MAPB) Buka Suara ke BEI soal Volatilitas Saham, Ini Penjelasannya &nbsp;&nbsp; StockWatch.id",
   "corroboration": 0,
   "response": null,
-  "score": 56,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": -0.07,
-   "abn5": -5.94,
+   "abn5": -4.86,
    "last": "2026-11-13"
   }
  },
@@ -15676,11 +15758,11 @@
   "snippet": "Indo Tambangraya Megah (ITMG) Tebar Dividen US$ 74,2 Juta, Ini Jadwalnya.  Indo Tambangraya Megah (ITMG) Tebar Dividen US$ 74,2 Juta, Ini Jadwalnya &nbsp;&nbsp; Ajaib",
   "corroboration": 1,
   "response": null,
-  "score": 31,
+  "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.14,
-   "abn5": -5.03,
+   "vol_z": -0.08,
+   "abn5": -4.86,
    "last": "2026-11-13"
   }
  },
@@ -15958,8 +16040,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": -2.6,
+   "vol_z": -0.24,
+   "abn5": -2.05,
    "last": "2026-11-13"
   }
  },
@@ -15990,8 +16072,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.34,
+   "vol_z": -1.25,
+   "abn5": -0.21,
    "last": "2026-11-13"
   }
  },
@@ -16130,8 +16212,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.96,
-   "abn5": -3.76,
+   "vol_z": -0.92,
+   "abn5": -3.5,
    "last": "2026-11-13"
   }
  },
@@ -17478,8 +17560,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.77,
-   "abn5": 0.73,
+   "vol_z": -0.76,
+   "abn5": 0.65,
    "last": "2026-11-13"
   }
  },
@@ -17758,11 +17840,11 @@
   "snippet": "4 Segmen Bisnis Utama Tumbuh, Telkom (TLKM) Raup Pendapatan Rp113,5T.  4 Segmen Bisnis Utama Tumbuh, Telkom (TLKM) Raup Pendapatan Rp113,5T &nbsp;&nbsp; Emitennews.com",
   "corroboration": 1,
   "response": null,
-  "score": 34,
+  "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.36,
-   "abn5": 5.19,
+   "vol_z": -0.34,
+   "abn5": 4.21,
    "last": "2026-11-13"
   }
  },
@@ -18714,7 +18796,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.41,
-   "abn5": -0.51,
+   "abn5": -2.88,
    "last": "2026-11-13"
   }
  },
@@ -19014,11 +19096,11 @@
   "snippet": "Harta Djaya Karya (MEJA) Incar Proyek Baru Rp 200 Miliar pada Tahun 2024.  Harta Djaya Karya (MEJA) Incar Proyek Baru Rp 200 Miliar pada Tahun 2024 &nbsp;&nbsp; TradingView",
   "corroboration": 1,
   "response": null,
-  "score": 22,
+  "score": 37,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.72,
-   "abn5": 4.42,
+   "vol_z": -0.69,
+   "abn5": 5.02,
    "last": "2026-11-13"
   }
  },
@@ -19561,8 +19643,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 2.46,
+   "vol_z": -0.12,
+   "abn5": 2.25,
    "last": "2026-11-13"
   }
  },
@@ -20280,6 +20362,30 @@
   "anomali": null
  },
  {
+  "id": "91fa3ae0b255",
+  "title": "Alarm Saham Menyala, Investor Harus Apa?",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUEwdEJ4QkxYSUpGR1VPUWpsTWxpb3dwNnUwSW9JQnR5cGhFYmtmMGpsTTdCY0k1cnlBbl9COTVKczR5dmUwSVY4QV90RlZfTm9PSWlma3Z5LXBDVUtJOWliUG1zWEhmMGFkSXVQd18tY3JMQXVYQnZmZjNIVDA5bw?oc=5",
+  "media": "investor.id",
+  "published": "2026-10-30T07:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-04T11:52:57.956619+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Alarm Saham Menyala, Investor Harus Apa?.  Alarm Saham Menyala, Investor Harus Apa? &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "66669dbe69dd",
   "title": "Investor Asing Borong GOTO dan BUMI Saat IHSG Melemah",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5laGliVVBmeTV3X0lwTURtSHM2ejRWVDVnS3BmN296S0F5d3R3ZVdVNDVwN2g2Uks2WnlaTThybG0zcHNQMXpnU3ZmYllDM1cwX1d3THZPRzZDU2s5WmM0OHh6OTBCaGx1RkpIcWh5TDVNZ2dyMGJB?oc=5",
@@ -20413,11 +20519,11 @@
   "snippet": "Saham Koka Indonesia (KOKA) Masuk Radar UMA di BEI.  Saham Koka Indonesia (KOKA) Masuk Radar UMA di BEI &nbsp;&nbsp; TradingView",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.29,
-   "abn5": 4.54,
+   "vol_z": -0.16,
+   "abn5": 13.27,
    "last": "2026-11-13"
   }
  },
@@ -20634,30 +20740,6 @@
   "corroboration": 1,
   "response": "membantah",
   "score": 0,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "91fa3ae0b255",
-  "title": "Alarm Saham Menyala, Investor Harus Apa?",
-  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUEwdEJ4QkxYSUpGR1VPUWpsTWxpb3dwNnUwSW9JQnR5cGhFYmtmMGpsTTdCY0k1cnlBbl9COTVKczR5dmUwSVY4QV90RlZfTm9PSWlma3Z5LXBDVUtJOWliUG1zWEhmMGFkSXVQd18tY3JMQXVYQnZmZjNIVDA5bw?oc=5",
-  "media": "investor.id",
-  "published": "2026-10-30T02:12:42+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-04T11:52:57.956619+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Alarm Saham Menyala, Investor Harus Apa?.  Alarm Saham Menyala, Investor Harus Apa? &nbsp;&nbsp; investor.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
   "outcome": null,
   "anomali": null
  },
