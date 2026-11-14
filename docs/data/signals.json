@@ -213,7 +213,7 @@
   "asal": [],
   "first_seen": "2026-11-13T15:39:43.638987+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "tengah menjajaki"
   ],
   "corp": [],
   "stance": null,
@@ -221,6 +221,32 @@
   "schedule": false,
   "party": false,
   "snippet": "Haji Isam Bidik 38,7% Saham Weda Bay Nickel Milik Eramet.  Haji Isam Bidik 38,7% Saham Weda Bay Nickel Milik Eramet &nbsp;&nbsp; Majalah TAMBANG",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "6e7a16e974ea",
+  "title": "Tertahan di bawah rata-rata 200 hari, Litecoin mengincar rebound dari kondisi jenuh jual: prakiraan mingguan",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUEVERm9JOGJmQkJnUTZqcC1sX2tTTklFblR5QkVXclRLT0NQeVc2UDl2MlhET3pwUHNndk8tMFd4S0ZiVklRQlN0RUJtczZRRHc4TzVvMU4tMGszZnJrU0U0dVNDenBSbnd1cmROa1o1Ymh1eE5rTVVZTVdfbnVLZkxxY0JMYndfMTItdGxKdlZUV3lQVXJpMDJRSFFUNlNoZkFEWkMtSQ?oc=5",
+  "media": "Traders Union",
+  "published": "2026-11-13T12:06:41+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-14T04:43:30.910612+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Tertahan di bawah rata-rata 200 hari, Litecoin mengincar rebound dari kondisi jenuh jual: prakiraan mingguan.  Tertahan di bawah rata-rata 200 hari, Litecoin mengincar rebound dari kondisi jenuh jual: prakiraan mingguan &nbsp;&nbsp; Traders Union",
   "corroboration": 0,
   "response": null,
   "score": 16,
@@ -554,6 +580,32 @@
   "corroboration": 0,
   "response": null,
   "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "1ce82c63b143",
+  "title": "Haji Isam Dikabarkan Incar Saham Eramet di Tambang Nikel Weda Bay - Konteks.co.id",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWhSdl81UVRUWjQ2bUtQbUlkR2xuLWNpc1BUUWJNNUhMWnVSVnhzRGZMbUE0SDJoamkzbEVvR0RYbVpOUU5NZHAzQ09kQ2MwY1FSbG5wOXhLbjFnckE0RjVCSkZ3cFpvd0FuMTJRUEJOLVNTa2NpS3lMQzYxQkJGOFZKbTJQeTYzOEVlUXh2ZUpfR3dCRzJULXhOV1lqLVVRQUhWdmxIOGszdGYydUNV0gG0AUFVX3lxTE5jWnd3MElieVJySlVDNmo0bUdTV3NnNDRDYU9iemNEeTdpUzQwc2Z0OEFpWkMyeEhPRzNQblBxMDMtcmJTVU1DYVNUakpoY1AyVS0wWHpod1BtVUt5azBKODhnV1VuTl9TaDlvT3VZWGc0amt6QjRybHl6MmZfeUU3YVpMVlJYTUZ1aG9UZF9NaU9oZm96Y0tYbThwWVVpQm1SUW5ZbjYxLUZvSG81TmN0dktLQQ?oc=5",
+  "media": "Konteks.co.id",
+  "published": "2026-11-13T08:15:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-14T04:43:30.910612+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Haji Isam Dikabarkan Incar Saham Eramet di Tambang Nikel Weda Bay - Konteks.co.id.  Haji Isam Dikabarkan Incar Saham Eramet di Tambang Nikel Weda Bay - Konteks.co.id &nbsp;&nbsp; Konteks.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -3241,6 +3293,34 @@
   "corroboration": 1,
   "response": null,
   "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "17b89af1dda6",
+  "title": "BEI Resmi Depak 300 Saham HSC dari IHSG Mulai Jumat, Daftar Emiten Diumumkan Besok",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0FSUUFyX0xRWlIwSHdZcFp3QnBCbFBJdGh4bGhFcHN4am4xWHRwRkZ4Y1luMlZuOGthMGZZbjVMc3dCNlFYRFg2a21DcG10XzlaLUxSUVFLd0J6UTlRSGEtb3BvQ244WDloWHRhYWZtR18xMHBmWEV3eUV1MTlfMFZYLVhTX2lJQ3p1YmVvdmFrRHNzaW8tRzJiNm9NYWFFTFVWejBxVmlzYlphTzN1a1p3eC1aU1F3YS15WGMwM3pDVGc?oc=5",
+  "media": "TIMES Indonesia",
+  "published": "2026-11-11T11:26:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-14T04:43:30.910612+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Resmi Depak 300 Saham HSC dari IHSG Mulai Jumat, Daftar Emiten Diumumkan Besok.  BEI Resmi Depak 300 Saham HSC dari IHSG Mulai Jumat, Daftar Emiten Diumumkan Besok &nbsp;&nbsp; TIMES Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
