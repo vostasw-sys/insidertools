@@ -4,7 +4,7 @@
   "title": "Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay",
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXpVNFhvbVlrbnFMRUszVW5fZDI4cy1Od3NKRF9CdEpFWjZpWjRyNVBBdFdTZGYwdUloQ3RXWVltZ29QcHFQWDZUQmZyT3NEU0dla0RXNnZ0aG9XM3FyZlp0Zmp2c0Myd1U3cElLY1lGR1lzbGh2LTVaUkRjVUtnMFp1cXdqRW5qTWVUaDRPRENBQQ?oc=5",
   "media": "rmolsumsel.id",
-  "published": "2026-11-14T18:18:03+00:00",
+  "published": "2026-11-14T19:29:11+00:00",
   "tickers": [],
   "uma": false,
   "jenis": [],
@@ -3290,7 +3290,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.4,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -6089,7 +6093,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.4,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "1145c2f50a3d",
