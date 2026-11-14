@@ -1270,6 +1270,32 @@
   "anomali": null
  },
  {
+  "id": "c813b05bc2ce",
+  "title": "IPO Anthropic Kelebihan Permintaan Sekitar Enam Kali Lipat, Seiring Meningkatnya Permintaan untuk Pencatatan Saham Rekor",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY0liZ0xCS29iNk9lcFA4QkJDOFcxMDZxUTRvSHRhVVo1UlhtXzBXLUd0N3VtbnhpMHdKR0ItZlR5NkRydUdYeElJUW10b1N0REFjYTl4MjIteWV1eHI4eW9VZnB2NHFFeUg3ME52cndqa0JTVTU4MFVkSmFwZ3haX0pzcE9nQ2FjSXBDNEFCTTRmRUdONzR6RWFlQ244ZFJHV0RvRE80WVExbzJ6WE1MSWpFVUR2UmRlci1mZElFSlVaMFNTMGMxbWVtU1VPZHNxYXJzRXBDcXBqRGQ3LU40?oc=5",
+  "media": "Binance",
+  "published": "2026-11-13T01:20:31+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-14T10:33:04.706758+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IPO Anthropic Kelebihan Permintaan Sekitar Enam Kali Lipat, Seiring Meningkatnya Permintaan untuk Pencatatan Saham Rekor.  IPO Anthropic Kelebihan Permintaan Sekitar Enam Kali Lipat, Seiring Meningkatnya Permintaan untuk Pencatatan Saham Rekor &nbsp;&nbsp; Binance",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "b03d6d1b8a6f",
   "title": "Adhi Karya (ADHI) Revisi RUPSLB, Bahas Divestasi Jasamarga Jogja Solo",
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNlZPSFhfcS10TFpjQTBqTmdwWFVBX3VMam12djllbDhWbEUxWTNLckxZT19ITU1ub2pBRThzcjNmcXJRa0NMVjJKZXh1S1dJZWpnclhtVXYwLTc1cUNJVDFyZlNuYkhOd0FsUFIzc3Q5ZkZoZWRxSTBmNE4wMmk5WmNhZjFuNmstajFYZ3ZOWmh2MzFvUW1NeWpuM3hUN3NfMGl1UjlhWkZuQ1dNd0tVRkx5ZExyZEJLQ2FYQURuUjNXVXpOLXdxN0ZR0gHPAUFVX3lxTE1JNklaSjFGa1pMV2cwS2RNYy1KZ1plSFkzZm15OXhPWkE5VXhwWVU0ZWE2OGJEQzQtM1k1SHh3REc2QzBwX1V4VlBuWWpnWFRtVk1vUjhaTzBpYUY2N2E0bjlBcW82V3dENm95YXRPUklILVZVajJReUhFNEpoQXc1UF80SDJpMF9tUENvV0xBZ2JuQjBvdXgtWWxNbWtPaWQyZ19LT3hENGVyTDlkTzcwT29uN1Z0MXk0MkFSUEVaUVdYZGJDRWVYUkZLdkROQQ?oc=5",
@@ -3154,11 +3180,7 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.4,
-   "abn5": 1.54,
-   "last": "2026-11-13"
-  }
+  "anomali": null
  },
  {
   "id": "6b691b104a0a",
@@ -5957,11 +5979,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.4,
-   "abn5": 1.54,
-   "last": "2026-11-13"
-  }
+  "anomali": null
  },
  {
   "id": "2b2730f1eefa",
