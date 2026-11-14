@@ -3070,7 +3070,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.4,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -4443,9 +4447,9 @@
  {
   "id": "a31a3103a3ce",
   "title": "Saham Emiten Happy Hapsoro (RAJA) Lanjut Terbang! Cek Kinerjanya - Sinar Harapan",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeDdNM3VQa2dWWFpwNFdGUXd5Y0U1VFZaUXNsZE95V3NjNkVSZUszb1VlMmVadWFWaWNLVzdOSElFQ2dST2RBTU56cUptOHJuZWFic09VckVXQUhJNUtGc2VCZ3FyOV8yTVU1MzZDa1ByZDNZWXhsNWd4dGpoR2dOZjR5SWNPWE5iaHZSSFRXdHBnM1N1V1VNbnFNMXZjSW80VWc1dE9XUEQtRUJweHcySTE3d9IBswFBVV95cUxQeDdNM3VQa2dWWFpwNFdGUXd5Y0U1VFZaUXNsZE95V3NjNkVSZUszb1VlMmVadWFWaWNLVzdOSElFQ2dST2RBTU56cUptOHJuZWFic09VckVXQUhJNUtGc2VCZ3FyOV8yTVU1MzZDa1ByZDNZWXhsNWd4dGpoR2dOZjR5SWNPWE5iaHZSSFRXdHBnM1N1V1VNbnFNMXZjSW80VWc1dE9XUEQtRUJweHcySTE3dw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzdmdnNBT3JFZjI0MFRHOUxiOW1jMzdpUmszUzlxY3h1bHZWNU4wWFpCajFPZERQNmRuaGYyd0VqOFZfNEhJZG5XMm5WNHJ6bnpCQTBvZUpLUTF0bDFRR1Jhd1dMYnk2VjBrUjYwTUx0T1NGRkduN3JONk9WaXlTVkNoNVJQVko4Y0hWd1VDa0ZCWjVYbEp3bFlmVDQxcHlDZUtQOXlDYkNhVWFwR0HSAbMBQVVfeXFMUHg3TTN1UGtnVlhacDRXRlF3eWNFNVRWWlFzbGRPeVdzYzZFUmVLM29VZTJlWnVhVmljS1c3TkhJRUNnUk9kQU1OenFKbThybmVhYnNPVXJFV0FISTVLRnNlQmdxcjlfMk1VNTM2Q2tQcmQzWVl4bDVneHRqaEdnTmY0eUljT1hOYmh2UkhUV3RwZzNTdVdVTW5xTTF2Y0lvNFVnNXRPV1BELUVCcHh3MkkxN3c?oc=5",
   "media": "Sinar Harapan",
-  "published": "2026-11-11T03:30:00+00:00",
+  "published": "2026-11-11T03:30:43+00:00",
   "tickers": [
    "RAJA"
   ],
@@ -5869,7 +5873,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.4,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "2b2730f1eefa",
