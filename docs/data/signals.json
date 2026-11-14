@@ -213,7 +213,7 @@
   "asal": [],
   "first_seen": "2026-11-13T15:39:43.638987+00:00",
   "anon": [
-   "tengah menjajaki"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -799,6 +799,34 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "99673db274a2",
+  "title": "EMAS Bersiap Private Placement 1,47 Miliar Saham, Apa Rencana di Baliknya?",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXNpQmpVeXBSSDVxSS1YUmZXRldCS1d1NllvMUhOOEZBQTN3dHJrb2hzbTBrT182aWdoSkl2RXVIV01udnpyRmdNS2FHbFZ0NmtaNkVPN1JubVN3T09wcEc0SnpSVVUwYWJaNG1Pd3lJaU92VEVoVkxkU18yWnkwV3RJNG9IX1Y3SGFRTTRBRV9ZSDRweDh2V0lJVHZraFlmdEN1UW1tbl9fWWRMX3RIeTVDeGV5RklqalA5Y0U4WFFGbjDSAcgBQVVfeXFMTWphODM1SUxjWDh2RVBUQ2lOaDlYdnp6VXp1ZGRCa3pQVS1QcTd0TVpPX3JHMFI5eExSOG9iQjM3Z1BBLXRIZnA4dlh4M3hzZjE0Tks5UXo3Y0d4RXd2VEZJWHdfMzBaa0xTbDc2Q1k3WlU0Vjc0NTB5eWhUVWFZQ3MxTEpiWjlLWW1EMWRwT0c3R2V1ZmJTSUh4emJiQ0NTUTNtUG8wM2JYSXhzVGgyLUFyMkxCRUE0RTFRM0JBeFRoc2U0QW1aUFE?oc=5",
+  "media": "Katadata.co.id",
+  "published": "2026-11-13T06:46:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-14T05:41:56.643658+00:00",
+  "anon": [],
+  "corp": [
+   "private placement"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "EMAS Bersiap Private Placement 1,47 Miliar Saham, Apa Rencana di Baliknya?.  EMAS Bersiap Private Placement 1,47 Miliar Saham, Apa Rencana di Baliknya? &nbsp;&nbsp; Katadata.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 12,
   "outcome": null,
   "anomali": null
  },
