@@ -172,6 +172,36 @@
   }
  },
  {
+  "id": "6eaf4b18ed29",
+  "title": "Pengusaha Andi Syamsuddin Arsyad Jajaki Akuisisi Saham Tambang PT Weda Bay Nickel",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTUczbDJZMkR2NWRiOXBiN05uZUtqb1NWNGl6eTJlWWhkeFFQQWZRZUxhMUthaGpidUF0LUpSLUduRUMyR0hleDI1cnZxMEF0R0NvQXc3RUxSOS14ZDhKT1ZQOVBGZHB6YzdMcjM3VkxhQk5aMU5jdV8yWEhIaUFLVGVTRVBTWl82U241RG80a3pGcUxFeGt6NGxzbGNkYi1EV0k3U041dnVPV0FzVzYyQ3hkMGNMVU5UTjVLNjJzejhpRjA5ZkNlaw?oc=5",
+  "media": "www.wartapku.com",
+  "published": "2026-11-14T02:39:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-14T23:02:13.919666+00:00",
+  "anon": [
+   "tengah menjajaki"
+  ],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Pengusaha Andi Syamsuddin Arsyad Jajaki Akuisisi Saham Tambang PT Weda Bay Nickel.  Pengusaha Andi Syamsuddin Arsyad Jajaki Akuisisi Saham Tambang PT Weda Bay Nickel &nbsp;&nbsp; www.wartapku.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "f5a6f7d1ce0f",
   "title": "BEI Catat 7 IPO Raup Rp2,16 Triliun, Masih Ada 8 Emiten Antre Melantai di Bursa",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3NWaklhWFBLT3lYQXFvdDU3bFJBbUlsNkhlZnpoUkVtS2F1SzdKLXNrM040UDRWNzBQVkdyaHQ0YXZxbUtRZXZxaXZRZXVWV1MyQjJaNGdGNkx0d1A3dW53WkcxNzB5VmhJaGdQUFNhYTFJNW01eGpJVlRmQy1EMTJWRjFPSEVJNFdOMFZERkZjWVdwTElkVFFLUU02R01IblhFbmxaV3hfN3JDSGFibXNLWWstQQ?oc=5",
@@ -3290,11 +3320,7 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.4,
-   "abn5": 1.54,
-   "last": "2026-11-13"
-  }
+  "anomali": null
  },
  {
   "id": "6b691b104a0a",
@@ -6093,11 +6119,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.4,
-   "abn5": 1.54,
-   "last": "2026-11-13"
-  }
+  "anomali": null
  },
  {
   "id": "1145c2f50a3d",
@@ -7970,7 +7992,7 @@
  {
   "id": "c76d18f325b6",
   "title": "ULTJ Tebar Dividen Rp1,039 Triliun, Gaspol Right Issue 10 Miliar Saham",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdm50YUtPMjZZZDRPTVphVE5fTFE4VVl4TUZLV2VxcjJReDJ3ekhQSDRNUmFEQlQtVVRvanZ1TWhIbTE0eUNXRFpUQ1Q4NXFNR0RrVmpQQzZIcG5PcXlNa1NXSWF2YXpRbm9ENUZPVDNYYUVVaE9acnlMQWRCdm5PbVJrMXY3TWNMTkR3TGZmcTUzNk1fNHBiaEt5S2w?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHpoREd4VTYyT1hDYmhYdGl0RlpHN3lPTzVXa3RjRHdEXzlwRmI3NjlHaGJjRjlxTUZrcGlKTUxkcmttZk5LUzV4V25KaXdLRWJPNm9PeWNMcXpheFUwMUc5QXZyNEFYaUtDTy1pUkxZaW85QlVSWG5zT2thdHkyeEtHMkc1S2xzcU9ZOWwzX3VfN0dyQXE4MjVMbWw5NF9xWnc?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-09T11:23:00+00:00",
   "tickers": [],
@@ -12805,32 +12827,6 @@
   "anomali": null
  },
  {
-  "id": "f99373f0ea17",
-  "title": "KOKA Jawab Pertanyaan BEI soal Volatilitas Saham, Ini Penjelasannya",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQTBUMmNJRmI1aWEyaGN6bWlsMEFFSlBISGhnbkE4ZDJIbnk5U2RTUTUtUjNHSnBrcERCVzdRYWM0WW15WWczeVc1N0JLTXc5NW5WekF4SDJnM19RRU9IUXJkSTNYMHB5TEIzUXdSVk5RaTl5R2dOXzl2TDFKODNGQU9Pb0RqSVVmZDdPOVlfTWh0akU?oc=5",
-  "media": "StockWatch.id",
-  "published": "2026-11-06T08:53:52+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-06T09:23:45.036259+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "KOKA Jawab Pertanyaan BEI soal Volatilitas Saham, Ini Penjelasannya.  KOKA Jawab Pertanyaan BEI soal Volatilitas Saham, Ini Penjelasannya &nbsp;&nbsp; StockWatch.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "53839c82356b",
   "title": "Bawa Kabur Mobil Hingga Todong Pistol ke Polisi, WNA Malaysia Ditangkap di Jodoh Batam",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmh2WERaX0NQcHQzQV9SSWVSdmVRQ1FlckkyS04wWWthc3NEM1ZpT0VkSHkwMlAxRTMyUWltbWJic2tTMTJtRFpPaFlJY29MVlhNcUxNM0xvdnpESjl0OHMwdndwVzBaRFZqaTRmT0Z6czkxb3c3d0FZNURKREt3RkpsWU43dTdYRDFuVExQeDVWYTJMQmFxM3kzY3lGN1dxcUZSOWNXRQ?oc=5",
@@ -12881,6 +12877,32 @@
   "corroboration": 0,
   "response": null,
   "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "f99373f0ea17",
+  "title": "KOKA Jawab Pertanyaan BEI soal Volatilitas Saham, Ini Penjelasannya",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQTBUMmNJRmI1aWEyaGN6bWlsMEFFSlBISGhnbkE4ZDJIbnk5U2RTUTUtUjNHSnBrcERCVzdRYWM0WW15WWczeVc1N0JLTXc5NW5WekF4SDJnM19RRU9IUXJkSTNYMHB5TEIzUXdSVk5RaTl5R2dOXzl2TDFKODNGQU9Pb0RqSVVmZDdPOVlfTWh0akU?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-11-06T08:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-06T09:23:45.036259+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "KOKA Jawab Pertanyaan BEI soal Volatilitas Saham, Ini Penjelasannya.  KOKA Jawab Pertanyaan BEI soal Volatilitas Saham, Ini Penjelasannya &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
