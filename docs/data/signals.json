@@ -3262,7 +3262,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.4,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -6061,7 +6065,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.4,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "1145c2f50a3d",
