@@ -3348,7 +3348,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.4,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -6147,7 +6151,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.4,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "1145c2f50a3d",
@@ -9073,6 +9081,37 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "409373b48205",
+  "title": "BEI Depak 18 Perusahaan Terbuka, Emiten Delisting Wajib Buyback Saham - Bisnis.com",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNmpITXRrTVQ3ZWhaNHJ4M256dlUyWEhaa2tPVmNlMmVnSDlVSkpwa05sMWp6eFlBaWktU2ljQmROYnNFMHdEaHVYWEJLeXBNN2s1OGZfb25fR0VxNl8xMERGQmxGMjlibmdMcE1MbFRLTVhIZ1JxU0YydEswR01YTDFaTExVUHczdmRPYjV4cmlBRlNHNVZ6RnJ0QWx3TC1mR0ZERF9peVBqMFY1WWx1UFVIdUg4ek5EcHc?oc=5",
+  "media": "Bisnis.com - Market",
+  "published": "2026-11-09T04:11:05+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-15T00:59:13.172032+00:00",
+  "anon": [],
+  "corp": [
+   "buyback",
+   "delisting"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Depak 18 Perusahaan Terbuka, Emiten Delisting Wajib Buyback Saham - Bisnis.com.  BEI Depak 18 Perusahaan Terbuka, Emiten Delisting Wajib Buyback Saham &nbsp;&nbsp; Bisnis.com - Market",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
   "outcome": null,
   "anomali": null
  },
