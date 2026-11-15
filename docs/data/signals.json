@@ -452,6 +452,34 @@
   "anomali": null
  },
  {
+  "id": "6d584734b71d",
+  "title": "Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdFRYa3p3LUswMXJIRzI1dWlHSkZ0TERhVEEwT0JPUVJkeWkxMjhRQnR5QnBTZWpXQ1VYSGFKaF9qdWpQMkdfOXV3a2dKWVgtYWU0MXRveXV4YWoyWF8wY3FyNWRYbnd0WFdUZXQtLUJRaldhM2ZTTndmTjlpY3dzOGpfaEpVU2xDSnNyMU9WeEdBNnZ0elNwZg?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-13T13:01:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Utang/restrukturisasi"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-13T13:41:07.513523+00:00",
+  "anon": [],
+  "corp": [
+   "pkpu"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham.  Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "6e7a16e974ea",
   "title": "Tertahan di bawah rata-rata 200 hari, Litecoin mengincar rebound dari kondisi jenuh jual: prakiraan mingguan",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUEVERm9JOGJmQkJnUTZqcC1sX2tTTklFblR5QkVXclRLT0NQeVc2UDl2MlhET3pwUHNndk8tMFd4S0ZiVklRQlN0RUJtczZRRHc4TzVvMU4tMGszZnJrU0U0dVNDenBSbnd1cmROa1o1Ymh1eE5rTVVZTVdfbnVLZkxxY0JMYndfMTItdGxKdlZUV3lQVXJpMDJRSFFUNlNoZkFEWkMtSQ?oc=5",
@@ -3432,7 +3460,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.4,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -3675,34 +3707,6 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "6d584734b71d",
-  "title": "Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEMwNVJfNXJOcjF6eWhxUVZ6RXkyeDRXQ3N0emc5QkJkZl8wXzVmUUR1TVo5OWVuT05GVlNDMHMtbmZYTlJtSVJ3TFdDaUZyLWhCaHg3LUJaMXhyN1FZVHhOUjRQLXp6aVVZZDlOcTZCWk5ucjVQWVlXN3NzbWljWnUyM2YybUszVWN5MFZ1cmlPdndHb3RXbURKOVp3dw?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-11T12:17:00+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [
-   "Utang/restrukturisasi"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-13T13:41:07.513523+00:00",
-  "anon": [],
-  "corp": [
-   "pkpu"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham.  Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 0,
-  "response": null,
-  "score": 9,
   "outcome": null,
   "anomali": null
  },
@@ -6231,7 +6235,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.4,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "1145c2f50a3d",
