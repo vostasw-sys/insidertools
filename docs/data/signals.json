@@ -536,6 +536,32 @@
   "anomali": null
  },
  {
+  "id": "9aee2d3d5930",
+  "title": "Emiten Tambang DOID Pangkas Rugi di Kuartal III 2026",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1lrQjNKS2RJYnlpTXpiald5ZVhGUHl3bEJaYzNtTTR3SE9DeFE5Q1NLcW1USWgtcUMxR1l0NThZNHdMdjlLTkJlclRBOS16LS1ad2paSXBCM25UbWhNR3JRTnc4Nl9DUFhIdEdvOGpVQ2FCWXFLSGF3ZnlPWl9qMXBLN182TEZvZmdQVGVHbzh5MEVqSUtvMGtNSE_SAZMBQVVfeXFMUGwxWnFJR0ZueTI4alZ4dzY5STN2bGcwcUJjLWNpV3VDLWZ5TE53TjV0NHRZZUo4cDlSZS11OGhudEpLYjRxUl9BOVpNNExJVHZvbTVLVXlWX0RUdC1hcDR0VVhQRjAwaGsxU3NaV29ldXE2U0puZTVKZHd0T2YtYm9pYmlPeGdMbzlsaktGNGtOWkJR?oc=5",
+  "media": "Liputan6.com",
+  "published": "2026-11-13T14:05:59+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-15T14:36:20.255953+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": true,
+  "party": false,
+  "snippet": "Emiten Tambang DOID Pangkas Rugi di Kuartal III 2026.  Emiten Tambang DOID Pangkas Rugi di Kuartal III 2026 &nbsp;&nbsp; Liputan6.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 11,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "6d584734b71d",
   "title": "Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdFRYa3p3LUswMXJIRzI1dWlHSkZ0TERhVEEwT0JPUVJkeWkxMjhRQnR5QnBTZWpXQ1VYSGFKaF9qdWpQMkdfOXV3a2dKWVgtYWU0MXRveXV4YWoyWF8wY3FyNWRYbnd0WFdUZXQtLUJRaldhM2ZTTndmTjlpY3dzOGpfaEpVU2xDSnNyMU9WeEdBNnZ0elNwZg?oc=5",
@@ -8225,8 +8251,7 @@
   "first_seen": "2026-11-09T12:55:33.667227+00:00",
   "anon": [],
   "corp": [
-   "akuisisi",
-   "rights issue"
+   "akuisisi"
   ],
   "stance": null,
   "value_bn": 0.0,
@@ -10058,6 +10083,34 @@
   "schedule": false,
   "party": false,
   "snippet": "Investor Asing Pangkas Aksi Jual Saham di Bursa.  Investor Asing Pangkas Aksi Jual Saham di Bursa &nbsp;&nbsp; شبكة تواصل الإخبارية",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "3994a26a94c7",
+  "title": "Investor Asing Pangkas Aksi Jual Saham di Bursa",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81QkxoZG1jQVM2QXFYekc2aUV5dFJXWnJsbi1YbzNLM0M1clNPR29fYmNFTWVXMncxdUpKZnpUcjBERFluWnNGODVYR2U3M1NWNlpIQWJKYzhlaHNSOE1McnJRRQ?oc=5",
+  "media": "SuaraGarut.ID",
+  "published": "2026-11-09T00:04:28+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-15T14:36:20.255953+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Investor Asing Pangkas Aksi Jual Saham di Bursa.  Investor Asing Pangkas Aksi Jual Saham di Bursa &nbsp;&nbsp; SuaraGarut.ID",
   "corroboration": 0,
   "response": null,
   "score": 16,
