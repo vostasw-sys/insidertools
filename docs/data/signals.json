@@ -9815,7 +9815,7 @@
   "media": "KONTAN",
   "published": "2026-11-09T03:33:02+00:00",
   "tickers": [],
-  "uma": false,
+  "uma": true,
   "jenis": [
    "Penerbitan saham"
   ],
@@ -9832,7 +9832,7 @@
   "snippet": "MKNT Disuspensi dan Masuk HSC: Efek Perubahan Bisnis & Konsekuensi Private Placement.  MKNT Disuspensi dan Masuk HSC: Efek Perubahan Bisnis & Konsekuensi Private Placement &nbsp;&nbsp; KONTAN",
   "corroboration": 0,
   "response": null,
-  "score": 15,
+  "score": 50,
   "outcome": null,
   "anomali": null
  },
