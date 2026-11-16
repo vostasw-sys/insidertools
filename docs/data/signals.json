@@ -3846,34 +3846,6 @@
   "anomali": null
  },
  {
-  "id": "1a32209e5cf4",
-  "title": "Berita dengan Tags \"Rights Issue ULTJ\"",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tUXdpRWdJSzlnOHRGa0o3OFQwOXJxZndxX0hfVk5zaDRkNV9samEtMGN4MXRBQVB3MzBHbnZVSHBFVkJydFhaSUc4Y1huT0tHamhnWDVYeVN2RkZt?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-12T05:00:49+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [
-   "Penerbitan saham"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-12T03:44:24.735740+00:00",
-  "anon": [],
-  "corp": [
-   "rights issue"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Berita dengan Tags \"Rights Issue ULTJ\".  Berita dengan Tags \"Rights Issue ULTJ\" &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 0,
-  "response": null,
-  "score": 9,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "21335fbfc8b5",
   "title": "Haji Isam Incar Saham Eramet di Weda Bay Nickel Senilai Rp 65 Triliun",
   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXE2aVhoY2JLR25HTWVTUW9NdVZXdE85c25pdnoyMUJ1dXhTdDJGU3hDY0gyNVFfUFE3VDJlOFFYeW1NbnFLaTU4TXQxT25zeF9wal9LZ2FuVktuYThIYjFZOE12U0hEVWptVnBCLThQdFFvOFF4TjBMaVhreEJzanJMbWJrc1ZjNFY5X1dKUDRfNExwX0hJ?oc=5",
@@ -4896,6 +4868,34 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "1a32209e5cf4",
+  "title": "Berita dengan Tags \"Rights Issue ULTJ\"",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzc0t4cHRHdmEtbUlWWkZkSGJKbGdTSjBIZ01femN3SmhES2MzZnZpUU1ZNERLeUlNZ2NzWFZaWGhMTDd4U3FlY2lDbTFCUEc5dzZXRXV1SQ?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-11T17:13:47+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-12T03:44:24.735740+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Berita dengan Tags \"Rights Issue ULTJ\".  Berita dengan Tags \"Rights Issue ULTJ\" &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
   "outcome": null,
   "anomali": null
  },
@@ -8227,10 +8227,10 @@
   "jenis": [],
   "asal": [],
   "first_seen": "2026-11-10T06:52:26.371891+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
+  "anon": [
+   "sumber yang mengetahui"
   ],
+  "corp": [],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
@@ -8238,7 +8238,7 @@
   "snippet": "Performa Merah Saham Nvidia (NVDA) Makin Dalam! Diselimuti Skandal Perselingkuhan, Mata-Mata China, Hingga Ketergantungan Nvidia - Sinar Harapan.  Performa Merah Saham Nvidia (NVDA) Makin Dalam! Diselimuti Skandal Perselingkuhan, Mata-Mata China, Hingga Ketergantungan Nvidia - Sinar Harapan &nbsp;&n",
   "corroboration": 1,
   "response": null,
-  "score": 6,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
