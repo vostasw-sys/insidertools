@@ -1,5 +1,31 @@
 [
  {
+  "id": "e3a70dafc0f9",
+  "title": "Wall Street Melemah, Dow Jones Merosot 739 Poin Tertekan Gejolak Nvidia",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenhBYUdPT25ranlWeklPODdaNm1BZkZKU0tsSW5xYWowUHFIUkRNMnRiSHNYS1VUTlZwc29ORXFESFgzN1ZPQVNQaFRvc3cyUk9zZ0ctbmJzQ3VwckZFdDk2YURKZXpzNEZqNFoycFFmMUxhOGE4U0hsV3N0UHdKUDVkRGpVQmtGVzVBWWV4WFVvTU9fanZsSg?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-11-16T22:41:59+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-16T23:13:43.818279+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Wall Street Melemah, Dow Jones Merosot 739 Poin Tertekan Gejolak Nvidia.  Wall Street Melemah, Dow Jones Merosot 739 Poin Tertekan Gejolak Nvidia &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "2239d26ecd84",
   "title": "Wall Street Anjlok Saat Investor Jual Saham Teknologi",
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mRmdjekRUaFNaZ1J0NU1Yd013cnVrS01MQ3BFMF9pRy1RTDJBUGFHT0VadGxvanRGUnBKb3hMRXVPeDVmSEw1YTkwbXlGajBCN0MyMUlHTE5SdUJqazZXNVhJN1RJdTg?oc=5",
@@ -1950,7 +1976,7 @@
   "asal": [],
   "first_seen": "2026-11-13T11:24:37.130098+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -1976,7 +2002,7 @@
   "asal": [],
   "first_seen": "2026-11-13T11:24:37.130098+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -2561,6 +2587,34 @@
   "schedule": false,
   "party": false,
   "snippet": "Saham SMSM Konsisten Bagi Dividen 21 Tahun Incar Dividend Aristocrat.  Saham SMSM Konsisten Bagi Dividen 21 Tahun Incar Dividend Aristocrat &nbsp;&nbsp; https://cetro.or.id/",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "2b205a420d4f",
+  "title": "Nvidia Tunjuk Colette Kress sebagai CEO Sementara",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaeW1QTjdzNXBXZ0hIMXNyNUdPRGk1Tld5Y2kyS0JlVjFHbjZocVhIYjhITnNhbmQ4ZTdvZjlyYl92cktHdkFvZnBkRG9qbGhpOGs0dkpqLUhnN0tnSWoxWGNoeDU0cGs?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-13T04:37:27+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen"
+  ],
+  "first_seen": "2026-11-16T23:13:43.818279+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Nvidia Tunjuk Colette Kress sebagai CEO Sementara.  Nvidia Tunjuk Colette Kress sebagai CEO Sementara &nbsp;&nbsp; Demokratis.co.id",
   "corroboration": 0,
   "response": null,
   "score": 16,
@@ -3831,7 +3885,7 @@
   ],
   "first_seen": "2026-11-12T11:28:48.209630+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -3951,34 +4005,6 @@
   "schedule": false,
   "party": false,
   "snippet": "Berita dengan Tags \"Tender Offer ULTJ\".  Berita dengan Tags \"Tender Offer ULTJ\" &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 0,
-  "response": null,
-  "score": 9,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "1a32209e5cf4",
-  "title": "Berita dengan Tags \"Rights Issue ULTJ\"",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tUXdpRWdJSzlnOHRGa0o3OFQwOXJxZndxX0hfVk5zaDRkNV9samEtMGN4MXRBQVB3MzBHbnZVSHBFVkJydFhaSUc4Y1huT0tHamhnWDVYeVN2RkZt?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-12T05:00:49+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [
-   "Penerbitan saham"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-12T03:44:24.735740+00:00",
-  "anon": [],
-  "corp": [
-   "rights issue"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Berita dengan Tags \"Rights Issue ULTJ\".  Berita dengan Tags \"Rights Issue ULTJ\" &nbsp;&nbsp; Emitennews.com",
   "corroboration": 0,
   "response": null,
   "score": 9,
@@ -4739,7 +4765,7 @@
   "asal": [],
   "first_seen": "2026-11-11T23:19:35.314325+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [
    "akuisisi"
@@ -5012,6 +5038,34 @@
   "anomali": null
  },
  {
+  "id": "1a32209e5cf4",
+  "title": "Berita dengan Tags \"Rights Issue ULTJ\"",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzc0t4cHRHdmEtbUlWWkZkSGJKbGdTSjBIZ01femN3SmhES2MzZnZpUU1ZNERLeUlNZ2NzWFZaWGhMTDd4U3FlY2lDbTFCUEc5dzZXRXV1SQ?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-11T17:13:47+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-12T03:44:24.735740+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Berita dengan Tags \"Rights Issue ULTJ\".  Berita dengan Tags \"Rights Issue ULTJ\" &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "1efa446adb62",
   "title": "Prospek harga Fetch.ai: Pembeli mengincar resistensi $0,1582 seiring momentum menguat",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2wxYXVKdHQ5Y1NuUk9uRWpDTjNzNlA3TnFjaHBhNWtGZVo4d1NseElyUjJfdWZpOWlYS1Z4UXljd3VOSThmZi1HelloZTMzejhsdXI3aXBXZEJnQkJlcjBmSVgyeENRcEJ2alhLR1ZHTTFzTy0yZ3lFd2p1YmdXS3otdVpGYWxpX3YtWlJIOEhpOEpSVVJya2NXWWhqN281aUtPcE83WmtZQQ?oc=5",
@@ -5115,7 +5169,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.42,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -8045,7 +8103,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.42,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "1145c2f50a3d",
@@ -8331,10 +8393,10 @@
   "jenis": [],
   "asal": [],
   "first_seen": "2026-11-10T06:52:26.371891+00:00",
-  "anon": [
-   "sumber yang mengetahui"
+  "anon": [],
+  "corp": [
+   "buyback"
   ],
-  "corp": [],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
@@ -8342,7 +8404,7 @@
   "snippet": "Performa Merah Saham Nvidia (NVDA) Makin Dalam! Diselimuti Skandal Perselingkuhan, Mata-Mata China, Hingga Ketergantungan Nvidia - Sinar Harapan.  Performa Merah Saham Nvidia (NVDA) Makin Dalam! Diselimuti Skandal Perselingkuhan, Mata-Mata China, Hingga Ketergantungan Nvidia - Sinar Harapan &nbsp;&n",
   "corroboration": 1,
   "response": null,
-  "score": 16,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
