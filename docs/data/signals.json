@@ -80,8 +80,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 3.53,
+   "vol_z": -0.08,
+   "abn5": 4.02,
    "last": "2026-11-16"
   }
  },
@@ -577,8 +577,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -2642,8 +2642,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -2749,7 +2749,7 @@
   ],
   "first_seen": "2026-11-12T11:28:48.209630+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -2869,34 +2869,6 @@
   "schedule": false,
   "party": false,
   "snippet": "Berita dengan Tags \"Tender Offer ULTJ\".  Berita dengan Tags \"Tender Offer ULTJ\" &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 0,
-  "response": null,
-  "score": 9,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "1a32209e5cf4",
-  "title": "Berita dengan Tags \"Rights Issue ULTJ\"",
-  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tUXdpRWdJSzlnOHRGa0o3OFQwOXJxZndxX0hfVk5zaDRkNV9samEtMGN4MXRBQVB3MzBHbnZVSHBFVkJydFhaSUc4Y1huT0tHamhnWDVYeVN2RkZt?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-12T05:00:49+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [
-   "Penerbitan saham"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-12T03:44:24.735740+00:00",
-  "anon": [],
-  "corp": [
-   "rights issue"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Berita dengan Tags \"Rights Issue ULTJ\".  Berita dengan Tags \"Rights Issue ULTJ\" &nbsp;&nbsp; Emitennews.com",
   "corroboration": 0,
   "response": null,
   "score": 9,
@@ -3414,8 +3386,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": 0.07,
+   "vol_z": -0.4,
+   "abn5": 0.21,
    "last": "2026-11-16"
   }
  },
@@ -3766,6 +3738,32 @@
   "anomali": null
  },
  {
+  "id": "16f5c0135432",
+  "title": "BEI Buka Suspensi Saham UDNG SEMA ALKA Simak Analisisnya",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVVLSFVadHIwdFdtNU9EdEEwa1BEQ2hUQ0Y5Z2xITUQ1YmNtTjd3YUtZR25KMGpRcnlEcE5KUEdybThlVk1hQUYzSmFUc280MXRIVjUwN3VPcWplRVdyY0MzdV9aZ0h1V3VTYlN5eVo3NVN0b0pkRk9TT3ZSS3lyNTJ4Qi1zQk9rUmJEZVppT0FVN0lnTHJ1RWQwT2VCeE4yVkhoVUgyWWdHdnM1UWpZ?oc=5",
+  "media": "cetro.or.id",
+  "published": "2026-11-11T20:21:04+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-16T03:57:53.462843+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Buka Suspensi Saham UDNG SEMA ALKA Simak Analisisnya.  BEI Buka Suspensi Saham UDNG SEMA ALKA Simak Analisisnya &nbsp;&nbsp; cetro.or.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "4c6edfed7207",
   "title": "KB Bank Belum Berencana Divestasi Saham",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjNrVm9tVWJSdDJrZmVvYW1qWlJoWmc1Nmw2bWt5MXJxeFZ4RGFMVGtjVmlERXN2SzdKbWhCY1l3bDFIUE1VN0RZbGZ2NThmOVBwVUstNm00RUhZTU5ESWhKVWR2Z0oxRHVfMlpKS2Vrd3E3Wk9tS0lPaG56STdTWTJ5SE1zQmQ0dnkzQWNyVnN3NVduS2F0UWo2eVlWUmNaNXc?oc=5",
@@ -3816,6 +3814,34 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "1a32209e5cf4",
+  "title": "Berita dengan Tags \"Rights Issue ULTJ\"",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzc0t4cHRHdmEtbUlWWkZkSGJKbGdTSjBIZ01femN3SmhES2MzZnZpUU1ZNERLeUlNZ2NzWFZaWGhMTDd4U3FlY2lDbTFCUEc5dzZXRXV1SQ?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-11T17:13:47+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-12T03:44:24.735740+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Berita dengan Tags \"Rights Issue ULTJ\".  Berita dengan Tags \"Rights Issue ULTJ\" &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
   "outcome": null,
   "anomali": null
  },
@@ -3924,8 +3950,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.57,
-   "abn5": 0.28,
+   "vol_z": -0.52,
+   "abn5": 0.16,
    "last": "2026-11-16"
   }
  },
@@ -4064,8 +4090,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.08,
-   "abn5": -1.91,
+   "vol_z": 0.09,
+   "abn5": -2.99,
    "last": "2026-11-16"
   }
  },
@@ -4398,8 +4424,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -4600,8 +4626,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -4913,8 +4939,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -5830,8 +5856,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -6688,8 +6714,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": 0.07,
+   "vol_z": -0.4,
+   "abn5": 0.21,
    "last": "2026-11-16"
   }
  },
@@ -6751,8 +6777,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.57,
-   "abn5": 0.28,
+   "vol_z": -0.52,
+   "abn5": 0.16,
    "last": "2026-11-16"
   }
  },
@@ -7109,8 +7135,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": 0.07,
+   "vol_z": -0.4,
+   "abn5": 0.21,
    "last": "2026-11-16"
   }
  },
@@ -8142,8 +8168,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -8297,8 +8323,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -8700,8 +8726,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -9420,8 +9446,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 3.53,
+   "vol_z": -0.08,
+   "abn5": 4.02,
    "last": "2026-11-16"
   }
  },
@@ -9455,8 +9481,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 3.53,
+   "vol_z": -0.08,
+   "abn5": 4.02,
    "last": "2026-11-16"
   }
  },
@@ -9630,6 +9656,32 @@
   "anomali": null
  },
  {
+  "id": "e72ae1dd04f5",
+  "title": "FortiGuard Catat 1,6 Juta Ancaman Siber di Indonesia",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxbi1PcmpjY3pRMXVuWDlzVGVPWHhTdDZmMks4SjhZVXlRZUszMzdQYkFydGRNZmFib096QnpkSXV1WVFTMHhxSHI3b3FkM1RFYmhjZkgyN3c5ZFJNMnZsSmVudkc?oc=5",
+  "media": "cwibc.co.id",
+  "published": "2026-11-09T04:54:23+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-16T03:57:53.462843+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "FortiGuard Catat 1,6 Juta Ancaman Siber di Indonesia.  FortiGuard Catat 1,6 Juta Ancaman Siber di Indonesia &nbsp;&nbsp; cwibc.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "ff768242e09a",
   "title": "Siapkan Rp 1 Triliun, BRI Siap Buyback Saham Tahap Kedua",
   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjdGM3JhWndoZWptN2k3WERIb3R1dVhyMjN1SGxIVkc1MWE0enZjRmNSRWJibGU0N1VoWlJ3MzhINVNkUFlpdG0yNTdOYTJrblc2UHQtMy1WeWFzNXlnMHVlSWh3MHBUVkdtek9tRmpsSU5Pa2EyVk9kMkstclA4UE5pOV9Kd3lDaEVXcGU5dzdfdWdOdVBxMW5KWGo4NS010gGXAUFVX3lxTE81OGo3MXMtcDRscEttMkNSOU5zTTVyMzdQUThEb2R6eUdaVzZrR0VWZTdPMnkwa0VuQUxDSTlTV0txR2plSDRRcnBQZnlzdE9yN2pqV3E5TmZmMDRjc25KY3BXTDJvN01vRnJzS0pNRW5TUHN6SWtSSXA4dUctbU9qN3o4eThSbEs0SlpYbDVkc0pORUlmOVk?oc=5",
@@ -9658,8 +9710,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 3.53,
+   "vol_z": -0.08,
+   "abn5": 4.02,
    "last": "2026-11-16"
   }
  },
@@ -9748,8 +9800,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 3.53,
+   "vol_z": -0.08,
+   "abn5": 4.02,
    "last": "2026-11-16"
   }
  },
@@ -9900,8 +9952,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 3.53,
+   "vol_z": -0.08,
+   "abn5": 4.02,
    "last": "2026-11-16"
   }
  },
@@ -12745,8 +12797,8 @@
   "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.09,
-   "abn5": 5.97,
+   "vol_z": -0.07,
+   "abn5": 6.3,
    "last": "2026-11-16"
   }
  },
@@ -12781,8 +12833,8 @@
   "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.09,
-   "abn5": 5.97,
+   "vol_z": -0.07,
+   "abn5": 6.3,
    "last": "2026-11-16"
   }
  },
@@ -12894,8 +12946,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.09,
-   "abn5": 5.97,
+   "vol_z": -0.07,
+   "abn5": 6.3,
    "last": "2026-11-16"
   }
  },
@@ -13673,8 +13725,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -15060,8 +15112,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -15177,8 +15229,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -16523,8 +16575,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.48,
-   "abn5": -3.33,
+   "vol_z": -0.44,
+   "abn5": -0.72,
    "last": "2026-11-16"
   }
  },
@@ -16923,8 +16975,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.13,
-   "abn5": -7.84,
+   "vol_z": -0.06,
+   "abn5": -6.9,
    "last": "2026-11-16"
   }
  },
@@ -18675,8 +18727,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.13,
-   "abn5": -7.84,
+   "vol_z": -0.06,
+   "abn5": -6.9,
    "last": "2026-11-16"
   }
  },
@@ -18954,8 +19006,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.22,
-   "abn5": -1.85,
+   "vol_z": -0.2,
+   "abn5": -1.37,
    "last": "2026-11-16"
   }
  },
@@ -18986,8 +19038,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.21,
-   "abn5": -0.08,
+   "vol_z": -1.19,
+   "abn5": -1.18,
    "last": "2026-11-16"
   }
  },
@@ -19126,8 +19178,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.87,
-   "abn5": -5.85,
+   "vol_z": -0.81,
+   "abn5": -6.9,
    "last": "2026-11-16"
   }
  },
@@ -20474,8 +20526,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.77,
-   "abn5": -1.02,
+   "vol_z": -0.76,
+   "abn5": -1.11,
    "last": "2026-11-16"
   }
  },
@@ -20757,8 +20809,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": 0.07,
+   "vol_z": -0.4,
+   "abn5": 0.21,
    "last": "2026-11-16"
   }
  },
@@ -22601,8 +22653,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.09,
-   "abn5": 5.97,
+   "vol_z": -0.07,
+   "abn5": 6.3,
    "last": "2026-11-16"
   }
  },
