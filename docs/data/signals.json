@@ -1,5 +1,65 @@
 [
  {
+  "id": "70f1f49de1dc",
+  "title": "Mengukur Prospek Ekspansi MRO Oman dan Dampak Rights Issue terhadap Kinerja GMFI",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWJyWmlBM01RbXpibVBfNTNxOE04WmZGbEZzdlpyOHdKV0tkOTJVem5hdkc3MThRbFlXN0JSNXVQWlFVTTc1Y3U5anNPa3VWRDNWeHh5bVpRc192NVpkRTFQTkIxTl9LTUJEVmFoMU91TG9pRFFydFM1WDRGbGloc0E2MnBKNEJJZTRLSDZybV9VQmJpWWZOOFZXV0s3SnJNbmVEODBTNjYyZzNtR0JrS0MtVTM?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-16T01:22:59+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-16T01:55:07.912568+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Mengukur Prospek Ekspansi MRO Oman dan Dampak Rights Issue terhadap Kinerja GMFI.  Mengukur Prospek Ekspansi MRO Oman dan Dampak Rights Issue terhadap Kinerja GMFI &nbsp;&nbsp; KONTAN",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "47db3594c810",
+  "title": "BRI Danareksa Pilih Tiga Saham untuk 16 November 2026",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GNkkyT3cyTVUxR3hWMXpPblVaSzV4TUE0MGtueDhLVnkwcm9tNGkyUmJmMVlDYjB6Q0JHZDZyc1ZOMVRBem1ORWRtT19sMExMQnRjbE55YTM5dTB4YV94RllVZnY2N19PTXg0?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-16T00:53:34+00:00",
+  "tickers": [
+   "BBRI"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-16T01:55:07.912568+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BRI Danareksa Pilih Tiga Saham untuk 16 November 2026.  BRI Danareksa Pilih Tiga Saham untuk 16 November 2026 &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 1,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": {
+   "vol_z": 0.03,
+   "abn5": 3.08,
+   "last": "2026-11-13"
+  }
+ },
+ {
   "id": "a21a8dbe8641",
   "title": "Nafan Ungkap Lima Sentimen yang Gerakkan IHSG dan Rekomendasi Saham",
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TMTBKQXlTdHBkb2tHTTZFSVBMQmFlZ2hmRWN1STZUMzFzMjQ5SWF0VjNJN3FtV2kzSHFTcHUwdDVUZUQ3VW1uanZDVXBFWmFJOUx1Y25wdVlQRkVqVDhxd2Q2OG9Qd2s?oc=5",
@@ -75,6 +135,34 @@
   "corroboration": 0,
   "response": null,
   "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "fd7f112f7471",
+  "title": "Jensen Huang Dikabarkan Ingin Kembali Menjadi CEO Nvidia. Bagaimana Saham Akan Merespons?",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQemg5dFlNNXMwa1JoNFg4dV85UjltRExUWG5YdUREdkRVSTVxT1VfakpnSkl4RGpiclBJZzdVUWRKR1BFRUlhSWYxdDREM3VOMEFxOWpzc1RqWUJmZkhHSlJHNVRvNEV6S2M1RHpXbmd5R28?oc=5",
+  "media": "BeInCrypto",
+  "published": "2026-11-15T19:23:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen"
+  ],
+  "first_seen": "2026-11-16T01:55:07.912568+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Jensen Huang Dikabarkan Ingin Kembali Menjadi CEO Nvidia. Bagaimana Saham Akan Merespons?.  Jensen Huang Dikabarkan Ingin Kembali Menjadi CEO Nvidia. Bagaimana Saham Akan Merespons? &nbsp;&nbsp; BeInCrypto",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -8594,7 +8682,7 @@
  {
   "id": "c76d18f325b6",
   "title": "ULTJ Tebar Dividen Rp1,039 Triliun, Gaspol Right Issue 10 Miliar Saham",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHpoREd4VTYyT1hDYmhYdGl0RlpHN3lPTzVXa3RjRHdEXzlwRmI3NjlHaGJjRjlxTUZrcGlKTUxkcmttZk5LUzV4V25KaXdLRWJPNm9PeWNMcXpheFUwMUc5QXZyNEFYaUtDTy1pUkxZaW85QlVSWG5zT2thdHkyeEtHMkc1S2xzcU9ZOWwzX3VfN0dyQXE4MjVMbWw5NF9xWnc?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdm50YUtPMjZZZDRPTVphVE5fTFE4VVl4TUZLV2VxcjJReDJ3ekhQSDRNUmFEQlQtVVRvanZ1TWhIbTE0eUNXRFpUQ1Q4NXFNR0RrVmpQQzZIcG5PcXlNa1NXSWF2YXpRbm9ENUZPVDNYYUVVaE9acnlMQWRCdm5PbVJrMXY3TWNMTkR3TGZmcTUzNk1fNHBiaEt5S2w?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-09T11:23:00+00:00",
   "tickers": [],
@@ -9305,7 +9393,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.03,
+   "abn5": 3.08,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "15c6fba3cc2d",
@@ -9336,7 +9428,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.03,
+   "abn5": 3.08,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "ef0b3e8eba1d",
@@ -9535,7 +9631,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.03,
+   "abn5": 3.08,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "6275df6b1369",
@@ -9621,7 +9721,11 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.03,
+   "abn5": 3.08,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "16db2d427dba",
@@ -9769,7 +9873,11 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 0.03,
+   "abn5": 3.08,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "725082c0f123",
@@ -11946,6 +12054,33 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "a89623de2b82",
+  "title": "Pemeriksaan Acak Free Float BEI, Direksi Terancam Sanksi",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTlSdUxoQWJubjhFeDlIYTk5VzZHUFA4WTlVOVhOckx2UXdBN1FyR3psaDJxNF9RbHJIdm9TVkVNUlFSQXlrXzkyWWFudXJNOGFjMGxpUlpfUEpmdGFXZVZuOUlzWjZPTU53ZDhlUmEwT0VSRGRVT2JBSzJLdHlOdkhlUE5ESl91cUxiWURnc0xjTFBta0t5ZENubnA?oc=5",
+  "media": "JournalArta",
+  "published": "2026-11-07T18:26:41+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen",
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-16T01:55:07.912568+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Pemeriksaan Acak Free Float BEI, Direksi Terancam Sanksi.  Pemeriksaan Acak Free Float BEI, Direksi Terancam Sanksi &nbsp;&nbsp; JournalArta",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -16244,6 +16379,34 @@
   "corroboration": 0,
   "response": null,
   "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "63c97f301215",
+  "title": "64 Emiten Belum Sampaikan Laporan Keuangan Semester I 2026, BEI Lanjutkan Suspensi",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalJDZWt3dGJ5dFhnc19oT1Fubi13WXFTVEdiNXlLTUVzN1RtcjZSMmY4dkhTMnMydmZmWUpxOGIzWnFRU2U5aUx4eEkzMTBXeEk5bHg4NEprazN1azRITmZkMnNMcUU5QzE0M3kzRnlETUZ4Y2JpbFlrRVBGdGg0XzNnakZSazZwYUJkNHVxRm5UUm16WVpTM1Q4S21uTExlZko2a2dhc2JMNlpScFRYQkpyOXdQNTNpWHc?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-05T02:05:22+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [
+   "Laporan keuangan"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-16T01:55:07.912568+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": true,
+  "party": false,
+  "snippet": "64 Emiten Belum Sampaikan Laporan Keuangan Semester I 2026, BEI Lanjutkan Suspensi.  64 Emiten Belum Sampaikan Laporan Keuangan Semester I 2026, BEI Lanjutkan Suspensi &nbsp;&nbsp; KONTAN",
+  "corroboration": 0,
+  "response": null,
+  "score": 55,
   "outcome": null,
   "anomali": null
  },
@@ -20702,6 +20865,32 @@
   "corroboration": 0,
   "response": null,
   "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "75bdf80d9e77",
+  "title": "Ini 4 Saham yang Terkena Sanksi Administratif OJK: Ada SHID hingga FILM",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEpWbGd6NTllNXBodWhQb1M3ZFBFa01ZS09UR2tVT2JPVjdIcE9wcmE2VVRzd25aVDVNRnVEd2dPMHgxcDVHZ1RGN1lnY1BETnp5aFh3akg2cm5HeXRrXzF4d3l1dlMxOFFFbUwyQl95VUZNeWxEc2JpREVkWUJOY09kOHlsX2VkRmNXaFctR0FiZ01haHZMbjNvQ0ZsOW5Zajd2emR3N3NnN0k?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-02T08:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-16T01:55:07.912568+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Ini 4 Saham yang Terkena Sanksi Administratif OJK: Ada SHID hingga FILM.  Ini 4 Saham yang Terkena Sanksi Administratif OJK: Ada SHID hingga FILM &nbsp;&nbsp; KONTAN",
+  "corroboration": 0,
+  "response": null,
+  "score": 50,
   "outcome": null,
   "anomali": null
  },
