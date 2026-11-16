@@ -1,5 +1,31 @@
 [
  {
+  "id": "a21a8dbe8641",
+  "title": "Nafan Ungkap Lima Sentimen yang Gerakkan IHSG dan Rekomendasi Saham",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TMTBKQXlTdHBkb2tHTTZFSVBMQmFlZ2hmRWN1STZUMzFzMjQ5SWF0VjNJN3FtV2kzSHFTcHUwdDVUZUQ3VW1uanZDVXBFWmFJOUx1Y25wdVlQRkVqVDhxd2Q2OG9Qd2s?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-15T23:01:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-16T00:09:59.654205+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Nafan Ungkap Lima Sentimen yang Gerakkan IHSG dan Rekomendasi Saham.  Nafan Ungkap Lima Sentimen yang Gerakkan IHSG dan Rekomendasi Saham &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "6278a461cab0",
   "title": "IHSG Mengincar Level 5.500 dengan Lima Saham Pilihan",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMlR3bGp1N2dIdXByUno0cUJZVy16eXFGNVBvdnU1ODNmQ0xDZjZKVzJ0UTIzdmwtM2lRUTR5QlNIWVozNEdHeXNGOWUydXlHZm0zaUV2bVZxdXVteFlLY1Y2ZDFtdll6cmgzUQ?oc=5",
@@ -184,6 +210,32 @@
   "schedule": false,
   "party": false,
   "snippet": "Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay.  Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay &nbsp;&nbsp; rmolsumsel.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "06c1baa35d49",
+  "title": "RANS Kehilangan 10.883 Investor pada Oktober 2026",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jSmVBNGxtLVhBTWN1ZnFMVFBpTHNUOV9kcmZjakl5eTIwN3NQbFhBLVJNcXNVUVJrVXA3R2hSQ1dIRERSSDgwTXBhUmJsRUhQemhFRDBCdEhzNVVNMVhLRml0Q1dZTURU?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-15T05:26:03+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-16T00:09:59.654205+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "RANS Kehilangan 10.883 Investor pada Oktober 2026.  RANS Kehilangan 10.883 Investor pada Oktober 2026 &nbsp;&nbsp; Demokratis.co.id",
   "corroboration": 0,
   "response": null,
   "score": 16,
@@ -671,7 +723,7 @@
  {
   "id": "6c6e899d704f",
   "title": "Haji Isam Bidik 38,7% Saham Weda Bay Nickel Milik Eramet",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3dxUUdXZjJmajZ1RlpxYWExOHBEazZYN0ZoY3Z2X25BdlRBbHZQaVVuNl9TT2E4Y1Q1WWJsMmJKUjBaUE05dnloUFVPV2VFem5Ub0FGN0M3U2xfTS0ydFg3QTJjLXp5S25LanV0Z3RmMFlyTHNncjZIaWFsLUREYWVlaTk?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdmF4R1kwelFyZGNjYlFLeHg5TjFERVQ4bGdjTHJEVk5IWTBHUkRhaE5rZFJtWVRzNEVNRDBuWkQ4ak9qb01xY1hIbjdGekR3eXhtRUpZbnl6TS1QZU5JVzA0YXhkSG1wSWlZR3NIUDBkaXNwejhIVW84ei1IQTJrZ0lrQUVCUHF6VHc?oc=5",
   "media": "Majalah TAMBANG",
   "published": "2026-11-13T15:26:47+00:00",
   "tickers": [],
@@ -680,7 +732,7 @@
   "asal": [],
   "first_seen": "2026-11-13T15:39:43.638987+00:00",
   "anon": [
-   "tengah menjajaki"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -21467,11 +21519,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.4,
-   "abn5": 1.11,
-   "last": "2026-11-13"
-  }
+  "anomali": null
  },
  {
   "id": "940ed8d0ba88",
