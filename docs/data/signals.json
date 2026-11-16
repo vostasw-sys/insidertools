@@ -220,6 +220,38 @@
   "anomali": null
  },
  {
+  "id": "4f1a6f5a2f25",
+  "title": "Astra Tetapkan Target Laba Per Saham Rp 1.200 pada 2030",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16WlJIbjhYc2g3OGdPUDB0YnBSalk2WWgxektraE1la3FqZHhyN3Q4YWY5WTAzYllFSEIyYk5fZWlEWnMycUtqU2cwTXk5VjAyU1BTUzM4SmNvRnZDczJXTTNPbw?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-16T09:19:26+00:00",
+  "tickers": [
+   "ASII"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-16T21:16:56.865122+00:00",
+  "anon": [
+   "tengah menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Astra Tetapkan Target Laba Per Saham Rp 1.200 pada 2030.  Astra Tetapkan Target Laba Per Saham Rp 1.200 pada 2030 &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 4,
+  "response": null,
+  "score": 26,
+  "outcome": null,
+  "anomali": {
+   "vol_z": 0.01,
+   "abn5": 4.18,
+   "last": "2026-11-13"
+  }
+ },
+ {
   "id": "d1c6f9d5142a",
   "title": "Pertahankan Rasio Dividen 40-50%, Astra (ASII) Bidik RoE 15%",
   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN1VQV0tHTTF2aG50NGxRSzRCWS1LbEVrLUtXOUZhMVlKUkxpdlVVZzFrM0lqeTRPelRqV1RTQWJIRUl4LThacHhwRG9XaE9JY3RqOHZmNFFaMEc4WjBHUDFQMF96ekp3emVMVTJyWEZSMFlVUjlxM09qajhrMFN3OG5ESGhPTGxTWWFmU0VZdTFPUGxqdDhsbWJB?oc=5",
@@ -241,7 +273,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Pertahankan Rasio Dividen 40-50%, Astra (ASII) Bidik RoE 15%.  Pertahankan Rasio Dividen 40-50%, Astra (ASII) Bidik RoE 15% &nbsp;&nbsp; InvestorTrust",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -303,7 +335,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Laba Bersih per Saham ASII Bisa Melesat 121% di 2030.  Laba Bersih per Saham ASII Bisa Melesat 121% di 2030 &nbsp;&nbsp; Bloomberg Technoz",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 35,
   "outcome": null,
@@ -427,7 +459,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Implementasi Strategi Astra & Aspirasi Pertumbuhan Menuju 2030.  Implementasi Strategi Astra & Aspirasi Pertumbuhan Menuju 2030 &nbsp;&nbsp; PT Astra International Tbk",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -1308,7 +1340,7 @@
   "asal": [],
   "first_seen": "2026-11-14T02:41:20.651513+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "tengah menjajaki"
   ],
   "corp": [
    "akuisisi"
@@ -1338,7 +1370,7 @@
   "asal": [],
   "first_seen": "2026-11-14T03:41:28.816212+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "tengah menjajaki"
   ],
   "corp": [
    "akuisisi"
@@ -5003,7 +5035,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.42,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -7933,7 +7969,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.42,
+   "abn5": 1.54,
+   "last": "2026-11-13"
+  }
  },
  {
   "id": "1145c2f50a3d",
