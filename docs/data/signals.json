@@ -1,5 +1,35 @@
 [
  {
+  "id": "bc6cb22b7df2",
+  "title": "BEI Soroti Keuangan Merdeka Gold di Tengah Rencana Private Placement",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BeDdYY0NGQzJMS0ZBS3RxRkw4R09xQmJwbmNJdDNpTkRkaUszSFhFV2NTMHN3RFZzcENLUGFydkpTSlFSczF6WU1mLTktRkJyOVdTWWhQdFZzeVhSWkVQRGpyMWNuUl9O?oc=5",
+  "media": "Lensa Hukum",
+  "published": "2026-11-17T05:00:29+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-17T05:52:40.585898+00:00",
+  "anon": [],
+  "corp": [
+   "private placement"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Soroti Keuangan Merdeka Gold di Tengah Rencana Private Placement.  BEI Soroti Keuangan Merdeka Gold di Tengah Rencana Private Placement &nbsp;&nbsp; Lensa Hukum",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "afb29f232b51",
   "title": "Klarifikasi ke BEI, Ini Penjelasan MBMA Soal Private Placement",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlhzaU8zNnNvWlBmcl9YcEE4d3pvZHEycXNnaHhyaTV1VVBIeUFZUENDWjFtYktQU0FhaWI1ODZuMmhkOGY1MHVqUDdfZ3VBSVUxZDFkamtteDhLU18zSkhBS1FnRXZQNkh5aVpiMnZTcDRxRmRIS0w0RUdUS09Ub01Fc0NoeGZWT1QwdWpLM1RlQ2M?oc=5",
@@ -81,9 +111,39 @@
   "schedule": false,
   "party": false,
   "snippet": "KBank Indonesia (BMAS) Rights Issue Rp 1 Triliun, KBank Siap Serap Seluruh Saham Sisa.  KBank Indonesia (BMAS) Rights Issue Rp 1 Triliun, KBank Siap Serap Seluruh Saham Sisa &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 25,
+  "score": 30,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "b4ae61a39c84",
+  "title": "KBank Indonesia (BMAS) Rights Issue Rp 1 Triliun, KBank Siap Serap Seluruh Saham Sisa",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnZIR3hoOUlpVWQ5blNwQUFrZ2c5YUpQM1Jkai1NS0wyM0t6UldobUhDcWZtOHpRMHBsejlfOWJUT2ZQZmlnWjkwZ0xvLXZQMkZjMW5mUkxGSWVHa2ZISjNuRjgzeTM5N1FEY01jQlllY2JueG1DWngzaXUyeTJNWXN1UUkwNUxZYU9pa3RUdHpkUy1xaEd1dV9uN0RWQ1BVbUd5WDZTTFlRUndZYklNWmR30gGyAUFVX3lxTE5CdkhHeGg5SWlVZDluU3BBQWtnZzlhSlAzUmRqLU1LTDIzS3pSV2htSENxZm04elEwcGx6OV85YlRPZlBmaWdaOTBnTG8tdlAyRmMxbmZSTEZJZUdrZkhKM25GODN5Mzk3UURjTWNCWWVjYm54bUNaeDNpdTJ5Mk1Zc3VRSTA1TFlhT2lrdFR0emRTLXFoR3V1X243RFZDUFVtR3lYNlNMWVFSd1liSU1aZHc?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-17T03:49:43+00:00",
+  "tickers": [
+   "BMAS"
+  ],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-17T05:52:40.585898+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 1000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "KBank Indonesia (BMAS) Rights Issue Rp 1 Triliun, KBank Siap Serap Seluruh Saham Sisa.  KBank Indonesia (BMAS) Rights Issue Rp 1 Triliun, KBank Siap Serap Seluruh Saham Sisa &nbsp;&nbsp; KONTAN",
+  "corroboration": 2,
+  "response": null,
+  "score": 30,
   "outcome": null,
   "anomali": null
  },
@@ -371,7 +431,7 @@
   "asal": [],
   "first_seen": "2026-11-17T01:47:14.807107+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -1011,7 +1071,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.32,
-   "abn5": 3.3,
+   "abn5": 4.2,
    "last": "2026-11-17"
   }
  },
@@ -1043,7 +1103,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.32,
-   "abn5": 3.3,
+   "abn5": 4.2,
    "last": "2026-11-17"
   }
  },
@@ -1075,7 +1135,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.32,
-   "abn5": 3.3,
+   "abn5": 4.2,
    "last": "2026-11-17"
   }
  },
@@ -1107,7 +1167,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.32,
-   "abn5": 3.3,
+   "abn5": 4.2,
    "last": "2026-11-17"
   }
  },
@@ -1169,7 +1229,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.32,
-   "abn5": 3.3,
+   "abn5": 4.2,
    "last": "2026-11-17"
   }
  },
@@ -1227,7 +1287,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.87,
-   "abn5": -6.46,
+   "abn5": -6.02,
    "last": "2026-11-17"
   }
  },
@@ -1261,7 +1321,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.87,
-   "abn5": -6.46,
+   "abn5": -6.02,
    "last": "2026-11-17"
   }
  },
@@ -1293,7 +1353,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.32,
-   "abn5": 3.3,
+   "abn5": 4.2,
    "last": "2026-11-17"
   }
  },
@@ -1456,8 +1516,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.0,
-   "abn5": 7.05,
+   "vol_z": 0.04,
+   "abn5": 6.43,
    "last": "2026-11-17"
   }
  },
@@ -1840,7 +1900,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.32,
-   "abn5": 3.3,
+   "abn5": 4.2,
    "last": "2026-11-17"
   }
  },
@@ -1952,7 +2012,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.87,
-   "abn5": -6.46,
+   "abn5": -6.02,
    "last": "2026-11-17"
   }
  },
@@ -2067,7 +2127,7 @@
  {
   "id": "e5426072d522",
   "title": "IPO Kalah Pamor, Obligasi Raup Dana Rp165 Triliun di BEI",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXNYT2dYcGpuVkxDdExZMG1oWUdiUHRfN3N1dVJmQ1ExYWVyZGZpNE1pWjFLcnpra0ZVQ0tzWHRqbnFkR18weDJadmhfTjNuWndQc05HSUQ3SDVHbk5TN1I4MzkyOWQ1ZHQ1UU52bEJpLXR1NG5zZWVSWDBCeTFiSzRVeEQwb2ZRMHNVbl8xMDJQX0M2XzFHZDJDeXVQUXM2ejRHVdIBpAFBVV95cUxQRXNYT2dYcGpuVkxDdExZMG1oWUdiUHRfN3N1dVJmQ1ExYWVyZGZpNE1pWjFLcnpra0ZVQ0tzWHRqbnFkR18weDJadmhfTjNuWndQc05HSUQ3SDVHbk5TN1I4MzkyOWQ1ZHQ1UU52bEJpLXR1NG5zZWVSWDBCeTFiSzRVeEQwb2ZRMHNVbl8xMDJQX0M2XzFHZDJDeXVQUXM2ejRHVQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONmk4ZVBqYW9oNlBlTUFKQTViVzNvVTlGTTZiaXE0RWZKejhTU05XVkJVM0E1QkkwRzJqdVVmOFFVZERJbWJNa2pmUWhHckJlNTlmYThHMjhMY0ZKVkExS2Q4bjhhMk15M0RKUDg4VHZvVDhfVjZqakNBMzRqdlA3VXZ2VVRNWTN6YXZyUV9rSmtGNmUtTlJkbHN3Nm9IQVY5RFB4OdIBpAFBVV95cUxQRXNYT2dYcGpuVkxDdExZMG1oWUdiUHRfN3N1dVJmQ1ExYWVyZGZpNE1pWjFLcnpra0ZVQ0tzWHRqbnFkR18weDJadmhfTjNuWndQc05HSUQ3SDVHbk5TN1I4MzkyOWQ1ZHQ1UU52bEJpLXR1NG5zZWVSWDBCeTFiSzRVeEQwb2ZRMHNVbl8xMDJQX0M2XzFHZDJDeXVQUXM2ejRHVQ?oc=5",
   "media": "Suara.com",
   "published": "2026-11-14T06:30:00+00:00",
   "tickers": [],
@@ -2149,8 +2209,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -2384,7 +2444,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.87,
-   "abn5": -6.46,
+   "abn5": -6.02,
    "last": "2026-11-17"
   }
  },
@@ -2416,7 +2476,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.87,
-   "abn5": -6.46,
+   "abn5": -6.02,
    "last": "2026-11-17"
   }
  },
@@ -3678,7 +3738,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.87,
-   "abn5": -6.46,
+   "abn5": -6.02,
    "last": "2026-11-17"
   }
  },
@@ -3822,7 +3882,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.87,
-   "abn5": -6.46,
+   "abn5": -6.02,
    "last": "2026-11-17"
   }
  },
@@ -4506,8 +4566,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -5111,7 +5171,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.87,
-   "abn5": -6.46,
+   "abn5": -6.02,
    "last": "2026-11-17"
   }
  },
@@ -5386,8 +5446,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.4,
-   "abn5": 3.2,
+   "vol_z": -0.39,
+   "abn5": 3.14,
    "last": "2026-11-17"
   }
  },
@@ -6001,7 +6061,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.56,
+   "abn5": -0.79,
+   "last": "2026-11-17"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -6138,8 +6202,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.16,
-   "abn5": -4.64,
+   "vol_z": -0.15,
+   "abn5": -4.21,
    "last": "2026-11-17"
   }
  },
@@ -6526,8 +6590,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -6728,8 +6792,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -7041,8 +7105,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -7612,7 +7676,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.87,
-   "abn5": -6.46,
+   "abn5": -6.02,
    "last": "2026-11-17"
   }
  },
@@ -8039,8 +8103,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -8923,8 +8987,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.4,
-   "abn5": 3.2,
+   "vol_z": -0.39,
+   "abn5": 3.14,
    "last": "2026-11-17"
   }
  },
@@ -8985,7 +9049,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.56,
+   "abn5": -0.79,
+   "last": "2026-11-17"
+  }
  },
  {
   "id": "1145c2f50a3d",
@@ -9368,8 +9436,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.4,
-   "abn5": 3.2,
+   "vol_z": -0.39,
+   "abn5": 3.14,
    "last": "2026-11-17"
   }
  },
@@ -10401,8 +10469,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -10556,8 +10624,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -10959,8 +11027,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -11021,8 +11089,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.0,
-   "abn5": 7.05,
+   "vol_z": 0.04,
+   "abn5": 6.43,
    "last": "2026-11-17"
   }
  },
@@ -11713,8 +11781,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.0,
-   "abn5": 7.05,
+   "vol_z": 0.04,
+   "abn5": 6.43,
    "last": "2026-11-17"
   }
  },
@@ -11748,8 +11816,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.0,
-   "abn5": 7.05,
+   "vol_z": 0.04,
+   "abn5": 6.43,
    "last": "2026-11-17"
   }
  },
@@ -11977,8 +12045,8 @@
   "score": 36,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.0,
-   "abn5": 7.05,
+   "vol_z": 0.04,
+   "abn5": 6.43,
    "last": "2026-11-17"
   }
  },
@@ -12067,8 +12135,8 @@
   "score": 37,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.0,
-   "abn5": 7.05,
+   "vol_z": 0.04,
+   "abn5": 6.43,
    "last": "2026-11-17"
   }
  },
@@ -12219,8 +12287,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.0,
-   "abn5": 7.05,
+   "vol_z": 0.04,
+   "abn5": 6.43,
    "last": "2026-11-17"
   }
  },
@@ -12558,7 +12626,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.87,
-   "abn5": -6.46,
+   "abn5": -6.02,
    "last": "2026-11-17"
   }
  },
@@ -15099,7 +15167,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.07,
-   "abn5": 5.68,
+   "abn5": 6.11,
    "last": "2026-11-17"
   }
  },
@@ -15135,7 +15203,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.07,
-   "abn5": 5.68,
+   "abn5": 6.11,
    "last": "2026-11-17"
   }
  },
@@ -15248,7 +15316,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.07,
-   "abn5": 5.68,
+   "abn5": 6.11,
    "last": "2026-11-17"
   }
  },
@@ -16026,8 +16094,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -16856,7 +16924,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.87,
-   "abn5": -6.46,
+   "abn5": -6.02,
    "last": "2026-11-17"
   }
  },
@@ -17417,8 +17485,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -17534,8 +17602,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -18880,8 +18948,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -1.73,
+   "vol_z": -0.38,
+   "abn5": -0.78,
    "last": "2026-11-17"
   }
  },
@@ -19277,11 +19345,11 @@
   "snippet": "Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun - Bisnis.com.  Indo Tambangraya (ITMG) Bakal Buyback Saham Rp2,31 Triliun &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 1,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.18,
-   "abn5": -5.24,
+   "vol_z": -0.16,
+   "abn5": -4.31,
    "last": "2026-11-17"
   }
  },
@@ -21029,11 +21097,11 @@
   "snippet": "Indo Tambangraya Megah (ITMG) Tebar Dividen US$ 74,2 Juta, Ini Jadwalnya.  Indo Tambangraya Megah (ITMG) Tebar Dividen US$ 74,2 Juta, Ini Jadwalnya &nbsp;&nbsp; Ajaib",
   "corroboration": 1,
   "response": null,
-  "score": 31,
+  "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.18,
-   "abn5": -5.24,
+   "vol_z": -0.16,
+   "abn5": -4.31,
    "last": "2026-11-17"
   }
  },
@@ -21312,7 +21380,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.22,
-   "abn5": -3.72,
+   "abn5": -3.59,
    "last": "2026-11-17"
   }
  },
@@ -21344,7 +21412,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.21,
-   "abn5": -2.18,
+   "abn5": -1.2,
    "last": "2026-11-17"
   }
  },
@@ -21484,7 +21552,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.82,
-   "abn5": -5.74,
+   "abn5": -5.58,
    "last": "2026-11-17"
   }
  },
@@ -23136,8 +23204,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.4,
-   "abn5": 3.2,
+   "vol_z": -0.39,
+   "abn5": 3.14,
    "last": "2026-11-17"
   }
  },
@@ -24763,7 +24831,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.87,
-   "abn5": -6.46,
+   "abn5": -6.02,
    "last": "2026-11-17"
   }
  },
@@ -24985,7 +25053,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.07,
-   "abn5": 5.68,
+   "abn5": 6.11,
    "last": "2026-11-17"
   }
  },
