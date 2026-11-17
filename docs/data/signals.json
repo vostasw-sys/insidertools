@@ -1,5 +1,87 @@
 [
  {
+  "id": "1a9d77d7ac36",
+  "title": "Bursa Saham Asia Bersiap Melemah di Tengah Kekhawatiran Pasar AI",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGZ0VXc2alJoUW9hZ3BLYldET0dNOXREZmp0Wi14NWxKa1dXSUg0RE9GX3M3UzF2STRJbWdaM0xhVmpVWkNIc2pQNG5adWF0TjctLVdjb1E1VkJvMUVyVEs1NFhhV21JTEsyTVlmRjVnQ2FEYkQzMklPR3RkU25kTUtwenBXT0pxMy1MbjJySTV3TGVLUmg4TExoZ29pRDZxdGJLVjdpMm14OHVsQml1SXR3MzU4WWM?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-17T00:05:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-17T00:09:25.873912+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Bursa Saham Asia Bersiap Melemah di Tengah Kekhawatiran Pasar AI.  Bursa Saham Asia Bersiap Melemah di Tengah Kekhawatiran Pasar AI &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "8e37c3f5d0da",
+  "title": "Situational Awareness Kembali Beli Saham AI, Lalu Tertekan",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWI3QXdTM1o4OEtraDBtR2g5bEpXUFdLT2tNYXZhREM2endOamh6TllvQXQxTEJsN3EyalNLOTEzTl9MME5zWkVzcms5cGktcmhGSWU5RjdyUjlnc3MzU2ZKeEVLZlZEYXZzVDJ3UnJkLWc3R1JIWEVIY3VyTlJENEE0V2NpTGc?oc=5",
+  "media": "JournalArta",
+  "published": "2026-11-16T23:39:27+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-17T00:09:25.873912+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Situational Awareness Kembali Beli Saham AI, Lalu Tertekan.  Situational Awareness Kembali Beli Saham AI, Lalu Tertekan &nbsp;&nbsp; JournalArta",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "dc0de0c3b7ca",
+  "title": "Siapa Gabriel Rey? Bos Pukul Rata Kanan Borong Saham MMIX hingga TRUK",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRU1EOFVNWWRJZkpDS1FkdlRmQ3JNYS0xTk9Seng4WjZLOHhJT0lHNXNMWVNDcVQwRU94TTJOMHREM3lXU0NzbEpPUVV1ekd2QWhrdnVNVFFIamxkYnVqZ2NUTlZRcHdETEEtMU92MkVqQXNOcHNDcTdXU2VrUHRoU3JyR3hINzdfY0MwdWRtVWZSdUlQQktldlF2Zkd0SjlXWU56dXRLQURpZ1U?oc=5",
+  "media": "Industry.co.id",
+  "published": "2026-11-16T23:34:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-17T00:09:25.873912+00:00",
+  "anon": [],
+  "corp": [
+   "tender offer"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Siapa Gabriel Rey? Bos Pukul Rata Kanan Borong Saham MMIX hingga TRUK.  Siapa Gabriel Rey? Bos Pukul Rata Kanan Borong Saham MMIX hingga TRUK &nbsp;&nbsp; Industry.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "e3a70dafc0f9",
   "title": "Wall Street Melemah, Dow Jones Merosot 739 Poin Tertekan Gejolak Nvidia",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenhBYUdPT25ranlWeklPODdaNm1BZkZKU0tsSW5xYWowUHFIUkRNMnRiSHNYS1VUTlZwc29ORXFESFgzN1ZPQVNQaFRvc3cyUk9zZ0ctbmJzQ3VwckZFdDk2YURKZXpzNEZqNFoycFFmMUxhOGE4U0hsV3N0UHdKUDVkRGpVQmtGVzVBWWV4WFVvTU9fanZsSg?oc=5",
@@ -73,6 +155,32 @@
   "schedule": false,
   "party": false,
   "snippet": "Wall Street Anjlok, Saham Teknologi Kena Aksi Jual Besar-besaran.  Wall Street Anjlok, Saham Teknologi Kena Aksi Jual Besar-besaran &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "79cf5055e1d2",
+  "title": "Wall Street Ambruk Diguncang Saham AI, Nasdaq Anjlok, Dow Ambles Lebih dari 700 Poin",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3MzaGkzSFVHZFFMWGJDQWI2UkpTY2tiR0VjclBzZkVhc050NklPU055N09idlo1MjlhMHNTMFN6a3pPcldtYmxuWXJFX21ITDdqMXVONW9HSEFnRXItNGZBVmJrZUYzd0RhN3MyUW5YVkNkUXJQMEtEdDJEZ25jaG1TbG1UZnByQlJrd01Ya1E2MTR5N1U4Y3cyaVBxR0ZDb1hQS2NwWlpNVWJMckpRa3lST1E0SE9aS0dJRjk2cl9lWkhEbDhR?oc=5",
+  "media": "InvestorTrust",
+  "published": "2026-11-16T21:31:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-17T00:09:25.873912+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Wall Street Ambruk Diguncang Saham AI, Nasdaq Anjlok, Dow Ambles Lebih dari 700 Poin.  Wall Street Ambruk Diguncang Saham AI, Nasdaq Anjlok, Dow Ambles Lebih dari 700 Poin &nbsp;&nbsp; InvestorTrust",
   "corroboration": 0,
   "response": null,
   "score": 16,
@@ -321,9 +429,41 @@
   "schedule": false,
   "party": false,
   "snippet": "Astra Tetapkan Target Laba Per Saham Rp 1.200 pada 2030.  Astra Tetapkan Target Laba Per Saham Rp 1.200 pada 2030 &nbsp;&nbsp; Demokratis.co.id",
-  "corroboration": 4,
+  "corroboration": 5,
   "response": null,
   "score": 26,
+  "outcome": null,
+  "anomali": {
+   "vol_z": 0.01,
+   "abn5": 4.18,
+   "last": "2026-11-13"
+  }
+ },
+ {
+  "id": "4c78c26abc54",
+  "title": "Astra Targetkan Laba per Saham Rp 1.150-1.200 pada 2030",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUUlxVnQwa0xzNEhQVEEteE9xal9EeV9YbXN3UEZpOUJ2M3VTazVHVS1PRjFINnkzQTdyM1hkdUZobENhSHota2FMWFBUdGRpTHVWOGxhOXRDczhReHY4S0dRMzlrUWtEVmNta2xFMHEzT3pIV0kzbEZNYTNlT0lxSGdxNHAtdDVUYW42cUM5NVlTT0dzQlJ3?oc=5",
+  "media": "Tempo.co",
+  "published": "2026-11-16T09:07:00+00:00",
+  "tickers": [
+   "ASII"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-17T00:09:25.873912+00:00",
+  "anon": [
+   "sedang menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Astra Targetkan Laba per Saham Rp 1.150-1.200 pada 2030.  Astra Targetkan Laba per Saham Rp 1.150-1.200 pada 2030 &nbsp;&nbsp; Tempo.co",
+  "corroboration": 5,
+  "response": null,
+  "score": 30,
   "outcome": null,
   "anomali": {
    "vol_z": 0.01,
@@ -353,7 +493,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Pertahankan Rasio Dividen 40-50%, Astra (ASII) Bidik RoE 15%.  Pertahankan Rasio Dividen 40-50%, Astra (ASII) Bidik RoE 15% &nbsp;&nbsp; InvestorTrust",
-  "corroboration": 4,
+  "corroboration": 5,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -415,7 +555,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Laba Bersih per Saham ASII Bisa Melesat 121% di 2030.  Laba Bersih per Saham ASII Bisa Melesat 121% di 2030 &nbsp;&nbsp; Bloomberg Technoz",
-  "corroboration": 4,
+  "corroboration": 5,
   "response": null,
   "score": 35,
   "outcome": null,
@@ -539,7 +679,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Implementasi Strategi Astra & Aspirasi Pertumbuhan Menuju 2030.  Implementasi Strategi Astra & Aspirasi Pertumbuhan Menuju 2030 &nbsp;&nbsp; PT Astra International Tbk",
-  "corroboration": 4,
+  "corroboration": 5,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -1420,7 +1560,7 @@
   "asal": [],
   "first_seen": "2026-11-14T02:41:20.651513+00:00",
   "anon": [
-   "tengah menjajaki"
+   "sumber yang mengetahui"
   ],
   "corp": [
    "akuisisi"
@@ -1450,7 +1590,7 @@
   "asal": [],
   "first_seen": "2026-11-14T03:41:28.816212+00:00",
   "anon": [
-   "tengah menjajaki"
+   "sumber yang mengetahui"
   ],
   "corp": [
    "akuisisi"
@@ -4012,6 +4152,34 @@
   "anomali": null
  },
  {
+  "id": "1a32209e5cf4",
+  "title": "Berita dengan Tags \"Rights Issue ULTJ\"",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tUXdpRWdJSzlnOHRGa0o3OFQwOXJxZndxX0hfVk5zaDRkNV9samEtMGN4MXRBQVB3MzBHbnZVSHBFVkJydFhaSUc4Y1huT0tHamhnWDVYeVN2RkZt?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-12T05:00:49+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-12T03:44:24.735740+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Berita dengan Tags \"Rights Issue ULTJ\".  Berita dengan Tags \"Rights Issue ULTJ\" &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "21335fbfc8b5",
   "title": "Haji Isam Incar Saham Eramet di Weda Bay Nickel Senilai Rp 65 Triliun",
   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXE2aVhoY2JLR25HTWVTUW9NdVZXdE85c25pdnoyMUJ1dXhTdDJGU3hDY0gyNVFfUFE3VDJlOFFYeW1NbnFLaTU4TXQxT25zeF9wal9LZ2FuVktuYThIYjFZOE12U0hEVWptVnBCLThQdFFvOFF4TjBMaVhreEJzanJMbWJrc1ZjNFY5X1dKUDRfNExwX0hJ?oc=5",
@@ -5038,34 +5206,6 @@
   "anomali": null
  },
  {
-  "id": "1a32209e5cf4",
-  "title": "Berita dengan Tags \"Rights Issue ULTJ\"",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzc0t4cHRHdmEtbUlWWkZkSGJKbGdTSjBIZ01femN3SmhES2MzZnZpUU1ZNERLeUlNZ2NzWFZaWGhMTDd4U3FlY2lDbTFCUEc5dzZXRXV1SQ?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-11T17:13:47+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [
-   "Penerbitan saham"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-12T03:44:24.735740+00:00",
-  "anon": [],
-  "corp": [
-   "rights issue"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Berita dengan Tags \"Rights Issue ULTJ\".  Berita dengan Tags \"Rights Issue ULTJ\" &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 0,
-  "response": null,
-  "score": 9,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "1efa446adb62",
   "title": "Prospek harga Fetch.ai: Pembeli mengincar resistensi $0,1582 seiring momentum menguat",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2wxYXVKdHQ5Y1NuUk9uRWpDTjNzNlA3TnFjaHBhNWtGZVo4d1NseElyUjJfdWZpOWlYS1Z4UXljd3VOSThmZi1HelloZTMzejhsdXI3aXBXZEJnQkJlcjBmSVgyeENRcEJ2alhLR1ZHTTFzTy0yZ3lFd2p1YmdXS3otdVpGYWxpX3YtWlJIOEhpOEpSVVJya2NXWWhqN281aUtPcE83WmtZQQ?oc=5",
@@ -5169,11 +5309,7 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.42,
-   "abn5": 1.54,
-   "last": "2026-11-13"
-  }
+  "anomali": null
  },
  {
   "id": "6b691b104a0a",
@@ -8103,11 +8239,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.42,
-   "abn5": 1.54,
-   "last": "2026-11-13"
-  }
+  "anomali": null
  },
  {
   "id": "1145c2f50a3d",
@@ -21978,11 +22110,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.74,
-   "abn5": -1.5,
-   "last": "2026-11-13"
-  }
+  "anomali": null
  },
  {
   "id": "3ec4404aa9a5",
