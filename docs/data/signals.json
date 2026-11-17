@@ -173,7 +173,7 @@
   "asal": [],
   "first_seen": "2026-11-17T01:47:14.807107+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -268,6 +268,34 @@
   "corroboration": 0,
   "response": null,
   "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "676c525359d0",
+  "title": "Wall Street Melemah Usai Investor Jual Saham Teknologi AI",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WV1ByS3pKcXFHZU9HME1qb01DUmJFcm9YM3pnaWkyRmdnVGd0VUduRW93OXNZWVU2ZmppM0dGenUzMXBNXzZrQTY4VzRQQjVmdGpSZnpsUldKek9UQTZVRmJrV3NnOXE2cG1GVw?oc=5",
+  "media": "Lensa Hukum",
+  "published": "2026-11-17T00:07:51+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-17T03:47:02.359530+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Wall Street Melemah Usai Investor Jual Saham Teknologi AI.  Wall Street Melemah Usai Investor Jual Saham Teknologi AI &nbsp;&nbsp; Lensa Hukum",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -368,7 +396,7 @@
   "first_seen": "2026-11-17T00:09:25.873912+00:00",
   "anon": [],
   "corp": [
-   "rights issue"
+   "tender offer"
   ],
   "stance": null,
   "value_bn": 0.0,
@@ -404,6 +432,60 @@
   "corroboration": 0,
   "response": null,
   "score": 24,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "d37ae24f267f",
+  "title": "Badai Datang dari Jepang-China, IHSG-Rupiah Kencangkan Sabuk Pengaman - Halaman 2",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0o5ck5WOGF6N2haUnVqMml6WV9HcFJ6ZUl3eDU4RFRINVRLZDA2aGY1emt4ak1rYnRXSUhrdlJaWFd2cFFVcVdzOXBGOTRQVEpUWU51WkZtZExscFhCeU1BcE5QdDBxSlNBcjJNSUVzeTk0WGFiend3MkpKc3RLVXY0T1JNeHRjYTQycTR4QUNZc1lSd2ZWOTg3aWV2eV9HcUJVZjQ1ZGhFWlZnOHd1QjNvQmJtbkZLbDNMdVB0LUM1VmtQZktvekNIeGpqa1o1?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-11-16T23:27:41+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-17T03:47:02.359530+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Badai Datang dari Jepang-China, IHSG-Rupiah Kencangkan Sabuk Pengaman - Halaman 2.  Badai Datang dari Jepang-China, IHSG-Rupiah Kencangkan Sabuk Pengaman - Halaman 2 &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 24,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "2d52528c0c62",
+  "title": "Dihukum OJK, PT Asri Karya Lestari Ternyata Punya Proyek Puluhan Miliar di Kaltim",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2RydGVSY3lWNHZlcC1JbFpESkhtR2ZpWVFZbGtPN21JZVJHSlo5Mkg2bVNQNWZGNUYwdWtDd1dJNnh5X1k2YklLRUxKREhXVFVscUxrWHhKVVUwbjdWS01qQnRTeU1KVFZ3d1hleWltRnJueHJFTjlZV1hFdEVEYlRKUHZsSlQya3p0dlptRkVwS05pbzRoOGo2QXplNmdZQ2llalMzS0dmMHBoM3ZJ?oc=5",
+  "media": "Hariankaltim.com",
+  "published": "2026-11-16T23:14:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-17T03:47:02.359530+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Dihukum OJK, PT Asri Karya Lestari Ternyata Punya Proyek Puluhan Miliar di Kaltim.  Dihukum OJK, PT Asri Karya Lestari Ternyata Punya Proyek Puluhan Miliar di Kaltim &nbsp;&nbsp; Hariankaltim.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -760,8 +842,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.4,
-   "abn5": 2.66,
+   "vol_z": -0.38,
+   "abn5": 2.49,
    "last": "2026-11-17"
   }
  },
@@ -792,8 +874,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.4,
-   "abn5": 2.66,
+   "vol_z": -0.38,
+   "abn5": 2.49,
    "last": "2026-11-17"
   }
  },
@@ -824,8 +906,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.4,
-   "abn5": 2.66,
+   "vol_z": -0.38,
+   "abn5": 2.49,
    "last": "2026-11-17"
   }
  },
@@ -856,8 +938,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.4,
-   "abn5": 2.66,
+   "vol_z": -0.38,
+   "abn5": 2.49,
    "last": "2026-11-17"
   }
  },
@@ -918,8 +1000,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.4,
-   "abn5": 2.66,
+   "vol_z": -0.38,
+   "abn5": 2.49,
    "last": "2026-11-17"
   }
  },
@@ -976,8 +1058,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.91,
-   "abn5": -6.63,
+   "vol_z": -0.89,
+   "abn5": -6.66,
    "last": "2026-11-17"
   }
  },
@@ -1010,8 +1092,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.91,
-   "abn5": -6.63,
+   "vol_z": -0.89,
+   "abn5": -6.66,
    "last": "2026-11-17"
   }
  },
@@ -1042,8 +1124,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.4,
-   "abn5": 2.66,
+   "vol_z": -0.38,
+   "abn5": 2.49,
    "last": "2026-11-17"
   }
  },
@@ -1206,8 +1288,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 8.3,
+   "vol_z": -0.02,
+   "abn5": 7.18,
    "last": "2026-11-17"
   }
  },
@@ -1589,8 +1671,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.4,
-   "abn5": 2.66,
+   "vol_z": -0.38,
+   "abn5": 2.49,
    "last": "2026-11-17"
   }
  },
@@ -1867,8 +1949,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -2101,8 +2183,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.91,
-   "abn5": -6.63,
+   "vol_z": -0.89,
+   "abn5": -6.66,
    "last": "2026-11-17"
   }
  },
@@ -2133,8 +2215,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.91,
-   "abn5": -6.63,
+   "vol_z": -0.89,
+   "abn5": -6.66,
    "last": "2026-11-17"
   }
  },
@@ -2500,7 +2582,7 @@
   "asal": [],
   "first_seen": "2026-11-13T11:24:37.130098+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -2526,7 +2608,7 @@
   "asal": [],
   "first_seen": "2026-11-13T11:24:37.130098+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -3395,8 +3477,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.91,
-   "abn5": -6.63,
+   "vol_z": -0.89,
+   "abn5": -6.66,
    "last": "2026-11-17"
   }
  },
@@ -3539,8 +3621,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.91,
-   "abn5": -6.63,
+   "vol_z": -0.89,
+   "abn5": -6.66,
    "last": "2026-11-17"
   }
  },
@@ -4224,8 +4306,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -4828,8 +4910,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.91,
-   "abn5": -6.63,
+   "vol_z": -0.89,
+   "abn5": -6.66,
    "last": "2026-11-17"
   }
  },
@@ -5000,7 +5082,7 @@
  {
   "id": "9018399713c9",
   "title": "Divestasi Aset Dongkrak Profitabilitas PTPP",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQanpWN2NQZ2w5SENVbzEwQmtMQmFxQ29IRVV2aFZENjlWMXJKcTF1YlN2MXRROEJUWDFnd1V5UEo2dmdpZVJUYUczZFA3SmoyNndGMDN2TkpSNVA3U2x4Y1N6b3JGQmRqU0Rfc0M3NmFUT1NqSzRicHBReHJ5d3FMaHUxUzUyYmJmT1Y2OUhXbm5OdDNUNEZsRTBTcDgzZw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUGJocUM2NzQwTmZsVy1Zakh0M05SaG11dm96UHQ1MnBnRDVYQXF6MGd0LXJLeVJYUFhNb2dFUkQwaXAteXVIWm5YT0I0T0ZUNkxpVFRmZDY1ZDVLbzZ5LVk1eXl6WUE2ZnRBMUFMV1NyOXJUU2JadFYxelpJT3Vna29JTQ?oc=5",
   "media": "KONTAN",
   "published": "2026-11-12T01:00:34+00:00",
   "tickers": [],
@@ -5104,8 +5186,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.44,
-   "abn5": 2.58,
+   "vol_z": -0.41,
+   "abn5": 2.34,
    "last": "2026-11-17"
   }
  },
@@ -5720,8 +5802,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.63,
-   "abn5": -1.4,
+   "vol_z": -0.58,
+   "abn5": -1.07,
    "last": "2026-11-17"
   }
  },
@@ -5860,8 +5942,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": -4.82,
+   "vol_z": -0.19,
+   "abn5": -4.52,
    "last": "2026-11-17"
   }
  },
@@ -6248,8 +6330,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -6407,7 +6489,7 @@
   "asal": [],
   "first_seen": "2026-11-11T10:26:40.549741+00:00",
   "anon": [
-   "sedang menjajaki"
+   "mengincar"
   ],
   "corp": [],
   "stance": null,
@@ -6450,8 +6532,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -6763,8 +6845,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -7333,8 +7415,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.91,
-   "abn5": -6.63,
+   "vol_z": -0.89,
+   "abn5": -6.66,
    "last": "2026-11-17"
   }
  },
@@ -7761,8 +7843,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -8645,8 +8727,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.44,
-   "abn5": 2.58,
+   "vol_z": -0.41,
+   "abn5": 2.34,
    "last": "2026-11-17"
   }
  },
@@ -8708,8 +8790,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.63,
-   "abn5": -1.4,
+   "vol_z": -0.58,
+   "abn5": -1.07,
    "last": "2026-11-17"
   }
  },
@@ -8997,10 +9079,10 @@
   "jenis": [],
   "asal": [],
   "first_seen": "2026-11-10T06:52:26.371891+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
+  "anon": [
+   "sumber yang mengetahui"
   ],
+  "corp": [],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
@@ -9008,7 +9090,7 @@
   "snippet": "Performa Merah Saham Nvidia (NVDA) Makin Dalam! Diselimuti Skandal Perselingkuhan, Mata-Mata China, Hingga Ketergantungan Nvidia - Sinar Harapan.  Performa Merah Saham Nvidia (NVDA) Makin Dalam! Diselimuti Skandal Perselingkuhan, Mata-Mata China, Hingga Ketergantungan Nvidia - Sinar Harapan &nbsp;&n",
   "corroboration": 1,
   "response": null,
-  "score": 6,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -9094,8 +9176,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.44,
-   "abn5": 2.58,
+   "vol_z": -0.41,
+   "abn5": 2.34,
    "last": "2026-11-17"
   }
  },
@@ -10127,8 +10209,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -10282,8 +10364,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -10685,8 +10767,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -10747,8 +10829,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 8.3,
+   "vol_z": -0.02,
+   "abn5": 7.18,
    "last": "2026-11-17"
   }
  },
@@ -11439,8 +11521,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 8.3,
+   "vol_z": -0.02,
+   "abn5": 7.18,
    "last": "2026-11-17"
   }
  },
@@ -11474,8 +11556,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 8.3,
+   "vol_z": -0.02,
+   "abn5": 7.18,
    "last": "2026-11-17"
   }
  },
@@ -11703,8 +11785,8 @@
   "score": 36,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 8.3,
+   "vol_z": -0.02,
+   "abn5": 7.18,
    "last": "2026-11-17"
   }
  },
@@ -11793,8 +11875,8 @@
   "score": 37,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 8.3,
+   "vol_z": -0.02,
+   "abn5": 7.18,
    "last": "2026-11-17"
   }
  },
@@ -11945,8 +12027,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 8.3,
+   "vol_z": -0.02,
+   "abn5": 7.18,
    "last": "2026-11-17"
   }
  },
@@ -12283,8 +12365,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.91,
-   "abn5": -6.63,
+   "vol_z": -0.89,
+   "abn5": -6.66,
    "last": "2026-11-17"
   }
  },
@@ -14821,11 +14903,11 @@
   "snippet": "BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman.  BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman &nbsp;&nbsp; StockWatch.id",
   "corroboration": 2,
   "response": null,
-  "score": 52,
+  "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 4.75,
+   "vol_z": -0.08,
+   "abn5": 5.81,
    "last": "2026-11-17"
   }
  },
@@ -14857,11 +14939,11 @@
   "snippet": "BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman.  BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman &nbsp;&nbsp; stockwatch.id",
   "corroboration": 2,
   "response": null,
-  "score": 52,
+  "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 4.75,
+   "vol_z": -0.08,
+   "abn5": 5.81,
    "last": "2026-11-17"
   }
  },
@@ -14970,11 +15052,11 @@
   "snippet": "INDF-ICBP Pastikan Aksi Buyback Saham Tidak Langgar Aturan Free Float.  INDF-ICBP Pastikan Aksi Buyback Saham Tidak Langgar Aturan Free Float &nbsp;&nbsp; IDX Channel",
   "corroboration": 2,
   "response": null,
-  "score": 14,
+  "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 4.75,
+   "vol_z": -0.08,
+   "abn5": 5.81,
    "last": "2026-11-17"
   }
  },
@@ -15752,8 +15834,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -16581,8 +16663,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.91,
-   "abn5": -6.63,
+   "vol_z": -0.89,
+   "abn5": -6.66,
    "last": "2026-11-17"
   }
  },
@@ -17143,8 +17225,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -17260,8 +17342,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -18606,8 +18688,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -1.34,
+   "vol_z": -0.4,
+   "abn5": -0.08,
    "last": "2026-11-17"
   }
  },
@@ -19006,8 +19088,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.28,
-   "abn5": -5.78,
+   "vol_z": -0.24,
+   "abn5": -5.82,
    "last": "2026-11-17"
   }
  },
@@ -20758,8 +20840,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.28,
-   "abn5": -5.78,
+   "vol_z": -0.24,
+   "abn5": -5.82,
    "last": "2026-11-17"
   }
  },
@@ -21037,8 +21119,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.25,
-   "abn5": -3.53,
+   "vol_z": -0.23,
+   "abn5": -4.21,
    "last": "2026-11-17"
   }
  },
@@ -21069,8 +21151,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.24,
-   "abn5": -1.76,
+   "vol_z": -1.22,
+   "abn5": -1.48,
    "last": "2026-11-17"
   }
  },
@@ -21209,8 +21291,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.84,
-   "abn5": -5.86,
+   "vol_z": -0.82,
+   "abn5": -5.6,
    "last": "2026-11-17"
   }
  },
@@ -22862,8 +22944,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.44,
-   "abn5": 2.58,
+   "vol_z": -0.41,
+   "abn5": 2.34,
    "last": "2026-11-17"
   }
  },
@@ -24488,8 +24570,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.91,
-   "abn5": -6.63,
+   "vol_z": -0.89,
+   "abn5": -6.66,
    "last": "2026-11-17"
   }
  },
@@ -24707,11 +24789,11 @@
   "snippet": "Emiten ICBP Raup Penjualan Rp 64,45 Triliun.  Emiten ICBP Raup Penjualan Rp 64,45 Triliun &nbsp;&nbsp; Liputan6.com",
   "corroboration": 3,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 4.75,
+   "vol_z": -0.08,
+   "abn5": 5.81,
    "last": "2026-11-17"
   }
  },
