@@ -1,5 +1,61 @@
 [
  {
+  "id": "4b3e7b94db69",
+  "title": "Fitch Pangkas Peringkat KB Bukopin Finance, Usai Diakuisisi JB Woori Capital",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXF0WFRYUEJGcTV1LWFQMGM0RHpHRkdGS3BUTndiQkdOYzd3YXlZN1dCWllVbmQxMGJKZi1yLUdJM2xKVDRDeGJmR01talhORzg2RHMxcEZWZDNOOHV5SVl5RXdPN0lWMDJQbEtmNDJJQm9Cd2s2Q19YeVNKNHdMSHRFVWQxRTRuR1ZxZDBScnBEV2FRdElteE9OUWNJQy11bGhfalR5LWZjQnNkZlNZ0gGoAUFVX3lxTFBtOFVGWTVnN2JMX2lIYzVTUDhZX1B1TEpHbEtVU3J4MElxZFRPcXlsUVF2SmVONVV6UmRIbElPZEZKTjdKc3lVZDBlNFR0ZW1mX2N3YWxzOTdoQkVyYzhIRUNvUjJRbWhOZk00VlVobU9rWWZhUkp4R3c4OGYzaFJRZ1VSRUlyQ2g3WVRZSzBHdlBWX2owdjRuSHp4bmZOYkd1UlZzODEyUA?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-18T13:23:33+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-18T14:13:28.496152+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Fitch Pangkas Peringkat KB Bukopin Finance, Usai Diakuisisi JB Woori Capital.  Fitch Pangkas Peringkat KB Bukopin Finance, Usai Diakuisisi JB Woori Capital &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "eb8077ab59a5",
+  "title": "Merdeka Gold (EMAS) Private Placement Terbitkan 1,47 Miliar Saham - Bisnis.com",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnlZTFVCbnM0MGoxSURacVRMM3Nva2tESlE3MnFqcUQyVVBxODZPbFpZUHJTLS12SWt0QlVlNjJaUjAzZDAzSTFBa0lmX0xCQVN5emZwNFFqdExQWkZYOXJqbmdSdnlpZmg2MDNIbGlWNzFZSGx6RHJjUldJN3Q2TEJiLUd3VnRmMDFKajBPT1pVTjNPRW9fbkNwdmNQQWxmblZkZXpZX2RJb1dvdXU4MkNkS0s?oc=5",
+  "media": "Bisnis.com - Market",
+  "published": "2026-11-18T13:20:04+00:00",
+  "tickers": [
+   "EMAS"
+  ],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-18T14:13:28.496152+00:00",
+  "anon": [],
+  "corp": [
+   "private placement"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Merdeka Gold (EMAS) Private Placement Terbitkan 1,47 Miliar Saham - Bisnis.com.  Merdeka Gold (EMAS) Private Placement Terbitkan 1,47 Miliar Saham &nbsp;&nbsp; Bisnis.com - Market",
+  "corroboration": 2,
+  "response": null,
+  "score": 20,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "69c75ef16516",
   "title": "BRI Danareksa Siapkan Lebih dari Lima Perusahaan IPO",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lREFVclIxclJScWw0eGQxOEYxQUxVN2RPbHY3NWFDaDBHQnNYNWlJUVVicGZNczFHZXlUd003djNzWndHbWxEX3Bpa1NLaVMtMDZtR2ZGSkF0S09tcjdIblVvTjdQNGhZbEVzQ25rSnNoR2lr?oc=5",
@@ -53,6 +109,34 @@
   "schedule": false,
   "party": false,
   "snippet": "Analisis Prospek Saham AKRA Usai Akuisisi SPBU VIVO Senilai US$ 15,5 Juta.  Analisis Prospek Saham AKRA Usai Akuisisi SPBU VIVO Senilai US$ 15,5 Juta &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "7603adebc97f",
+  "title": "Analisis Prospek Saham AKRA Usai Akuisisi SPBU VIVO Senilai US$ 15,5 Juta - Halaman 2",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ29qbWxpcXVqbXFGT25jZFpsZjNUZ1V1R1F0MDVOVURTUGZTUHJWa3RWaXFGX0JONFlhWERra1FhZUJNSEcxUHhJS2E5NEpLcVgtc0JEUXVsc0RiTllmRTlsZDZMenVqRXpVUldGaWtfRTk5TkR5dVhQOWw3Uk1pbmNjZC03VDF4NjVwOFpCQXdUYTNGc2FkaDJ5VUxFSXV2elRvb2pJdHoyblE?oc=5",
+  "media": "investor.id",
+  "published": "2026-11-18T12:26:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-18T14:13:28.496152+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Analisis Prospek Saham AKRA Usai Akuisisi SPBU VIVO Senilai US$ 15,5 Juta - Halaman 2.  Analisis Prospek Saham AKRA Usai Akuisisi SPBU VIVO Senilai US$ 15,5 Juta - Halaman 2 &nbsp;&nbsp; investor.id",
   "corroboration": 0,
   "response": null,
   "score": 6,
@@ -202,6 +286,32 @@
   "corroboration": 0,
   "response": null,
   "score": 21,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "a55a29695ac6",
+  "title": "Prediksi harga DeXe: Bull mengincar breakout di atas resistensi $1,25",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1lnbkpidWl0Znh0NHpOSW9SZ3kzNENRbjZIeW1keDJidEV1TmJJYkt3TmRGMnY3Vzk2NVZQNEhiVEh2SVpYVGRscVRxMmFEMXB3Zi1jOVBjSTJfb2ZYc2g0S3BRa2s4em5Eb1lvN2l5VmVHZVRwQ2JmSHE1TlRpdlhCV2c2Q2hjNnM5Wmk1a0FTZGlqZFdtNzdkdHZGMkt5LVVV?oc=5",
+  "media": "Traders Union",
+  "published": "2026-11-18T10:53:40+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-18T14:13:28.496152+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prediksi harga DeXe: Bull mengincar breakout di atas resistensi $1,25.  Prediksi harga DeXe: Bull mengincar breakout di atas resistensi $1,25 &nbsp;&nbsp; Traders Union",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -605,7 +715,7 @@
  {
   "id": "3d110404d793",
   "title": "Cakrawala Nexus Investama Akuisisi 29,87% Saham INET",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVFtTVdPTW5fdVNBV0JWdW1Eem9EQThMdG1OOVRaMzF4Szd0QUdzajFOc29jMjd4ZWVFeTNFYU16Z3pXTGJEc3BKNmRYTlhSRXVjbUNXVkJHcnppZGNzQi1vdFB1M0Zqb29fcVF5bHJTVG5DWlZURW12R3c1WWN4amdpYjJvWnpXSjhQdA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUEhGZjRpSU5URWJjd0RIR0lJTlpiajNLc0FFUThrbWwzNV9ZZlZEbFpDeEZhUV84aUdYcnZINUVCSmZpR1hMc1ZOMjBJQkpfVlBwakhJTzJaaEliX3N2U1VBMEE0cmswVTJwOVhzOXVtQ0xvai10cm5hSjZJNE9RWk9STXc0ZDNXNzFHZWNBZDlrTUpsS1FIdnlsYk1rLU5Ud0ItcmFWSQ?oc=5",
   "media": "KONTAN",
   "published": "2026-11-18T01:43:05+00:00",
   "tickers": [],
@@ -1288,9 +1398,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Siapkan Private Placement, Intip Prospek Merdeka Gold Resources (EMAS).  Siapkan Private Placement, Intip Prospek Merdeka Gold Resources (EMAS) &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 15,
+  "score": 20,
   "outcome": null,
   "anomali": null
  },
@@ -6803,6 +6913,32 @@
   "anomali": null
  },
  {
+  "id": "52e81637ac9b",
+  "title": "3 Perusahaan Termasuk Google Diuntungkan Atas Skandal Nvidia - Teknologi",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXpGQ3d2SWNiOTUzaE9iVGJwdnluSlctdE14bUhzeEwzN3BJWUFBMC12Z1E5aFhKc0lKcFhIeWlKTWhFcUJ3Rm5JLXpXZzFIQ1pKeGozbldoaWFwbkN2aDdfR2MwUVYzdWxNQ1lmOHBGcFk0OWg5dnRNOGUtRHA0Nm1WdElnSTZOQm1pb1RhM2JwajZnREZYRklFTkdNMGpHZkFGM3JlQ2hBNVNtbk9wS3VBQ1U?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-12T06:41:07+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-12T08:19:07.351726+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "3 Perusahaan Termasuk Google Diuntungkan Atas Skandal Nvidia - Teknologi.  3 Perusahaan Termasuk Google Diuntungkan Atas Skandal Nvidia - Teknologi &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "6e55b3e707a6",
   "title": "Proses Akuisisi Frisian Flag, Penjualan-Laba Ultrajaya (ULTJ) Naik per Kuartal III 2026",
   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSTEtRFNsNEc4b3NvYTQ1NXROd1hsY0hORlMySEZERVhfRWsxMHU5VF8zRHlOaXp4VWZrby1NcnB5NkNEOG1RVnBnSU81LVM0eTRqMVpSSlBuMnFzeDR0UTNNV2dYcmd3VkUxc3dLWkI1RTdrRFg4aUpWeEQxalhhVjJDNmxSc3hQcFo0T2hMOXczR1dHNlVkaFJrUzh5ak85OWlOUnVSbk5ySVBwVkJFYnh5ck8wajJPSzRZMnpzc3ctRU0xQlYwZFBlUDY1TEpKUm9pQ1Z1OVRQUzFKUjNF?oc=5",
@@ -6885,32 +7021,6 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "52e81637ac9b",
-  "title": "3 Perusahaan Termasuk Google Diuntungkan Atas Skandal Nvidia - Teknologi",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXpGQ3d2SWNiOTUzaE9iVGJwdnluSlctdE14bUhzeEwzN3BJWUFBMC12Z1E5aFhKc0lKcFhIeWlKTWhFcUJ3Rm5JLXpXZzFIQ1pKeGozbldoaWFwbkN2aDdfR2MwUVYzdWxNQ1lmOHBGcFk0OWg5dnRNOGUtRHA0Nm1WdElnSTZOQm1pb1RhM2JwajZnREZYRklFTkdNMGpHZkFGM3JlQ2hBNVNtbk9wS3VBQ1U?oc=5",
-  "media": "Bloomberg Technoz",
-  "published": "2026-11-12T06:25:00+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-12T08:19:07.351726+00:00",
-  "anon": [
-   "mengincar"
-  ],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "3 Perusahaan Termasuk Google Diuntungkan Atas Skandal Nvidia - Teknologi.  3 Perusahaan Termasuk Google Diuntungkan Atas Skandal Nvidia - Teknologi &nbsp;&nbsp; Bloomberg Technoz",
-  "corroboration": 0,
-  "response": null,
-  "score": 25,
   "outcome": null,
   "anomali": null
  },
@@ -8382,7 +8492,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.28,
+   "abn5": -0.43,
+   "last": "2026-11-18"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -11420,7 +11534,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.28,
+   "abn5": -0.43,
+   "last": "2026-11-18"
+  }
  },
  {
   "id": "1145c2f50a3d",
