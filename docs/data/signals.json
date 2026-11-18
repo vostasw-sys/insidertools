@@ -1,5 +1,34 @@
 [
  {
+  "id": "fba35878854e",
+  "title": "MEDC Terbitkan Obligasi US$ 300 Juta untuk Tender Offer dan Refinancing",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmlGVEYtVHFHX09qZnpQY2JsLVV2cW9Sbk50ZUFCWTlJbTdnV3RDOXhzSUpKUl95Y3N3WDVLNlZ5SDBuWjUwS3BTc1VtTHczZUpDMHRKdFdrQzBwTklQZ0lhOFR1Rzhvclk4akYtLVVqcGRJbE9FbldkWU9nTkxzdWFwNWM0UW5CUS1KY2liWkhQN1FpM1hscURHd1dheUZJRDNDaWJmUQ?oc=5",
+  "media": "investor.id",
+  "published": "2026-11-18T03:45:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A",
+   "Utang/restrukturisasi"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-18T04:28:02.357102+00:00",
+  "anon": [],
+  "corp": [
+   "tender offer"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "MEDC Terbitkan Obligasi US$ 300 Juta untuk Tender Offer dan Refinancing.  MEDC Terbitkan Obligasi US$ 300 Juta untuk Tender Offer dan Refinancing &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "734b28d24091",
   "title": "Jangan Terlewat! 2 Emiten Ini Cum Date Dividen Hari Ini",
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb0cyN1RNeXpudV9lMkt3XzhGNGdHQlBZSHcwMnAtay1aMk1Uc3lWRnZxS0R4RWduU2d2UXBYVW5RTmRTLWVDQlhMdnpFT2g0Undwb3NfSWZscE5Na00ya1o5d24wSC1oMUI0V3JWMy1sNHJVNjJpNzNJbFhoUlBhclNRM0lxZHY0UjBKUFJPZjZSQQ?oc=5",
@@ -82,8 +111,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -310,8 +339,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -1593,7 +1622,7 @@
   "asal": [],
   "first_seen": "2026-11-17T01:47:14.807107+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -1718,8 +1747,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.2,
-   "abn5": 7.73,
+   "vol_z": 0.21,
+   "abn5": 7.37,
    "last": "2026-11-18"
   }
  },
@@ -2324,8 +2353,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.5,
-   "abn5": 4.21,
+   "vol_z": -0.47,
+   "abn5": 3.55,
    "last": "2026-11-18"
   }
  },
@@ -2356,8 +2385,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.5,
-   "abn5": 4.21,
+   "vol_z": -0.47,
+   "abn5": 3.55,
    "last": "2026-11-18"
   }
  },
@@ -2388,8 +2417,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.5,
-   "abn5": 4.21,
+   "vol_z": -0.47,
+   "abn5": 3.55,
    "last": "2026-11-18"
   }
  },
@@ -2420,8 +2449,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.5,
-   "abn5": 4.21,
+   "vol_z": -0.47,
+   "abn5": 3.55,
    "last": "2026-11-18"
   }
  },
@@ -2452,8 +2481,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.5,
-   "abn5": 4.21,
+   "vol_z": -0.47,
+   "abn5": 3.55,
    "last": "2026-11-18"
   }
  },
@@ -2512,8 +2541,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.5,
-   "abn5": 4.21,
+   "vol_z": -0.47,
+   "abn5": 3.55,
    "last": "2026-11-18"
   }
  },
@@ -2546,8 +2575,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.5,
-   "abn5": 4.21,
+   "vol_z": -0.47,
+   "abn5": 3.55,
    "last": "2026-11-18"
   }
  },
@@ -2604,8 +2633,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -2638,8 +2667,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -2670,8 +2699,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.5,
-   "abn5": 4.21,
+   "vol_z": -0.47,
+   "abn5": 3.55,
    "last": "2026-11-18"
   }
  },
@@ -2831,11 +2860,11 @@
   "snippet": "BRI Danareksa Pilih Tiga Saham untuk 16 November 2026.  BRI Danareksa Pilih Tiga Saham untuk 16 November 2026 &nbsp;&nbsp; Demokratis.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 31,
+  "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.1,
-   "abn5": 5.44,
+   "vol_z": 0.12,
+   "abn5": 4.67,
    "last": "2026-11-18"
   }
  },
@@ -3301,8 +3330,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.5,
-   "abn5": 4.21,
+   "vol_z": -0.47,
+   "abn5": 3.55,
    "last": "2026-11-18"
   }
  },
@@ -3413,8 +3442,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -3611,8 +3640,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -3646,7 +3675,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -3879,8 +3908,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -3911,8 +3940,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -5199,8 +5228,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -5369,8 +5398,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -5787,8 +5816,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": 2.68,
+   "vol_z": -0.2,
+   "abn5": 2.52,
    "last": "2026-11-18"
   }
  },
@@ -6091,7 +6120,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -6720,8 +6749,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -6754,8 +6783,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": 2.68,
+   "vol_z": -0.2,
+   "abn5": 2.52,
    "last": "2026-11-18"
   }
  },
@@ -6924,7 +6953,7 @@
  {
   "id": "02c2c03aebe5",
   "title": "Pengumuman MSCI November Resmi Dirilis: Ini Rincian Saham yang Keluar dan Turun Kelas, Efektif Desember 2026! - Sinar Harapan",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYmtSYUlud0pQVVF5eS0xT2NWdXVqU3NWalJYQWxrZVpTbUZyejZFdXBfaHFoU0JlaUI4V2Jnc2pjM0tiRmN3YWhWSVF5cEcxdVJoNUEtZDJlaW93aXhLMGliaWFfdWpaYVZkMFhCNjBWY01aT180VkZ4VHI3cjB5ZmExMDhEYkR6a3FfR1hxcFpyejlGcW95dWhuMlI3RFRxTzgwUE0zNmc1Mll1dFphNXZ2bml3R3ZsUE0tZlpIQkVWUFB4U2VxVFlXaXlUMVZwVXcwUVl1RTNfWXA4Yjlvdl8zUm5UUkNkMGfSAe8BQVVfeXFMTUxmVjVyaU5CUUhOTHVEdXlmM2hBUktUUnlJMk5mMW13ZmFlamtkTnl3NE53bHhtcjh3TGx6UlNCMV96N05nVTRoSkhWM09WdjVLS3R3cG9ZcktJZU95SUFBeGVsbXFiaUlWZHRWeFItaW9oemVLOFo0VHFFX080aHk4aUhOWHdFaW9IVWFkSkg4TG5CMWZ6dFluVnpMQ0tfQlhsMm1hYV92MTFLQjVnclRxNGF1cHF1NHFCZ2o4cklCRkkwbURzdXYyVDc3b1RzUElEa0NYbnBoZlhSMEdwOHdnR0ZhWVRyTUtrbFU2UkU?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOS0JHVFlLVVV4R1hhUzg5V2lLa1NYXzJtWVYxV0dlSkR0Y0UzY0hJNVIzby03YzY3U2t1RldMbl9mNEN4NW52elRjMkZkcUJOellRZk5FbUVETnREU2FyMDdIYUxLN3hGb3AxeG9CMHNySXBQa1NtZ2FXc2czR2JQYkxtdDVzbUJTSTZPZWp6VEdOemtBXzlzWTZJZThFN3UyUUlGMk90SGp4MWZCLUF5TFlsLVltbDZ6ZjY1OVZLRl9RWEUtUDZXdzNjQXdHTkhwTUY2LURNLWR3ODdIWFV2UXhNSHJHaU5fT1FPSXJyRk1lZ1HSAfgBQVVfeXFMTUVkZ2lPUDAydGUxNl9YMWgyNG1qd1BFa3RuOHlsOFV3MmlCdGFOa1NoNDZPcHkxT1A3OGg1MmJuRFBZWHhPTXk4MHlqSDl5WGowN04tVlBNZTZIcUNoT2ltdUkxRVB2Q0JaTGc1bGpkbWZCRGRoNFM5SFNDRm41QnNnSkdJUXFIS0dfeFlxTUlqT211dXV0VFdfZW82SXNka1praE5CWVJISXo2TDZ1bzd4azh6TjVIQ3hfRGtmdnBLaEp2UUkyWWRpdkxiZVliaWFCZ3czT1ktYkZzUlFVdy1yelZ0bVZDM19wejBYSmcxNlVralZhTVY?oc=5",
   "media": "Sinar Harapan",
   "published": "2026-11-12T00:50:14+00:00",
   "tickers": [],
@@ -7000,8 +7029,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.28,
-   "abn5": 2.93,
+   "vol_z": -0.26,
+   "abn5": 3.22,
    "last": "2026-11-18"
   }
  },
@@ -7616,8 +7645,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.53,
-   "abn5": -0.46,
+   "vol_z": -0.51,
+   "abn5": -0.61,
    "last": "2026-11-18"
   }
  },
@@ -7756,8 +7785,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.08,
-   "abn5": -1.37,
+   "vol_z": -0.06,
+   "abn5": -3.37,
    "last": "2026-11-18"
   }
  },
@@ -8145,7 +8174,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -8347,7 +8376,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -8634,7 +8663,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -9203,8 +9232,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -9632,7 +9661,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -10569,8 +10598,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.28,
-   "abn5": 2.93,
+   "vol_z": -0.26,
+   "abn5": 3.22,
    "last": "2026-11-18"
   }
  },
@@ -10632,8 +10661,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.53,
-   "abn5": -0.46,
+   "vol_z": -0.51,
+   "abn5": -0.61,
    "last": "2026-11-18"
   }
  },
@@ -11018,8 +11047,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.28,
-   "abn5": 2.93,
+   "vol_z": -0.26,
+   "abn5": 3.22,
    "last": "2026-11-18"
   }
  },
@@ -12052,7 +12081,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -12207,7 +12236,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -12610,7 +12639,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -12668,11 +12697,11 @@
   "snippet": "Genjot Kepercayaan Investor, BRI Gelar Buyback Saham Tahap II Rp1 T.  Genjot Kepercayaan Investor, BRI Gelar Buyback Saham Tahap II Rp1 T &nbsp;&nbsp; Validnews",
   "corroboration": 2,
   "response": null,
-  "score": 26,
+  "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.1,
-   "abn5": 5.44,
+   "vol_z": 0.12,
+   "abn5": 4.67,
    "last": "2026-11-18"
   }
  },
@@ -13360,11 +13389,11 @@
   "snippet": "Ada Penataan Danantara, BRI Buka Peluang Merger dan Akuisisi Anak Usaha.  Ada Penataan Danantara, BRI Buka Peluang Merger dan Akuisisi Anak Usaha &nbsp;&nbsp; kontan.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.1,
-   "abn5": 5.44,
+   "vol_z": 0.12,
+   "abn5": 4.67,
    "last": "2026-11-18"
   }
  },
@@ -13395,11 +13424,11 @@
   "snippet": "BRI Siapkan Merger dan Akuisisi Anak Usaha untuk Efisiensi.  BRI Siapkan Merger dan Akuisisi Anak Usaha untuk Efisiensi &nbsp;&nbsp; cwibc.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 31,
+  "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.1,
-   "abn5": 5.44,
+   "vol_z": 0.12,
+   "abn5": 4.67,
    "last": "2026-11-18"
   }
  },
@@ -13624,11 +13653,11 @@
   "snippet": "Siapkan Rp 1 Triliun, BRI Siap Buyback Saham Tahap Kedua.  Siapkan Rp 1 Triliun, BRI Siap Buyback Saham Tahap Kedua &nbsp;&nbsp; Liputan6.com",
   "corroboration": 2,
   "response": null,
-  "score": 36,
+  "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.1,
-   "abn5": 5.44,
+   "vol_z": 0.12,
+   "abn5": 4.67,
    "last": "2026-11-18"
   }
  },
@@ -13714,11 +13743,11 @@
   "snippet": "BBRI Buka Opsi Merger Anak Usaha di Tengah Streamlining BUMN, Intip Skenarionya.  BBRI Buka Opsi Merger Anak Usaha di Tengah Streamlining BUMN, Intip Skenarionya &nbsp;&nbsp; Katadata.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 37,
+  "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.1,
-   "abn5": 5.44,
+   "vol_z": 0.12,
+   "abn5": 4.67,
    "last": "2026-11-18"
   }
  },
@@ -13866,11 +13895,11 @@
   "snippet": "Ikuti Arahan Danantara, BRI Siapkan Aksi Merger hingga Akuisisi Anak Usaha.  Ikuti Arahan Danantara, BRI Siapkan Aksi Merger hingga Akuisisi Anak Usaha &nbsp;&nbsp; IDX Channel",
   "corroboration": 4,
   "response": null,
-  "score": 34,
+  "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.1,
-   "abn5": 5.44,
+   "vol_z": 0.12,
+   "abn5": 4.67,
    "last": "2026-11-18"
   }
  },
@@ -14207,8 +14236,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -15409,8 +15438,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": 2.68,
+   "vol_z": -0.2,
+   "abn5": 2.52,
    "last": "2026-11-18"
   }
  },
@@ -16776,8 +16805,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.18,
-   "abn5": 3.37,
+   "vol_z": -0.13,
+   "abn5": 4.84,
    "last": "2026-11-18"
   }
  },
@@ -16812,8 +16841,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.18,
-   "abn5": 3.37,
+   "vol_z": -0.13,
+   "abn5": 4.84,
    "last": "2026-11-18"
   }
  },
@@ -16925,8 +16954,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.18,
-   "abn5": 3.37,
+   "vol_z": -0.13,
+   "abn5": 4.84,
    "last": "2026-11-18"
   }
  },
@@ -17705,7 +17734,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -18421,8 +18450,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": 2.68,
+   "vol_z": -0.2,
+   "abn5": 2.52,
    "last": "2026-11-18"
   }
  },
@@ -18537,8 +18566,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -19100,7 +19129,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -19217,7 +19246,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -20563,7 +20592,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.42,
-   "abn5": -0.93,
+   "abn5": -0.53,
    "last": "2026-11-18"
   }
  },
@@ -21722,7 +21751,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.23,
-   "abn5": -4.36,
+   "abn5": -4.04,
    "last": "2026-11-18"
   }
  },
@@ -22325,7 +22354,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.23,
-   "abn5": -4.36,
+   "abn5": -4.04,
    "last": "2026-11-18"
   }
  },
@@ -22494,8 +22523,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.2,
-   "abn5": 7.73,
+   "vol_z": 0.21,
+   "abn5": 7.37,
    "last": "2026-11-18"
   }
  },
@@ -24802,8 +24831,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.28,
-   "abn5": 2.93,
+   "vol_z": -0.26,
+   "abn5": 3.22,
    "last": "2026-11-18"
   }
  },
@@ -25281,8 +25310,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.2,
-   "abn5": 7.73,
+   "vol_z": 0.21,
+   "abn5": 7.37,
    "last": "2026-11-18"
   }
  },
@@ -26432,8 +26461,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.85,
-   "abn5": -5.45,
+   "vol_z": -0.83,
+   "abn5": -5.52,
    "last": "2026-11-18"
   }
  },
@@ -26654,8 +26683,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.18,
-   "abn5": 3.37,
+   "vol_z": -0.13,
+   "abn5": 4.84,
    "last": "2026-11-18"
   }
  },
@@ -26718,8 +26747,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.2,
-   "abn5": 7.73,
+   "vol_z": 0.21,
+   "abn5": 7.37,
    "last": "2026-11-18"
   }
  },
@@ -26780,8 +26809,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.2,
-   "abn5": 7.73,
+   "vol_z": 0.21,
+   "abn5": 7.37,
    "last": "2026-11-18"
   }
  },
@@ -27036,8 +27065,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": 2.68,
+   "vol_z": -0.2,
+   "abn5": 2.52,
    "last": "2026-11-18"
   }
  },
@@ -27070,8 +27099,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": 2.68,
+   "vol_z": -0.2,
+   "abn5": 2.52,
    "last": "2026-11-18"
   }
  },
@@ -27657,8 +27686,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": 2.68,
+   "vol_z": -0.2,
+   "abn5": 2.52,
    "last": "2026-11-18"
   }
  },
@@ -27769,8 +27798,8 @@
   "score": 0,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": 2.68,
+   "vol_z": -0.2,
+   "abn5": 2.52,
    "last": "2026-11-18"
   }
  },
@@ -28395,8 +28424,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": 2.68,
+   "vol_z": -0.2,
+   "abn5": 2.52,
    "last": "2026-11-18"
   }
  },
@@ -28776,8 +28805,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
-   "abn5": 2.68,
+   "vol_z": -0.2,
+   "abn5": 2.52,
    "last": "2026-11-18"
   }
  },
