@@ -1,5 +1,87 @@
 [
  {
+  "id": "08aa27daf353",
+  "title": "Digugat Kreditur Asing, PT MNC Sky Vision Tbk Terjerat PKPU",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFJjS2xhcS04ZkRNRUFYMkpnWmFHV1gxbWxWSG9rNGNjOVhhR05NbEJ5TjhvUWpDM3BuR2VLZW9hSTlwSUkxVm9PNEoxX1RtUUIxOXZtR2o1dkVOMVlUQVhuYVZxTl9mTXNCbjdUMjlxZ19wQktjeGJHRFJoaEttSk5icVZQTnhQZEpHS09HOHlIbldpWjRkUF9mOGtIUlgyay02NWFOWHZWNkY0dC1mMWRaWQ?oc=5",
+  "media": "Monitor Indonesia",
+  "published": "2026-11-18T05:14:30+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Utang/restrukturisasi"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-18T05:32:19.497425+00:00",
+  "anon": [],
+  "corp": [
+   "pkpu"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Digugat Kreditur Asing, PT MNC Sky Vision Tbk Terjerat PKPU.  Digugat Kreditur Asing, PT MNC Sky Vision Tbk Terjerat PKPU &nbsp;&nbsp; Monitor Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "09af38120adf",
+  "title": "70% Hasil Tambang Wajib Dinikmati Negara, Apakah Mungkin?",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzd5aGEyQzlvcksyaTVDZWtZMldfZ0JtU2w3alg0RGk3ek8xN1BnMkhoaWdGX1dsQlQ3RWJxV1pFZjczN0J3LWZmSFlYSWFOcmUyMWxoZzFvZ096bURqQ3c3NmdkTm5JYjRjVE9iTGdqckJ1ZUxaTWxRZVZuOXVjcWxGa3ctb3o5?oc=5",
+  "media": "Majalah TAMBANG",
+  "published": "2026-11-18T04:56:55+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-18T05:32:19.497425+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "70% Hasil Tambang Wajib Dinikmati Negara, Apakah Mungkin?.  70% Hasil Tambang Wajib Dinikmati Negara, Apakah Mungkin? &nbsp;&nbsp; Majalah TAMBANG",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "cdfa00b327f8",
+  "title": "MNC Sky Vision Digugat PKPU Kreditur Asing, Kas Menipis",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWjZOaDBVMmljZGpjSXpjZklqZWZXYUpqTnpfTUdfRDlBbl95R29XR1pHWTJ6RlkzVFVzenhSTzc0N041Um9KMWl1VmRWUmEwbVdhZ1VUMV8tckpkR25sWnh2ellUeURJNzFYZ1Zqc2lqTUZLbVZLanpfcjh0c0JNQTBpeFYtS1VBa295WVJjTGhoTEY3ODM5MnNQV1RTNTVfSEVzaTQzNUZKZFJaUHdSVi10UE5ISkZlQ1E?oc=5",
+  "media": "Monitor Indonesia",
+  "published": "2026-11-18T04:56:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Utang/restrukturisasi"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-18T05:32:19.497425+00:00",
+  "anon": [],
+  "corp": [
+   "pkpu"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "MNC Sky Vision Digugat PKPU Kreditur Asing, Kas Menipis.  MNC Sky Vision Digugat PKPU Kreditur Asing, Kas Menipis &nbsp;&nbsp; Monitor Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "fba35878854e",
   "title": "MEDC Terbitkan Obligasi US$ 300 Juta untuk Tender Offer dan Refinancing",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmlGVEYtVHFHX09qZnpQY2JsLVV2cW9Sbk50ZUFCWTlJbTdnV3RDOXhzSUpKUl95Y3N3WDVLNlZ5SDBuWjUwS3BTc1VtTHczZUpDMHRKdFdrQzBwTklQZ0lhOFR1Rzhvclk4akYtLVVqcGRJbE9FbldkWU9nTkxzdWFwNWM0UW5CUS1KY2liWkhQN1FpM1hscURHd1dheUZJRDNDaWJmUQ?oc=5",
@@ -111,8 +193,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -339,8 +421,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -758,7 +840,7 @@
  {
   "id": "675f0090c4d0",
   "title": "Adidaya Mandiri Bakal Kuasai Terregra (TGRA) Lewat Private Placement 21 Miliar Saham",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZmZIU1VjWDRTQk9BMG9zcUw3aTc4bDFnWWt0d21hOXNlWTV0LW02LUVxRkhBSXAtQzdSOFVzb1F3TFRHVUpHdlF4dzZaSkdOelo4UXFKNlNXSDc2VnV4X0ZWTTI4UDN2Q3VWZEJXZjVBUW82M003eTFzbjZiU2g2RWJucWdQX0prT1lESjQtdGpKQmJMVElyeEY4M0JPSngzMDNRNjk1YWFyTjJGS0NBT3BUZkI5SmtUYmpwdVBn0gHDAUFVX3lxTE1vZW9JdVRKWVRRMXFfUEszUEk3a1pMTUxTc2dJZjBTU3Y2VHJQd2FKbENCaEwzOW1PNDdCMDNjbEVvN1djdFBPcnRQNE1wUzk0UUhVUVcwNGdaNTVfMzAwV0RVaElhS1A5eDZ3dW5DMHJwUGVaT0lYclItdXJEd3RDNW5LZWFSU2pIeXBWV0c3UW1aNWNKSTFOem5QeWg3ajhlZzhDQ014WjN6UVd6U2VMdmViVDVrTzZBb1NRSVdLemZnSQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2VvSXVUSllUUTFxX1BLM1BJN2taTE1MU3NnSWYwU1N2NlRyUHdhSmxDQmhMMzltTzQ3QjAzY2xFbzdXY3RQT3J0UDRNcFM5NFFIVVFXMDRnWjU1XzMwMFdEVWhJYUtQOXg2d3VuQzBycFBlWk9JWHJSLXVyRHd0QzVuS2VhUlNqSHlwVldHN1FtWjVjSkkxTnpuUHloN2o4ZWc4Q0NNeFozelFXelNlTHZlYlQ1a082QW9TUUlXS3pmZ0nSAcMBQVVfeXFMTW9lb0l1VEpZVFExcV9QSzNQSTdrWkxNTFNzZ0lmMFNTdjZUclB3YUpsQ0JoTDM5bU80N0IwM2NsRW83V2N0UE9ydFA0TXBTOTRRSFVRVzA0Z1o1NV8zMDBXRFVoSWFLUDl4Nnd1bkMwcnBQZVpPSVhyUi11ckR3dEM1bktlYVJTakh5cFZXRzdRbVo1Y0pJMU56blB5aDdqOGVnOENDTXhaM3pRV3pTZUx2ZWJUNWtPNkFvU1FJV0t6ZmdJ?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-17T10:33:00+00:00",
   "tickers": [
@@ -1622,7 +1704,7 @@
   "asal": [],
   "first_seen": "2026-11-17T01:47:14.807107+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -1747,8 +1829,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.21,
-   "abn5": 7.37,
+   "vol_z": 0.22,
+   "abn5": 7.29,
    "last": "2026-11-18"
   }
  },
@@ -2353,8 +2435,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.47,
-   "abn5": 3.55,
+   "vol_z": -0.44,
+   "abn5": 4.45,
    "last": "2026-11-18"
   }
  },
@@ -2385,8 +2467,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.47,
-   "abn5": 3.55,
+   "vol_z": -0.44,
+   "abn5": 4.45,
    "last": "2026-11-18"
   }
  },
@@ -2417,8 +2499,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.47,
-   "abn5": 3.55,
+   "vol_z": -0.44,
+   "abn5": 4.45,
    "last": "2026-11-18"
   }
  },
@@ -2449,8 +2531,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.47,
-   "abn5": 3.55,
+   "vol_z": -0.44,
+   "abn5": 4.45,
    "last": "2026-11-18"
   }
  },
@@ -2481,8 +2563,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.47,
-   "abn5": 3.55,
+   "vol_z": -0.44,
+   "abn5": 4.45,
    "last": "2026-11-18"
   }
  },
@@ -2541,8 +2623,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.47,
-   "abn5": 3.55,
+   "vol_z": -0.44,
+   "abn5": 4.45,
    "last": "2026-11-18"
   }
  },
@@ -2575,8 +2657,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.47,
-   "abn5": 3.55,
+   "vol_z": -0.44,
+   "abn5": 4.45,
    "last": "2026-11-18"
   }
  },
@@ -2633,8 +2715,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -2667,8 +2749,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -2699,8 +2781,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.47,
-   "abn5": 3.55,
+   "vol_z": -0.44,
+   "abn5": 4.45,
    "last": "2026-11-18"
   }
  },
@@ -2863,8 +2945,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.12,
-   "abn5": 4.67,
+   "vol_z": 0.13,
+   "abn5": 4.62,
    "last": "2026-11-18"
   }
  },
@@ -3006,7 +3088,7 @@
  {
   "id": "85a724cd4429",
   "title": "PTRO Incar Emas Papua Nugini via TOLU, Akuisisi Lama Mulai Panen Cuan",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbHdsY1E2WklqQjhPenRacTdJV3U5ODRBcG5VdlZ5NDJJcHBFMVlxX1dLQzRHeWlHVk5pQXBaeHJjcThwVjFXek1RMmdoSkpqZWZEeUE0QUZPRFBzUlBBTWh6Y3RiUE5GRDBnS19GZHN1TzZvUmt3X29Xc3Iya0hBeU9lczlYMDluRTR0aURDZEF0M19hNjU3TG9MSnQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGJhQU5HcWJ3Z0hvLTRNX3NQbGkzT1d0eW9VN2N0MUhIRjZaN0R6b3I5elo3TmswYWdUaUxDcEtYQkZ5SEV4RmlXOEprb205clQ3amVhRzN3SE0tenNjNFlFc3BqeTBlVGVVWmtZbVR1aW14MGZ3ejdmTGo2YmNqemVMTFItNS03SnpWblRHclZjUkZVLWdEQk55b3BWUk5sUmc?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-15T14:35:00+00:00",
   "tickers": [],
@@ -3330,8 +3412,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.47,
-   "abn5": 3.55,
+   "vol_z": -0.44,
+   "abn5": 4.45,
    "last": "2026-11-18"
   }
  },
@@ -3442,8 +3524,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -3640,8 +3722,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -3674,8 +3756,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -3908,8 +3990,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -3940,8 +4022,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -5228,8 +5310,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -5398,8 +5480,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -5816,8 +5898,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": 2.52,
+   "vol_z": -0.19,
+   "abn5": 2.45,
    "last": "2026-11-18"
   }
  },
@@ -6119,8 +6201,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -6749,8 +6831,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -6783,8 +6865,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": 2.52,
+   "vol_z": -0.19,
+   "abn5": 2.45,
    "last": "2026-11-18"
   }
  },
@@ -6953,7 +7035,7 @@
  {
   "id": "02c2c03aebe5",
   "title": "Pengumuman MSCI November Resmi Dirilis: Ini Rincian Saham yang Keluar dan Turun Kelas, Efektif Desember 2026! - Sinar Harapan",
-  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOS0JHVFlLVVV4R1hhUzg5V2lLa1NYXzJtWVYxV0dlSkR0Y0UzY0hJNVIzby03YzY3U2t1RldMbl9mNEN4NW52elRjMkZkcUJOellRZk5FbUVETnREU2FyMDdIYUxLN3hGb3AxeG9CMHNySXBQa1NtZ2FXc2czR2JQYkxtdDVzbUJTSTZPZWp6VEdOemtBXzlzWTZJZThFN3UyUUlGMk90SGp4MWZCLUF5TFlsLVltbDZ6ZjY1OVZLRl9RWEUtUDZXdzNjQXdHTkhwTUY2LURNLWR3ODdIWFV2UXhNSHJHaU5fT1FPSXJyRk1lZ1HSAfgBQVVfeXFMTUVkZ2lPUDAydGUxNl9YMWgyNG1qd1BFa3RuOHlsOFV3MmlCdGFOa1NoNDZPcHkxT1A3OGg1MmJuRFBZWHhPTXk4MHlqSDl5WGowN04tVlBNZTZIcUNoT2ltdUkxRVB2Q0JaTGc1bGpkbWZCRGRoNFM5SFNDRm41QnNnSkdJUXFIS0dfeFlxTUlqT211dXV0VFdfZW82SXNka1praE5CWVJISXo2TDZ1bzd4azh6TjVIQ3hfRGtmdnBLaEp2UUkyWWRpdkxiZVliaWFCZ3czT1ktYkZzUlFVdy1yelZ0bVZDM19wejBYSmcxNlVralZhTVY?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYmtSYUlud0pQVVF5eS0xT2NWdXVqU3NWalJYQWxrZVpTbUZyejZFdXBfaHFoU0JlaUI4V2Jnc2pjM0tiRmN3YWhWSVF5cEcxdVJoNUEtZDJlaW93aXhLMGliaWFfdWpaYVZkMFhCNjBWY01aT180VkZ4VHI3cjB5ZmExMDhEYkR6a3FfR1hxcFpyejlGcW95dWhuMlI3RFRxTzgwUE0zNmc1Mll1dFphNXZ2bml3R3ZsUE0tZlpIQkVWUFB4U2VxVFlXaXlUMVZwVXcwUVl1RTNfWXA4Yjlvdl8zUm5UUkNkMGfSAe8BQVVfeXFMTUxmVjVyaU5CUUhOTHVEdXlmM2hBUktUUnlJMk5mMW13ZmFlamtkTnl3NE53bHhtcjh3TGx6UlNCMV96N05nVTRoSkhWM09WdjVLS3R3cG9ZcktJZU95SUFBeGVsbXFiaUlWZHRWeFItaW9oemVLOFo0VHFFX080aHk4aUhOWHdFaW9IVWFkSkg4TG5CMWZ6dFluVnpMQ0tfQlhsMm1hYV92MTFLQjVnclRxNGF1cHF1NHFCZ2o4cklCRkkwbURzdXYyVDc3b1RzUElEa0NYbnBoZlhSMEdwOHdnR0ZhWVRyTUtrbFU2UkU?oc=5",
   "media": "Sinar Harapan",
   "published": "2026-11-12T00:50:14+00:00",
   "tickers": [],
@@ -7029,8 +7111,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 3.22,
+   "vol_z": -0.24,
+   "abn5": 3.16,
    "last": "2026-11-18"
   }
  },
@@ -7644,11 +7726,7 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.51,
-   "abn5": -0.61,
-   "last": "2026-11-18"
-  }
+  "anomali": null
  },
  {
   "id": "6b691b104a0a",
@@ -7786,7 +7864,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": -3.37,
+   "abn5": -2.29,
    "last": "2026-11-18"
   }
  },
@@ -8173,8 +8251,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -8375,8 +8453,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -8662,8 +8740,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -9232,8 +9310,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -9660,8 +9738,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -10598,8 +10676,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 3.22,
+   "vol_z": -0.24,
+   "abn5": 3.16,
    "last": "2026-11-18"
   }
  },
@@ -10660,11 +10738,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.51,
-   "abn5": -0.61,
-   "last": "2026-11-18"
-  }
+  "anomali": null
  },
  {
   "id": "1145c2f50a3d",
@@ -11047,8 +11121,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 3.22,
+   "vol_z": -0.24,
+   "abn5": 3.16,
    "last": "2026-11-18"
   }
  },
@@ -12080,8 +12154,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -12235,8 +12309,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -12638,8 +12712,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -12700,8 +12774,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.12,
-   "abn5": 4.67,
+   "vol_z": 0.13,
+   "abn5": 4.62,
    "last": "2026-11-18"
   }
  },
@@ -13392,8 +13466,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.12,
-   "abn5": 4.67,
+   "vol_z": 0.13,
+   "abn5": 4.62,
    "last": "2026-11-18"
   }
  },
@@ -13427,8 +13501,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.12,
-   "abn5": 4.67,
+   "vol_z": 0.13,
+   "abn5": 4.62,
    "last": "2026-11-18"
   }
  },
@@ -13656,8 +13730,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.12,
-   "abn5": 4.67,
+   "vol_z": 0.13,
+   "abn5": 4.62,
    "last": "2026-11-18"
   }
  },
@@ -13746,8 +13820,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.12,
-   "abn5": 4.67,
+   "vol_z": 0.13,
+   "abn5": 4.62,
    "last": "2026-11-18"
   }
  },
@@ -13898,8 +13972,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.12,
-   "abn5": 4.67,
+   "vol_z": 0.13,
+   "abn5": 4.62,
    "last": "2026-11-18"
   }
  },
@@ -14236,8 +14310,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -15438,8 +15512,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": 2.52,
+   "vol_z": -0.19,
+   "abn5": 2.45,
    "last": "2026-11-18"
   }
  },
@@ -16805,8 +16879,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.13,
-   "abn5": 4.84,
+   "vol_z": -0.12,
+   "abn5": 4.76,
    "last": "2026-11-18"
   }
  },
@@ -16841,8 +16915,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.13,
-   "abn5": 4.84,
+   "vol_z": -0.12,
+   "abn5": 4.76,
    "last": "2026-11-18"
   }
  },
@@ -16954,8 +17028,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.13,
-   "abn5": 4.84,
+   "vol_z": -0.12,
+   "abn5": 4.76,
    "last": "2026-11-18"
   }
  },
@@ -17733,8 +17807,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -18450,8 +18524,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": 2.52,
+   "vol_z": -0.19,
+   "abn5": 2.45,
    "last": "2026-11-18"
   }
  },
@@ -18566,8 +18640,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -19128,8 +19202,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -19245,8 +19319,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -20591,8 +20665,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.42,
-   "abn5": -0.53,
+   "vol_z": -0.41,
+   "abn5": -1.2,
    "last": "2026-11-18"
   }
  },
@@ -21751,7 +21825,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.23,
-   "abn5": -4.04,
+   "abn5": -4.12,
    "last": "2026-11-18"
   }
  },
@@ -22354,7 +22428,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.23,
-   "abn5": -4.04,
+   "abn5": -4.12,
    "last": "2026-11-18"
   }
  },
@@ -22523,8 +22597,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.21,
-   "abn5": 7.37,
+   "vol_z": 0.22,
+   "abn5": 7.29,
    "last": "2026-11-18"
   }
  },
@@ -24831,8 +24905,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 3.22,
+   "vol_z": -0.24,
+   "abn5": 3.16,
    "last": "2026-11-18"
   }
  },
@@ -25310,8 +25384,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.21,
-   "abn5": 7.37,
+   "vol_z": 0.22,
+   "abn5": 7.29,
    "last": "2026-11-18"
   }
  },
@@ -26461,8 +26535,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.83,
-   "abn5": -5.52,
+   "vol_z": -0.8,
+   "abn5": -5.94,
    "last": "2026-11-18"
   }
  },
@@ -26683,8 +26757,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.13,
-   "abn5": 4.84,
+   "vol_z": -0.12,
+   "abn5": 4.76,
    "last": "2026-11-18"
   }
  },
@@ -26747,8 +26821,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.21,
-   "abn5": 7.37,
+   "vol_z": 0.22,
+   "abn5": 7.29,
    "last": "2026-11-18"
   }
  },
@@ -26809,8 +26883,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.21,
-   "abn5": 7.37,
+   "vol_z": 0.22,
+   "abn5": 7.29,
    "last": "2026-11-18"
   }
  },
@@ -27065,8 +27139,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": 2.52,
+   "vol_z": -0.19,
+   "abn5": 2.45,
    "last": "2026-11-18"
   }
  },
@@ -27099,8 +27173,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": 2.52,
+   "vol_z": -0.19,
+   "abn5": 2.45,
    "last": "2026-11-18"
   }
  },
@@ -27686,8 +27760,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": 2.52,
+   "vol_z": -0.19,
+   "abn5": 2.45,
    "last": "2026-11-18"
   }
  },
@@ -27798,8 +27872,8 @@
   "score": 0,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": 2.52,
+   "vol_z": -0.19,
+   "abn5": 2.45,
    "last": "2026-11-18"
   }
  },
@@ -28424,8 +28498,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": 2.52,
+   "vol_z": -0.19,
+   "abn5": 2.45,
    "last": "2026-11-18"
   }
  },
@@ -28805,8 +28879,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": 2.52,
+   "vol_z": -0.19,
+   "abn5": 2.45,
    "last": "2026-11-18"
   }
  },
