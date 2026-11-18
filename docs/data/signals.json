@@ -1,5 +1,35 @@
 [
  {
+  "id": "5d90ac4e925a",
+  "title": "Manuver Kejutan Gareth Bale: Gandeng Investor AS Bidik Akuisisi Sevilla Senilai Rp10 Triliun, Ini Peran Sebenarnya",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSjdIcEY2OHhnMVNfVlRIQ3h2Y1d6cldodWlVcGxkMnJNdEk2Q3pFZmhDTjYwbm5vQWJ2YzB0eHNkazJsQkpLLUdCdGFmZ1ZURU14S2ZVbE1RZWNSSndKY3VkaGxxNmQwcWdCSUh3ckFPYWFwN2NfQ24zZmlubWIzcFpPM01Tc0xiUHROdHhpNGVZWVljWWM5eXVIZVVTZU4yMkZ0QWg5aWZFMXN1UnpIN2lkM2RSbFFJencyTnptX0k4d1RiTUVoZ2tSZkZ4bG10aFBYVXphZFhrWjhvZUZ1LU16WUwwcC1SQjBxWQ?oc=5",
+  "media": "Informasi.com",
+  "published": "2026-11-18T09:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-18T09:30:49.979246+00:00",
+  "anon": [
+   "tengah menjajaki"
+  ],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 10000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Manuver Kejutan Gareth Bale: Gandeng Investor AS Bidik Akuisisi Sevilla Senilai Rp10 Triliun, Ini Peran Sebenarnya.  Manuver Kejutan Gareth Bale: Gandeng Investor AS Bidik Akuisisi Sevilla Senilai Rp10 Triliun, Ini Peran Sebenarnya &nbsp;&nbsp; Informasi.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 26,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "06b1e5b327c5",
   "title": "Anthropic Siap Melantai di Nasdaq pada 19 November 2026",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUN1bmY1OUJmS0tYRUxYVDlyd1FQNTNqaUlMM3dreDJTN29YYTgtckw3MWlqdnhldGVkZVRib0hsNUZ2blhfMUZ0bU9TNXpPLUphOW83T1U4eUg1cGpvZjdJdnBLbDdDZ0VCYjliR0l0eHdfNV9VaFJITmdsWWZ5Ql9sclhaOWpJbUhWVjZxYVFZZ1ljd2tRd0lOOA?oc=5",
@@ -47,6 +77,32 @@
   "schedule": false,
   "party": false,
   "snippet": "Boyong Ace Hardware hingga Akuisisi, MAPI Ada Target Harga Baru.  Boyong Ace Hardware hingga Akuisisi, MAPI Ada Target Harga Baru &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "ef1aaef8af55",
+  "title": "Saham Emiten Grup Bakrie, MDIA dan ALII Lesu! ini Pemicunya - Sinar Harapan",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNzl2TllXUzdIT2FIY2U1Mm8yV2p4cXJhSWd5eEtqWTMwT25GRUlDM09hTm1jbWFfVVVwYUhGUkNvYjMwTWplTkhBcnJlVzUwelM5Q2d4N1RqZjlzbFlVemkxaV9TcFI2SjljT1pmQk9fOXNnbktBVXU5dnhWbFVfU3c1TFpyTFFoc1hDd2RWblRqX1owdktPWnE3OFZwRHdLNnJZVDRNRXV1ZUR0c2fSAa4BQVVfeXFMTzc5dk5ZV1M3SE9hSGNlNTJvMldqeHFyYUlneXhLalkzME9uRkVJQzNPYU5tY21hX1VVcGFIRlJDb2IzME1qZU5IQXJyZVc1MHpTOUNneDdUamY5c2xZVXppMWlfU3BSNko5Y09aZkJPXzlzZ25LQVV1OXZ4VmxVX1N3NUxackxRaHNYQ3dkVm5Ual9aMHZLT1pxNzhWcER3SzZyWVQ0TUV1dWVEdHNn?oc=5",
+  "media": "Sinar Harapan",
+  "published": "2026-11-18T05:34:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-18T09:30:49.979246+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham Emiten Grup Bakrie, MDIA dan ALII Lesu! ini Pemicunya - Sinar Harapan.  Saham Emiten Grup Bakrie, MDIA dan ALII Lesu! ini Pemicunya - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
   "corroboration": 0,
   "response": null,
   "score": 6,
@@ -247,8 +303,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -475,8 +531,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -549,7 +605,7 @@
   "first_seen": "2026-11-18T00:55:06.775085+00:00",
   "anon": [],
   "corp": [
-   "pkpu"
+   "rights issue"
   ],
   "stance": null,
   "value_bn": 2.1,
@@ -1909,8 +1965,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.31,
-   "abn5": 4.49,
+   "vol_z": 0.47,
+   "abn5": 1.43,
    "last": "2026-11-18"
   }
  },
@@ -2515,8 +2571,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 2.88,
+   "vol_z": -0.16,
+   "abn5": 2.16,
    "last": "2026-11-18"
   }
  },
@@ -2547,8 +2603,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 2.88,
+   "vol_z": -0.16,
+   "abn5": 2.16,
    "last": "2026-11-18"
   }
  },
@@ -2579,8 +2635,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 2.88,
+   "vol_z": -0.16,
+   "abn5": 2.16,
    "last": "2026-11-18"
   }
  },
@@ -2611,8 +2667,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 2.88,
+   "vol_z": -0.16,
+   "abn5": 2.16,
    "last": "2026-11-18"
   }
  },
@@ -2643,8 +2699,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 2.88,
+   "vol_z": -0.16,
+   "abn5": 2.16,
    "last": "2026-11-18"
   }
  },
@@ -2703,8 +2759,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 2.88,
+   "vol_z": -0.16,
+   "abn5": 2.16,
    "last": "2026-11-18"
   }
  },
@@ -2737,8 +2793,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 2.88,
+   "vol_z": -0.16,
+   "abn5": 2.16,
    "last": "2026-11-18"
   }
  },
@@ -2795,8 +2851,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -2829,8 +2885,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -2861,8 +2917,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 2.88,
+   "vol_z": -0.16,
+   "abn5": 2.16,
    "last": "2026-11-18"
   }
  },
@@ -3025,8 +3081,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.23,
-   "abn5": 4.1,
+   "vol_z": 0.3,
+   "abn5": 3.7,
    "last": "2026-11-18"
   }
  },
@@ -3252,6 +3308,32 @@
   "anomali": null
  },
  {
+  "id": "4ecdb53a49c0",
+  "title": "Emiten HSC, RDTX Stock Split 1:20, Ini Dampaknya ke Pemegang Saham",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2VKS1lYTC1DeGFkUzFqQ3R3VFo4U3RLUEZRTG1TazJwWEpZTVFPQTR0eXF3NHRfNkJ3a1VidlJLT1o4elR3bkdzSHpmeDVqMVdld0VuQnBSR2t4QjM5LXpIMDVDbEs5akl2dndDdExYbDhzNGJhMTJtS3FYYlQtbjQ3UXdGLV93cXdPSk9NcGZHZzFDYV90M0JYMA?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-15T14:35:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-18T09:30:49.979246+00:00",
+  "anon": [],
+  "corp": [
+   "stock split"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Emiten HSC, RDTX Stock Split 1:20, Ini Dampaknya ke Pemegang Saham.  Emiten HSC, RDTX Stock Split 1:20, Ini Dampaknya ke Pemegang Saham &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "3ed6b6b95e54",
   "title": "Jejaring Glencore di 8 Saham Indonesia Bisa Cuan hingga 300 juta dolar AS?",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0pXdXdMT3VNU0lYN2NrWWRwazd5aHMyWjJ4c3FuX1F5X0xvaE5QeWtDektNeEJUOW1oRS1HcDRZWGp2UktndEdHWEJyNzE4ZTVYdHlIYVkxR3lRYWNTdjBUN3otQ293d1F0bmd4RjBLSGNTZkFQQ0Y3cnJ4ZUFqUnJjVUFNbnpnZVBZdHU0dUN6empQT1pOdGU1MHBGYTRvb3NqbnJKTGg5b2xRRUpMYVFB?oc=5",
@@ -3388,32 +3470,6 @@
   "anomali": null
  },
  {
-  "id": "37e9b8322726",
-  "title": "Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXpVNFhvbVlrbnFMRUszVW5fZDI4cy1Od3NKRF9CdEpFWjZpWjRyNVBBdFdTZGYwdUloQ3RXWVltZ29QcHFQWDZUQmZyT3NEU0dla0RXNnZ0aG9XM3FyZlp0Zmp2c0Myd1U3cElLY1lGR1lzbGh2LTVaUkRjVUtnMFp1cXdqRW5qTWVUaDRPRENBQQ?oc=5",
-  "media": "rmolsumsel.id",
-  "published": "2026-11-15T08:00:00+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-14T07:53:30.004687+00:00",
-  "anon": [
-   "tengah menjajaki"
-  ],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay.  Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay &nbsp;&nbsp; rmolsumsel.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "47ba5fa5d087",
   "title": "Dirut Emiten WIRG Stephen Budiman Mengundurkan Diri",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUhnMThzd1NEYzQ1Ty1ZNldGY1V2aXpmbUNKZ0JVVDIxYmRJSW83S0Q0WUlQZktRekVLRmV1ZnpSWkxjTUlGdlhMSXlrMkYwRnhQZVQxRnQ2V3VmYnYycVM2eFotNXpmWER4QjdCX2dMUEw5N3BMNTJyTV9nSGxDcEwtcmtTeVhmUnhLMkE4VlpqcHlra3MzTkFHTdIBkgFBVV95cUxOR040YXVaZHc5SzB1S19rbkZ2LVQxckRxNGNFOTU3NXhlaEp5RmRDOFo3VXYwWGx6dnVGVFp0eHRfbDFrTDhtUV9ROFJieVY4a2tzMlRXaUJUYkRlay1YalNEZjBkTTZMRjFiOWNGaFB5Tk5XbldwMlNTSi02YUFSaDlvbHBkc0FkWWNPTXlZNGMtZw?oc=5",
@@ -3436,6 +3492,32 @@
   "corroboration": 0,
   "response": null,
   "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "37e9b8322726",
+  "title": "Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXpVNFhvbVlrbnFMRUszVW5fZDI4cy1Od3NKRF9CdEpFWjZpWjRyNVBBdFdTZGYwdUloQ3RXWVltZ29QcHFQWDZUQmZyT3NEU0dla0RXNnZ0aG9XM3FyZlp0Zmp2c0Myd1U3cElLY1lGR1lzbGh2LTVaUkRjVUtnMFp1cXdqRW5qTWVUaDRPRENBQQ?oc=5",
+  "media": "rmolsumsel.id",
+  "published": "2026-11-15T06:28:41+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-14T07:53:30.004687+00:00",
+  "anon": [
+   "tengah menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay.  Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay &nbsp;&nbsp; rmolsumsel.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -3520,8 +3602,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.26,
-   "abn5": 2.88,
+   "vol_z": -0.16,
+   "abn5": 2.16,
    "last": "2026-11-18"
   }
  },
@@ -3632,8 +3714,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -3830,8 +3912,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -3864,8 +3946,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -4098,8 +4180,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -4130,8 +4212,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -5418,8 +5500,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -5588,8 +5670,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -6006,8 +6088,8 @@
   "score": 36,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.01,
-   "abn5": 5.09,
+   "vol_z": 0.04,
+   "abn5": 5.38,
    "last": "2026-11-18"
   }
  },
@@ -6309,8 +6391,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -6939,8 +7021,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -6973,8 +7055,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.01,
-   "abn5": 5.09,
+   "vol_z": 0.04,
+   "abn5": 5.38,
    "last": "2026-11-18"
   }
  },
@@ -7219,8 +7301,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.99,
+   "vol_z": -0.14,
+   "abn5": 1.77,
    "last": "2026-11-18"
   }
  },
@@ -7860,11 +7942,7 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.37,
-   "abn5": -1.1,
-   "last": "2026-11-18"
-  }
+  "anomali": null
  },
  {
   "id": "6b691b104a0a",
@@ -8001,8 +8079,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.02,
-   "abn5": -2.21,
+   "vol_z": -0.0,
+   "abn5": -0.77,
    "last": "2026-11-18"
   }
  },
@@ -8389,8 +8467,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -8539,7 +8617,7 @@
  {
   "id": "d8577a477612",
   "title": "Usai Caplok Bayan, Haji Isam Kini Bidik Tambang Nikel Weda Bay Milik Eramet",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVFhycTRIQVZFbkJNU0w4UlVQQTZxQlU3anQ5d2dwSGJLQ1cxOEtraTNoRDNBbXh1X1RtTFFBSmNEd0Q1NlpGMmxiRUhyVF9fWkVKVU92bjNTblhvOV9wQmRmWHFUOHlvN1JFenpDV1N6eFMxdkptX1JPVHNJTUV1Y25LNHNfUTFCcHRvd1ZyMEhWVndlUEhlUmp4V1JoQ3JNTEZ1Zkp0X3NQeG5hUE9VOW04YktyWjdjWXI2RDhpdnlLd9IBxwFBVV95cUxOeWFlV3ZYVi1WTzdtZEhlMWFWVWZDRnpRX0JqMVc1cHR6QW1FaUVMa05CVzRKQnZWWGkzZnJQLVItWGE1ZFZWdFlNQm04aU5sbGN1dTNuQ0FYSzRMZGVHT1FXQjVtZm4yVHQycVk2MG1RSG4xQU9qV00teVdvOE53Z2lrTTZGZFM3cG9hZ0l5Z3NMVFF4c2dBdmJwMjMyTlBfaGhsMDUtbVZ2QmI4UEVqeXR3UERXOXVQS2dPWmJWbUtNc0RIek9R?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOW1VNmpYMXVreFVFTmExLVN6UjRpMVktdHlORF9Xb0U5T1VtRlktalYxOWI0NkdqejVoUkRncEtWei1qT01HbTg1VE5oazI0cnJ3Ml9URVdoUEVUZmJRN3ZTb2hKVXlnbzRXOFRld3ZrX3ZoS0o4R1pBWlBmOGhQbG5hQWlQNkYtUU96VkJLNFNqeTFkaFNfOFpwSldFSXhzZG04aXdQSW11N2Y5aDBBZjFvNnhvMDBCdjFxOE5rR0NGck3SAcgBQVVfeXFMUHprY2tvZUEwb2ZfOUVfMGVxdjE4Y2EzcDFNcUF6WlVQQjRKbElZMDd0enF6T3RqRmJWNnl3UGNmeEdKTlJBMWRUdFlYQjVvdmp3RVd0aENtczNyN2wxX1B5aDJweFRKNlhja3JpMmtFdEZtLXhyZUtPZVUzVEZ5ZVlCaWFzTm5OaHZJUlpxT1FGQ1RxeGZ1bmxvWkVXV2dtWkFFR3Vja3hmVF92NlIxLVdLeWh0X2VwU3ZtMjRZNzltVFJTNFNxcnc?oc=5",
   "media": "Katadata.co.id",
   "published": "2026-11-11T10:08:00+00:00",
   "tickers": [],
@@ -8548,7 +8626,7 @@
   "asal": [],
   "first_seen": "2026-11-11T10:26:40.549741+00:00",
   "anon": [
-   "sedang menjajaki"
+   "mengincar"
   ],
   "corp": [],
   "stance": null,
@@ -8591,8 +8669,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -8878,8 +8956,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -9448,8 +9526,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -9876,8 +9954,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -10840,8 +10918,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.99,
+   "vol_z": -0.14,
+   "abn5": 1.77,
    "last": "2026-11-18"
   }
  },
@@ -10902,11 +10980,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.37,
-   "abn5": -1.1,
-   "last": "2026-11-18"
-  }
+  "anomali": null
  },
  {
   "id": "1145c2f50a3d",
@@ -11289,8 +11363,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.99,
+   "vol_z": -0.14,
+   "abn5": 1.77,
    "last": "2026-11-18"
   }
  },
@@ -12322,8 +12396,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -12477,8 +12551,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -12880,8 +12954,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -12942,8 +13016,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.23,
-   "abn5": 4.1,
+   "vol_z": 0.3,
+   "abn5": 3.7,
    "last": "2026-11-18"
   }
  },
@@ -13662,8 +13736,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.23,
-   "abn5": 4.1,
+   "vol_z": 0.3,
+   "abn5": 3.7,
    "last": "2026-11-18"
   }
  },
@@ -13697,8 +13771,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.23,
-   "abn5": 4.1,
+   "vol_z": 0.3,
+   "abn5": 3.7,
    "last": "2026-11-18"
   }
  },
@@ -13926,8 +14000,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.23,
-   "abn5": 4.1,
+   "vol_z": 0.3,
+   "abn5": 3.7,
    "last": "2026-11-18"
   }
  },
@@ -14016,8 +14090,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.23,
-   "abn5": 4.1,
+   "vol_z": 0.3,
+   "abn5": 3.7,
    "last": "2026-11-18"
   }
  },
@@ -14168,8 +14242,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.23,
-   "abn5": 4.1,
+   "vol_z": 0.3,
+   "abn5": 3.7,
    "last": "2026-11-18"
   }
  },
@@ -14478,8 +14552,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -15680,8 +15754,8 @@
   "score": 36,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.01,
-   "abn5": 5.09,
+   "vol_z": 0.04,
+   "abn5": 5.38,
    "last": "2026-11-18"
   }
  },
@@ -17071,8 +17145,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.05,
-   "abn5": 4.47,
+   "vol_z": -0.02,
+   "abn5": 4.35,
    "last": "2026-11-18"
   }
  },
@@ -17107,8 +17181,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.05,
-   "abn5": 4.47,
+   "vol_z": -0.02,
+   "abn5": 4.35,
    "last": "2026-11-18"
   }
  },
@@ -17220,8 +17294,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.05,
-   "abn5": 4.47,
+   "vol_z": -0.02,
+   "abn5": 4.35,
    "last": "2026-11-18"
   }
  },
@@ -17999,8 +18073,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -18716,8 +18790,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.01,
-   "abn5": 5.09,
+   "vol_z": 0.04,
+   "abn5": 5.38,
    "last": "2026-11-18"
   }
  },
@@ -18832,8 +18906,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -19394,8 +19468,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -19511,8 +19585,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -19983,6 +20057,30 @@
   "corroboration": 0,
   "response": null,
   "score": 44,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "935ef0a7e86b",
+  "title": "Saham AIMS Sentuh ARA Saat Investor Terkenal Masuk",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UZERINmN0SDlTRUx6RDlrRGRyMXBnZjdfLUFUQXZPVWsxQVJPNzVWUTloY3lMWHUyS2UxTDZfRWItcTNTV21QZ1AtcUp3LTJSdkMyRER6UnVWbkZQVHdZTmJEdGVyVVVUcUtZ?oc=5",
+  "media": "CentralBatam",
+  "published": "2026-11-05T08:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-18T09:30:49.979246+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham AIMS Sentuh ARA Saat Investor Terkenal Masuk.  Saham AIMS Sentuh ARA Saat Investor Terkenal Masuk &nbsp;&nbsp; CentralBatam",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -20857,8 +20955,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.35,
-   "abn5": -0.95,
+   "vol_z": -0.33,
+   "abn5": -0.18,
    "last": "2026-11-18"
   }
  },
@@ -22017,7 +22115,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.23,
-   "abn5": -2.87,
+   "abn5": 2.38,
    "last": "2026-11-18"
   }
  },
@@ -22620,7 +22718,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.23,
-   "abn5": -2.87,
+   "abn5": 2.38,
    "last": "2026-11-18"
   }
  },
@@ -22789,8 +22887,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.31,
-   "abn5": 4.49,
+   "vol_z": 0.47,
+   "abn5": 1.43,
    "last": "2026-11-18"
   }
  },
@@ -25097,8 +25195,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.99,
+   "vol_z": -0.14,
+   "abn5": 1.77,
    "last": "2026-11-18"
   }
  },
@@ -25576,8 +25674,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.31,
-   "abn5": 4.49,
+   "vol_z": 0.47,
+   "abn5": 1.43,
    "last": "2026-11-18"
   }
  },
@@ -26727,8 +26825,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.68,
-   "abn5": -5.75,
+   "vol_z": -0.55,
+   "abn5": -6.96,
    "last": "2026-11-18"
   }
  },
@@ -26949,8 +27047,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.05,
-   "abn5": 4.47,
+   "vol_z": -0.02,
+   "abn5": 4.35,
    "last": "2026-11-18"
   }
  },
@@ -27013,8 +27111,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.31,
-   "abn5": 4.49,
+   "vol_z": 0.47,
+   "abn5": 1.43,
    "last": "2026-11-18"
   }
  },
@@ -27075,8 +27173,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.31,
-   "abn5": 4.49,
+   "vol_z": 0.47,
+   "abn5": 1.43,
    "last": "2026-11-18"
   }
  },
@@ -27331,8 +27429,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.01,
-   "abn5": 5.09,
+   "vol_z": 0.04,
+   "abn5": 5.38,
    "last": "2026-11-18"
   }
  },
@@ -27365,8 +27463,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.01,
-   "abn5": 5.09,
+   "vol_z": 0.04,
+   "abn5": 5.38,
    "last": "2026-11-18"
   }
  },
@@ -27952,8 +28050,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.01,
-   "abn5": 5.09,
+   "vol_z": 0.04,
+   "abn5": 5.38,
    "last": "2026-11-18"
   }
  },
@@ -28064,8 +28162,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.01,
-   "abn5": 5.09,
+   "vol_z": 0.04,
+   "abn5": 5.38,
    "last": "2026-11-18"
   }
  },
@@ -28690,8 +28788,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.01,
-   "abn5": 5.09,
+   "vol_z": 0.04,
+   "abn5": 5.38,
    "last": "2026-11-18"
   }
  },
@@ -29071,8 +29169,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.01,
-   "abn5": 5.09,
+   "vol_z": 0.04,
+   "abn5": 5.38,
    "last": "2026-11-18"
   }
  },
