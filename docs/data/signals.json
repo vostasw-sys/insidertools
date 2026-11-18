@@ -53,12 +53,12 @@
   "snippet": "BRI Danareksa Sekuritas Jajaki Lebih dari Lima Perusahaan Calon IPO untuk 2027.  BRI Danareksa Sekuritas Jajaki Lebih dari Lima Perusahaan Calon IPO untuk 2027 &nbsp;&nbsp; gadget.qoo10.co.id",
   "corroboration": 3,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 3.7,
-   "last": "2026-11-18"
+   "abn5": 6.44,
+   "last": "2026-11-17"
   }
  },
  {
@@ -141,12 +141,12 @@
   "snippet": "BRI Danareksa Siapkan Lebih dari Lima Perusahaan IPO.  BRI Danareksa Siapkan Lebih dari Lima Perusahaan IPO &nbsp;&nbsp; BeritaJejaring.co.id",
   "corroboration": 3,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 3.7,
-   "last": "2026-11-18"
+   "abn5": 6.44,
+   "last": "2026-11-17"
   }
  },
  {
@@ -296,7 +296,7 @@
  {
   "id": "807d74222626",
   "title": "Usai Akuisisi 90% Saham Vivo, AKRA Bakal Sulap 47 SPBU Vivo Jadi BP-AKR",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUlKckVQbU0xX2habVpVc1Z6eHlwbjBXT0puWjFKa19uZEZPVzY5akVRS3FZdXpPM3h5Q1o1dzZNRWhCMXhpeXNwb1J5a2tPSXdicHJKTkhfWEdwSlN0c3lrTHgtWHVRQVV6RDBKd2w4c0lZRVI1VEhIemdCRFEwbHUxWTRJblk5NHVQTGM5b1RHTjdld0NXSHh5bnBVdmphcGxZMDJHNA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUlKckVQbU0xX2habVpVc1Z6eHlwbjBXT0puWjFKa19uZEZPVzY5akVRS3FZdXpPM3h5Q1o1dzZNRWhCMXhpeXNwb1J5a2tPSXdicHJKTkhfWEdwSlN0c3lrTHgtWHVRQVV6RDBKd2w4c0lZRVI1VEhIemdCRFEwbHUxWTRJblk5NHVQTGM5b1RHTjdld0NXSHh5bnBVdmphcGxZMDJHNNIBoAFBVV95cUxNVTJOWXNsQWE5b0QtbjBhUDdFMVFCZnZKM3p1NHBMWXl5NDdYWV9lMlotYnpCeWpCajJYZkFuNE53d2c3cE5PLVJ0YWx0a2hCQTNJLS1UZWJYLUpEc0NzaklURHdRN2ZyMEVnTU5EOVB5ZEdOcHV3bnRnLWgxOVQ2M1dEVk1sNHBZNDhuOHdIX1E1dF9lRXVDd1FkZEhYVHRa?oc=5",
   "media": "kontan.co.id",
   "published": "2026-11-18T11:20:11+00:00",
   "tickers": [],
@@ -490,6 +490,32 @@
   "corroboration": 0,
   "response": null,
   "score": 26,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "1991a3a86022",
+  "title": "Vinicius Bersinar dan NFL Mengincar Camp Nou di Sorotan Media Spanyol",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95dUhJS2wwV3dNZzc2U0htclVHb0Y3M25PcnpEcXBGU2h3ZFV0UEV6cUFCY1RnYTJ5SUloeVAzQUhSYUZUZ3ozdGtua2VEU2RaWmI2RFI1S1lJMTItQnhiTVd3TmZoUjUyWXpfdC12Q3hpM1g5a24tMklFOE5Zb3M?oc=5",
+  "media": "gadget.qoo10.co.id",
+  "published": "2026-11-18T08:16:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-18T17:29:53.067097+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Vinicius Bersinar dan NFL Mengincar Camp Nou di Sorotan Media Spanyol.  Vinicius Bersinar dan NFL Mengincar Camp Nou di Sorotan Media Spanyol &nbsp;&nbsp; gadget.qoo10.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -794,12 +820,12 @@
   "snippet": "Harga Buyback Emas Antam Hari Ini 18 November 2026 Kian Tertekan, Turun Rp6.000.  Harga Buyback Emas Antam Hari Ini 18 November 2026 Kian Tertekan, Turun Rp6.000 &nbsp;&nbsp; kontan.co.id",
   "corroboration": 5,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -1048,12 +1074,12 @@
   "snippet": "Harga Buyback Emas Antam, UBS & Galeri 24 di Pegadaian Hari Ini Rabu (18/11) - Bisnis.com.  Harga Buyback Emas Antam, UBS & Galeri 24 di Pegadaian Hari Ini Rabu (18/11) &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 5,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -2514,8 +2540,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.47,
-   "abn5": 1.43,
-   "last": "2026-11-18"
+   "abn5": 2.24,
+   "last": "2026-11-17"
   }
  },
  {
@@ -3174,8 +3200,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 2.16,
-   "last": "2026-11-18"
+   "abn5": 2.11,
+   "last": "2026-11-17"
   }
  },
  {
@@ -3206,8 +3232,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 2.16,
-   "last": "2026-11-18"
+   "abn5": 2.11,
+   "last": "2026-11-17"
   }
  },
  {
@@ -3238,8 +3264,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 2.16,
-   "last": "2026-11-18"
+   "abn5": 2.11,
+   "last": "2026-11-17"
   }
  },
  {
@@ -3270,8 +3296,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 2.16,
-   "last": "2026-11-18"
+   "abn5": 2.11,
+   "last": "2026-11-17"
   }
  },
  {
@@ -3302,8 +3328,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 2.16,
-   "last": "2026-11-18"
+   "abn5": 2.11,
+   "last": "2026-11-17"
   }
  },
  {
@@ -3362,8 +3388,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 2.16,
-   "last": "2026-11-18"
+   "abn5": 2.11,
+   "last": "2026-11-17"
   }
  },
  {
@@ -3394,8 +3420,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 2.16,
-   "last": "2026-11-18"
+   "abn5": 2.11,
+   "last": "2026-11-17"
   }
  },
  {
@@ -3428,8 +3454,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 2.16,
-   "last": "2026-11-18"
+   "abn5": 2.11,
+   "last": "2026-11-17"
   }
  },
  {
@@ -3482,12 +3508,12 @@
   "snippet": "Antam Siapkan Dividen Minimal 50 Persen dan Ekspansi Tambang.  Antam Siapkan Dividen Minimal 50 Persen dan Ekspansi Tambang &nbsp;&nbsp; ChatNews.id",
   "corroboration": 1,
   "response": null,
-  "score": 31,
+  "score": 16,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -3516,12 +3542,12 @@
   "snippet": "Bocoran Dividen Antam (ANTM), Ada Rencana Akuisisi pula.  Bocoran Dividen Antam (ANTM), Ada Rencana Akuisisi pula &nbsp;&nbsp; investor.id",
   "corroboration": 1,
   "response": null,
-  "score": 21,
+  "score": 6,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -3552,8 +3578,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 2.16,
-   "last": "2026-11-18"
+   "abn5": 2.11,
+   "last": "2026-11-17"
   }
  },
  {
@@ -3712,12 +3738,12 @@
   "snippet": "BRI Danareksa Pilih Tiga Saham untuk 16 November 2026.  BRI Danareksa Pilih Tiga Saham untuk 16 November 2026 &nbsp;&nbsp; Demokratis.co.id",
   "corroboration": 3,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 3.7,
-   "last": "2026-11-18"
+   "abn5": 6.44,
+   "last": "2026-11-17"
   }
  },
  {
@@ -4209,8 +4235,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": 2.16,
-   "last": "2026-11-18"
+   "abn5": 2.11,
+   "last": "2026-11-17"
   }
  },
  {
@@ -4317,12 +4343,12 @@
   "snippet": "Emas Antam Turun Rp51.000 dalam 3 Hari, Mendekati Awal 2026.  Emas Antam Turun Rp51.000 dalam 3 Hari, Mendekati Awal 2026 &nbsp;&nbsp; https://feedberry.com/",
   "corroboration": 5,
   "response": null,
-  "score": 31,
+  "score": 16,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -4515,12 +4541,12 @@
   "snippet": "Harga Buyback Emas Antam Hari Ini 14 November 2026 Naik Rp8.000, Cek yuk!.  Harga Buyback Emas Antam Hari Ini 14 November 2026 Naik Rp8.000, Cek yuk! &nbsp;&nbsp; kontan.co.id",
   "corroboration": 5,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -4553,8 +4579,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -4783,12 +4809,12 @@
   "snippet": "Update Emas Pegadaian Hari Ini (14/11): Cek Harga Buyback Antam, Galeri 24 dan UBS - Bisnis.com.  Update Emas Pegadaian Hari Ini (14/11): Cek Harga Buyback Antam, Galeri 24 dan UBS &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 5,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -4815,12 +4841,12 @@
   "snippet": "Emas Antam di Pegadaian Turun Rp9.000 Hari Ini, Cek Harga Jual dan Buybacknya - Bisnis.com.  Emas Antam di Pegadaian Turun Rp9.000 Hari Ini, Cek Harga Jual dan Buybacknya &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 5,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -5993,12 +6019,12 @@
   "snippet": "Harga Emas Antam (ANTM) Merosot Lagi ke Rp2,5 Juta per Gram, Buyback Susut Rp31 Ribu.  Harga Emas Antam (ANTM) Merosot Lagi ke Rp2,5 Juta per Gram, Buyback Susut Rp31 Ribu &nbsp;&nbsp; IDX Channel",
   "corroboration": 5,
   "response": null,
-  "score": 37,
+  "score": 22,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -6137,12 +6163,12 @@
   "snippet": "Tabel Harga Buyback Emas Antam Hari Ini Jumat 13 November 2026 & Nilai Pajaknya - Bisnis.com.  Tabel Harga Buyback Emas Antam Hari Ini Jumat 13 November 2026 & Nilai Pajaknya &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 5,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -6307,12 +6333,12 @@
   "snippet": "Harga Buyback Emas Antam, UBS & Galeri 24 di Pegadaian Hari Ini, Jumat 13 November 2026 - Bisnis.com.  Harga Buyback Emas Antam, UBS & Galeri 24 di Pegadaian Hari Ini, Jumat 13 November 2026 &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 5,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -6725,12 +6751,12 @@
   "snippet": "Haji Isam Dikabarkan Ingin Akuisisi Saham Milik Eramet di Weda Bay Nickel.  Haji Isam Dikabarkan Ingin Akuisisi Saham Milik Eramet di Weda Bay Nickel &nbsp;&nbsp; BCA Sekuritas",
   "corroboration": 2,
   "response": null,
-  "score": 36,
+  "score": 21,
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": 5.38,
-   "last": "2026-11-18"
+   "abn5": 0.28,
+   "last": "2026-11-17"
   }
  },
  {
@@ -7058,8 +7084,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -7658,12 +7684,12 @@
   "snippet": "Harga Emas Antam (ANTM) Logam Mulia Kamis Anjlok, Emas Dunia (XAUUSD) Tersungkur di Zona Merah! - Sinar Harapan.  Harga Emas Antam (ANTM) Logam Mulia Kamis Anjlok, Emas Dunia (XAUUSD) Tersungkur di Zona Merah! - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
   "corroboration": 5,
   "response": null,
-  "score": 31,
+  "score": 16,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -7692,12 +7718,12 @@
   "snippet": "Analisis Kinerja Saham BBCA di Tengah Isu Akuisisi.  Analisis Kinerja Saham BBCA di Tengah Isu Akuisisi &nbsp;&nbsp; https://cetro.or.id/",
   "corroboration": 2,
   "response": null,
-  "score": 26,
+  "score": 11,
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": 5.38,
-   "last": "2026-11-18"
+   "abn5": 0.28,
+   "last": "2026-11-17"
   }
  },
  {
@@ -7942,8 +7968,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.14,
-   "abn5": 1.77,
-   "last": "2026-11-18"
+   "abn5": 3.37,
+   "last": "2026-11-17"
   }
  },
  {
@@ -8584,8 +8610,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -0.43,
-   "last": "2026-11-18"
+   "abn5": -0.5,
+   "last": "2026-11-17"
   }
  },
  {
@@ -8724,8 +8750,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.0,
-   "abn5": -0.77,
-   "last": "2026-11-18"
+   "abn5": -4.6,
+   "last": "2026-11-17"
   }
  },
  {
@@ -9112,8 +9138,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -9314,8 +9340,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -9601,8 +9627,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -10167,12 +10193,12 @@
   "snippet": "Harga Emas Antam (ANTM) Logam Mulia Rabu Merosot, Emas Dunia (XAUUSD) Anjlok! - Sinar Harapan.  Harga Emas Antam (ANTM) Logam Mulia Rabu Merosot, Emas Dunia (XAUUSD) Anjlok! - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
   "corroboration": 5,
   "response": null,
-  "score": 31,
+  "score": 16,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -10599,8 +10625,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -11563,8 +11589,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.14,
-   "abn5": 1.77,
-   "last": "2026-11-18"
+   "abn5": 3.37,
+   "last": "2026-11-17"
   }
  },
  {
@@ -11626,8 +11652,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -0.43,
-   "last": "2026-11-18"
+   "abn5": -0.5,
+   "last": "2026-11-17"
   }
  },
  {
@@ -12012,8 +12038,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.14,
-   "abn5": 1.77,
-   "last": "2026-11-18"
+   "abn5": 3.37,
+   "last": "2026-11-17"
   }
  },
  {
@@ -13045,8 +13071,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -13200,8 +13226,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -13603,8 +13629,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -13661,12 +13687,12 @@
   "snippet": "Genjot Kepercayaan Investor, BRI Gelar Buyback Saham Tahap II Rp1 T.  Genjot Kepercayaan Investor, BRI Gelar Buyback Saham Tahap II Rp1 T &nbsp;&nbsp; Validnews",
   "corroboration": 2,
   "response": null,
-  "score": 11,
+  "score": 26,
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 3.7,
-   "last": "2026-11-18"
+   "abn5": 6.44,
+   "last": "2026-11-17"
   }
  },
  {
@@ -14381,12 +14407,12 @@
   "snippet": "Ada Penataan Danantara, BRI Buka Peluang Merger dan Akuisisi Anak Usaha.  Ada Penataan Danantara, BRI Buka Peluang Merger dan Akuisisi Anak Usaha &nbsp;&nbsp; kontan.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 25,
+  "score": 40,
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 3.7,
-   "last": "2026-11-18"
+   "abn5": 6.44,
+   "last": "2026-11-17"
   }
  },
  {
@@ -14416,12 +14442,12 @@
   "snippet": "BRI Siapkan Merger dan Akuisisi Anak Usaha untuk Efisiensi.  BRI Siapkan Merger dan Akuisisi Anak Usaha untuk Efisiensi &nbsp;&nbsp; cwibc.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 16,
+  "score": 31,
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 3.7,
-   "last": "2026-11-18"
+   "abn5": 6.44,
+   "last": "2026-11-17"
   }
  },
  {
@@ -14645,12 +14671,12 @@
   "snippet": "Siapkan Rp 1 Triliun, BRI Siap Buyback Saham Tahap Kedua.  Siapkan Rp 1 Triliun, BRI Siap Buyback Saham Tahap Kedua &nbsp;&nbsp; Liputan6.com",
   "corroboration": 2,
   "response": null,
-  "score": 21,
+  "score": 36,
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 3.7,
-   "last": "2026-11-18"
+   "abn5": 6.44,
+   "last": "2026-11-17"
   }
  },
  {
@@ -14735,12 +14761,12 @@
   "snippet": "BBRI Buka Opsi Merger Anak Usaha di Tengah Streamlining BUMN, Intip Skenarionya.  BBRI Buka Opsi Merger Anak Usaha di Tengah Streamlining BUMN, Intip Skenarionya &nbsp;&nbsp; Katadata.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 22,
+  "score": 37,
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 3.7,
-   "last": "2026-11-18"
+   "abn5": 6.44,
+   "last": "2026-11-17"
   }
  },
  {
@@ -14887,12 +14913,12 @@
   "snippet": "Ikuti Arahan Danantara, BRI Siapkan Aksi Merger hingga Akuisisi Anak Usaha.  Ikuti Arahan Danantara, BRI Siapkan Aksi Merger hingga Akuisisi Anak Usaha &nbsp;&nbsp; IDX Channel",
   "corroboration": 4,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
    "vol_z": 0.3,
-   "abn5": 3.7,
-   "last": "2026-11-18"
+   "abn5": 6.44,
+   "last": "2026-11-17"
   }
  },
  {
@@ -15197,12 +15223,12 @@
   "snippet": "Tabel Harga Buyback Emas Antam Hari Ini Senin 9 November 2026 & Nilai Pajaknya - Bisnis.com.  Tabel Harga Buyback Emas Antam Hari Ini Senin 9 November 2026 & Nilai Pajaknya &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 5,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -16399,12 +16425,12 @@
   "snippet": "Buyback Saham BCA Rp5 Triliun: Sinyal Keyakinan atau Strategi Menahan Tekanan? - kumparan.com.  Buyback Saham BCA Rp5 Triliun: Sinyal Keyakinan atau Strategi Menahan Tekanan? - kumparan.com &nbsp;&nbsp; kumparan",
   "corroboration": 2,
   "response": null,
-  "score": 36,
+  "score": 21,
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": 5.38,
-   "last": "2026-11-18"
+   "abn5": 0.28,
+   "last": "2026-11-17"
   }
  },
  {
@@ -17790,12 +17816,12 @@
   "snippet": "BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman.  BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman &nbsp;&nbsp; StockWatch.id",
   "corroboration": 2,
   "response": null,
-  "score": 52,
+  "score": 67,
   "outcome": null,
   "anomali": {
    "vol_z": -0.02,
-   "abn5": 4.35,
-   "last": "2026-11-18"
+   "abn5": 6.43,
+   "last": "2026-11-17"
   }
  },
  {
@@ -17826,12 +17852,12 @@
   "snippet": "BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman.  BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman &nbsp;&nbsp; stockwatch.id",
   "corroboration": 2,
   "response": null,
-  "score": 52,
+  "score": 67,
   "outcome": null,
   "anomali": {
    "vol_z": -0.02,
-   "abn5": 4.35,
-   "last": "2026-11-18"
+   "abn5": 6.43,
+   "last": "2026-11-17"
   }
  },
  {
@@ -17939,12 +17965,12 @@
   "snippet": "INDF-ICBP Pastikan Aksi Buyback Saham Tidak Langgar Aturan Free Float.  INDF-ICBP Pastikan Aksi Buyback Saham Tidak Langgar Aturan Free Float &nbsp;&nbsp; IDX Channel",
   "corroboration": 2,
   "response": null,
-  "score": 14,
+  "score": 29,
   "outcome": null,
   "anomali": {
    "vol_z": -0.02,
-   "abn5": 4.35,
-   "last": "2026-11-18"
+   "abn5": 6.43,
+   "last": "2026-11-17"
   }
  },
  {
@@ -18722,8 +18748,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -19435,12 +19461,12 @@
   "snippet": "Porsi Asing di Saham BBCA Turun, Buyback dan Dividen Berpotensi Jadi Katalis.  Porsi Asing di Saham BBCA Turun, Buyback dan Dividen Berpotensi Jadi Katalis &nbsp;&nbsp; IDX Channel",
   "corroboration": 2,
   "response": null,
-  "score": 29,
+  "score": 14,
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": 5.38,
-   "last": "2026-11-18"
+   "abn5": 0.28,
+   "last": "2026-11-17"
   }
  },
  {
@@ -19551,12 +19577,12 @@
   "snippet": "Harga Emas Antam (ANTM) Logam Mulia Jumat Naik, Emas Dunia (XAUUSD) Menghijau! Goldman Sachs Pangkas Proyeksi Harga - Sinar Harapan.  Harga Emas Antam (ANTM) Logam Mulia Jumat Naik, Emas Dunia (XAUUSD) Menghijau! Goldman Sachs Pangkas Proyeksi Harga - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
   "corroboration": 4,
   "response": null,
-  "score": 31,
+  "score": 16,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -20117,8 +20143,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -20234,8 +20260,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -21604,8 +21630,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -0.18,
-   "last": "2026-11-18"
+   "abn5": -0.06,
+   "last": "2026-11-17"
   }
  },
  {
@@ -22763,8 +22789,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.23,
-   "abn5": 2.38,
-   "last": "2026-11-18"
+   "abn5": -3.49,
+   "last": "2026-11-17"
   }
  },
  {
@@ -23366,8 +23392,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.23,
-   "abn5": 2.38,
-   "last": "2026-11-18"
+   "abn5": -3.49,
+   "last": "2026-11-17"
   }
  },
  {
@@ -23536,8 +23562,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.47,
-   "abn5": 1.43,
-   "last": "2026-11-18"
+   "abn5": 2.24,
+   "last": "2026-11-17"
   }
  },
  {
@@ -25844,8 +25870,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.14,
-   "abn5": 1.77,
-   "last": "2026-11-18"
+   "abn5": 3.37,
+   "last": "2026-11-17"
   }
  },
  {
@@ -26323,8 +26349,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.47,
-   "abn5": 1.43,
-   "last": "2026-11-18"
+   "abn5": 2.24,
+   "last": "2026-11-17"
   }
  },
  {
@@ -27470,12 +27496,12 @@
   "snippet": "Emas Antam Rp2,546 Juta — Lindung Nilai Kurs, Bukan Cuan.  Emas Antam Rp2,546 Juta — Lindung Nilai Kurs, Bukan Cuan &nbsp;&nbsp; https://feedberry.com/",
   "corroboration": 2,
   "response": null,
-  "score": 29,
+  "score": 14,
   "outcome": null,
   "anomali": {
    "vol_z": -0.55,
-   "abn5": -6.96,
-   "last": "2026-11-18"
+   "abn5": -4.58,
+   "last": "2026-11-17"
   }
  },
  {
@@ -27692,12 +27718,12 @@
   "snippet": "Emiten ICBP Raup Penjualan Rp 64,45 Triliun.  Emiten ICBP Raup Penjualan Rp 64,45 Triliun &nbsp;&nbsp; Liputan6.com",
   "corroboration": 3,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": -0.02,
-   "abn5": 4.35,
-   "last": "2026-11-18"
+   "abn5": 6.43,
+   "last": "2026-11-17"
   }
  },
  {
@@ -27760,8 +27786,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.47,
-   "abn5": 1.43,
-   "last": "2026-11-18"
+   "abn5": 2.24,
+   "last": "2026-11-17"
   }
  },
  {
@@ -27822,8 +27848,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.47,
-   "abn5": 1.43,
-   "last": "2026-11-18"
+   "abn5": 2.24,
+   "last": "2026-11-17"
   }
  },
  {
@@ -28074,12 +28100,12 @@
   "snippet": "BCA Bantah Rumor Merger, Harga Saham Akhir Oktober Menguat.  BCA Bantah Rumor Merger, Harga Saham Akhir Oktober Menguat &nbsp;&nbsp; Emitennews.com",
   "corroboration": 2,
   "response": null,
-  "score": 29,
+  "score": 14,
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": 5.38,
-   "last": "2026-11-18"
+   "abn5": 0.28,
+   "last": "2026-11-17"
   }
  },
  {
@@ -28108,12 +28134,12 @@
   "snippet": "BCA Buka Suara soal Rumor Merger dengan DBS, Tegaskan Kabar Itu Tidak Benar.  BCA Buka Suara soal Rumor Merger dengan DBS, Tegaskan Kabar Itu Tidak Benar &nbsp;&nbsp; IDX Channel",
   "corroboration": 2,
   "response": "membantah",
-  "score": 19,
+  "score": 4,
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": 5.38,
-   "last": "2026-11-18"
+   "abn5": 0.28,
+   "last": "2026-11-17"
   }
  },
  {
@@ -28695,12 +28721,12 @@
   "snippet": "DBS Pernah Gagal Caplok Danamon, Kini Terseret Rumor Merger BBCA.  DBS Pernah Gagal Caplok Danamon, Kini Terseret Rumor Merger BBCA &nbsp;&nbsp; IDX Channel",
   "corroboration": 2,
   "response": "membantah",
-  "score": 19,
+  "score": 4,
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": 5.38,
-   "last": "2026-11-18"
+   "abn5": 0.28,
+   "last": "2026-11-17"
   }
  },
  {
@@ -28807,12 +28833,12 @@
   "snippet": "BBCA Makin Murah, Rumor Akuisisi Makin Ramai: Ada Haji Isam hingga DBS.  BBCA Makin Murah, Rumor Akuisisi Makin Ramai: Ada Haji Isam hingga DBS &nbsp;&nbsp; IDX Channel",
   "corroboration": 1,
   "response": "membantah",
-  "score": 15,
+  "score": 0,
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": 5.38,
-   "last": "2026-11-18"
+   "abn5": 0.28,
+   "last": "2026-11-17"
   }
  },
  {
@@ -29433,12 +29459,12 @@
   "snippet": "DBS Bantah Rumor Merger, Saham BBCA Balik Jatuh 5 Persen.  DBS Bantah Rumor Merger, Saham BBCA Balik Jatuh 5 Persen &nbsp;&nbsp; IDX Channel",
   "corroboration": 2,
   "response": "membantah",
-  "score": 19,
+  "score": 4,
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": 5.38,
-   "last": "2026-11-18"
+   "abn5": 0.28,
+   "last": "2026-11-17"
   }
  },
  {
@@ -29814,12 +29840,12 @@
   "snippet": "DBS Bantah Rumor Merger dengan BCA.  DBS Bantah Rumor Merger dengan BCA &nbsp;&nbsp; IDX Channel",
   "corroboration": 2,
   "response": "membantah",
-  "score": 19,
+  "score": 4,
   "outcome": null,
   "anomali": {
    "vol_z": 0.04,
-   "abn5": 5.38,
-   "last": "2026-11-18"
+   "abn5": 0.28,
+   "last": "2026-11-17"
   }
  },
  {
