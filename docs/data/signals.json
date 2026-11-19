@@ -1,8 +1,156 @@
 [
  {
+  "id": "24989aa8a012",
+  "title": "Adhi Karya (ADHI) Digugat PKPU Dua Perusahaan, Ini Respons Manajemen",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDQ4d3dzeXZBVlZ1RjBmVERhNlgzMnNub2RCbDNwLTlSZHhJTlpWaHRPOExoNm1CMTdYMjh5QlBlSWR5Yk4tWjlyQ1RBNVI5dlNySWZZSHpvSkxMSkk1VjJTdVkySUJ3ZkwyamdUbGd5SmJ5Y3lUcDJna1d6Ql9sTlBsVll2Uy1RLUNlcTM1UGlzaVoyWF9SZUtvVTRtOVVpNWtB0gGbAUFVX3lxTE45eVotNzVHN3VMVmlRVzAzNVZ4MG5ReWw0MS1VSVlmb2I4c3c5WWpmcXc4UldvNmpRanVZR3phMjhiZmJlTzBMUmRuRWZoRWlxak14TU8wZTVVM1ZOS0RVNDhyTWcyUmI3T3lHNE5Rb1N3UDFNejlXMm01RGtVellqcl9XZERTNzZQT2F4NGdzNTEwcm1xaXE1WVV3?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-19T23:10:41+00:00",
+  "tickers": [
+   "ADHI"
+  ],
+  "uma": false,
+  "jenis": [
+   "Utang/restrukturisasi"
+  ],
+  "asal": [
+   "Direksi/manajemen"
+  ],
+  "first_seen": "2026-11-19T23:36:52.380928+00:00",
+  "anon": [],
+  "corp": [
+   "pkpu"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Adhi Karya (ADHI) Digugat PKPU Dua Perusahaan, Ini Respons Manajemen.  Adhi Karya (ADHI) Digugat PKPU Dua Perusahaan, Ini Respons Manajemen &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 1,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "3bbe1b5cee4a",
+  "title": "Astrindo Nusantara (BIPI) Mengincar Investasi Baru",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUgxLTBzelFWQ1BzZDZKNEI5M2RzLUN0QThNQWlEak4tX3JsakQ4N1Vwcl9QNWlNbnVsRUFqby05SlM5VkdibmlqQk5yb2o2ZEM4R0lCci1jVlktR25IZFlTQTFwUTcyVGJVdGU5dUptcUEyOGdFOWNhVGlkMUhXRGtTbjUwSEl3YXc?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-19T23:09:50+00:00",
+  "tickers": [
+   "BIPI"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-19T23:36:52.380928+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Astrindo Nusantara (BIPI) Mengincar Investasi Baru.  Astrindo Nusantara (BIPI) Mengincar Investasi Baru &nbsp;&nbsp; KONTAN",
+  "corroboration": 1,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": {
+   "vol_z": 0.13,
+   "abn5": -0.13,
+   "last": "2026-11-18"
+  }
+ },
+ {
+  "id": "b4445449b8e4",
+  "title": "Emiten PRDA Selesaikan Buyback Saham Rp 112,41 Miliar",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzd4WTRfQjZGRWVneHBPdk8zRl9OSTR1b3NPa2Vtb2o5ZDlUS2RIMlBGdUFuR2NrWTNYd29GaURNNUlCWWZOU1p3N2dPVmo5UDhsdFlmd1NQdi10b3Z6M011eHNXaDJPWjh3U3JWQ3NIbjM4QjVRWjNteVVWZ0cwbVk3anphN1NKeW5jbXhUNVpJdEcyWjlib25yTjXSAZMBQVVfeXFMUExNOEpQQkp6M2FrWU95Y0cxWWxWdVV1M3VDT2Y4M1VJVjM1eEFXYkdIUVhjUUV0cC1UOVkyaktyNms2YWpIX1NIN0RVZkx2MXJmSHkyTHRHUDVGa2xGS214T0JKa19QcXd4bVQ3OFhrSFFzcURBalVEbUxfaVVRX25iRkg3UXlkLThZdHp0WTBfbVdn?oc=5",
+  "media": "Liputan6.com",
+  "published": "2026-11-19T23:00:39+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-19T23:36:52.380928+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 112.41,
+  "schedule": false,
+  "party": false,
+  "snippet": "Emiten PRDA Selesaikan Buyback Saham Rp 112,41 Miliar.  Emiten PRDA Selesaikan Buyback Saham Rp 112,41 Miliar &nbsp;&nbsp; Liputan6.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "426ec59b2364",
+  "title": "Phintraco Prediksi IHSG Melemah dan Rekomendasikan Lima Saham",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42eW9vdE8wU3dJcUIzR1JUcUpIaTJPaUZJQjBDLVRfTkxRd1Q5MEdEbEtPdjl0eVloT3AzcThuUmtfNU1oVnozbHBmUkFmSXJ2b3dxaTdTYlhwVlpqMzRGX01sTklYckk?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-19T22:48:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-19T23:36:52.380928+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Phintraco Prediksi IHSG Melemah dan Rekomendasikan Lima Saham.  Phintraco Prediksi IHSG Melemah dan Rekomendasikan Lima Saham &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "06d285397960",
+  "title": "Elnusa (ELSA) Lanjutkan Buyback Saham Rp84,5 Miliar hingga Februari 2027",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU1lTlYtVnZsZnFvc1BMdFc3WGtWWUxqTk1RUUlGejV6RHVha0ZmWTQ2Vm5BdjRTeWRtMUhqWHB0MDRYWk9qODVhZ2hXckRwWTJldFozNnQ1V2FPZE1qZkVLV2xIeUFDSFJBbExkSFhYbGdWbW1fbGMzeEptN2lYZjV5Y3FVa1lmdUJlTFJjT0pxS3FGZktYblcwdlBybmNOTEJWZzVtbzlmdzlT0gGyAUFVX3lxTFBob2hxanRPUVdocnpfcWhaXzJLRkpCZUI0dC0wMENpcHA4MmNQT2l4SUtkS0gtNXZnQTQ4MFpXZWtOSnRaUzEwZGk2bmxRTVFkaGNVMmU3MzgzN0xmVDJBVkJuSXJaRG9DZERlcXdUVV9RMWRpVF9XTmg5V3JfNUJKWVVUWTBDN2JleEZENGxkNGZqdU5GYzI5Rm5VQXJMYmVtWVMxZlJETnlyak9NNHJHVFE?oc=5",
+  "media": "IDX Channel",
+  "published": "2026-11-19T22:03:00+00:00",
+  "tickers": [
+   "ELSA"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-19T23:36:52.380928+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 84.5,
+  "schedule": false,
+  "party": false,
+  "snippet": "Elnusa (ELSA) Lanjutkan Buyback Saham Rp84,5 Miliar hingga Februari 2027.  Elnusa (ELSA) Lanjutkan Buyback Saham Rp84,5 Miliar hingga Februari 2027 &nbsp;&nbsp; IDX Channel",
+  "corroboration": 1,
+  "response": null,
+  "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "d7fdd69ea568",
   "title": "PPRO Catatkan Rugi Rp201,71 Miliar, Rights Issue dan Private Placement Belum Jadi Prioritas",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHNfUFRpdVV3YmwzaGpYQ3FaLW5qZ2IyWWZJQ09YQ3NSQ194VW5EWjU0dGxjMlotaXZhNWVGd2pISlJsRXdYYURHeTFDWVlBelZ1VDE1bjJXeFhrdHVyNjVHYTRWdllTSEwwci1JdS1BaFFnVUxkU3k4dVZtRzdvUFF6R1ZCSE4yQXJkNXZJMUM0M1hPa2tySVdFeDBwTWJ1alFMR2pHT3JhOVgzbFBuVGdEbnFKZkhady1rVWRXa282OGp0dzRZ0gHMAUFVX3lxTE1RYml2VUgyVTBmaXRubkk3THpqbndzbEF1ZklWVWgxQjFYNHRZZlhOaDdtczRhSFVlWHVSWThPREd3Z1U3UzY5X01HbkdldWM0YUhScEpzcktwTktvQmNXTnR3b1MtazFTWDAxZkJ5Z1J2aGY0a0tZWDg2QjRsd3UxNlU5dlZUb01TU0NIMGp0QldZU2owUFJpMExRZXBUOVNrZ05xLW1BUmM2el9jVk9kdWliRGNfSHVzZFNWSmhiWmdCQmhyQ2VBTGpHdQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDlfV1BHQ25seWtHUDl0bDhVYVJ4MFFsTDZNZmVQc3lBQkoxN0tnVDcxOVFzZ0dhWTdQSXRXenRlekhQR1FGV2Y2VXhXRzZ4OEMwYXlHS1h0QWREeVZNU1lpRm82RFdPdFBUMFRfVlRCcEE5bExmdEQxOG43SGhLVUZBRE1Ga0pnU3N0eTlWY2lmSk92Z203c0RMUWM0ZDU5M3Z6Sjc2akN6Mk1jNlV3SEpzU0VtZ0o5bXROSTQ1QWlacXEtVG4teFVR0gHMAUFVX3lxTE1RYml2VUgyVTBmaXRubkk3THpqbndzbEF1ZklWVWgxQjFYNHRZZlhOaDdtczRhSFVlWHVSWThPREd3Z1U3UzY5X01HbkdldWM0YUhScEpzcktwTktvQmNXTnR3b1MtazFTWDAxZkJ5Z1J2aGY0a0tZWDg2QjRsd3UxNlU5dlZUb01TU0NIMGp0QldZU2owUFJpMExRZXBUOVNrZ05xLW1BUmM2el9jVk9kdWliRGNfSHVzZFNWSmhiWmdCQmhyQ2VBTGpHdQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-19T21:09:00+00:00",
   "tickers": [],
@@ -1251,7 +1399,7 @@
  {
   "id": "e7d5288d49b1",
   "title": "Merger XLSmart Mulai Berbuah, Saham EXCL Punya Katalis Baru",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkdVa0RhTkp4aFJINGEtSTlXLVNkY3dRWVBEN3BoOHFpTDZKaXR6Qlc0aTllX3hhUkxKT2E1NXJoU0V4SmtjYjEwaXF6dzU5aEJiUm9jSXhqdTJ3MTdqUmFKSGE3ZHB6dXVrQWZNQkpRaVNnYmZydzdWTXZEalRlWmFhV0xwM2t4REFjd18wcEJRbVMyd0U4OTR0WGdIR29P0gGjAUFVX3lxTE1mb2ptS0VMNTd3UU45SjN4cDZka015akpPV2FxNy02aWtwOHNjRk9hdWJiUW84NVFqNzNnUTdWTUk2T2RvU3BQUWxDbWhUbU1KUGVWTC1DSEstY3F3cmZPaWVlZGJmT2EtdUhleHltN3hJUUN6dl9FcFNFRnlrS3NqVzNSWFROZW95cF9tenFHYnFpRzhON2dWNk5Vc1E3ejJfSlk?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTFQLUtMQUJKWjUxVFllVlVxcDZfNkhfcGJuTEZZWVFHbTI2VGNiM1pfcXFYc1JZLUdvTmxsT3dFS1ZiZmlPdE12WTR3MElyZ0pHaFVvRHJvbnFUenpLdXZvOXczV01DN1FZWkE4aGtqMUF3bU1FbndoUHdyeFgzWFN1V1NvWllKM2kxMkYyLWRwWFZHOTJHRjVqNU5uLVdD0gGjAUFVX3lxTE1mb2ptS0VMNTd3UU45SjN4cDZka015akpPV2FxNy02aWtwOHNjRk9hdWJiUW84NVFqNzNnUTdWTUk2T2RvU3BQUWxDbWhUbU1KUGVWTC1DSEstY3F3cmZPaWVlZGJmT2EtdUhleHltN3hJUUN6dl9FcFNFRnlrS3NqVzNSWFROZW95cF9tenFHYnFpRzhON2dWNk5Vc1E3ejJfSlk?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-19T02:48:00+00:00",
   "tickers": [
@@ -1701,6 +1849,36 @@
   "anomali": null
  },
  {
+  "id": "0281ee033626",
+  "title": "Lirik Rekomendasi Saham dan Prospek AKR Corporindo (AKRA) Usai Akuisisi SPBU VIVO",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXFKeHVsQm45RVgtbzF6eFRmTnV4c08zSzR3YnRieU5pbnhmeTFGWjh2WDFIWGdWV0lud29qZmEwMzJHUW9MT1BCdnJzLVEzS0dqVzY1NWkwSGhabWh2R3NEcW9BNy1BM2MxUVpTWlBwTU81V1ZyWVlDejhmeHd0bzlhWWlxa1BoUWlnOHpLT0s3NmtRbnE1THRnQ1dIYklHeWsxWjZ5b0lRNTlXUmFUMFdCbTdnQdIBrgFBVV95cUxNbE9WQjhWZjMyMGpLaFZXYnRlV0dfY3ptcXVEWmJQaVoxRUdLS3MySEIxSlgwcFJzUi1ESk44VzBBdWpNUzhmWmtKMFJSTE1zZnlvRXZGdmg1XzdIbTYzQlJoVFllV3ZUOUp4TGc0UzlpYlI3eGtJNGdsbFdqMnl0NnFwUGYyNnNGODFJaHhCRS1BNTNkQlNUeHlqd19BYllNUTNtYngzR29yLVpjLVE?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-19T00:19:22+00:00",
+  "tickers": [
+   "AKRA"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-19T23:36:52.380928+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Lirik Rekomendasi Saham dan Prospek AKR Corporindo (AKRA) Usai Akuisisi SPBU VIVO.  Lirik Rekomendasi Saham dan Prospek AKR Corporindo (AKRA) Usai Akuisisi SPBU VIVO &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 4,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "9feaa579a127",
   "title": "Kebut Hauling Road 15 KM, ARII Private Placement 375 Juta Lembar",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ1NyeGhNQ2RYTU9kelppX292dHlNaGk3QzFPMGUwN0lWdE9EQXhDWXh6MjBEOUo0RDg4RGRxdGxjUDlUNWxHVUV1cWtQSXoycE93amxlWTdrU0g4TnZ1YVpGQ1d4WExLc0E1NFhQQzd6eTFqUkJYenBjemdKalRvVzZ6U2lORF9zb0lvNnRKQUpCU3U4MXc?oc=5",
@@ -1755,6 +1933,36 @@
   "corroboration": 2,
   "response": null,
   "score": 14,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "ba802ca65a66",
+  "title": "Hassana Boga (NAYZ) Bakal Akuisisi 75% Bangkok Tellink, Nilai Maksimal US$ 125 Juta",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ITUN6MGVPMGJoYkZNRzVYUjBQSVVKbVlaNEJqY2IzMDNxcFRLLU9sMFR6YzVvYlVWcEV5enN2LXJwMlNuZ3lsSXNud2pVRmNVV2VETGxZclZLeVhZYjJVcTBR?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-18T23:47:32+00:00",
+  "tickers": [
+   "NAYZ"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-19T23:36:52.380928+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Hassana Boga (NAYZ) Bakal Akuisisi 75% Bangkok Tellink, Nilai Maksimal US$ 125 Juta.  Hassana Boga (NAYZ) Bakal Akuisisi 75% Bangkok Tellink, Nilai Maksimal US$ 125 Juta &nbsp;&nbsp; KONTAN",
+  "corroboration": 1,
+  "response": null,
+  "score": 15,
   "outcome": null,
   "anomali": null
  },
@@ -2271,7 +2479,7 @@
  {
   "id": "309800d27c67",
   "title": "SPBU Vivo Bakal Gabung BP-AKR, Grup AKR (AKRA) Siapkan Akuisisi USD15,5 Juta",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHZzZjR5bWMyVmhnVzFRcW1rNFV5ckxWSWxqVWhKdEtQMFctQnFMMTdlZ0UtUmhyaVp6U242NlUzWEhPOFJsaUVHZlVsalMwUFRNMEdvLUJtckdzN1ZtckpYMnhoeGlITDd3YU9hQzlNWTduZ0RLZXhzMFJGT3A1Wmc5NVNtcXhyMU5RdVZyUE10TFJBMDZMNnhHempzcXJvTmJkU1FPdnB3QlJfeU1nZEN5a9IBuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ1?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ10gG4AUFVX3lxTE40ZUZsWmlaMUQwOHdCZkgtUDcxcTZEZWxfMWZRQjZaY2hsaGRWaTRoSEpPemZxRlBNWmx6UG1Hb3NlTWVaNDlabXZaR2FGN2NJVVR2c2hzN1pGQ2gyOWFuOENQeXBoSjQwSjB0OUc0RTNBTW5OTW5ES0FueGxhQjRSakdzR3paemQzdExJU2EzWC1taHctbUtfREhpMlVDQlkxV3l1cW54eE9oZ2hkTnhLdF84S2RYVDU?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-18T12:07:00+00:00",
   "tickers": [
@@ -3747,7 +3955,7 @@
  {
   "id": "675f0090c4d0",
   "title": "Adidaya Mandiri Bakal Kuasai Terregra (TGRA) Lewat Private Placement 21 Miliar Saham",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZmZIU1VjWDRTQk9BMG9zcUw3aTc4bDFnWWt0d21hOXNlWTV0LW02LUVxRkhBSXAtQzdSOFVzb1F3TFRHVUpHdlF4dzZaSkdOelo4UXFKNlNXSDc2VnV4X0ZWTTI4UDN2Q3VWZEJXZjVBUW82M003eTFzbjZiU2g2RWJucWdQX0prT1lESjQtdGpKQmJMVElyeEY4M0JPSngzMDNRNjk1YWFyTjJGS0NBT3BUZkI5SmtUYmpwdVBn0gHDAUFVX3lxTE1vZW9JdVRKWVRRMXFfUEszUEk3a1pMTUxTc2dJZjBTU3Y2VHJQd2FKbENCaEwzOW1PNDdCMDNjbEVvN1djdFBPcnRQNE1wUzk0UUhVUVcwNGdaNTVfMzAwV0RVaElhS1A5eDZ3dW5DMHJwUGVaT0lYclItdXJEd3RDNW5LZWFSU2pIeXBWV0c3UW1aNWNKSTFOem5QeWg3ajhlZzhDQ014WjN6UVd6U2VMdmViVDVrTzZBb1NRSVdLemZnSQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2VvSXVUSllUUTFxX1BLM1BJN2taTE1MU3NnSWYwU1N2NlRyUHdhSmxDQmhMMzltTzQ3QjAzY2xFbzdXY3RQT3J0UDRNcFM5NFFIVVFXMDRnWjU1XzMwMFdEVWhJYUtQOXg2d3VuQzBycFBlWk9JWHJSLXVyRHd0QzVuS2VhUlNqSHlwVldHN1FtWjVjSkkxTnpuUHloN2o4ZWc4Q0NNeFozelFXelNlTHZlYlQ1a082QW9TUUlXS3pmZ0nSAcMBQVVfeXFMTW9lb0l1VEpZVFExcV9QSzNQSTdrWkxNTFNzZ0lmMFNTdjZUclB3YUpsQ0JoTDM5bU80N0IwM2NsRW83V2N0UE9ydFA0TXBTOTRRSFVRVzA0Z1o1NV8zMDBXRFVoSWFLUDl4Nnd1bkMwcnBQZVpPSVhyUi11ckR3dEM1bktlYVJTakh5cFZXRzdRbVo1Y0pJMU56blB5aDdqOGVnOENDTXhaM3pRV3pTZUx2ZWJUNWtPNkFvU1FJV0t6ZmdJ?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-17T10:33:00+00:00",
   "tickers": [
@@ -3960,6 +4168,34 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "1be235b18bd7",
+  "title": "FORU Rights Issue Rp27,1T, Ekuitas Rp23 Miliar Bakal Dikerek 1.178x?",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMm5IWGF4cTR2dzFDT1FFNDExYWNJUDJZalVhODhWdThrZzR2WmdET3RrWF9zamFkR09Sbl8welJxN2F0ZlROa3Ytd1NuelFrTWItSlM2U04yLVhrY2NiUnZkQjM3cHBqN2pkMDA1Y05lNXo3OVh1M3Jib1ljeEctbnlfZFVFbVdiUFhiUlhyblZNVGdPb21z?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-17T08:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-07T04:42:28.933011+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 23.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "FORU Rights Issue Rp27,1T, Ekuitas Rp23 Miliar Bakal Dikerek 1.178x?.  FORU Rights Issue Rp27,1T, Ekuitas Rp23 Miliar Bakal Dikerek 1.178x? &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 12,
   "outcome": null,
   "anomali": null
  },
@@ -6505,7 +6741,7 @@
  {
   "id": "d590e1dbc6c5",
   "title": "Savitra (VISI) Tuntaskan Akuisisi Grup RS dan Klinik Hasna Medika",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmhGM2pHQlZkTEJ2WlNxRXhBdDIwU0RURktTVzBIMGFhQktjLVFnZkZHSEZ3Q3BRamdhVmVXLUlIY0VQTlZsbVNHeHB4N0pQVHZYWjFhd2d3STVGVWZMa1JOYVBPTnZHV3E2dDIzQ3hZb3ZlZnhhYVpxNDBmNUlBUzNweS1oNldBdWZ4T0Itd3BBQzZaM3JIX1N4TGQzMnNBYVprNdIBqgFBVV95cUxQT05SSmgxOVcxQUQwRWNBc0dEM3RwdmxIYVpycGdvby1GdW5HSGdPX0VaQmxyem9FdmltdGo2bXZkQVdrLWV1QkZzNWpMTG1jZ21RV3RKOVRGWjlvOGVtakNPOWNBd05tMWM5V1o5TXpsLW92ZWhhdEJ5YnVKLVlTbm1BT2xvRlZVcjYyWS1QWXkwSFZHekRVbnpSYjFyMzVCdDlyeVJGcWExdw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFRZcHRjSzZSTnF0YlNGWlJXTVJFUnNnOHZLVEp1WVIxUk5NalhJYmVWd3FEVnZhd3lvanFRcjlaTm9vSmRfSjN3Um51QmpEUkFheXd2VUxnSERXSWt0UlRDd3ZJTXM3eWY2NEJON2d0YjV4Q3VwSUdqRkpleGJRX0dld1hWNF9MMm85Vll2cDVnSzBCWUptOXJzT1lQS1hvZzlmZklWbTVJQdIBqgFBVV95cUxQT05SSmgxOVcxQUQwRWNBc0dEM3RwdmxIYVpycGdvby1GdW5HSGdPX0VaQmxyem9FdmltdGo2bXZkQVdrLWV1QkZzNWpMTG1jZ21RV3RKOVRGWjlvOGVtakNPOWNBd05tMWM5V1o5TXpsLW92ZWhhdEJ5YnVKLVlTbm1BT2xvRlZVcjYyWS1QWXkwSFZHekRVbnpSYjFyMzVCdDlyeVJGcWExdw?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-15T09:00:00+00:00",
   "tickers": [
@@ -6559,6 +6795,32 @@
   "anomali": null
  },
  {
+  "id": "37e9b8322726",
+  "title": "Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXpVNFhvbVlrbnFMRUszVW5fZDI4cy1Od3NKRF9CdEpFWjZpWjRyNVBBdFdTZGYwdUloQ3RXWVltZ29QcHFQWDZUQmZyT3NEU0dla0RXNnZ0aG9XM3FyZlp0Zmp2c0Myd1U3cElLY1lGR1lzbGh2LTVaUkRjVUtnMFp1cXdqRW5qTWVUaDRPRENBQQ?oc=5",
+  "media": "rmolsumsel.id",
+  "published": "2026-11-15T08:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-14T07:53:30.004687+00:00",
+  "anon": [
+   "tengah menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay.  Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay &nbsp;&nbsp; rmolsumsel.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "47ba5fa5d087",
   "title": "Dirut Emiten WIRG Stephen Budiman Mengundurkan Diri",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUhnMThzd1NEYzQ1Ty1ZNldGY1V2aXpmbUNKZ0JVVDIxYmRJSW83S0Q0WUlQZktRekVLRmV1ZnpSWkxjTUlGdlhMSXlrMkYwRnhQZVQxRnQ2V3VmYnYycVM2eFotNXpmWER4QjdCX2dMUEw5N3BMNTJyTV9nSGxDcEwtcmtTeVhmUnhLMkE4VlpqcHlra3MzTkFHTdIBkgFBVV95cUxOR040YXVaZHc5SzB1S19rbkZ2LVQxckRxNGNFOTU3NXhlaEp5RmRDOFo3VXYwWGx6dnVGVFp0eHRfbDFrTDhtUV9ROFJieVY4a2tzMlRXaUJUYkRlay1YalNEZjBkTTZMRjFiOWNGaFB5Tk5XbldwMlNTSi02YUFSaDlvbHBkc0FkWWNPTXlZNGMtZw?oc=5",
@@ -6581,32 +6843,6 @@
   "corroboration": 0,
   "response": null,
   "score": 6,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "37e9b8322726",
-  "title": "Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXpVNFhvbVlrbnFMRUszVW5fZDI4cy1Od3NKRF9CdEpFWjZpWjRyNVBBdFdTZGYwdUloQ3RXWVltZ29QcHFQWDZUQmZyT3NEU0dla0RXNnZ0aG9XM3FyZlp0Zmp2c0Myd1U3cElLY1lGR1lzbGh2LTVaUkRjVUtnMFp1cXdqRW5qTWVUaDRPRENBQQ?oc=5",
-  "media": "rmolsumsel.id",
-  "published": "2026-11-15T06:28:41+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-14T07:53:30.004687+00:00",
-  "anon": [
-   "tengah menjajaki"
-  ],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay.  Setelah Bayan Resources, Haji Isam Lirik Tambang Nikel Weda Bay &nbsp;&nbsp; rmolsumsel.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -7142,7 +7378,7 @@
   "asal": [],
   "first_seen": "2026-11-14T03:41:28.816212+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "tengah menjajaki"
   ],
   "corp": [
    "akuisisi"
@@ -11159,7 +11395,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.47,
+   "abn5": -0.43,
+   "last": "2026-11-18"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -14305,7 +14545,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.47,
+   "abn5": -0.43,
+   "last": "2026-11-18"
+  }
  },
  {
   "id": "1145c2f50a3d",
@@ -25435,34 +25679,6 @@
   "corroboration": 0,
   "response": null,
   "score": 41,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "1be235b18bd7",
-  "title": "FORU Rights Issue Rp27,1T, Ekuitas Rp23 Miliar Bakal Dikerek 1.178x?",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMm5IWGF4cTR2dzFDT1FFNDExYWNJUDJZalVhODhWdThrZzR2WmdET3RrWF9zamFkR09Sbl8welJxN2F0ZlROa3Ytd1NuelFrTWItSlM2U04yLVhrY2NiUnZkQjM3cHBqN2pkMDA1Y05lNXo3OVh1M3Jib1ljeEctbnlfZFVFbVdiUFhiUlhyblZNVGdPb21z?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-04T08:00:00+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [
-   "Penerbitan saham"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-07T04:42:28.933011+00:00",
-  "anon": [],
-  "corp": [
-   "rights issue"
-  ],
-  "stance": null,
-  "value_bn": 23.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "FORU Rights Issue Rp27,1T, Ekuitas Rp23 Miliar Bakal Dikerek 1.178x?.  FORU Rights Issue Rp27,1T, Ekuitas Rp23 Miliar Bakal Dikerek 1.178x? &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 0,
-  "response": null,
-  "score": 12,
   "outcome": null,
   "anomali": null
  },
