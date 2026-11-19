@@ -3446,6 +3446,32 @@
   "anomali": null
  },
  {
+  "id": "f2f2648be154",
+  "title": "Sebuah delegasi bisnis dari wilayah Tohoku di Jepang sedang menjajaki peluang bisnis di Vietnam.",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFpocU1WNkR5ZVFKYnNWWTU3aUNONUk2OHVqOENfMzR0TGpLVDc2TklLY2d6MVpGZ21hYXFNQmNWSUNQdTNHRzAxaXJyclBBakx4NEZSazFiemdlaTBqTEpnSS1ZMkFZeUNFMFBaZzFNR2xWTzZIbF9RSlZ4ZnZhank1dHo0ek94Q21UdktlX0xQeTlIYm5GZHJhTUhGeDJreTZYTF9fcw?oc=5",
+  "media": "Vietnam.vn",
+  "published": "2026-11-17T13:23:45+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-19T19:31:28.332574+00:00",
+  "anon": [
+   "sedang menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Sebuah delegasi bisnis dari wilayah Tohoku di Jepang sedang menjajaki peluang bisnis di Vietnam..  Sebuah delegasi bisnis dari wilayah Tohoku di Jepang sedang menjajaki peluang bisnis di Vietnam. &nbsp;&nbsp; Vietnam.vn",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "d97f985e82e0",
   "title": "IPO Anthropic Bidik US$ 90,4 Miliar di Nasdaq",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CMC1CcTB6T3hTSjQzalFaZ0ZLTzJTbjR6VWFhemZoN1dONW5NUER1X0I4MGlyQ1RKRnZ2WFdSVmlSSWc0NkhQbl9RZ3BfX1dOR05leGdIenFiUVBudlBrVVp1dEpHUjd5RG1iUllMRWs1WFJzem1XOUVqTQ?oc=5",
@@ -10863,7 +10889,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.47,
+   "abn5": -0.43,
+   "last": "2026-11-18"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -14009,7 +14039,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.47,
+   "abn5": -0.43,
+   "last": "2026-11-18"
+  }
  },
  {
   "id": "1145c2f50a3d",
