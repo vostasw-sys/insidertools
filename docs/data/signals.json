@@ -6235,7 +6235,7 @@
  {
   "id": "d590e1dbc6c5",
   "title": "Savitra (VISI) Tuntaskan Akuisisi Grup RS dan Klinik Hasna Medika",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFRZcHRjSzZSTnF0YlNGWlJXTVJFUnNnOHZLVEp1WVIxUk5NalhJYmVWd3FEVnZhd3lvanFRcjlaTm9vSmRfSjN3Um51QmpEUkFheXd2VUxnSERXSWt0UlRDd3ZJTXM3eWY2NEJON2d0YjV4Q3VwSUdqRkpleGJRX0dld1hWNF9MMm85Vll2cDVnSzBCWUptOXJzT1lQS1hvZzlmZklWbTVJQdIBqgFBVV95cUxQT05SSmgxOVcxQUQwRWNBc0dEM3RwdmxIYVpycGdvby1GdW5HSGdPX0VaQmxyem9FdmltdGo2bXZkQVdrLWV1QkZzNWpMTG1jZ21RV3RKOVRGWjlvOGVtakNPOWNBd05tMWM5V1o5TXpsLW92ZWhhdEJ5YnVKLVlTbm1BT2xvRlZVcjYyWS1QWXkwSFZHekRVbnpSYjFyMzVCdDlyeVJGcWExdw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmhGM2pHQlZkTEJ2WlNxRXhBdDIwU0RURktTVzBIMGFhQktjLVFnZkZHSEZ3Q3BRamdhVmVXLUlIY0VQTlZsbVNHeHB4N0pQVHZYWjFhd2d3STVGVWZMa1JOYVBPTnZHV3E2dDIzQ3hZb3ZlZnhhYVpxNDBmNUlBUzNweS1oNldBdWZ4T0Itd3BBQzZaM3JIX1N4TGQzMnNBYVprNdIBqgFBVV95cUxQT05SSmgxOVcxQUQwRWNBc0dEM3RwdmxIYVpycGdvby1GdW5HSGdPX0VaQmxyem9FdmltdGo2bXZkQVdrLWV1QkZzNWpMTG1jZ21RV3RKOVRGWjlvOGVtakNPOWNBd05tMWM5V1o5TXpsLW92ZWhhdEJ5YnVKLVlTbm1BT2xvRlZVcjYyWS1QWXkwSFZHekRVbnpSYjFyMzVCdDlyeVJGcWExdw?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-15T09:00:00+00:00",
   "tickers": [
@@ -10863,11 +10863,7 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.47,
-   "abn5": -0.43,
-   "last": "2026-11-18"
-  }
+  "anomali": null
  },
  {
   "id": "6b691b104a0a",
@@ -14013,11 +14009,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.47,
-   "abn5": -0.43,
-   "last": "2026-11-18"
-  }
+  "anomali": null
  },
  {
   "id": "1145c2f50a3d",
