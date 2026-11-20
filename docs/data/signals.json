@@ -3927,7 +3927,39 @@
   "schedule": false,
   "party": false,
   "snippet": "BRI Danareksa Sekuritas Jajaki Lebih dari Lima Perusahaan Calon IPO untuk 2027.  BRI Danareksa Sekuritas Jajaki Lebih dari Lima Perusahaan Calon IPO untuk 2027 &nbsp;&nbsp; gadget.qoo10.co.id",
-  "corroboration": 3,
+  "corroboration": 4,
+  "response": null,
+  "score": 26,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.04,
+   "abn5": 4.36,
+   "last": "2026-11-20"
+  }
+ },
+ {
+  "id": "59884c5b79d8",
+  "title": "BRI Danareksa Sekuritas Jajaki Lebih dari Lima Perusahaan Calon IPO untuk 2027",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTlUdjl4bjViWmtIMUhTTTlMUUdVdzV1UllMTmp0d1FfYmp3TkUtMENna2VILVkyWGtVTkNuUlVPTG5CM3BZNjVFSzEyczN5eW00NllJZVh1RUlSeTE2RnQ2M0xuakRrX1hHOVNkUXFKOTh5aEFRYTctVGswWWlUeFMtNHg?oc=5",
+  "media": "Qoo Media",
+  "published": "2026-11-18T14:16:00+00:00",
+  "tickers": [
+   "BBRI"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-20T16:24:01.911164+00:00",
+  "anon": [
+   "sedang menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BRI Danareksa Sekuritas Jajaki Lebih dari Lima Perusahaan Calon IPO untuk 2027.  BRI Danareksa Sekuritas Jajaki Lebih dari Lima Perusahaan Calon IPO untuk 2027 &nbsp;&nbsp; Qoo Media",
+  "corroboration": 4,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -4015,7 +4047,7 @@
   "schedule": false,
   "party": false,
   "snippet": "BRI Danareksa Siapkan Lebih dari Lima Perusahaan IPO.  BRI Danareksa Siapkan Lebih dari Lima Perusahaan IPO &nbsp;&nbsp; BeritaJejaring.co.id",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -4594,6 +4626,34 @@
   "anomali": null
  },
  {
+  "id": "f60a264bcc43",
+  "title": "Buru Restu Private Placement, LOPI Gelar Lagi RUPSLB Pada 19 Oktober",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGJRM3NoTnRpeUFRNEVqSG9iLUVHOTh6b1YwWTRWeTN5WlFmdUtTaTJxQ0xQSDdSTS1rZzJkX0NUTmVyOTNvaERNU2VDalVMbVhybThfVWMyQjc1eFpFMlJfbnk0djBYV1JFdjhyTHJKS3h0S2lSc0RwOFdWSExlWUdUNUxReUluc0RPeVBVd0FPSVNkRDdmZDFaWQ?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-18T08:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T16:24:01.911164+00:00",
+  "anon": [],
+  "corp": [
+   "private placement"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Buru Restu Private Placement, LOPI Gelar Lagi RUPSLB Pada 19 Oktober.  Buru Restu Private Placement, LOPI Gelar Lagi RUPSLB Pada 19 Oktober &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "2c423faf97e8",
   "title": "Harga Emas Tertekan Penguatan Dolar AS dan Sinyal The Fed",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUU10UWVrOUxyTnFRYV9YY21wN1BsTVBWOVBPcGtuZDUwTEZCYXlNVzhFVkVWUG9IeHNibkE0LVU0SGY2WHN4b1pFV0xNd0plYXZDWDQ0bHMxSHZoNC1pdFZVZXpLWU85MmFBOTV3STNtdTA1Y0N0bTJWU1BTSW5FYVo2MXpKX3FJNlE?oc=5",
@@ -5041,7 +5101,7 @@
  {
   "id": "ddfad230f619",
   "title": "Baru Bebas, WEGE Kembali Hadapi PKPU",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GSXJiSDdCOUxFTUFtcHJySzV2bjI3c1FqZjdhWXNGUGgyUE5zNDBQWkZwUGZqemlyRFVrU1RNSDY2U3lIYTRFYzdRV3YtZXpuaXd1R25pMk15b240cWF1NFNTMU91MzMzaTdvMlpMaTZzQjNZb0E?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWUJQem5GdGdEUHhTOXhNQkZoMW9ZMGpEZTNyUVdMRFZDcEstVDRYNXRlMUxrRnBSTzJyZnRUTURKWGtPN3ZqUE9zSE5weGJKR0JlcFhHZTJxNkFkdU9xZjhra3h5TmJWbngwMjZxX3Y?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-18T00:45:00+00:00",
   "tickers": [],
@@ -6626,7 +6686,7 @@
   "asal": [],
   "first_seen": "2026-11-17T01:47:14.807107+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -8318,7 +8378,7 @@
   "schedule": false,
   "party": false,
   "snippet": "BRI Danareksa Pilih Tiga Saham untuk 16 November 2026.  BRI Danareksa Pilih Tiga Saham untuk 16 November 2026 &nbsp;&nbsp; Demokratis.co.id",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -9265,7 +9325,7 @@
   "asal": [],
   "first_seen": "2026-11-14T02:41:20.651513+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "tengah menjajaki"
   ],
   "corp": [
    "akuisisi"
@@ -13336,11 +13396,7 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.53,
-   "abn5": -2.75,
-   "last": "2026-11-20"
-  }
+  "anomali": null
  },
  {
   "id": "6b691b104a0a",
@@ -16488,11 +16544,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.53,
-   "abn5": -2.75,
-   "last": "2026-11-20"
-  }
+  "anomali": null
  },
  {
   "id": "1145c2f50a3d",
