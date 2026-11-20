@@ -1,5 +1,65 @@
 [
  {
+  "id": "07244f6b2e72",
+  "title": "Semen Indonesia (SMGR) Buyback Saham Rp 250 Miliar",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWnZ4U0R5b1NabnZYeUxYeWRFcXdOTFBDTnhjWUdiNHBjQUFJZ19PWHBENDFaVnhSOFV4Q2hsdlNoR29DdDhtZC10OXUteEZPRHlvbmxxWGE1MTlFSkswTDktb19QRWVQQlE2MHBlTTJnMDU1UFVjQ3NtekJfZVh0SDg1M3ppQlBL?oc=5",
+  "media": "investor.id",
+  "published": "2026-11-20T13:45:00+00:00",
+  "tickers": [
+   "SMGR"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T14:12:09.645817+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 250.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Semen Indonesia (SMGR) Buyback Saham Rp 250 Miliar.  Semen Indonesia (SMGR) Buyback Saham Rp 250 Miliar &nbsp;&nbsp; investor.id",
+  "corroboration": 3,
+  "response": null,
+  "score": 22,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "9ee117954981",
+  "title": "Emiten BTPN Bakal Go Private dan Delisting",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNazJnMDMySkYzeDBkTFlXLUVmYThSRGVpYS1NZHFtU2xvcnN1N3pSYU9JTFc0LVRpdXlvT1JrRjlDUzBpR01lY28tZ2JPaWFJQXRvS3lOVVI2OXhEMXJacklZN3lDUXg0N0hLVEpaajAtUGxucXRVRnRVM0hJR2RYNEpVaGxDcHRxX3lhTUxjSdIBhgFBVV95cUxQWkI3RjZ5bjZiUkdNbEt0MGZYOW5ORnRqd0xMWUZwVHJGaG56VEpjR2VLTDl4NkN4c0FIQTVKVVpnTl9WQjlCSmsyLXJ1alJWMXlrcFdRblBrbWR3RmtCQ0p1dWlfRDEwZldfMGpkTWxIRkJlOFNDaUROWjVLVE9lWFVBWUpYUQ?oc=5",
+  "media": "Liputan6.com",
+  "published": "2026-11-20T13:05:57+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T14:12:09.645817+00:00",
+  "anon": [],
+  "corp": [
+   "go private",
+   "delisting",
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Emiten BTPN Bakal Go Private dan Delisting.  Emiten BTPN Bakal Go Private dan Delisting &nbsp;&nbsp; Liputan6.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "53ee83bc63fe",
   "title": "Kabar Mau Akuisisi Saham Eramet Bareng Haji Isam, VKTR Buka Suara",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMTdLdGhCRW81MDZRTVo0WnNURFhXRmlDWFVCZHRMRFJxWlNFSURzdUd2NnptQWxoQUlQeWIwYmJrTXpQanMwZ0pUd1R2WlhxQlUwRXV6azN0V09Jc2J2V0V6N1BpU202SmlQNG9sZzBIVjhRa0VjR1JzNUNzRllHcUtlSFNKWGNzZEx5eS0wcFVQVm80bzNJQTFuc1NxQ0hQd0R4YW1qMDY5bjFVejdCVjNIMVBsbFJLdE5BdlRqVURTa3pH0gHKAUFVX3lxTE1zNzNZb2hsY1Q1V0hkS1ZkLUppdFFOcGc3dVFIMTdzaG0yWTJ2RW5FZ1NCcHNSaG8xN3R5WFQzd0RPNkdLRkZMd0FXUzNLZHY2cW5WZ2V2c0RyRU1jNjM2UTlhc1QyYm9CQWk5bFIxYmZCdFhtTFlnYTBMUFFwT1dTcDA0M3Y5TXk5MW5JMUkxcEhtRlNPRzhTWlZxd2JiQVQwbDZGYWM3UHNVVGdHZ2RNbzBCNG1CTVh1WjlTZ3dNSWt5SkhjY1o3VVE?oc=5",
@@ -110,7 +170,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham.  Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham &nbsp;&nbsp; شبكة تواصل الإخبارية",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -119,7 +179,7 @@
  {
   "id": "b014858101b5",
   "title": "Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdW5jVmpfT0VOREpYS3NNdndGQmtIMTFpN0NOTFJwckh2V2J5T0tGNE5Ua19xeEVNRU5oZVR0Vy15UGJuUFR1TG1DalRUZVlWUlQweW9CcXJ5MjJMMUpuT2txSzJ5V2NoSlUwU0x2LXRET2c5Uk9mMjN4NlJRUHpkeUVrdkk3em1NZDdBMGUxRDNEVVNlQ3lxdHZKMNIBkgFBVV95cUxNMUtzNFp5djdmS1hhdmxhcC1HejRRVEF6SUlyNy1FdU5PUDljLTRoVzdnbGRVM2lkajQwZ0F4a25LZk1JRkpSTTQyVXdNY0hqa252S2pLY3kzeVBpaFBhaW1wVnVoeTQ1MnpHblUwM2pqX25nd0ZiR0JWTUhRamJfeGY0elJGYzRWOEZJQjUyZmk2Zw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUtzNFp5djdmS1hhdmxhcC1HejRRVEF6SUlyNy1FdU5PUDljLTRoVzdnbGRVM2lkajQwZ0F4a25LZk1JRkpSTTQyVXdNY0hqa252S2pLY3kzeVBpaFBhaW1wVnVoeTQ1MnpHblUwM2pqX25nd0ZiR0JWTUhRamJfeGY0elJGYzRWOEZJQjUyZmk2Z9IBkgFBVV95cUxNMUtzNFp5djdmS1hhdmxhcC1HejRRVEF6SUlyNy1FdU5PUDljLTRoVzdnbGRVM2lkajQwZ0F4a25LZk1JRkpSTTQyVXdNY0hqa252S2pLY3kzeVBpaFBhaW1wVnVoeTQ1MnpHblUwM2pqX25nd0ZiR0JWTUhRamJfeGY0elJGYzRWOEZJQjUyZmk2Zw?oc=5",
   "media": "Liputan6.com",
   "published": "2026-11-20T11:14:24+00:00",
   "tickers": [
@@ -140,7 +200,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham.  Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham &nbsp;&nbsp; Liputan6.com",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -178,6 +238,34 @@
   "anomali": null
  },
  {
+  "id": "2a47e40960d3",
+  "title": "BEI Cabut Keanggotaan 4 Sekuritas Sepanjang 2026, Ada HSBC hingga Yugen! Siapa Pemiliknya?",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcU9UMDd1a0NCUUE3WUI2VmQzcEtKeUYyYW9aS3lDbmxWQ1RwQmlZRkhiclFsODhiNUxHa05QNHhiUndZc25ONVdlTm1IZEFhXzNYYTFRQnFiZkxrc0VPYmlQV2lNNjlhU1ktb0lBdjE0SUg0SEV5SFdPX0xZTnVBQWtXZUM2bU9ENTN6SDEwYTZvUU1BN3BER3lGTkZYQWVMU1ZtMWhCNHR6V2NwQ0VXaVhYenNaNEZQMUE?oc=5",
+  "media": "HARIAN MISTAR",
+  "published": "2026-11-20T10:07:05+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-20T14:12:09.645817+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Cabut Keanggotaan 4 Sekuritas Sepanjang 2026, Ada HSBC hingga Yugen! Siapa Pemiliknya?.  BEI Cabut Keanggotaan 4 Sekuritas Sepanjang 2026, Ada HSBC hingga Yugen! Siapa Pemiliknya? &nbsp;&nbsp; HARIAN MISTAR",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "840b699977c2",
   "title": "Semen Indonesia Siapkan Buyback Saham Rp 250 Miliar",
   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zck0yaURhTk9ISGpOam5pdFh5TWdQWjQ3eU9XTUZIVUY0d3RPSnZpZHpfOElGbUlQZ0NINEVFeXk3NjR3Wl92YW5MVnRoUTR2b052UFNrQjZSWEZ0eVlFcF9rTEs?oc=5",
@@ -201,9 +289,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Semen Indonesia Siapkan Buyback Saham Rp 250 Miliar.  Semen Indonesia Siapkan Buyback Saham Rp 250 Miliar &nbsp;&nbsp; Lensa Hukum",
-  "corroboration": 2,
+  "corroboration": 3,
   "response": null,
-  "score": 17,
+  "score": 22,
   "outcome": null,
   "anomali": null
  },
@@ -259,9 +347,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Semen Indonesia (SMGR) Siapkan Rp250 Miliar Demi Buyback Saham - Bisnis.com.  Semen Indonesia (SMGR) Siapkan Rp250 Miliar Demi Buyback Saham &nbsp;&nbsp; Bisnis.com - Market",
-  "corroboration": 2,
+  "corroboration": 3,
   "response": null,
-  "score": 26,
+  "score": 31,
   "outcome": null,
   "anomali": null
  },
@@ -296,6 +384,36 @@
   "anomali": null
  },
  {
+  "id": "96b5b49a326d",
+  "title": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXpMSTRKZFZfcmtUTHdaMG9URGRmd09JSHVxQTRlZXhyRW0zNEZlNjJuOFl2aHJTbEtsNThsZEJpWWN1Vi0zMHM2WDVTcnI2QzFRajRUeEhKVjBiV0J2THh0ZkRWQWt5RnJGLWxkNGZGS01NS0tXbWxRS3RnVzB5SXNWTzJCalRvSTRsQVZNXzhhTV8yckRBN0sxWXRYc3FZR255b1JpaFlnR05WbmtRbk4taUJDMTZDazE1VFdvZFFnRGhNcnNuMQ?oc=5",
+  "media": "Digivestasi",
+  "published": "2026-11-20T07:59:56+00:00",
+  "tickers": [
+   "EXCL"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T14:12:09.645817+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 1000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS.  XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS &nbsp;&nbsp; Dig",
+  "corroboration": 6,
+  "response": null,
+  "score": 26,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5a7ede1e0d4e",
   "title": "Apa itu Amazon? Mengenal Bisnis E-Commerce dan Cloud",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnQ5RGVQZHpIclEzUldsaXprb3lxTUZhdGs1ZElLNENqbTFncWoyX2lEeUJPeWh6OVRJeVpWLTNMeDVPanlpcG91ZlppSzdvbjYtbm12OUZWbHZwUnA4SWtwWTB4cGl4OGlxWW1FZ1luLV9Kc2prRk01VVVZVnBvbGlaX0J2VGRGVU9KUw?oc=5",
@@ -318,6 +436,36 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "fe2c6280c5d9",
+  "title": "OJK Kasih Bocoran, Ada Bank Lagi Proses Merger",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV2Ewc1B4ZHZWcFpmbFFKWUN6MXdSTlhIeUxueEIwSVRFeENzajdSWVhVb1BVQnZrX0dZXzZyZXg2LTVzWldXajZlUEJVWHhuY09jc2pWMFRFY1hYb28xY0N0M2dFeGxrSDU3U0NfLWlmZU91WjhJSmtaSDJQOXVaNDhOS2ZxTzlvTFBzN3hVQnB2Q2VGX3FpU0tRVXZ2RUNmajBTeWxrYzJTdjDSAbABQVVfeXFMTlp6b1BMQnZaeWd2cXFtSXdJRGpwNlptek9GNHBNdkVtTDFMN0g2Q2g0cnZVbGRyQnRwQXpzQjdzbmdZQUdyMmdKQzl1Z1BWeC1ZQ0hFRGlZSjJhMThRbUt3RGwxM1p0Smp1dG5wcVNCN1NWb2JEX3JEYnJKX3ZzS1B0WnNwVnpmT21HMVRGZkRJQ3Q4bjc2d1NHbU1XYnRWVmozSmhiQnpIQ29WX0lhd2U?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-11-20T06:45:07+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-20T14:12:09.645817+00:00",
+  "anon": [],
+  "corp": [
+   "merger"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "OJK Kasih Bocoran, Ada Bank Lagi Proses Merger.  OJK Kasih Bocoran, Ada Bank Lagi Proses Merger &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 14,
   "outcome": null,
   "anomali": null
  },
@@ -540,7 +688,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Pasar Berfluktuasi Tajam! EXCL Rogoh Kocek Rp1 Triliun Untuk Buyback Saham, Cek Tanggalnya - Sinar Harapan.  Pasar Berfluktuasi Tajam! EXCL Rogoh Kocek Rp1 Triliun Untuk Buyback Saham, Cek Tanggalnya - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -864,7 +1012,7 @@
   "schedule": false,
   "party": false,
   "snippet": "XLSMART (EXCL) Siapkan Dana Rp1 Triliun untuk Buyback Saham - Bisnis.com.  XLSMART (EXCL) Siapkan Dana Rp1 Triliun untuk Buyback Saham &nbsp;&nbsp; Bisnis.com - Market",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 35,
   "outcome": null,
@@ -954,7 +1102,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Buyback, EXCL Siapkan Anggaran Jumbo.  Buyback, EXCL Siapkan Anggaran Jumbo &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 19,
   "outcome": null,
@@ -2225,7 +2373,11 @@
   "response": null,
   "score": 17,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.14,
+   "abn5": 3.71,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "e69a59c0d683",
@@ -5550,7 +5702,11 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.14,
+   "abn5": 3.71,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "3bc29ce975ba",
@@ -14015,6 +14171,36 @@
   "score": 41,
   "outcome": null,
   "anomali": null
+ },
+ {
+  "id": "91d8c4c71f1f",
+  "title": "Harga Saham BMRI Hari Ini, Rabu 11 November 2026",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YdkdoRmliYTFjY20zRmk0N0RBMFNTS2dyZ0JBVFBDeWk4R3NvclRlUHpUYkswTlVZRG4yUEd4TEJ1cE9sN3lGQnd0WC1PX0tnQVJYeFNlcmMxS1ZMNGZpVEZ1Sm5FcEhoSzVpT1gtSFZhRGtPOThiMVJ0dzVQdG8?oc=5",
+  "media": "Pintu",
+  "published": "2026-11-11T08:00:00+00:00",
+  "tickers": [
+   "BMRI"
+  ],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-20T14:12:09.645817+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Harga Saham BMRI Hari Ini, Rabu 11 November 2026.  Harga Saham BMRI Hari Ini, Rabu 11 November 2026 &nbsp;&nbsp; Pintu",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.14,
+   "abn5": 3.71,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "757fb6382954",
@@ -22893,7 +23079,11 @@
   "response": null,
   "score": 18,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.14,
+   "abn5": 3.71,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "177e19c6b6fa",
@@ -23067,7 +23257,11 @@
   "response": null,
   "score": 11,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.14,
+   "abn5": 3.71,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "e2098172440e",
@@ -23097,7 +23291,11 @@
   "response": null,
   "score": 11,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.14,
+   "abn5": 3.71,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "173e168d7926",
@@ -35364,7 +35562,11 @@
   "response": null,
   "score": 41,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.14,
+   "abn5": 3.71,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "e33f051e082d",
@@ -35544,7 +35746,11 @@
   "response": null,
   "score": 41,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.14,
+   "abn5": 3.71,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "98ff43e6998b",
