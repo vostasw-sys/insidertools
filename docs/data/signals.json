@@ -1,8 +1,70 @@
 [
  {
+  "id": "35368c1064c5",
+  "title": "Emiten Haji Isam PACK Klarifikasi soal Akuisisi Saham Weda Bay Nickel - Bisnis.com",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFhUQVNDN1l6RWlVNFdRdUdwN2xOM2E2dTB4RkI5d2hNbUxWYWNZREllTFNnZHR1akRoekFMUjZ0djI5VXNsSXpmU2RsM2JISVItN3RyLWE0MVFNbW9uYjRMNVNvTk9xTzlYV3RFQXp3WnFQZmtGeml5TXdETkI4R0NuN01XRnJNRERVWXlnSFNLOUVqRGxaZmNiVUFvb2IzaVVnMk5fZ09lY3BFbmtXTmlVNUljNzNFNHNFcV9B?oc=5",
+  "media": "Bisnis.com - Market",
+  "published": "2026-11-20T01:29:22+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T02:00:03.175161+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Emiten Haji Isam PACK Klarifikasi soal Akuisisi Saham Weda Bay Nickel - Bisnis.com.  Emiten Haji Isam PACK Klarifikasi soal Akuisisi Saham Weda Bay Nickel &nbsp;&nbsp; Bisnis.com - Market",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "34fc14e0871c",
+  "title": "Harga Buyback Emas Antam, UBS & Galeri 24 di Pegadaian Hari Ini Jumat, 20 November 2026 - Bisnis.com",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYVdPT1Y3TDBnTzdiZlE0dmtxa2NPQ042alFmNXVNZGRNUkk5dW80MWVtLWRuS1R5M0lsWHE1cElPelNPb2lvaXk2Q1JyTks5eHhJRS1SbWZCVi1meVNkcS1pV0tkOWZkaW9Tdk5BX2Z4YUtfQ3lvR0xTR2lDcHk0bkdOR1g2VkY3alFiODZ1cEhObnozV1Q0Mkt6Q2ZQaUYzOXRkd2JUNmtYbUpLUVV1VUVhUnZlR29wTnJ5UTdrVDlqTDJISDRGUVlUbnFsMGhG?oc=5",
+  "media": "Bisnis.com - Market",
+  "published": "2026-11-20T00:20:36+00:00",
+  "tickers": [
+   "ANTM"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T02:00:03.175161+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Harga Buyback Emas Antam, UBS & Galeri 24 di Pegadaian Hari Ini Jumat, 20 November 2026 - Bisnis.com.  Harga Buyback Emas Antam, UBS & Galeri 24 di Pegadaian Hari Ini Jumat, 20 November 2026 &nbsp;&nbsp; Bisnis.com - Market",
+  "corroboration": 5,
+  "response": null,
+  "score": 40,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.66,
+   "abn5": -6.96,
+   "last": "2026-11-18"
+  }
+ },
+ {
   "id": "8f6a8a6b49dc",
   "title": "Terseret PKPU, ini Respons Adhi Karya",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JX2VVU3phU3pLQVdOQUNlQVhDakZxWUNtbmVJeGF5bklGWGNNVDZJTDNmajM1VWFSbU9WSEg1ekVDM055bG1qdVlRTmhIY3R5MnBoN1pGWW0zd0RVeExWcmhHTENQMGc1R2lKY3E1MjhSVWZuNkhJ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NcmlvN1ZKRzRKRVpUZUVkemExWmVPNTh6aWFTYzJ5b0VEWVVPYjVRNmJmc3RYbnFfTldnUkNyNGNiN1JUQ2FjdU0yVXlWdmtiYTd6S0RRSTJCWF9TQjRwdm9TWWcwOW5VNTgwZThrdmJEdw?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-19T23:45:00+00:00",
   "tickers": [],
@@ -2127,7 +2189,7 @@
  {
   "id": "60d2ae3b5a79",
   "title": "Saham Anthropic Resmi Dijual dengan Rekor Pendapatan Rp1.200 Triliun",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkN2NHJ1R0hyVW9wakZ1LVlCSm5lREhDMGFRU3FXT2UyZGhwTTBaSmxITDhJbzd3WG8wa3FMZ2NZdlVmZTlEaVBENU9ZNHVxc2I5WW5PTjQ5ZjF3bDhlZEM4RmlIUHhSOEVzUDI5eXZ2enZBNWZCaktlUlpwbFpwdjJiekM3UmxmU3FNZmJ4Z01hcWYzOWZfZEZOREhHUm1aYnhFaDdjSUdIdkZDSkhNd1NCeVfSAbQBQVVfeXFMT0JOWWVyOGFMaDM2aG54QldrWEVDYmNXZjMzUEZHTWhDOEVXT2dadlphS2lHT1RtYUczcXU4bU1DU2NSTmU1cFFKSkNDOFI0U01aN3hkZ0hBYVc0QzJ4RUUxNkg5cXphSmRTbG5kNF9fRWlMU1JsWFFQcHROaXFpek11NXM5M0hWeWpQTjRuM0lZUFE0N1ZhSm5aaWNBVncxaHRjR0hhVFVEYjctRWpQQ2FGdmlD?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORjluUzJBVjJMYUtxbGFrS3FXWFl4Y3ZmM244Y1VLc3ZzTEd5RWxrNVlvU1p5cnFheWxWVVFMNHVaYkNQWEg0NlhNZzlPelNaOG0xT3hVTWNmQ0dxQWpEbU5aclNQOUVZVV8xbXc0UEN2SVh4M0F5OG84Q1F5bE1WV3ZRTGhTZEY0UFpjMm9VcjVSWkFQWEdqZHJZbEF5QzhBTnJpemkzUWVTMk5CN09OS1pPV3hIOURCVGtXS212WDHSAbQBQVVfeXFMT0JOWWVyOGFMaDM2aG54QldrWEVDYmNXZjMzUEZHTWhDOEVXT2dadlphS2lHT1RtYUczcXU4bU1DU2NSTmU1cFFKSkNDOFI0U01aN3hkZ0hBYVc0QzJ4RUUxNkg5cXphSmRTbG5kNF9fRWlMU1JsWFFQcHROaXFpek11NXM5M0hWeWpQTjRuM0lZUFE0N1ZhSm5aaWNBVncxaHRjR0hhVFVEYjctRWpQQ2FGdmlD?oc=5",
   "media": "Suara.com",
   "published": "2026-11-18T23:47:31+00:00",
   "tickers": [],
@@ -2147,6 +2209,32 @@
   "corroboration": 0,
   "response": null,
   "score": 26,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "dd4576850e07",
+  "title": "Bursa Asia Berpotensi Melemah Jelang Debut IPO Anthropic - Market",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOE8yUnVtdW9TdEJCZjBVOTExZVRSUklDWlhGYmhyWDBJOGthaEpCZ0l6ZGlWbFdlWXlTcEpiRlkyeVhkTGtKQWdoODVqc2JWTHpMbXcyUGpXS2pCUXpSaTg0Uk12ZHRVeDhsMVlYNTV6ZHJ5U2JWelUzZGZQSUJheHBTUERCUDJpZUNKSndlVVVla1M5bHZMZ002OHZIWmtwbGZFRkVFY1BrV0FNQk1n?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-18T23:44:58+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-20T02:00:03.175161+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Bursa Asia Berpotensi Melemah Jelang Debut IPO Anthropic - Market.  Bursa Asia Berpotensi Melemah Jelang Debut IPO Anthropic - Market &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
   "outcome": null,
   "anomali": null
  },
@@ -5085,7 +5173,7 @@
   "asal": [],
   "first_seen": "2026-11-17T01:47:14.807107+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -7842,7 +7930,7 @@
   "asal": [],
   "first_seen": "2026-11-13T15:39:43.638987+00:00",
   "anon": [
-   "mengincar"
+   "tengah menjajaki"
   ],
   "corp": [],
   "stance": null,
@@ -8662,9 +8750,7 @@
   ],
   "asal": [],
   "first_seen": "2026-11-13T08:16:27.347010+00:00",
-  "anon": [
-   "mengincar"
-  ],
+  "anon": [],
   "corp": [
    "akuisisi"
   ],
@@ -8675,7 +8761,7 @@
   "snippet": "Haji Isam Bidik Akuisisi 38,7 Persen Saham Tambang Nikel Eramet di Weda Bay.  Haji Isam Bidik Akuisisi 38,7 Persen Saham Tambang Nikel Eramet di Weda Bay &nbsp;&nbsp; TOPIK.ID",
   "corroboration": 0,
   "response": null,
-  "score": 16,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
