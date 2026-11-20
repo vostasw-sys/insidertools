@@ -1,5 +1,35 @@
 [
  {
+  "id": "3e0de565cd96",
+  "title": "Semen Indonesia (SMGR) Siapkan Rp250 Miliar Demi Buyback Saham - Bisnis.com",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXNKSm42Znk3dFVNbGo2ZmVGaHdkVHh0QlZwS2VnTzV2VHFFM1laQ0V1eUdQRW0wa0cya3FqNmd0OHQ4NWlKcjMxTWw5aGNjVlRsRnlHcWRxcE5PbFc4OEU2b2VuS2stTkpDRnY0ZHJCdXgyRUU4eWtjZWRLS1BRQnlPcWJuRkFCTUJkRFVQV2dXMU1qak02Vlh4OGFyZTcxUHVCdnpJY2FqX1ZadnJSZzFn?oc=5",
+  "media": "Bisnis.com - Market",
+  "published": "2026-11-20T08:22:51+00:00",
+  "tickers": [
+   "SMGR"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T09:30:24.424719+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 250.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Semen Indonesia (SMGR) Siapkan Rp250 Miliar Demi Buyback Saham - Bisnis.com.  Semen Indonesia (SMGR) Siapkan Rp250 Miliar Demi Buyback Saham &nbsp;&nbsp; Bisnis.com - Market",
+  "corroboration": 1,
+  "response": null,
+  "score": 21,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "736d8d764145",
   "title": "Elnusa (ELSA) Siapkan Dana Rp84,5 Miliar, Simak Daftar Emiten Buyback Saham November 2026",
   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MWThoQ05RMzdGZUloZlRONmlGdFo4enduWTkyT0kzanh0TmhEUUg1a3BnVmlpajZiUmFWNnJrR1J6SjVHWW85azdWLWMzTThVNWRBWERxOFMzNTFhakFnd3Q1NklhVjB4dHJTNFhiR2VnX0NpalVEdkN4S1U?oc=5",
@@ -252,8 +282,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -342,8 +372,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -698,8 +728,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.04,
-   "abn5": -15.74,
+   "vol_z": 0.06,
+   "abn5": -16.07,
    "last": "2026-11-20"
   }
  },
@@ -732,8 +762,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -818,7 +848,7 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
+   "vol_z": -0.17,
    "abn5": 2.73,
    "last": "2026-11-20"
   }
@@ -882,8 +912,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.01,
-   "abn5": -7.3,
+   "vol_z": 0.0,
+   "abn5": -6.52,
    "last": "2026-11-20"
   }
  },
@@ -1645,8 +1675,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -4.22,
+   "vol_z": -0.45,
+   "abn5": -3.99,
    "last": "2026-11-20"
   }
  },
@@ -2209,8 +2239,8 @@
   "score": 44,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -4.22,
+   "vol_z": -0.45,
+   "abn5": -3.99,
    "last": "2026-11-20"
   }
  },
@@ -2405,7 +2435,7 @@
  {
   "id": "e7d5288d49b1",
   "title": "Merger XLSmart Mulai Berbuah, Saham EXCL Punya Katalis Baru",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkdVa0RhTkp4aFJINGEtSTlXLVNkY3dRWVBEN3BoOHFpTDZKaXR6Qlc0aTllX3hhUkxKT2E1NXJoU0V4SmtjYjEwaXF6dzU5aEJiUm9jSXhqdTJ3MTdqUmFKSGE3ZHB6dXVrQWZNQkpRaVNnYmZydzdWTXZEalRlWmFhV0xwM2t4REFjd18wcEJRbVMyd0U4OTR0WGdIR29P0gGjAUFVX3lxTE1mb2ptS0VMNTd3UU45SjN4cDZka015akpPV2FxNy02aWtwOHNjRk9hdWJiUW84NVFqNzNnUTdWTUk2T2RvU3BQUWxDbWhUbU1KUGVWTC1DSEstY3F3cmZPaWVlZGJmT2EtdUhleHltN3hJUUN6dl9FcFNFRnlrS3NqVzNSWFROZW95cF9tenFHYnFpRzhON2dWNk5Vc1E3ejJfSlk?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTFQLUtMQUJKWjUxVFllVlVxcDZfNkhfcGJuTEZZWVFHbTI2VGNiM1pfcXFYc1JZLUdvTmxsT3dFS1ZiZmlPdE12WTR3MElyZ0pHaFVvRHJvbnFUenpLdXZvOXczV01DN1FZWkE4aGtqMUF3bU1FbndoUHdyeFgzWFN1V1NvWllKM2kxMkYyLWRwWFZHOTJHRjVqNU5uLVdD0gGjAUFVX3lxTE1mb2ptS0VMNTd3UU45SjN4cDZka015akpPV2FxNy02aWtwOHNjRk9hdWJiUW84NVFqNzNnUTdWTUk2T2RvU3BQUWxDbWhUbU1KUGVWTC1DSEstY3F3cmZPaWVlZGJmT2EtdUhleHltN3hJUUN6dl9FcFNFRnlrS3NqVzNSWFROZW95cF9tenFHYnFpRzhON2dWNk5Vc1E3ejJfSlk?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-19T02:48:00+00:00",
   "tickers": [
@@ -2519,8 +2549,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -3327,8 +3357,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.08,
-   "abn5": 4.07,
+   "vol_z": -0.04,
+   "abn5": 4.36,
    "last": "2026-11-20"
   }
  },
@@ -3415,8 +3445,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.08,
-   "abn5": 4.07,
+   "vol_z": -0.04,
+   "abn5": 4.36,
    "last": "2026-11-20"
   }
  },
@@ -3567,7 +3597,7 @@
  {
   "id": "309800d27c67",
   "title": "SPBU Vivo Bakal Gabung BP-AKR, Grup AKR (AKRA) Siapkan Akuisisi USD15,5 Juta",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3U0VldVWXRPcVlHanBIc21yZ09rUVY5V2lRUG4tWFg2a0thZDQ2QkxxSWFoYmlmVEdROVpWM1R5UmZKaUU0QnJIM25uR2pXajM5Rm5PRGN3VzZSN0dlMW95Vm94d2c4dWdHcy1Qb3VEdUJRTWJNa3ltOTdfOWRrcmRzNUVyZVJUUXZFMDUzRm5yaVY4Q1h0NzdqLUQtSU5XNUl1anlQOHJ2Y3lKdjRMRFJReElfUdIBuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ1?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ10gG4AUFVX3lxTE40ZUZsWmlaMUQwOHdCZkgtUDcxcTZEZWxfMWZRQjZaY2hsaGRWaTRoSEpPemZxRlBNWmx6UG1Hb3NlTWVaNDlabXZaR2FGN2NJVVR2c2hzN1pGQ2gyOWFuOENQeXBoSjQwSjB0OUc0RTNBTW5OTW5ES0FueGxhQjRSakdzR3paemQzdExJU2EzWC1taHctbUtfREhpMlVDQlkxV3l1cW54eE9oZ2hkTnhLdF84S2RYVDU?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-18T12:07:00+00:00",
   "tickers": [
@@ -3955,8 +3985,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 0.43,
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
@@ -4290,8 +4320,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -4544,8 +4574,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -6221,11 +6251,11 @@
   "snippet": "Belum Kantongi Investor, Merdeka Battery (MBMA) Jelaskan Rencana PMTHMETD II ke BEI.  Belum Kantongi Investor, Merdeka Battery (MBMA) Jelaskan Rencana PMTHMETD II ke BEI &nbsp;&nbsp; StockWatch.id",
   "corroboration": 1,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.75,
-   "abn5": 0.52,
+   "vol_z": 1.42,
+   "abn5": 5.48,
    "last": "2026-11-20"
   }
  },
@@ -6774,8 +6804,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 0.43,
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
@@ -6998,8 +7028,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 0.43,
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
@@ -7030,8 +7060,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 0.43,
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
@@ -7062,8 +7092,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 0.43,
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
@@ -7094,8 +7124,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 0.43,
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
@@ -7126,8 +7156,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 0.43,
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
@@ -7240,8 +7270,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 0.43,
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
@@ -7272,8 +7302,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 0.43,
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
@@ -7306,8 +7336,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 0.43,
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
@@ -7368,8 +7398,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -7400,8 +7430,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -7434,8 +7464,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -7466,8 +7496,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 0.43,
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
@@ -7656,8 +7686,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.08,
-   "abn5": 4.07,
+   "vol_z": -0.04,
+   "abn5": 4.36,
    "last": "2026-11-20"
   }
  },
@@ -7961,7 +7991,7 @@
  {
   "id": "d590e1dbc6c5",
   "title": "Savitra (VISI) Tuntaskan Akuisisi Grup RS dan Klinik Hasna Medika",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmhGM2pHQlZkTEJ2WlNxRXhBdDIwU0RURktTVzBIMGFhQktjLVFnZkZHSEZ3Q3BRamdhVmVXLUlIY0VQTlZsbVNHeHB4N0pQVHZYWjFhd2d3STVGVWZMa1JOYVBPTnZHV3E2dDIzQ3hZb3ZlZnhhYVpxNDBmNUlBUzNweS1oNldBdWZ4T0Itd3BBQzZaM3JIX1N4TGQzMnNBYVprNdIBqgFBVV95cUxQT05SSmgxOVcxQUQwRWNBc0dEM3RwdmxIYVpycGdvby1GdW5HSGdPX0VaQmxyem9FdmltdGo2bXZkQVdrLWV1QkZzNWpMTG1jZ21RV3RKOVRGWjlvOGVtakNPOWNBd05tMWM5V1o5TXpsLW92ZWhhdEJ5YnVKLVlTbm1BT2xvRlZVcjYyWS1QWXkwSFZHekRVbnpSYjFyMzVCdDlyeVJGcWExdw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFRZcHRjSzZSTnF0YlNGWlJXTVJFUnNnOHZLVEp1WVIxUk5NalhJYmVWd3FEVnZhd3lvanFRcjlaTm9vSmRfSjN3Um51QmpEUkFheXd2VUxnSERXSWt0UlRDd3ZJTXM3eWY2NEJON2d0YjV4Q3VwSUdqRkpleGJRX0dld1hWNF9MMm85Vll2cDVnSzBCWUptOXJzT1lQS1hvZzlmZklWbTVJQdIBqgFBVV95cUxQT05SSmgxOVcxQUQwRWNBc0dEM3RwdmxIYVpycGdvby1GdW5HSGdPX0VaQmxyem9FdmltdGo2bXZkQVdrLWV1QkZzNWpMTG1jZ21RV3RKOVRGWjlvOGVtakNPOWNBd05tMWM5V1o5TXpsLW92ZWhhdEJ5YnVKLVlTbm1BT2xvRlZVcjYyWS1QWXkwSFZHekRVbnpSYjFyMzVCdDlyeVJGcWExdw?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-15T09:00:00+00:00",
   "tickers": [
@@ -8147,8 +8177,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.11,
-   "abn5": 0.43,
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
@@ -8259,8 +8289,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -8431,8 +8461,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -8462,13 +8492,39 @@
   "snippet": "Ultrajaya (ULTJ) Tebar Dividen Rp1,03 Triliun, Siapkan Rights Issue - Bisnis.com.  Ultrajaya (ULTJ) Tebar Dividen Rp1,03 Triliun, Siapkan Rights Issue &nbsp;&nbsp; Bisnis.com - Foto",
   "corroboration": 4,
   "response": null,
-  "score": 50,
+  "score": 35,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
+ },
+ {
+  "id": "4c102f4c17a3",
+  "title": "Berita & Ringkasan AI Saham XRP - Hari Ini",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjNTZLZHhmZGVpYUk1ZV9ZcjhxTnZTRmJ6QzlCQzVLck9HcVluOTAyUjJCQ0owaTd4YTFTcWtVUFgtZDBzUUVvUjEtRXdFcVdOZW1KRzA5SDRGMkE?oc=5",
+  "media": "Ajaib",
+  "published": "2026-11-14T02:41:22+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-20T09:30:24.424719+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Berita & Ringkasan AI Saham XRP - Hari Ini.  Berita & Ringkasan AI Saham XRP - Hari Ini &nbsp;&nbsp; Ajaib",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
  },
  {
   "id": "6eaf4b18ed29",
@@ -8699,8 +8755,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -8731,8 +8787,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -9963,8 +10019,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -10049,8 +10105,8 @@
   "score": 12,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.46,
-   "abn5": -4.22,
+   "vol_z": -0.45,
+   "abn5": -3.99,
    "last": "2026-11-20"
   }
  },
@@ -10111,8 +10167,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -10307,8 +10363,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -10725,8 +10781,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 4.97,
+   "vol_z": -0.09,
+   "abn5": 4.62,
    "last": "2026-11-20"
   }
  },
@@ -11051,11 +11107,11 @@
   "snippet": "Proses Akuisisi Frisian Flag, Penjualan-Laba Ultrajaya (ULTJ) Naik per Kuartal III 2026.  Proses Akuisisi Frisian Flag, Penjualan-Laba Ultrajaya (ULTJ) Naik per Kuartal III 2026 &nbsp;&nbsp; Databoks",
   "corroboration": 3,
   "response": null,
-  "score": 36,
+  "score": 21,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
  },
@@ -11420,8 +11476,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -11692,8 +11748,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -11726,8 +11782,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 4.97,
+   "vol_z": -0.09,
+   "abn5": 4.62,
    "last": "2026-11-20"
   }
  },
@@ -11972,8 +12028,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": -1.49,
+   "vol_z": -0.12,
+   "abn5": -0.46,
    "last": "2026-11-20"
   }
  },
@@ -12613,7 +12669,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.53,
+   "abn5": -2.75,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -12750,8 +12810,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 2.54,
+   "vol_z": -0.14,
+   "abn5": 3.3,
    "last": "2026-11-20"
   }
  },
@@ -13135,11 +13195,11 @@
   "snippet": "Ultra Jaya (ULTJ) Rights Issue Rp 16,94 Triliun, Ini Prospek Kinerjanya.  Ultra Jaya (ULTJ) Rights Issue Rp 16,94 Triliun, Ini Prospek Kinerjanya &nbsp;&nbsp; kontan.co.id",
   "corroboration": 5,
   "response": null,
-  "score": 50,
+  "score": 35,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
  },
@@ -13337,11 +13397,11 @@
   "snippet": "Simak Jadwal Rights Issue Ultra Jaya (ULTJ) Senilai Rp 16,94 Triliun.  Simak Jadwal Rights Issue Ultra Jaya (ULTJ) Senilai Rp 16,94 Triliun &nbsp;&nbsp; kontan.co.id",
   "corroboration": 5,
   "response": null,
-  "score": 50,
+  "score": 35,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
  },
@@ -13671,8 +13731,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": 8.17,
+   "vol_z": -0.27,
+   "abn5": 7.44,
    "last": "2026-11-20"
   }
  },
@@ -13702,11 +13762,11 @@
   "snippet": "Ultrajaya (ULTJ) Gelar Rights Issue, Harga Pelaksanaan Dipatok Senilai Rp2.150 per Saham.  Ultrajaya (ULTJ) Gelar Rights Issue, Harga Pelaksanaan Dipatok Senilai Rp2.150 per Saham &nbsp;&nbsp; IDX Channel",
   "corroboration": 5,
   "response": null,
-  "score": 34,
+  "score": 19,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
  },
@@ -14251,8 +14311,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -14652,11 +14712,11 @@
   "snippet": "Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue.  Bisikan Prospek Ultrajaya (ULTJ) Jelang Guyur Dividen & Rights Issue &nbsp;&nbsp; Bisnis Indonesia Premium",
   "corroboration": 5,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
  },
@@ -15697,8 +15757,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": -1.49,
+   "vol_z": -0.12,
+   "abn5": -0.46,
    "last": "2026-11-20"
   }
  },
@@ -15759,7 +15819,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.53,
+   "abn5": -2.75,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "1145c2f50a3d",
@@ -16142,8 +16206,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": -1.49,
+   "vol_z": -0.12,
+   "abn5": -0.46,
    "last": "2026-11-20"
   }
  },
@@ -17172,11 +17236,11 @@
   "snippet": "Ultrajaya Milk (ULTJ) Bagi Dividen Tambahan Rp1,04 Triliun, Cek Jadwalnya.  Ultrajaya Milk (ULTJ) Bagi Dividen Tambahan Rp1,04 Triliun, Cek Jadwalnya &nbsp;&nbsp; StockWatch.id",
   "corroboration": 1,
   "response": null,
-  "score": 41,
+  "score": 26,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
  },
@@ -17327,11 +17391,11 @@
   "snippet": "RUPSLB Ultrajaya (ULTJ) Setujui Rights Issue hingga Pembagian Dividen Spesial Rp1,04 Triliun.  RUPSLB Ultrajaya (ULTJ) Setujui Rights Issue hingga Pembagian Dividen Spesial Rp1,04 Triliun &nbsp;&nbsp; IDX Channel",
   "corroboration": 5,
   "response": null,
-  "score": 44,
+  "score": 29,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
  },
@@ -17730,11 +17794,11 @@
   "snippet": "Susu Ultra (ULTJ) Tebar Dividen Rp1,03 Triliun, Siap Akuisisi Frisian Flag - Bisnis.com.  Susu Ultra (ULTJ) Tebar Dividen Rp1,03 Triliun, Siap Akuisisi Frisian Flag &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 4,
   "response": null,
-  "score": 50,
+  "score": 35,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
  },
@@ -17795,8 +17859,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.08,
-   "abn5": 4.07,
+   "vol_z": -0.04,
+   "abn5": 4.36,
    "last": "2026-11-20"
   }
  },
@@ -18515,8 +18579,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.08,
-   "abn5": 4.07,
+   "vol_z": -0.04,
+   "abn5": 4.36,
    "last": "2026-11-20"
   }
  },
@@ -18550,8 +18614,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.08,
-   "abn5": 4.07,
+   "vol_z": -0.04,
+   "abn5": 4.36,
    "last": "2026-11-20"
   }
  },
@@ -18779,8 +18843,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.08,
-   "abn5": 4.07,
+   "vol_z": -0.04,
+   "abn5": 4.36,
    "last": "2026-11-20"
   }
  },
@@ -18869,8 +18933,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.08,
-   "abn5": 4.07,
+   "vol_z": -0.04,
+   "abn5": 4.36,
    "last": "2026-11-20"
   }
  },
@@ -19021,8 +19085,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.08,
-   "abn5": 4.07,
+   "vol_z": -0.04,
+   "abn5": 4.36,
    "last": "2026-11-20"
   }
  },
@@ -19331,8 +19395,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -20533,8 +20597,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 4.97,
+   "vol_z": -0.09,
+   "abn5": 4.62,
    "last": "2026-11-20"
   }
  },
@@ -20693,8 +20757,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": -1.49,
+   "vol_z": -0.12,
+   "abn5": -0.46,
    "last": "2026-11-20"
   }
  },
@@ -21982,8 +22046,8 @@
   "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": 8.17,
+   "vol_z": -0.27,
+   "abn5": 7.44,
    "last": "2026-11-20"
   }
  },
@@ -22018,8 +22082,8 @@
   "score": 67,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": 8.17,
+   "vol_z": -0.27,
+   "abn5": 7.44,
    "last": "2026-11-20"
   }
  },
@@ -22131,8 +22195,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": 8.17,
+   "vol_z": -0.27,
+   "abn5": 7.44,
    "last": "2026-11-20"
   }
  },
@@ -22907,11 +22971,11 @@
   "snippet": "Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya.  Ultra Jaya (ULTJ) dan Garuda Indonesia (GIAA) Gelar Rights Issue, Simak Prospeknya &nbsp;&nbsp; kontan.co.id",
   "corroboration": 12,
   "response": null,
-  "score": 40,
+  "score": 25,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
  },
@@ -23651,8 +23715,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 4.97,
+   "vol_z": -0.09,
+   "abn5": 4.62,
    "last": "2026-11-20"
   }
  },
@@ -23767,8 +23831,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -24326,11 +24390,11 @@
   "snippet": "Akuisisi FFI, Ultrajaya (ULTJ) Siap Terbitkan 7,87 Miliar Saham Baru.  Akuisisi FFI, Ultrajaya (ULTJ) Siap Terbitkan 7,87 Miliar Saham Baru &nbsp;&nbsp; Emitennews.com",
   "corroboration": 4,
   "response": null,
-  "score": 34,
+  "score": 19,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
  },
@@ -24443,11 +24507,11 @@
   "snippet": "Ultrajaya (ULTJ) Rights Issue Rp 16,9 Triliun, Ada Rencana Tambahan Dividen Jumbo.  Ultrajaya (ULTJ) Rights Issue Rp 16,9 Triliun, Ada Rencana Tambahan Dividen Jumbo &nbsp;&nbsp; investor.id",
   "corroboration": 4,
   "response": null,
-  "score": 41,
+  "score": 26,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
  },
@@ -25813,11 +25877,11 @@
   "snippet": "Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun.  Akuisisi Frisian Flag, Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo Rp16,94 Triliun &nbsp;&nbsp; IDX Channel",
   "corroboration": 7,
   "response": null,
-  "score": 44,
+  "score": 29,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 5.0,
+   "abn5": 4.64,
    "last": "2026-11-20"
   }
  },
@@ -27709,11 +27773,11 @@
   "snippet": "Merdeka Battery (MBMA) Gelar Private Placement, Siap Terbitkan 10,8 Miliar Saham.  Merdeka Battery (MBMA) Gelar Private Placement, Siap Terbitkan 10,8 Miliar Saham &nbsp;&nbsp; IDX Channel",
   "corroboration": 4,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.75,
-   "abn5": 0.52,
+   "vol_z": 1.42,
+   "abn5": 5.48,
    "last": "2026-11-20"
   }
  },
@@ -30020,8 +30084,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.2,
-   "abn5": -1.49,
+   "vol_z": -0.12,
+   "abn5": -0.46,
    "last": "2026-11-20"
   }
  },
@@ -30496,11 +30560,11 @@
   "snippet": "Merdeka Battery (MBMA) Meminta Restu untuk Gelar Private Placement.  Merdeka Battery (MBMA) Meminta Restu untuk Gelar Private Placement &nbsp;&nbsp; investor.id",
   "corroboration": 4,
   "response": null,
-  "score": 16,
+  "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.75,
-   "abn5": 0.52,
+   "vol_z": 1.42,
+   "abn5": 5.48,
    "last": "2026-11-20"
   }
  },
@@ -31650,8 +31714,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.69,
-   "abn5": -4.83,
+   "vol_z": -0.57,
+   "abn5": -3.41,
    "last": "2026-11-20"
   }
  },
@@ -31872,8 +31936,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": 8.17,
+   "vol_z": -0.27,
+   "abn5": 7.44,
    "last": "2026-11-20"
   }
  },
@@ -31933,11 +31997,11 @@
   "snippet": "Merdeka Battery (MBMA) Gelar Private Placement, Bakal Terbitkan 10,8 Miliar Saham.  Merdeka Battery (MBMA) Gelar Private Placement, Bakal Terbitkan 10,8 Miliar Saham &nbsp;&nbsp; kontan.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 25,
+  "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.75,
-   "abn5": 0.52,
+   "vol_z": 1.42,
+   "abn5": 5.48,
    "last": "2026-11-20"
   }
  },
@@ -31995,11 +32059,11 @@
   "snippet": "Tambah Modal! Merdeka Battery (MBMA) Bakal Private Placement Lagi.  Tambah Modal! Merdeka Battery (MBMA) Bakal Private Placement Lagi &nbsp;&nbsp; Emitennews.com",
   "corroboration": 4,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.75,
-   "abn5": 0.52,
+   "vol_z": 1.42,
+   "abn5": 5.48,
    "last": "2026-11-20"
   }
  },
@@ -32254,8 +32318,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 4.97,
+   "vol_z": -0.09,
+   "abn5": 4.62,
    "last": "2026-11-20"
   }
  },
@@ -32288,8 +32352,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 4.97,
+   "vol_z": -0.09,
+   "abn5": 4.62,
    "last": "2026-11-20"
   }
  },
@@ -32875,8 +32939,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 4.97,
+   "vol_z": -0.09,
+   "abn5": 4.62,
    "last": "2026-11-20"
   }
  },
@@ -32987,8 +33051,8 @@
   "score": 0,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 4.97,
+   "vol_z": -0.09,
+   "abn5": 4.62,
    "last": "2026-11-20"
   }
  },
@@ -33613,8 +33677,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 4.97,
+   "vol_z": -0.09,
+   "abn5": 4.62,
    "last": "2026-11-20"
   }
  },
@@ -33994,8 +34058,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 4.97,
+   "vol_z": -0.09,
+   "abn5": 4.62,
    "last": "2026-11-20"
   }
  },
@@ -34474,7 +34538,7 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.21,
+   "vol_z": -0.17,
    "abn5": 2.73,
    "last": "2026-11-20"
   }
