@@ -1,5 +1,63 @@
 [
  {
+  "id": "840b699977c2",
+  "title": "Semen Indonesia Siapkan Buyback Saham Rp 250 Miliar",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zck0yaURhTk9ISGpOam5pdFh5TWdQWjQ3eU9XTUZIVUY0d3RPSnZpZHpfOElGbUlQZ0NINEVFeXk3NjR3Wl92YW5MVnRoUTR2b052UFNrQjZSWEZ0eVlFcF9rTEs?oc=5",
+  "media": "Lensa Hukum",
+  "published": "2026-11-20T09:44:57+00:00",
+  "tickers": [
+   "SMGR"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T10:31:09.531183+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 250.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Semen Indonesia Siapkan Buyback Saham Rp 250 Miliar.  Semen Indonesia Siapkan Buyback Saham Rp 250 Miliar &nbsp;&nbsp; Lensa Hukum",
+  "corroboration": 2,
+  "response": null,
+  "score": 17,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "6efae9b1ff0d",
+  "title": "Emiten Ramai-Ramai Buyback Saham, Sinyal Harga Sudah Murah?",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nQV9qRXJteGRTZjFBdFc4NGxSOE9BWVlQdlJRX0xsNzVuSEUtOG9BWkFBNk5SeXZHWDVibEFWaFp4WVQ1TlJtMk1tMGtnQTdIS25temJHR284UHF2ZUx0Q25YQTA2QQ?oc=5",
+  "media": "TradingView",
+  "published": "2026-11-20T09:25:48+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T10:31:09.531183+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Emiten Ramai-Ramai Buyback Saham, Sinyal Harga Sudah Murah?.  Emiten Ramai-Ramai Buyback Saham, Sinyal Harga Sudah Murah? &nbsp;&nbsp; TradingView",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "3e0de565cd96",
   "title": "Semen Indonesia (SMGR) Siapkan Rp250 Miliar Demi Buyback Saham - Bisnis.com",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXNKSm42Znk3dFVNbGo2ZmVGaHdkVHh0QlZwS2VnTzV2VHFFM1laQ0V1eUdQRW0wa0cya3FqNmd0OHQ4NWlKcjMxTWw5aGNjVlRsRnlHcWRxcE5PbFc4OEU2b2VuS2stTkpDRnY0ZHJCdXgyRUU4eWtjZWRLS1BRQnlPcWJuRkFCTUJkRFVQV2dXMU1qak02Vlh4OGFyZTcxUHVCdnpJY2FqX1ZadnJSZzFn?oc=5",
@@ -23,9 +81,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Semen Indonesia (SMGR) Siapkan Rp250 Miliar Demi Buyback Saham - Bisnis.com.  Semen Indonesia (SMGR) Siapkan Rp250 Miliar Demi Buyback Saham &nbsp;&nbsp; Bisnis.com - Market",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 21,
+  "score": 26,
   "outcome": null,
   "anomali": null
  },
@@ -344,6 +402,32 @@
   "anomali": null
  },
  {
+  "id": "311dd07f6967",
+  "title": "BI Rate Menekan Prospek Emiten Properti hingga 2027",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fRFdmTjN3SHpvRkt6OWdZZk1HU1RoLVJSVlIweDA5eEQ2M0ZRQWFQekc2aHJ2MG1scFlNNGdRM01QLXJWaFk1aFdfNERtQU9TaFFCR0dJb1c4ZVhWTmVIRk9HWQ?oc=5",
+  "media": "SuaraGarut.ID",
+  "published": "2026-11-20T03:59:38+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-20T10:31:09.531183+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BI Rate Menekan Prospek Emiten Properti hingga 2027.  BI Rate Menekan Prospek Emiten Properti hingga 2027 &nbsp;&nbsp; SuaraGarut.ID",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "febf3ac85b5a",
   "title": "Harga Buyback Emas Antam (ANTM) Logam Mulia Jumat Anjlok Tajam, Emas Dunia (XAUUSD) Tertekan! - Sinar Harapan",
   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbTRuLTR5SS1SM1U1ZHVzWjFGZ1N0OXhIMXdKVTBkenEyeXRmWHJ3R0hIUmYydWFuSHk4eEExczhJQXg0dnhLeG83dXNTYU14dHZXN3daWU5pWGNXV3o1b3N1OEp2TGZPSFVjTjBkNTVkY0J0WXc3V3dpQlF2SllqajdLNndwVFFFNkRQcTBHeWxzZE93MkRHQWd3TGs4Yk9CZDJNblNyUWV2UG42cjd0Wl9PZ05UVFpyTUlrQ2FuQWwyQXNzY0JhY0lJbTlNNVA30gHWAUFVX3lxTFB4emZ6OXd6eUVvcmh1QzJDc3dyLTV2RWotdC1kVFhsZHZ2WHBONXFmcGc0dlZNb21pLXctX095WmpwejJpZXpFWHN4eklncmM1aW1MNDBLN0thUVFMQi1lLXZIM3hVWTVKblMySkN6MVlodmVKSExwZTJsYXIwbjJGbmhGX0tLczJRNXR6ZXlJMTlHY3pZRktGYTRyLUdzTEpmaUxIRG5ZU0ltWl9NcDVjSmtvbUNha2c4WW5qZTIyNGlQSklqdGlEMUE3ZDBVT3E0RGw4bGc?oc=5",
@@ -382,7 +466,7 @@
   "title": "Elnusa (ELSA) Buyback Saham Rp 84,5 Miliar",
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vQ2lzYk10dVhnV3AxNEZYeW0wd0V6bnNDZzZRSmd2VE1xd1VNVWhTSWpTdzUxY3VXNFBpR0ZYSU1rbVgza1M3S253NTEtY1BiTTFtNC1WS3BWdXY4YzhUSXlwWWZUWGhMWHJaV2NUNXpacERYLS1BTXQ2aWE3dw?oc=5",
   "media": "investor.id",
-  "published": "2026-11-20T03:53:03+00:00",
+  "published": "2026-11-20T03:53:00+00:00",
   "tickers": [
    "ELSA"
   ],
@@ -2936,6 +3020,32 @@
   "schedule": false,
   "party": false,
   "snippet": "Anthropic Tetapkan Harga IPO USD 83, Kontrak Berjangka Wall Street Bergerak Tipis.  Anthropic Tetapkan Harga IPO USD 83, Kontrak Berjangka Wall Street Bergerak Tipis &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "a08d11392f8a",
+  "title": "Anthropic Tetapkan Harga IPO US$83, Melebihi Target di Tengah Antusiasme Investor",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXk4b3FpZUxrbXBlVVRDMnktRjBoS0xLTzlnaWVQcERSZ25PVWxsdWRBVU5rM3pxZk9uVTBmMkRWR3NIdDh4Tk1jeVAxZnJVdTBrT1dJN25CdDBrLTZnVUVYYWh1UC1jRWx3UUhFZmlBTHlPV0JkZjhXTGpueURsWWNsYnRKUTFScklwOUFrZkJxLTJhUmdaSg?oc=5",
+  "media": "Head Topics",
+  "published": "2026-11-18T23:52:44+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-20T10:31:09.531183+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Anthropic Tetapkan Harga IPO US$83, Melebihi Target di Tengah Antusiasme Investor.  Anthropic Tetapkan Harga IPO US$83, Melebihi Target di Tengah Antusiasme Investor &nbsp;&nbsp; Head Topics",
   "corroboration": 0,
   "response": null,
   "score": 16,
@@ -8628,7 +8738,7 @@
   "asal": [],
   "first_seen": "2026-11-14T03:41:28.816212+00:00",
   "anon": [
-   "tengah menjajaki"
+   "sumber yang mengetahui"
   ],
   "corp": [
    "akuisisi"
