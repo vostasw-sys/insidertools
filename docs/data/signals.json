@@ -1,5 +1,64 @@
 [
  {
+  "id": "53ee83bc63fe",
+  "title": "Kabar Mau Akuisisi Saham Eramet Bareng Haji Isam, VKTR Buka Suara",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMTdLdGhCRW81MDZRTVo0WnNURFhXRmlDWFVCZHRMRFJxWlNFSURzdUd2NnptQWxoQUlQeWIwYmJrTXpQanMwZ0pUd1R2WlhxQlUwRXV6azN0V09Jc2J2V0V6N1BpU202SmlQNG9sZzBIVjhRa0VjR1JzNUNzRllHcUtlSFNKWGNzZEx5eS0wcFVQVm80bzNJQTFuc1NxQ0hQd0R4YW1qMDY5bjFVejdCVjNIMVBsbFJLdE5BdlRqVURTa3pH0gHKAUFVX3lxTE1zNzNZb2hsY1Q1V0hkS1ZkLUppdFFOcGc3dVFIMTdzaG0yWTJ2RW5FZ1NCcHNSaG8xN3R5WFQzd0RPNkdLRkZMd0FXUzNLZHY2cW5WZ2V2c0RyRU1jNjM2UTlhc1QyYm9CQWk5bFIxYmZCdFhtTFlnYTBMUFFwT1dTcDA0M3Y5TXk5MW5JMUkxcEhtRlNPRzhTWlZxd2JiQVQwbDZGYWM3UHNVVGdHZ2RNbzBCNG1CTVh1WjlTZ3dNSWt5SkhjY1o3VVE?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-11-20T12:41:34+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T12:55:35.360923+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Kabar Mau Akuisisi Saham Eramet Bareng Haji Isam, VKTR Buka Suara.  Kabar Mau Akuisisi Saham Eramet Bareng Haji Isam, VKTR Buka Suara &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 14,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "57d6b7ed29ed",
+  "title": "Bank SMBC (BTPN) Berencana Go Private dan Delisting dari Bursa",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWUNJbE1CQUhZRjhYRGNRNDBMTjl3YmFxVXlFZ0lPVlk1bkdFUW1zclFiMjNVcUxkSnhuSkpjT2x6ZVVwNzQ1UFFtOVF4UEVMdUlwWUkwbXJPOVdocTFYTkZiQTZuRkNzZEkza1U2QU1CV3JZeHNCY3FjSV9nVWFVRkhzRUZXRkpNam5nd3pWdU5NVGplWmhDM0RWQjc4LUVjLXNnamtsTGdvRDdwUHZQZGlrd20?oc=5",
+  "media": "Bisnis.com",
+  "published": "2026-11-20T12:02:50+00:00",
+  "tickers": [
+   "BTPN"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T12:55:35.360923+00:00",
+  "anon": [],
+  "corp": [
+   "go private",
+   "delisting"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Bank SMBC (BTPN) Berencana Go Private dan Delisting dari Bursa.  Bank SMBC (BTPN) Berencana Go Private dan Delisting dari Bursa &nbsp;&nbsp; Bisnis.com",
+  "corroboration": 1,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "ed76ead311d4",
   "title": "Manuver Akuisisi Pertamina Perkuat Cadangan Migas",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNalpmX1Ixakp6QXZHcnNrZUx5ZVFRaEpDOW5oc25SZnlLTFAwQUhYb2E2bl91eVBOeFFONUpfeEVLcUxzMjNVdHdNNldhd0tQQjNYLVZ6RWNNeFR0WFlOTlNMWkFTNVhheFVfZmVTdGdpU0lJdmtJTUJNNmRmaFptdUJ6cHNZNDVOSENYcUp3?oc=5",
@@ -60,7 +119,7 @@
  {
   "id": "b014858101b5",
   "title": "Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham",
-  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdXVCZzdEUERZREtvdl9NME5LOGFtaWZBRjJHM0JROUdPSHhIUnlLM1pmd092VXR3cU5fSFFWdEp1VUpRNnRKMG83b21SOGJGaVdYdF9GQmlxQ3l3ekJVRFZYaWxJRG9Td3VlclJ0TXNhVUhvaXhRellBQ1hoTWk3SnlzeUdObVZUcUhtUHI3RVMwcGdWUmVtdVFlUTdkM2M2SlJBakhlc0JibzZ6M0xaSHV6OW9hN0gwcGdRaFhkOFV1SnByRnJleEFnNk9oTDgzU3k3V0RpdVg1bXV2aFJzTzZLTElKQTBiX2trcDRTVHpwSk9ZTVdmddIB-AFBVV95cUxQdXVCZzdEUERZREtvdl9NME5LOGFtaWZBRjJHM0JROUdPSHhIUnlLM1pmd092VXR3cU5fSFFWdEp1VUpRNnRKMG83b21SOGJGaVdYdF9GQmlxQ3l3ekJVRFZYaWxJRG9Td3VlclJ0TXNhVUhvaXhRellBQ1hoTWk3SnlzeUdObVZUcUhtUHI3RVMwcGdWUmVtdVFlUTdkM2M2SlJBakhlc0JibzZ6M0xaSHV6OW9hN0gwcGdRaFhkOFV1SnByRnJleEFnNk9oTDgzU3k3V0RpdVg1bXV2aFJzTzZLTElKQTBiX2trcDRTVHpwSk9ZTVdmdQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdW5jVmpfT0VOREpYS3NNdndGQmtIMTFpN0NOTFJwckh2V2J5T0tGNE5Ua19xeEVNRU5oZVR0Vy15UGJuUFR1TG1DalRUZVlWUlQweW9CcXJ5MjJMMUpuT2txSzJ5V2NoSlUwU0x2LXRET2c5Uk9mMjN4NlJRUHpkeUVrdkk3em1NZDdBMGUxRDNEVVNlQ3lxdHZKMNIBkgFBVV95cUxNMUtzNFp5djdmS1hhdmxhcC1HejRRVEF6SUlyNy1FdU5PUDljLTRoVzdnbGRVM2lkajQwZ0F4a25LZk1JRkpSTTQyVXdNY0hqa252S2pLY3kzeVBpaFBhaW1wVnVoeTQ1MnpHblUwM2pqX25nd0ZiR0JWTUhRamJfeGY0elJGYzRWOEZJQjUyZmk2Zw?oc=5",
   "media": "Liputan6.com",
   "published": "2026-11-20T11:14:24+00:00",
   "tickers": [
@@ -84,6 +143,37 @@
   "corroboration": 5,
   "response": null,
   "score": 26,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "8362077961de",
+  "title": "Perkuat Cold Chain, Japfa (JPFA) Akan Akuisisi Dua Perusahaan Milik Tigaraksa (TGKA)",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmNXdFhDNWNKZDVOc055S2d1QXZWc3BwLWxkS2VjZGlFV0w4eWMydXRLNDdubGlVc01iZmp1R3VyV2wxY202d2daWXE4d1loYUJfMDJlcXhJeFZwZVoyWnY1enZEdWJFWnloMmlKUld3am9IQXpVN3hWUGl3ckN2ZzBVSWtYdGpjM3hCSWV4X05oQVQ5Z3A1S0xXemtyOWlva0NVY2FxSFd0dkQ3a2lpVjVMQ1h4QdIBrgFBVV95cUxOOFNZT0FWT0VrWmdQaVJXV2dyOEZXamNaYkRtWWNDb3N1UnJ4WHJHTDd0LUpqaGgwN3B1clBwaEZwcVlUbzRCamFzTkR5NU5OT00yX002U0pxVnlsMndjSEFOUkxjQjJDbURYNlh6RFNZYVdvSGVwX1Biai1UeHlBSWJkNlFlQjV1b2F0S2tTZDgtZEhnQi14SXlXbHJjX2tubGpFX29JTzVSeFg0UWc?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-20T11:01:08+00:00",
+  "tickers": [
+   "JPFA",
+   "TGKA"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T12:55:35.360923+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Perkuat Cold Chain, Japfa (JPFA) Akan Akuisisi Dua Perusahaan Milik Tigaraksa (TGKA).  Perkuat Cold Chain, Japfa (JPFA) Akan Akuisisi Dua Perusahaan Milik Tigaraksa (TGKA) &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 1,
+  "response": null,
+  "score": 15,
   "outcome": null,
   "anomali": null
  },
@@ -232,6 +322,34 @@
   "anomali": null
  },
  {
+  "id": "af6a1f78af97",
+  "title": "Bos Indika Energy (INDY) Jawab Rumor Kideco Diakuisisi",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXhwQmhhNWUwYlZKMFRBTW5EM0U1amxLeGJYSU56dU1XdXFwLUhiQjYwRDZlQkNPMHlWTk5UQlVrSjZBNDdaZFpsaDl0T2JIWmZMaGoxQkNIWXZZWnFGZnBOR3VJNWVKQnNnd0xhR2lSOUhQaFlPS3d3S0hWM2lMSVN1N043QjUtRjc1aENWaw?oc=5",
+  "media": "investor.id",
+  "published": "2026-11-20T06:30:00+00:00",
+  "tickers": [
+   "INDY"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-20T12:55:35.360923+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Bos Indika Energy (INDY) Jawab Rumor Kideco Diakuisisi.  Bos Indika Energy (INDY) Jawab Rumor Kideco Diakuisisi &nbsp;&nbsp; investor.id",
+  "corroboration": 1,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "e8ad97f51e76",
   "title": "Bubble AI Disorot: Warsh, Pimco, dan IPO Anthropic",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhdTVGZER3ckhiZVNlWHRXRFY5NU5ZVlNoSjZ4T2pqYVhkT0ctdTNqTXR6d1NXcnlIOVBDN0Zpb2VGTGgzTnBxR3RQbzFla1FqVWxBQ0ljT3dHclM5eE90bkN0NmQxNUh3WTVkQXZybFB0UFNhUTlrT05SQQ?oc=5",
@@ -254,6 +372,35 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "593da0f4eb31",
+  "title": "Kantongi Restu, NINE Siap Right Issue 2,44 Miliar Lembar",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXdtTFlMaXNLZzllSlctSGVrVTJuRDUxeXhHaDBKWUl4bzA3UXlQZk9jcXc0azhxSUVXTjZTOXZ2cEFZOEI4aFJkckhmS1M2NHNkTXRRSDIwa2F4b2UzNHhmNURwMXdwY2tWbmpqTkxTZU1VR0Nud2xvZzZOd0JDUF92Njg4VjVFTFhuWk5vTQ?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-20T06:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T12:55:35.360923+00:00",
+  "anon": [],
+  "corp": [
+   "right issue",
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Kantongi Restu, NINE Siap Right Issue 2,44 Miliar Lembar.  Kantongi Restu, NINE Siap Right Issue 2,44 Miliar Lembar &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
   "outcome": null,
   "anomali": null
  },
@@ -1343,7 +1490,7 @@
  {
   "id": "62483b217c80",
   "title": "Incar Dana Minimal Rp 75 Miliar, ARII Bidik Efisiensi Lewat Private Placement",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIR1R1dklSNzZYSXdsbVd1ajZKek9QV0NVQUdwdGVxblNvelVyTGFSWE5NT05zY1hwTGRpSTJRLXVhVFJGSmc3alVzWWQxYkNfUUpGU3ktbEIydw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kampHcmp4S3JzdFpoMnhBTWNONENmWU1hbFF0Nmg0RkZFRy1BVnhfUk1NLUVFcnRUYXB5UU4yaHJkelFxWmFzY2JLN1R4bVh3WDR3?oc=5",
   "media": "Kontan TV",
   "published": "2026-11-19T15:00:30+00:00",
   "tickers": [],
@@ -6286,6 +6433,36 @@
   "anomali": null
  },
  {
+  "id": "7302af4d21d5",
+  "title": "Gareth Bale Bidik Akuisisi Sevilla Bersama Investor AS",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sVjZ6Z1FJN3JLSWNGbVRWM09qV3M4dUxuTkJOUTdmNWhmWHQtSkRJbVVYdThtMUotazNnRGRBSlJiXzlqR05zWno2Z0ZQWlo5b2pBdWNaNl9SU3ZWamlaMTkyUQ?oc=5",
+  "media": "Lensa Hukum",
+  "published": "2026-11-17T00:13:02+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T12:55:35.360923+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Gareth Bale Bidik Akuisisi Sevilla Bersama Investor AS.  Gareth Bale Bidik Akuisisi Sevilla Bersama Investor AS &nbsp;&nbsp; Lensa Hukum",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "82ce92e3ee90",
   "title": "Wall Street Melemah Setelah Saham Teknologi Anjlok",
   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HLTNKcGlXZUdRQWZ2NzA0WktmY1lSMHp2Wm56NTlSdnpfMnRmZkNOWlRYZ2xEc2VvUFBHWkNJbnZmVXItVy1Zb3RCSWVnNTZsX3RBY0dHQ1I3MVNZUkNNZEJLR19TbVBYclFQUURUU1hVZjZ0SzFzeFFB?oc=5",
@@ -9134,7 +9311,7 @@
   "asal": [],
   "first_seen": "2026-11-13T15:39:43.638987+00:00",
   "anon": [
-   "tengah menjajaki"
+   "mengincar"
   ],
   "corp": [],
   "stance": null,
@@ -12921,11 +13098,7 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.53,
-   "abn5": -2.75,
-   "last": "2026-11-20"
-  }
+  "anomali": null
  },
  {
   "id": "6b691b104a0a",
@@ -16043,11 +16216,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.53,
-   "abn5": -2.75,
-   "last": "2026-11-20"
-  }
+  "anomali": null
  },
  {
   "id": "1145c2f50a3d",
