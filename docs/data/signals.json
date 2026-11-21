@@ -9132,6 +9132,32 @@
   "anomali": null
  },
  {
+  "id": "4210657f7f04",
+  "title": "Dolar Australia: Menguji 0,6755 terhadap Dolar AS, Mengincar 0,6740 – UOB",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDAxM3U0QUlLNlNYOHJTMjZZOUxrSHhzRUNmQVFzWl9sSFUyTnFTWVlqaklOcktCS21JMExnSXV4dmlnNHNhdXk4aXpiZENaTkE3STRhUEEwbEVhSW13a05zU3pvUFVGTzFtdkZXeklwVzZxXzNWdE5DanV6SWlyZGVJOEVpR2hwSmhZQmQyaGVOcUVpMUc3NnE5YVR0S3U5azVlS01oVHh6WC04U0VGMW9TZnRwdw?oc=5",
+  "media": "FXStreet",
+  "published": "2026-11-16T09:30:54+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-21T23:29:44.115058+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Dolar Australia: Menguji 0,6755 terhadap Dolar AS, Mengincar 0,6740 – UOB.  Dolar Australia: Menguji 0,6755 terhadap Dolar AS, Mengincar 0,6740 – UOB &nbsp;&nbsp; FXStreet",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "2742f14a7fe4",
   "title": "8 Calon Emiten Baru Siap Melantai di Bursa, 3 dari Sektor Kesehatan",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSzdGYjl6VWV2dzAzYl9reVFZUUpqOTgxTGZsM0FKR1lmMlFjalFHSTFNOVJzR2tjeUtqU2RiaVZfbF9BM2J4MVBBUElNRGI5QWVHMmFpTGtaVzdGMTg5Z1hYYkNTcE5OU0xjSEl5TE9RN0MyYTBybFpiTk9XVjhRSEFaUGhPVEFxMWxGZnltMTZZdVk?oc=5",
@@ -14937,7 +14963,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.53,
+   "abn5": -2.75,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -18085,7 +18115,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.53,
+   "abn5": -2.75,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "1145c2f50a3d",
