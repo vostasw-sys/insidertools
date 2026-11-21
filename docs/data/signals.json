@@ -1,5 +1,61 @@
 [
  {
+  "id": "0ece862d1833",
+  "title": "Wall Street Anjlok Saat Kekhawatiran Bisnis AI Meningkat",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sTThVREc0eHFjSE9IdEd1RkhMUW5mWHh0Y0VQV09nWkF3RGpheU1RVFQ3UHhzT2RVYV9odXNSUFU5dHFKdlBkaTByTTN5emZjRmlfdFpfWkVRZ3kyalRDTTN3?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-21T08:15:26+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-21T08:43:34.628696+00:00",
+  "anon": [
+   "tengah menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Wall Street Anjlok Saat Kekhawatiran Bisnis AI Meningkat.  Wall Street Anjlok Saat Kekhawatiran Bisnis AI Meningkat &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "b719f21cf751",
+  "title": "Rencanakan Buyback Saham, Emiten SMGR Siapkan Dana Rp250 Miliar",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY1RsSUQ3VmtyVXNUeW5pZ0tWZkdDWDdEVWhrMXBvSWgwRE5vM2FyTXVIcWhKa2VhbWhIWXVTeUt4V3dlUXRDU1drS2RFNUxpM09Hb3MzVzZkU2ljWFR5eGluZnBWQnNXbkVMNjdOdFZfeWRTQ09ERE45Zk0zc2NpRUVldW5OdGhPaEpZSnNSd3ZrQUJOVGZFOU1vbEtQeXlkbXpISUpLTQ?oc=5",
+  "media": "Tribunnews.com",
+  "published": "2026-11-21T07:40:00+00:00",
+  "tickers": [
+   "SMGR"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-21T08:43:34.628696+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 250.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Rencanakan Buyback Saham, Emiten SMGR Siapkan Dana Rp250 Miliar.  Rencanakan Buyback Saham, Emiten SMGR Siapkan Dana Rp250 Miliar &nbsp;&nbsp; Tribunnews.com",
+  "corroboration": 4,
+  "response": null,
+  "score": 22,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "33c838bc5594",
   "title": "Investor Lepas Saham Teknologi AS Setelah Nvidia Anjlok",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRF9kQUJkdDcyNUhNb2JSeGVDaVlmcnR3d3RXNUZ1YWJibHdvbllzU1dvRGVuOUYzTS1pS3dGYmhna1RMaHRCa2IteVladEdFcHFvc2oxZ1VIRUZ0Z3NWLUJIVnl6bFFjRnc?oc=5",
@@ -19,6 +75,90 @@
   "schedule": false,
   "party": false,
   "snippet": "Investor Lepas Saham Teknologi AS Setelah Nvidia Anjlok.  Investor Lepas Saham Teknologi AS Setelah Nvidia Anjlok &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "5238735fae56",
+  "title": "Ekuitas Negatif Rp2,6 Miliar, FLMC Gelar Private Placement 78,1 Juta Saham",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPck5BRG1LTEp4VjZTY3V1ck91SWIwYWFsY1pYczd4eUg5U18yNVh4TFhRQ0RyNmVKVEJlakRfZmhkR1FXYVljSUQ3c1NqbG9VNzEzQmlnVUhnbXpFd2lsYnZZY1RYZ2E4SGxCQkpjRW1YZmpWQnpUQl9VTlV1a0VsWnFTWDBkb0ZkemtoXy1kcnZxYkxxTldPS1JpZXJRc3gtQllaYTdaRGVIQWxuNlJF0gG0AUFVX3lxTE9fakxmcHd3NmhIZmk4alRUa0ZEbXJzcklnTnhkQ2hPVnlxS1UwMVI1S1RhWjZYOFRTT3BkdURQdktNaVFMQXAwUjNib2pDTnBTVEFYbjBkUnhLZm85WlMxNGY4aFB2ZFh1YmNMWlFpM0E2WUNOa2JYZFpLeGxncVdicVBHRnowendPT1FnVkFmM2kxUnk2MHV6ck9VSlFXOVNRdWljVlpSSWZodE5vUHZiczdkdg?oc=5",
+  "media": "IDX Channel",
+  "published": "2026-11-21T07:33:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-21T08:43:34.628696+00:00",
+  "anon": [],
+  "corp": [
+   "private placement"
+  ],
+  "stance": null,
+  "value_bn": 2.6,
+  "schedule": false,
+  "party": false,
+  "snippet": "Ekuitas Negatif Rp2,6 Miliar, FLMC Gelar Private Placement 78,1 Juta Saham.  Ekuitas Negatif Rp2,6 Miliar, FLMC Gelar Private Placement 78,1 Juta Saham &nbsp;&nbsp; IDX Channel",
+  "corroboration": 0,
+  "response": null,
+  "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "dd469a0ae65c",
+  "title": "OJK Denda SMGR Rp550 Juta, Wajib Lepas 2,62% SMCB",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVmt0QWNUallaU04yQjJwd3RvNTV1eExmWmRkank1b2dObFhwdWd1Vm1WS1VXMmdOYlFza0htbzB2ZjNOelBQV3pLZWR1ZzZqTzVxV28taHo5SDJEbkMwUUpSRUdUMWJCVEE0eWpPX2pkc1V4STRnNXNCUlFtaW45emtn?oc=5",
+  "media": "https://feedberry.com/",
+  "published": "2026-11-21T07:28:00+00:00",
+  "tickers": [
+   "SMGR"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-21T08:43:34.628696+00:00",
+  "anon": [],
+  "corp": [
+   "tender offer"
+  ],
+  "stance": null,
+  "value_bn": 0.55,
+  "schedule": false,
+  "party": false,
+  "snippet": "OJK Denda SMGR Rp550 Juta, Wajib Lepas 2,62% SMCB.  OJK Denda SMGR Rp550 Juta, Wajib Lepas 2,62% SMCB &nbsp;&nbsp; https://feedberry.com/",
+  "corroboration": 1,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "1e3dc97e1eee",
+  "title": "Saham Nvidia Anjlok 14 Persen, Nasdaq Terpuruk",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1dk40N2d5a2h0TWNtNWllTHJrVng1ZS05V2RIc0QyeTRhd0JmR0c2TmpMcUVnUS1JZXNwQ184OE44MWRCSnc1c2hwRXNqZVQtRmVsZm84VFMyTzMxT1VQendsYTJlc2ZzQXVV?oc=5",
+  "media": "Limapagi",
+  "published": "2026-11-21T07:12:58+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-21T08:43:34.628696+00:00",
+  "anon": [
+   "sedang menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham Nvidia Anjlok 14 Persen, Nasdaq Terpuruk.  Saham Nvidia Anjlok 14 Persen, Nasdaq Terpuruk &nbsp;&nbsp; Limapagi",
   "corroboration": 0,
   "response": null,
   "score": 16,
@@ -457,7 +597,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Semen Indonesia (SMGR) Buyback Saham Rp 250 Miliar.  Semen Indonesia (SMGR) Buyback Saham Rp 250 Miliar &nbsp;&nbsp; investor.id",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 22,
   "outcome": null,
@@ -466,7 +606,7 @@
  {
   "id": "9ee117954981",
   "title": "Emiten BTPN Bakal Go Private dan Delisting",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTjdwX1Q5U2pEcnV3VjdIVnVxaDVHeGZBb2I0dWlzLUVINXdfZGhKdlNmS3EySXhmMDh4bFp0X0lqMVd3NWxqLUd4T0VILVZkRHVaRXgxajlsZE9zYlhFQmx1TC1UeW50ZXZEWG9VdDJhWnREU1RnRjRRU1hrY3ZxUm1pTGV6MWo1ckQ5LTVVb2TSAYYBQVVfeXFMUFpCN0Y2eW42YlJHTWxLdDBmWDluTkZ0andMTFlGcFRyRmhuelRKY0dlS0w5eDZDeHNBSEE1SlVaZ05fVkI5QkprMi1ydWpSVjF5a3BXUW5Qa21kd0ZrQkNKdXVpX0QxMGZXXzBqZE1sSEZCZThTQ2lETlo1S1RPZVhVQVlKWFE?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNazJnMDMySkYzeDBkTFlXLUVmYThSRGVpYS1NZHFtU2xvcnN1N3pSYU9JTFc0LVRpdXlvT1JrRjlDUzBpR01lY28tZ2JPaWFJQXRvS3lOVVI2OXhEMXJacklZN3lDUXg0N0hLVEpaajAtUGxucXRVRnRVM0hJR2RYNEpVaGxDcHRxX3lhTUxjSdIBhgFBVV95cUxQWkI3RjZ5bjZiUkdNbEt0MGZYOW5ORnRqd0xMWUZwVHJGaG56VEpjR2VLTDl4NkN4c0FIQTVKVVpnTl9WQjlCSmsyLXJ1alJWMXlrcFdRblBrbWR3RmtCQ0p1dWlfRDEwZldfMGpkTWxIRkJlOFNDaUROWjVLVE9lWFVBWUpYUQ?oc=5",
   "media": "Liputan6.com",
   "published": "2026-11-20T13:05:57+00:00",
   "tickers": [],
@@ -723,7 +863,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Semen Indonesia Siapkan Buyback Saham Rp 250 Miliar.  Semen Indonesia Siapkan Buyback Saham Rp 250 Miliar &nbsp;&nbsp; Lensa Hukum",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 22,
   "outcome": null,
@@ -809,7 +949,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Semen Indonesia (SMGR) Siapkan Rp250 Miliar Demi Buyback Saham - Bisnis.com.  Semen Indonesia (SMGR) Siapkan Rp250 Miliar Demi Buyback Saham &nbsp;&nbsp; Bisnis.com - Market",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 31,
   "outcome": null,
@@ -3500,7 +3640,7 @@
  {
   "id": "e7d5288d49b1",
   "title": "Merger XLSmart Mulai Berbuah, Saham EXCL Punya Katalis Baru",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTFQLUtMQUJKWjUxVFllVlVxcDZfNkhfcGJuTEZZWVFHbTI2VGNiM1pfcXFYc1JZLUdvTmxsT3dFS1ZiZmlPdE12WTR3MElyZ0pHaFVvRHJvbnFUenpLdXZvOXczV01DN1FZWkE4aGtqMUF3bU1FbndoUHdyeFgzWFN1V1NvWllKM2kxMkYyLWRwWFZHOTJHRjVqNU5uLVdD0gGjAUFVX3lxTE1mb2ptS0VMNTd3UU45SjN4cDZka015akpPV2FxNy02aWtwOHNjRk9hdWJiUW84NVFqNzNnUTdWTUk2T2RvU3BQUWxDbWhUbU1KUGVWTC1DSEstY3F3cmZPaWVlZGJmT2EtdUhleHltN3hJUUN6dl9FcFNFRnlrS3NqVzNSWFROZW95cF9tenFHYnFpRzhON2dWNk5Vc1E3ejJfSlk?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSG1adHpDeFpsR1lNRFZkY08xaS1NX0VabTB1NjdNV2tjejJRLUVFVEZsNEtxbkFTYXZhb044cWlQeEZibFNJU1dta21yNnFrVmpwNVplVUFLOFNkTFY2VTlqOTFYWThTNkprM29ReXNvUDcyMGhoX05wc01LeDRHaHg5eUhzTWNMSnh6TDFSQzU3cWJIMkxWRXVSQklzOEdy0gGjAUFVX3lxTE1mb2ptS0VMNTd3UU45SjN4cDZka015akpPV2FxNy02aWtwOHNjRk9hdWJiUW84NVFqNzNnUTdWTUk2T2RvU3BQUWxDbWhUbU1KUGVWTC1DSEstY3F3cmZPaWVlZGJmT2EtdUhleHltN3hJUUN6dl9FcFNFRnlrS3NqVzNSWFROZW95cF9tenFHYnFpRzhON2dWNk5Vc1E3ejJfSlk?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-19T02:48:00+00:00",
   "tickers": [
@@ -14027,7 +14167,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.53,
+   "abn5": -2.75,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -17175,7 +17319,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.53,
+   "abn5": -2.75,
+   "last": "2026-11-20"
+  }
  },
  {
   "id": "1145c2f50a3d",
