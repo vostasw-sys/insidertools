@@ -4603,9 +4603,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Roda Vivatex (RDTX) Stock Split 1:20, Saham Pecah Mulai 24 November 2026 - Bisnis.com.  Roda Vivatex (RDTX) Stock Split 1:20, Saham Pecah Mulai 24 November 2026 &nbsp;&nbsp; Bisnis.com - Market",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 15,
+  "score": 20,
   "outcome": null,
   "anomali": null
  },
@@ -5802,6 +5802,34 @@
   "anomali": null
  },
  {
+  "id": "f73c62aeb026",
+  "title": "Roda Vivatex (RDTX) Stock Split dengan Rasio 1:20",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3B4WHVLb3RmTFR2U2FlNmxWMDdFQkNuakswdGpjdksyZDIzcnU5Y1VKLS10cjNvS2J1ZFpmdzBuTThaM25FM25XNUZ2NVhkWU5YRk8zbHFoSDN5SXJTOVJDU25CTTk4OTNKcHJrc0dNZDR4SjZRbUtRallZZlBIZlB2U05adV8zdTdpRnFB0gGTAUFVX3lxTE5zVVJCM3VGWndJdTdzRThEQldJMmlMWnlCcHhmMWMxRXpTMmxEWERQUXh2cGNVcnNPdDVWcHpGdXpyVXJHQTNFb0ptd1NyLUJWTFlJbXlVMVVUc211SjJha1BJSEYzcm5ZMDhSalpna2hFLWx4dzJsNGdneVFaekU4UVhwSllvS2JJNHNLaXJzdTczVQ?oc=5",
+  "media": "IDX Channel",
+  "published": "2026-11-18T09:33:00+00:00",
+  "tickers": [
+   "RDTX"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-21T22:30:30.512951+00:00",
+  "anon": [],
+  "corp": [
+   "stock split"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Roda Vivatex (RDTX) Stock Split dengan Rasio 1:20.  Roda Vivatex (RDTX) Stock Split dengan Rasio 1:20 &nbsp;&nbsp; IDX Channel",
+  "corroboration": 2,
+  "response": null,
+  "score": 14,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "4ecdb53a49c0",
   "title": "Emiten HSC, RDTX Stock Split 1:20, Ini Dampaknya ke Pemegang Saham",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0tXWFlDUVBSME5OTXJhXzVwVlRMa1JCODRka2t3VFp2c3MtcXlCbVd3TVoxV2pUd2h6WUgxUHMxcXdlWDctWWxHMnRiNzNWd1p5OHBaTWpoQ3Bwc1N1N3hGSjhtbzZtVjFNTnlrQVV0dFBnLWpVN1hXNDF1ODhjSm13WHVwMG9KNFNpTXcxYlVtZmFTeFE?oc=5",
@@ -6445,7 +6473,7 @@
  {
   "id": "24317cd28154",
   "title": "Bangun PLTMH, TGRA Private Placement Rp210 Miliar",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYlhKSk5kS3ZxZXpweWY5STBpVjRpUVlxZ2xKOHYyZFp0bmtvNWVrdDJRYVlTeFozdWlHT0E2cDZieXd3M1lhaXpoMkRka09QYmlrUnRkel81VUJFTEdGeHJ1VnpPQVpYZUdxcS02MXhHXzJKVE50OWtrWWhOUmJHZmFR?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNE1YdTV0V2ltcm5scjVXMWR6Z0RsN2VCWW1QZlFyOUFnSWx6cW1IM195aVpaSlE3SW5wT2hiM0swd29kYUNmSXltcUdNUHR6aENGRnFKVEtWR3U5SzEtS2czUEIwdWU4YmdVbmdJQnk5V2hmQTFBLW9fZlNmV1lNVTdwYXJEVk0?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-18T01:23:00+00:00",
   "tickers": [],
@@ -14909,11 +14937,7 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.53,
-   "abn5": -2.75,
-   "last": "2026-11-20"
-  }
+  "anomali": null
  },
  {
   "id": "6b691b104a0a",
@@ -18061,11 +18085,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.53,
-   "abn5": -2.75,
-   "last": "2026-11-20"
-  }
+  "anomali": null
  },
  {
   "id": "1145c2f50a3d",
