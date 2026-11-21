@@ -52,34 +52,6 @@
   "anomali": null
  },
  {
-  "id": "11bbfc33545d",
-  "title": "OJK Jatuhkan Sanksi ke Emiten Semen BUMN, Denda Capai Rp 550 Juta",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVmNkXzFmZy1rd0hiVjNyeWdieHR5Slp1ZFdESWViTzZhTnlFZ2ZQT2lzUVFmbXZaWlQ2TFNpcFhVVGNlakZmSXEtaUlGTTBGWlJ5VVhGZnlFWDB6d0ZQLTl4N3NsejBOekoxV0I2b25mNENRckpPRUJ6eEYyM0RQbWY5V0pQdEpvd3kwbmVKOXJnend2amlaX1dGTTNibHVMM3fSAZoBQVVfeXFMTWtvazVoOGRtLU9sNUdKc25qdFVJV0JnNWdmX3NnSEVVNTZLWV9kdS15MEZLNEZrODFTRWtBS0lfd1FVbnZOd29Xb1FPTmhaUXRWMU9PTUFHRDczalRwZ3hMWTdSWlVucGdDOU1NT05CeWpEVHJqMUV5ZnVkd2RiM01KXzdzXzZBSzVJSHVTaDZhcVlOU2JHaDdmdw?oc=5",
-  "media": "kontan.co.id",
-  "published": "2026-11-21T12:13:03+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-21T12:43:15.258500+00:00",
-  "anon": [],
-  "corp": [
-   "tender offer"
-  ],
-  "stance": null,
-  "value_bn": 0.55,
-  "schedule": false,
-  "party": false,
-  "snippet": "OJK Jatuhkan Sanksi ke Emiten Semen BUMN, Denda Capai Rp 550 Juta.  OJK Jatuhkan Sanksi ke Emiten Semen BUMN, Denda Capai Rp 550 Juta &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 18,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "1995d86583c9",
   "title": "Investor Saham Mencermati IHSG yang Melemah Lima Hari, Rupiah Tertekan dan Suku Bunga Acuan BI Naik - Hallo Indonesia",
   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlhJSVZhR3dMNW5zM0F1ME5FT0lYRk1nV0kzOHYxNHAtZUM5OV9sOVh3RWxEOEQ1a2ozU0JDbU02dlZDelBkV2YwWGFDQ0dlaDY1NXVmT0J2OThJRmJ2MnRINHNGRjNLWlk0SjdfeUdvdU1MbVhVdDBURHFpUE5XRFl4eHBOVVFnMWRsbVhvWlRoV054bVhDRE9jUHpYaFZTNkpfeTdIUzRfaWlnOTlPSVhxbF9qeGhwUFpRZS1IVGpOaGY4V0I1bUNRNWtGSUpiTlVJRUFVNGo1RW9KdG530gHkAUFVX3lxTE41VXVsRzF6LVZLeHNvdnZXOGVycjFIQ25kT3BqeUxFTlJ6MWNUcWREcFhlZjZJZ0JMWC1raC05cUU5WkY5MWVOMUk1RG1oeHVtQVF0ZEF4WjlsN01qNGVKRVIxLUEzMEJBblJlM2hvRTFQUjVrYkZGSmw5WlhHU3BsN2QtY3hNNmx4Sm1FMFBuQ2J2dUJuMlpSWTl2RVlLZnY4SGVvR3F0M0FuMlRQRUxhc056OV81eUk4SDFsd3ZkS3hHbVpJSGQxWHlYNmdwMHNrMnQ4a3RoMjRlY3dJenRScGRrdw?oc=5",
@@ -127,9 +99,9 @@
   "schedule": false,
   "party": false,
   "snippet": "BCA Siapkan Dividen Interim Sebesar Rp4,3 Triliun, Investor BBCA Perlu Mencermati Cum Date dan Ex Date - Hallo Indonesia.  BCA Siapkan Dividen Interim Sebesar Rp4,3 Triliun, Investor BBCA Perlu Mencermati Cum Date dan Ex Date - Hallo Indonesia &nbsp;&nbsp; Hallo Indonesia",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 26,
+  "score": 31,
   "outcome": null,
   "anomali": {
    "vol_z": -0.09,
@@ -464,6 +436,38 @@
   "anomali": null
  },
  {
+  "id": "618fd082cc40",
+  "title": "Dividen BBCA 2026: Jadwal Pembagian, Besaran Dividen, dan Cara Menghitungnya",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSTdVaGRrZnltRG1zZnBXUGU0b2FGUFdPX2djcUdIZ3RMYk1zS05QRlc1ZnVfaU9iTU5VNUxBanZJNktpVGNPaW9LMVIyYjgtSGp6N1hYaS0yVUd3aFFDazdRdjNmM1V1OVFobl9pTk12N2JOZTlTZjRJWk5OeV83dWs4QnJOWXZRejFGVXByT3l5Y1pyY1NwZEVhQU5HLUk4Y202M0pNeXg5WXMzTlNSN1J4Qm56WERCRWhxeUt4d2ZGRUtnVjVHcC1aa0ttd9IB0wFBVV95cUxPUU1qU2xJLVo4RktmbGNxR3Bpa0tDV0NDekc4d25VV042blppWnlhckpqZ0FNS2RrOEJ5V09CbV8yS3BtckZ6TThzSERVVW9XemdmYWtYejJIb3hFOWhRRFZxeXBoX1VERFlnWHRJOGxqcXdYZDQwYVRqOTNfUV9IVXZpRnVIUnNZTzFoNmdZdHBmeFVvYUZBd2VWM1ZMYW1QTm8wZzhoenNCLVd1LUJlM2FpeGFsSUFPcVA2bmhUeVp0NUVqRWFNOEV3TXlwQldiWFpF?oc=5",
+  "media": "Trenggalek Njenggelek",
+  "published": "2026-11-21T07:50:15+00:00",
+  "tickers": [
+   "BBCA"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-21T15:38:07.930776+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Dividen BBCA 2026: Jadwal Pembagian, Besaran Dividen, dan Cara Menghitungnya.  Dividen BBCA 2026: Jadwal Pembagian, Besaran Dividen, dan Cara Menghitungnya &nbsp;&nbsp; Trenggalek Njenggelek",
+  "corroboration": 2,
+  "response": null,
+  "score": 21,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.09,
+   "abn5": 4.62,
+   "last": "2026-11-20"
+  }
+ },
+ {
   "id": "b719f21cf751",
   "title": "Rencanakan Buyback Saham, Emiten SMGR Siapkan Dana Rp250 Miliar",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY1RsSUQ3VmtyVXNUeW5pZ0tWZkdDWDdEVWhrMXBvSWgwRE5vM2FyTXVIcWhKa2VhbWhIWXVTeUt4V3dlUXRDU1drS2RFNUxpM09Hb3MzVzZkU2ljWFR5eGluZnBWQnNXbkVMNjdOdFZfeWRTQ09ERE45Zk0zc2NpRUVldW5OdGhPaEpZSnNSd3ZrQUJOVGZFOU1vbEtQeXlkbXpISUpLTQ?oc=5",
@@ -544,6 +548,34 @@
   "corroboration": 0,
   "response": null,
   "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "11bbfc33545d",
+  "title": "OJK Jatuhkan Sanksi ke Emiten Semen BUMN, Denda Capai Rp 550 Juta",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVmNkXzFmZy1rd0hiVjNyeWdieHR5Slp1ZFdESWViTzZhTnlFZ2ZQT2lzUVFmbXZaWlQ2TFNpcFhVVGNlakZmSXEtaUlGTTBGWlJ5VVhGZnlFWDB6d0ZQLTl4N3NsejBOekoxV0I2b25mNENRckpPRUJ6eEYyM0RQbWY5V0pQdEpvd3kwbmVKOXJnend2amlaX1dGTTNibHVMM3fSAZoBQVVfeXFMTWtvazVoOGRtLU9sNUdKc25qdFVJV0JnNWdmX3NnSEVVNTZLWV9kdS15MEZLNEZrODFTRWtBS0lfd1FVbnZOd29Xb1FPTmhaUXRWMU9PTUFHRDczalRwZ3hMWTdSWlVucGdDOU1NT05CeWpEVHJqMUV5ZnVkd2RiM01KXzdzXzZBSzVJSHVTaDZhcVlOU2JHaDdmdw?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-21T07:28:50+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-21T12:43:15.258500+00:00",
+  "anon": [],
+  "corp": [
+   "tender offer"
+  ],
+  "stance": null,
+  "value_bn": 0.55,
+  "schedule": false,
+  "party": false,
+  "snippet": "OJK Jatuhkan Sanksi ke Emiten Semen BUMN, Denda Capai Rp 550 Juta.  OJK Jatuhkan Sanksi ke Emiten Semen BUMN, Denda Capai Rp 550 Juta &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 18,
   "outcome": null,
   "anomali": null
  },
