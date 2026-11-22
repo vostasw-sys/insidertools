@@ -26,6 +26,30 @@
   "anomali": null
  },
  {
+  "id": "27f39e7957a6",
+  "title": "Apa itu Saham AMMN? Profil, Sektor Usaha & Sejarah Emiten",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SdTZIQjRFR0dCdHdUOFFjZ3VSM0pJOVJuRDd6cF9yZ25keWtXQWd3bkY1cmFIbDVIdEI0eW9pN29EbGl4MzktejZPWQ?oc=5",
+  "media": "Pintu",
+  "published": "2026-11-22T10:00:03+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-22T12:09:55.722991+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Apa itu Saham AMMN? Profil, Sektor Usaha & Sejarah Emiten.  Apa itu Saham AMMN? Profil, Sektor Usaha & Sejarah Emiten &nbsp;&nbsp; Pintu",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "7d442e35978a",
   "title": "Apa itu Saham MBMA? Profil, Sektor Usaha & Sejarah Emiten",
   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BMWo0OHR2TnZyRHNIWXhQNEplTGpCR2Fzc1dLSkdQR2pveTg2QkFMbjFqb1JOZGFuMC05bm1fOXdxdEZ6TlVtbEMwUQ?oc=5",
@@ -2033,7 +2057,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Elnusa (ELSA) Siapkan Dana Rp84,5 Miliar, Simak Daftar Emiten Buyback Saham November 2026.  Elnusa (ELSA) Siapkan Dana Rp84,5 Miliar, Simak Daftar Emiten Buyback Saham November 2026 &nbsp;&nbsp; Ajaib",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 19,
   "outcome": null,
@@ -2408,7 +2432,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Elnusa (ELSA) Siapkan Dana Rp 84,5 Miliar untuk Buyback Saham, Periode Pelaksanaan Selama Tiga Bulan.  Elnusa (ELSA) Siapkan Dana Rp 84,5 Miliar untuk Buyback Saham, Periode Pelaksanaan Selama Tiga Bulan &nbsp;&nbsp; TOPIK.ID",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 19,
   "outcome": null,
@@ -2524,7 +2548,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Elnusa (ELSA) Buyback Saham Rp 84,5 Miliar.  Elnusa (ELSA) Buyback Saham Rp 84,5 Miliar &nbsp;&nbsp; investor.id",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 19,
   "outcome": null,
@@ -2756,7 +2780,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Elnusa (ELSA) Lanjutkan Buyback Saham Rp84,5 Miliar hingga Februari 2027 - Bisnis.com.  Elnusa (ELSA) Lanjutkan Buyback Saham Rp84,5 Miliar hingga Februari 2027 &nbsp;&nbsp; Bisnis.com - Market",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 28,
   "outcome": null,
@@ -2911,6 +2935,36 @@
    "abn5": -16.07,
    "last": "2026-11-20"
   }
+ },
+ {
+  "id": "5df291d56a98",
+  "title": "Bersiap, Elnusa (ELSA) Gelontorkan Rp 84,5 Miliar untuk Buyback",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcW9UQWJGb2lxYnk1U0R0ZGJDSFJFN3dNOWc5N18yTlp4RW5SUnFDejN4c3RZVF8xajFxODlVdWs1NGY1S0NYcmptbnd1eWVXRDRPcU56TDZOR3hIWjVRNXRaVTR6Q0oyQmMtNWJVMmE3ejBJVTRMRktTYXB0ZGlXbTB5X09fYldLT19GNTEwdEV6RFJsU20ycWJqNNIBkwFBVV95cUxPVWE1ZXdFT3JvdHJjNkU0akliNDJJR3JrM211cXRaWGNPNHQtTU52MUF2NHNNYzU3ODc3U1pJSkMyb2IxUEthNlVlRGtvckp1blBsaWI0LUNpYU5EbEk5U3FtYjBRcV9IR1BnQUxvY3psM0xWcE5VX1h2bDVVS19zSF9fMVM4TGVPVkotcDBnbGNOWDg?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-20T01:14:02+00:00",
+  "tickers": [
+   "ELSA"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-22T12:09:55.722991+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 84.5,
+  "schedule": false,
+  "party": false,
+  "snippet": "Bersiap, Elnusa (ELSA) Gelontorkan Rp 84,5 Miliar untuk Buyback.  Bersiap, Elnusa (ELSA) Gelontorkan Rp 84,5 Miliar untuk Buyback &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 6,
+  "response": null,
+  "score": 28,
+  "outcome": null,
+  "anomali": null
  },
  {
   "id": "34fc14e0871c",
@@ -3228,7 +3282,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Elnusa (ELSA) Lanjutkan Buyback Saham Rp84,5 Miliar hingga Februari 2027.  Elnusa (ELSA) Lanjutkan Buyback Saham Rp84,5 Miliar hingga Februari 2027 &nbsp;&nbsp; IDX Channel",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 22,
   "outcome": null,
@@ -3862,20 +3916,22 @@
   "tickers": [
    "PACK"
   ],
-  "uma": true,
+  "uma": false,
   "jenis": [],
   "asal": [],
   "first_seen": "2026-11-19T08:25:42.396054+00:00",
   "anon": [],
-  "corp": [],
+  "corp": [
+   "akuisisi"
+  ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel.  Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel &nbsp;&nbsp; Lotus Andalan Sekuritas",
-  "corroboration": 0,
+  "corroboration": 1,
   "response": null,
-  "score": 41,
+  "score": 6,
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
@@ -5914,7 +5970,7 @@
  {
   "id": "309800d27c67",
   "title": "SPBU Vivo Bakal Gabung BP-AKR, Grup AKR (AKRA) Siapkan Akuisisi USD15,5 Juta",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3U0VldVWXRPcVlHanBIc21yZ09rUVY5V2lRUG4tWFg2a0thZDQ2QkxxSWFoYmlmVEdROVpWM1R5UmZKaUU0QnJIM25uR2pXajM5Rm5PRGN3VzZSN0dlMW95Vm94d2c4dWdHcy1Qb3VEdUJRTWJNa3ltOTdfOWRrcmRzNUVyZVJUUXZFMDUzRm5yaVY4Q1h0NzdqLUQtSU5XNUl1anlQOHJ2Y3lKdjRMRFJReElfUdIBuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ1?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2Y4Mm1ZYW5pLVJnZDhJWmtWSkUwdGZCSEVlam1EZ0R0WkQyZE1rU25ZX1NwWkNIeXFNVjlQZnh4MUdTbEg5dTN3bER2Ujh5YzB4eVU2a0RLMWlENDg4ZWVJRFI2NE9KYWpzZDNwUVFIc2ZkdEt6TXQwYzFrcDhHNnd3Y041TjRvMnBKQzJERFh3a3hCZjNhbThPSE9rZWhNTm1hN0RrR1VFSzNfZHdoRtIBuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ1?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-18T12:07:00+00:00",
   "tickers": [
@@ -7799,6 +7855,36 @@
   "corroboration": 0,
   "response": null,
   "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "4a73a40b54c9",
+  "title": "Bank Kasikorn (BMAS) Rights Issue 2,87 Miliar Saham, Incar Dana Rp1T",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlphMC1Ncmc1UU04eTZWaXhLMXVic0JmWFFnTm4tbUNVTzVyT3VIT2ZIcWtFRUdQQUJMSkgyRVBqSFp1VmJvRldNLVJjaEIwSlZZSWQyNl9sTXcyaklsQ1B6dmpWQ01GTkE3Y0dtTFVKYmV0U0xTZFlzUUowdHptbUdDaVFOU01TWmF2eU50NGtlTS1sNU5Z?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-17T07:51:00+00:00",
+  "tickers": [
+   "BMAS"
+  ],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-17T08:22:52.718467+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Bank Kasikorn (BMAS) Rights Issue 2,87 Miliar Saham, Incar Dana Rp1T.  Bank Kasikorn (BMAS) Rights Issue 2,87 Miliar Saham, Incar Dana Rp1T &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 3,
+  "response": null,
+  "score": 19,
   "outcome": null,
   "anomali": null
  },
@@ -10427,36 +10513,6 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "4a73a40b54c9",
-  "title": "Bank Kasikorn (BMAS) Rights Issue 2,87 Miliar Saham, Incar Dana Rp1T",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlphMC1Ncmc1UU04eTZWaXhLMXVic0JmWFFnTm4tbUNVTzVyT3VIT2ZIcWtFRUdQQUJMSkgyRVBqSFp1VmJvRldNLVJjaEIwSlZZSWQyNl9sTXcyaklsQ1B6dmpWQ01GTkE3Y0dtTFVKYmV0U0xTZFlzUUowdHptbUdDaVFOU01TWmF2eU50NGtlTS1sNU5Z?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-15T14:35:00+00:00",
-  "tickers": [
-   "BMAS"
-  ],
-  "uma": false,
-  "jenis": [
-   "Penerbitan saham"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-17T08:22:52.718467+00:00",
-  "anon": [],
-  "corp": [
-   "rights issue"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Bank Kasikorn (BMAS) Rights Issue 2,87 Miliar Saham, Incar Dana Rp1T.  Bank Kasikorn (BMAS) Rights Issue 2,87 Miliar Saham, Incar Dana Rp1T &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 3,
-  "response": null,
-  "score": 19,
   "outcome": null,
   "anomali": null
  },
