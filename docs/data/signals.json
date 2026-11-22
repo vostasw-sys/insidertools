@@ -733,7 +733,7 @@
   "asal": [],
   "first_seen": "2026-11-21T09:40:55.822208+00:00",
   "anon": [
-   "informasi yang dihimpun"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -906,6 +906,32 @@
   "corroboration": 0,
   "response": null,
   "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "0a123d01a631",
+  "title": "Anthropic Tetapkan Harga IPO US$83 per Saham di Nasdaq",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAySDN2aG43MVg2UzdXbUZuTkFxTUtnSWpYZkhGem5CTDc5ZzdTWFhqM3ZwWEJtX0pCNlViel9NTnpsQ3RlRXp4ZHpjT2ZNTkhaOG5wOUh0b0tTeHJaTGY5VnZJSnZsVGhOaWc?oc=5",
+  "media": "www.suaralandak.co.id",
+  "published": "2026-11-21T08:38:41+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-22T18:07:20.121184+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Anthropic Tetapkan Harga IPO US$83 per Saham di Nasdaq.  Anthropic Tetapkan Harga IPO US$83 per Saham di Nasdaq &nbsp;&nbsp; www.suaralandak.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -1550,6 +1576,36 @@
   "anomali": null
  },
  {
+  "id": "96b5b49a326d",
+  "title": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXpMSTRKZFZfcmtUTHdaMG9URGRmd09JSHVxQTRlZXhyRW0zNEZlNjJuOFl2aHJTbEtsNThsZEJpWWN1Vi0zMHM2WDVTcnI2QzFRajRUeEhKVjBiV0J2THh0ZkRWQWt5RnJGLWxkNGZGS01NS0tXbWxRS3RnVzB5SXNWTzJCalRvSTRsQVZNXzhhTV8yckRBN0sxWXRYc3FZR255b1JpaFlnR05WbmtRbk4taUJDMTZDazE1VFdvZFFnRGhNcnNuMQ?oc=5",
+  "media": "Digivestasi",
+  "published": "2026-11-20T19:59:56+00:00",
+  "tickers": [
+   "EXCL"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T14:12:09.645817+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 1000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS.  XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS &nbsp;&nbsp; Dig",
+  "corroboration": 9,
+  "response": null,
+  "score": 26,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "a43e46d49ee7",
   "title": "Prakiraan Mingguan Dolar AS: DXY Mengincar 104,00 di Tengah The Fed yang Hawkish",
   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNel9fU043UkIwbmgwc1BrLWREMEgtZlFoMDY0ck0xdF90dFVZbVBLT1E5bV9lLVJnYnZhbHdxOFBJY2FfM0NjZU5xOWU3ZzZsbVljZUtwdGJkT0FpN2ZLMHJqRVVMSzQxRThIWnFoVU5JTVpwYXAydVdYV1lmNU84RlJxa3BKUFVsTUZVTjFueG9IMjVsYVBhc3V3S2FHYTliRmZBSGs1R28zakdVNWJtcl9LdmkxLWtKWTdXMlllNA?oc=5",
@@ -2118,36 +2174,6 @@
   "anomali": null
  },
  {
-  "id": "96b5b49a326d",
-  "title": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXpMSTRKZFZfcmtUTHdaMG9URGRmd09JSHVxQTRlZXhyRW0zNEZlNjJuOFl2aHJTbEtsNThsZEJpWWN1Vi0zMHM2WDVTcnI2QzFRajRUeEhKVjBiV0J2THh0ZkRWQWt5RnJGLWxkNGZGS01NS0tXbWxRS3RnVzB5SXNWTzJCalRvSTRsQVZNXzhhTV8yckRBN0sxWXRYc3FZR255b1JpaFlnR05WbmtRbk4taUJDMTZDazE1VFdvZFFnRGhNcnNuMQ?oc=5",
-  "media": "Digivestasi",
-  "published": "2026-11-20T07:59:56+00:00",
-  "tickers": [
-   "EXCL"
-  ],
-  "uma": false,
-  "jenis": [
-   "Pembelian/penjualan besar"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-20T14:12:09.645817+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
-  ],
-  "stance": null,
-  "value_bn": 1000.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS.  XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS &nbsp;&nbsp; Dig",
-  "corroboration": 9,
-  "response": null,
-  "score": 26,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "5a7ede1e0d4e",
   "title": "Apa itu Amazon? Mengenal Bisnis E-Commerce dan Cloud",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnQ5RGVQZHpIclEzUldsaXprb3lxTUZhdGs1ZElLNENqbTFncWoyX2lEeUJPeWh6OVRJeVpWLTNMeDVPanlpcG91ZlppSzdvbjYtbm12OUZWbHZwUnA4SWtwWTB4cGl4OGlxWW1FZ1luLV9Kc2prRk01VVVZVnBvbGlaX0J2VGRGVU9KUw?oc=5",
@@ -2547,9 +2573,9 @@
  {
   "id": "febf3ac85b5a",
   "title": "Harga Buyback Emas Antam (ANTM) Logam Mulia Jumat Anjlok Tajam, Emas Dunia (XAUUSD) Tertekan! - Sinar Harapan",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbTRuLTR5SS1SM1U1ZHVzWjFGZ1N0OXhIMXdKVTBkenEyeXRmWHJ3R0hIUmYydWFuSHk4eEExczhJQXg0dnhLeG83dXNTYU14dHZXN3daWU5pWGNXV3o1b3N1OEp2TGZPSFVjTjBkNTVkY0J0WXc3V3dpQlF2SllqajdLNndwVFFFNkRQcTBHeWxzZE93MkRHQWd3TGs4Yk9CZDJNblNyUWV2UG42cjd0Wl9PZ05UVFpyTUlrQ2FuQWwyQXNzY0JhY0lJbTlNNVA30gHWAUFVX3lxTFB4emZ6OXd6eUVvcmh1QzJDc3dyLTV2RWotdC1kVFhsZHZ2WHBONXFmcGc0dlZNb21pLXctX095WmpwejJpZXpFWHN4eklncmM1aW1MNDBLN0thUVFMQi1lLXZIM3hVWTVKblMySkN6MVlodmVKSExwZTJsYXIwbjJGbmhGX0tLczJRNXR6ZXlJMTlHY3pZRktGYTRyLUdzTEpmaUxIRG5ZU0ltWl9NcDVjSmtvbUNha2c4WW5qZTIyNGlQSklqdGlEMUE3ZDBVT3E0RGw4bGc?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeHpmejl3enlFb3JodUMyQ3N3ci01dkVqLXQtZFRYbGR2dlhwTjVxZnBnNHZWTW9taS13LV9PeVpqcHoyaWV6RVhzeHpJZ3JjNWltTDQwSzdLYVFRTEItZS12SDN4VVk1Sm5TMkpDejFZaHZlSkhMcGUybGFyMG4yRm5oRl9LS3MyUTV0emV5STE5R2N6WUZLRmE0ci1Hc0xKZmlMSERuWVNJbVpfTXA1Y0prb21DYWtnOFluamUyMjRpUEpJanRpRDFBN2QwVU9xNERsOGxn0gHWAUFVX3lxTFB4emZ6OXd6eUVvcmh1QzJDc3dyLTV2RWotdC1kVFhsZHZ2WHBONXFmcGc0dlZNb21pLXctX095WmpwejJpZXpFWHN4eklncmM1aW1MNDBLN0thUVFMQi1lLXZIM3hVWTVKblMySkN6MVlodmVKSExwZTJsYXIwbjJGbmhGX0tLczJRNXR6ZXlJMTlHY3pZRktGYTRyLUdzTEpmaUxIRG5ZU0ltWl9NcDVjSmtvbUNha2c4WW5qZTIyNGlQSklqdGlEMUE3ZDBVT3E0RGw4bGc?oc=5",
   "media": "Sinar Harapan",
-  "published": "2026-11-20T03:58:29+00:00",
+  "published": "2026-11-20T03:58:00+00:00",
   "tickers": [
    "ANTM"
   ],
@@ -9479,7 +9505,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Astra Bidik EPS Rp 1.200 pada 2030.  Astra Bidik EPS Rp 1.200 pada 2030 &nbsp;&nbsp; شبكة تواصل الإخبارية",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -9511,7 +9537,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Astra Bidik EPS Rp 1.200 pada 2030.  Astra Bidik EPS Rp 1.200 pada 2030 &nbsp;&nbsp; SuaraGarut.ID",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -9761,7 +9787,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Astra Tetapkan Target Laba Per Saham Rp 1.200 pada 2030.  Astra Tetapkan Target Laba Per Saham Rp 1.200 pada 2030 &nbsp;&nbsp; Demokratis.co.id",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -9793,7 +9819,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Astra Bidik Laba Per Saham Rp 1.200 pada 2030.  Astra Bidik Laba Per Saham Rp 1.200 pada 2030 &nbsp;&nbsp; Koridor.co.id",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -9825,7 +9851,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Astra Targetkan Laba per Saham Rp 1.150-1.200 pada 2030.  Astra Targetkan Laba per Saham Rp 1.150-1.200 pada 2030 &nbsp;&nbsp; Tempo.co",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 30,
   "outcome": null,
@@ -9857,7 +9883,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Astra Targetkan Laba Per Saham Rp 1.150-1.200 pada 2030.  Astra Targetkan Laba Per Saham Rp 1.150-1.200 pada 2030 &nbsp;&nbsp; Tempo.co",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 30,
   "outcome": null,
@@ -9889,7 +9915,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Pertahankan Rasio Dividen 40-50%, Astra (ASII) Bidik RoE 15%.  Pertahankan Rasio Dividen 40-50%, Astra (ASII) Bidik RoE 15% &nbsp;&nbsp; InvestorTrust",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -9921,7 +9947,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Implementasi Strategi Astra & Aspirasi Pertumbuhan Menuju 2030.  Implementasi Strategi Astra & Aspirasi Pertumbuhan Menuju 2030 &nbsp;&nbsp; PT Astra International Tbk",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -10091,7 +10117,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Implementasi Strategi Astra dan Aspirasi Pertumbuhan Menuju 2030.  Implementasi Strategi Astra dan Aspirasi Pertumbuhan Menuju 2030 &nbsp;&nbsp; TopBusiness.id",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -10123,7 +10149,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Implementasi Strategi Astra & Aspirasi Pertumbuhan Menuju 2030.  Implementasi Strategi Astra & Aspirasi Pertumbuhan Menuju 2030 &nbsp;&nbsp; RM.ID",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -10157,7 +10183,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Laba Bersih per Saham ASII Bisa Melesat 121% di 2030.  Laba Bersih per Saham ASII Bisa Melesat 121% di 2030 &nbsp;&nbsp; Bloomberg Technoz",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 35,
   "outcome": null,
@@ -10292,6 +10318,38 @@
   "anomali": {
    "vol_z": -0.57,
    "abn5": -3.41,
+   "last": "2026-11-20"
+  }
+ },
+ {
+  "id": "f1936bfef4ed",
+  "title": "Simak, Berikut Proyeksi Keuangan Astra 2030",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTXRlNmRXLXlYZWRPbGxrcGNMdTF0cTZwMzczSDhBVkZmbTNZbHZxZktCUTdrZDk5aWl5YkI0cHFCR19VSV9GT1o0cEF6alJ0c1NOV29KYnlNOV94RXVTVnk3cTlWdnduVVRKOEJfcVpJeUtGYXFSSHYwMHJidGc?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-16T04:20:00+00:00",
+  "tickers": [
+   "ASII"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-22T18:07:20.121184+00:00",
+  "anon": [
+   "tengah menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Simak, Berikut Proyeksi Keuangan Astra 2030.  Simak, Berikut Proyeksi Keuangan Astra 2030 &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 11,
+  "response": null,
+  "score": 29,
+  "outcome": null,
+  "anomali": {
+   "vol_z": 0.05,
+   "abn5": 0.07,
    "last": "2026-11-20"
   }
  },
