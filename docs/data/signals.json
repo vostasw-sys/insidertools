@@ -16196,32 +16196,6 @@
   "anomali": null
  },
  {
-  "id": "f2cfc82fe977",
-  "title": "Saham KOTA Bergejolak, Pemegang Saham Utama Berpeluang Tambah Kepemilikan",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3Q2TXhsZTFSbHUyZVU2MzFSVlMwcTNNYTNwY3YxMnk3bzNJeFI1RmZjRnl5ODVsZDB4TEF0TVpkamhNM1p6a2xicVg5YXZNdjk1NTBBRnhVdjh1SWw2RVZMdXhuRHhReUpJeHREZmg2bEVnc3NWa3FNVF80Tk1adGRNNGJpSjJjOVhjNEZkR2E4NFhKMDZnOUF1OA?oc=5",
-  "media": "StockWatch.id",
-  "published": "2026-11-11T10:12:46+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Pemegang saham pengendali"
-  ],
-  "first_seen": "2026-11-11T10:26:40.549741+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Saham KOTA Bergejolak, Pemegang Saham Utama Berpeluang Tambah Kepemilikan.  Saham KOTA Bergejolak, Pemegang Saham Utama Berpeluang Tambah Kepemilikan &nbsp;&nbsp; StockWatch.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "d8577a477612",
   "title": "Usai Caplok Bayan, Haji Isam Kini Bidik Tambang Nikel Weda Bay Milik Eramet",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOW1VNmpYMXVreFVFTmExLVN6UjRpMVktdHlORF9Xb0U5T1VtRlktalYxOWI0NkdqejVoUkRncEtWei1qT01HbTg1VE5oazI0cnJ3Ml9URVdoUEVUZmJRN3ZTb2hKVXlnbzRXOFRld3ZrX3ZoS0o4R1pBWlBmOGhQbG5hQWlQNkYtUU96VkJLNFNqeTFkaFNfOFpwSldFSXhzZG04aXdQSW11N2Y5aDBBZjFvNnhvMDBCdjFxOE5rR0NGck3SAcgBQVVfeXFMUHprY2tvZUEwb2ZfOUVfMGVxdjE4Y2EzcDFNcUF6WlVQQjRKbElZMDd0enF6T3RqRmJWNnl3UGNmeEdKTlJBMWRUdFlYQjVvdmp3RVd0aENtczNyN2wxX1B5aDJweFRKNlhja3JpMmtFdEZtLXhyZUtPZVUzVEZ5ZVlCaWFzTm5OaHZJUlpxT1FGQ1RxeGZ1bmxvWkVXV2dtWkFFR3Vja3hmVF92NlIxLVdLeWh0X2VwU3ZtMjRZNzltVFJTNFNxcnc?oc=5",
@@ -16416,6 +16390,32 @@
   "corroboration": 10,
   "response": null,
   "score": 32,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "f2cfc82fe977",
+  "title": "Saham KOTA Bergejolak, Pemegang Saham Utama Berpeluang Tambah Kepemilikan",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3Q2TXhsZTFSbHUyZVU2MzFSVlMwcTNNYTNwY3YxMnk3bzNJeFI1RmZjRnl5ODVsZDB4TEF0TVpkamhNM1p6a2xicVg5YXZNdjk1NTBBRnhVdjh1SWw2RVZMdXhuRHhReUpJeHREZmg2bEVnc3NWa3FNVF80Tk1adGRNNGJpSjJjOVhjNEZkR2E4NFhKMDZnOUF1OA?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-11-11T08:00:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Pemegang saham pengendali"
+  ],
+  "first_seen": "2026-11-11T10:26:40.549741+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham KOTA Bergejolak, Pemegang Saham Utama Berpeluang Tambah Kepemilikan.  Saham KOTA Bergejolak, Pemegang Saham Utama Berpeluang Tambah Kepemilikan &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
