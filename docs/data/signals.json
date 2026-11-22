@@ -528,6 +528,32 @@
   "anomali": null
  },
  {
+  "id": "b347f5ba530b",
+  "title": "OJK Perintahkan Pengembalian Keuntungan Manipulasi Perdagangan Saham Rp23,77 Miliar",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObjhZZk9GOGhBSldNQkhVa0s1dUh1WFNRQUFpNjYwb3c1RWEzejgxdEpCeEFHYmdHWDRLNFlPMXNqWGZiSXFCRlpSeE5vd2U4UDVvc0Mtc2k2QUhnRDh3UXY4eERrRndfcGQ3Y3QxZUk5TjE2Wks0SWNaRnRGaVhJdXA1Tl83U3JWbi1TdW54NXcySWYwU2pocGtIdDFaQzdPUlFOdy1BdDZYU0RjTG9oejc2ekFaY3ZrczJQMEFJVHliMDJUR2FBREJsY0I5NHBOYWc?oc=5",
+  "media": "Validnews",
+  "published": "2026-11-21T09:01:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-22T08:06:23.762289+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 23.77,
+  "schedule": false,
+  "party": false,
+  "snippet": "OJK Perintahkan Pengembalian Keuntungan Manipulasi Perdagangan Saham Rp23,77 Miliar.  OJK Perintahkan Pengembalian Keuntungan Manipulasi Perdagangan Saham Rp23,77 Miliar &nbsp;&nbsp; Validnews",
+  "corroboration": 0,
+  "response": null,
+  "score": 44,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "b4b0cb281d4e",
   "title": "BEI Catat Enam Perusahaan dalam Pipeline IPO per November 2026",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TaE1GeDlWd0c3NXBpWElMNlhDTFFTdE5nUjBkc0NMdmN3UHB5QjhqZDgyY0hrZzJ5YTYwSTNWY0FPLWp1c0ktNzZ4TU1zQS01c3dBdXBBeUlZdmNfMk9MVzlTeTJDQQ?oc=5",
