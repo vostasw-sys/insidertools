@@ -1,5 +1,115 @@
 [
  {
+  "id": "0bfff66a0615",
+  "title": "Ferry Juliantono Mulai Salurkan Kendaraan KDKMP di Jabodetabek",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02X19Uc1ctdjh3ZUhXM01tZFVQMlR2eXBHbHE3bldVWUdodC1QRmZ1SjZTZXZ6OVFHanJTb0stcTU5cUg4ZWdCVXdWWjJJbVRCdnF0d25zQXhvQ2ozRmNSLXdlbFNWcjhQTk5XdFgzWGx3cDBmWVBDNjFqZS1QcjQ?oc=5",
+  "media": "MediaKompeten",
+  "published": "2026-11-23T06:16:01+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-23T06:36:51.180923+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Ferry Juliantono Mulai Salurkan Kendaraan KDKMP di Jabodetabek.  Ferry Juliantono Mulai Salurkan Kendaraan KDKMP di Jabodetabek &nbsp;&nbsp; MediaKompeten",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "ef8683fce46c",
+  "title": "Prabowo Bahas Status Pasar Saham RI dengan CEO MSCI",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zYlZmaWE5TFV0TmlFOWRqLWk1ZkhxVmZ3Y2JncUp0ODB2QXRSZWhpdFhjVTZsT0o3aElYalZGRUlyNS1iTFp6UE1XeUdvTjItTGZKTlZsSGM1M2JhTHo3YWFxSFE?oc=5",
+  "media": "SuaraGarut.ID",
+  "published": "2026-11-23T05:19:22+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen"
+  ],
+  "first_seen": "2026-11-23T06:36:51.180923+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prabowo Bahas Status Pasar Saham RI dengan CEO MSCI.  Prabowo Bahas Status Pasar Saham RI dengan CEO MSCI &nbsp;&nbsp; SuaraGarut.ID",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "5db0cdfee8c6",
+  "title": "Mirae Asset Pangkas Target Saham Vale Indonesia ke Rp 4.560",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHaHMzbWM3Y1FSaHF5QlhRQzJSWUgyREVob0xHRGQ1aE1LcVhZeWVlUHFDaTdrcFVyZGxHX0FzRElOSVVmV1ZBNDNfSFhQVURlV08tLU02dWx4RjlSMDVNQmt6WVpJWU5UMk9SUDJUcw?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-23T05:06:32+00:00",
+  "tickers": [
+   "INCO"
+  ],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-23T06:36:51.180923+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Mirae Asset Pangkas Target Saham Vale Indonesia ke Rp 4.560.  Mirae Asset Pangkas Target Saham Vale Indonesia ke Rp 4.560 &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": {
+   "vol_z": 0.41,
+   "abn5": -1.13,
+   "last": "2026-11-23"
+  }
+ },
+ {
+  "id": "7fa2f86170af",
+  "title": "Prabowo dan MSCI Bahas Alternatif Cegah Penurunan Status Saham RI",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBINnhHSzBvcVB1NDN3VF9EeE5aVTkyUDlrczJsN1JLdVZDMDVYWUp0SXhZdkt5cDBMTVp3aExoU0g3TDg5dE41UnVEYWN4S0R6ZzdQcl9iZzVNV2h3T1J3cVJVZlVYUHFlaDNIOHJEZFh5czA?oc=5",
+  "media": "Limapagi",
+  "published": "2026-11-23T05:01:23+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-23T06:36:51.180923+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prabowo dan MSCI Bahas Alternatif Cegah Penurunan Status Saham RI.  Prabowo dan MSCI Bahas Alternatif Cegah Penurunan Status Saham RI &nbsp;&nbsp; Limapagi",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "4d8c916be86b",
   "title": "MSCI Buka Opsi Pertahankan Status Pasar Saham Indonesia",
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZVZvc1VsVkF5YmFMdnV3RDlnWVNkSnhfY18ydmlsbmo1NC1zWk5nOFZSblMzbFBrQTRGZVhXWGhUdE9vcDNWRzFyUWJaTFh1TV95dzBlQW5GNGVpeWlDWHdDSm04X2pkYjBmcDc1TlZuWm5MS2s3bndTOURvczJkWGVaRnM2eWhNSzJ3LUoyZFRKZw?oc=5",
@@ -26,28 +136,56 @@
   "anomali": null
  },
  {
-  "id": "128b5fe67027",
-  "title": "Kabar Baik! MSCI Buka Peluang Hindari Downgrade Pasar Saham Indonesia",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHdpcEhXeEZoS0RCZDN4LTN0a2xSd2NtWnAybjVxekFRRk1wSkxPZjRfc000S29FRXFTc3VJaTBXZ1BEeGYzeTdIaWpyTmNranlHQ0pvWXZxak1RLUphS0pJYmhvMDZZZ21WZlhCSnBzMnBuMFBYaXhDZ3RWTURhM01oYlBxd0pxT0lXS1NWb3BWcXBRZXB4UExpWVc3cDFpdVJwYnFjc9IBnwFBVV95cUxOc3BDUlZtRzh4cGhCdUFvUVdnZkprQmpVU1U0cnZmLVNlSTdmdzNXNktKM3JYM1ptQ09uM0M2VWYzRFdYQnUwRFVHZm9WYTNUMnBkN2NMTUQwN2E5eUp4NFpRYm84aERnMTJ0NEFwbGs0bW5PNFY2UW9yb3FXNUdhT3RkV2stYjVVZWpmUjY2b29QNkM0N1NLUU1wdU0wY2s?oc=5",
-  "media": "kontan.co.id",
-  "published": "2026-11-23T04:37:05+00:00",
+  "id": "ba9c4425edf5",
+  "title": "IHSG Balik Melesat, Kabar Pertemuan Prabowo dan CEO MSCI Jadi Sorotan",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZkVVYS0yMi1qVGlQbXM3dFhfaGFEYi1pNGtpcXJtN1hFcFFJSlQ1X21FZzlpTEZTTHBJTkZkTEtKdFZ5MVhma19oeDFuekl6bi1yODNEam1ORU5YbTVlcjNQYnJjVWJmRUktckhXdkVsSkFsVnd5VVFNc0I1Um1CU2VGVlZJclcwaW53R1V0WEZaOGpPNWRQWVhyZjNzbWI0cnJwSnN3SEw4aXktQnJQQi0wU2JoSlpDWUYtbXl3NlNGQ3V3T3drcC0tZUx5VDDSAc8BQVVfeXFMTmZFVWEtMjItalRpUG1zN3RYX2hhRGItaTRraXFybTdYRXBRSUpUNV9tRWc5aUxGU0xwSU5GZExLSnRWeTFYZmtfaHgxbnpJem4tcjgzRGptTkVOWG01ZXIzUGJyY1ViZkVJLXJIV3ZFbEpBbFZ3eVVRTXNCNVJtQlNlRlZWSXJXMGlud0dVdFhGWjhqTzVkUFlYcmYzc21iNHJycEpzd0hMOGl5LUJyUEItMFNiaEpaQ1lGLW15dzZTRkN1d093a3AtLWVMeVQw?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-11-23T04:15:42+00:00",
   "tickers": [],
   "uma": false,
   "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-23T05:08:21.250430+00:00",
+  "asal": [
+   "Direksi/manajemen"
+  ],
+  "first_seen": "2026-11-23T06:36:51.180923+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
-  "snippet": "Kabar Baik! MSCI Buka Peluang Hindari Downgrade Pasar Saham Indonesia.  Kabar Baik! MSCI Buka Peluang Hindari Downgrade Pasar Saham Indonesia &nbsp;&nbsp; kontan.co.id",
+  "snippet": "IHSG Balik Melesat, Kabar Pertemuan Prabowo dan CEO MSCI Jadi Sorotan.  IHSG Balik Melesat, Kabar Pertemuan Prabowo dan CEO MSCI Jadi Sorotan &nbsp;&nbsp; CNBC Indonesia",
   "corroboration": 0,
   "response": null,
-  "score": 25,
+  "score": 24,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "bbf2bbb86c87",
+  "title": "Breaking: Prabowo Telepon Bos MSCI Bicara soal Bursa RI",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTldIUUJGMVdFX1lSeUQ4NEp4VWJubUNQSUg0akR6WFBpZk1xZndDMnlvRlJkSXB4M3BNMFBnRjFhQkFCclJ2ZnZkNTNRRm5hM0tUaTl3MExFSVUyMEpLOG93eEVIVWZoZm1kVU8xN3J4TnpvZ0VQM0RFaXFDNk1iajlwY1UxdGhUbjBSbTVoNVFtODJvVkxiS0VtT096VFNPSWVSVnRCY29pY3ZrdDRiVXI5QUN4OU1OejVqVdIBvAFBVV95cUxOTldIUUJGMVdFX1lSeUQ4NEp4VWJubUNQSUg0akR6WFBpZk1xZndDMnlvRlJkSXB4M3BNMFBnRjFhQkFCclJ2ZnZkNTNRRm5hM0tUaTl3MExFSVUyMEpLOG93eEVIVWZoZm1kVU8xN3J4TnpvZ0VQM0RFaXFDNk1iajlwY1UxdGhUbjBSbTVoNVFtODJvVkxiS0VtT096VFNPSWVSVnRCY29pY3ZrdDRiVXI5QUN4OU1OejVqVQ?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-11-23T03:50:35+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-23T06:36:51.180923+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Breaking: Prabowo Telepon Bos MSCI Bicara soal Bursa RI.  Breaking: Prabowo Telepon Bos MSCI Bicara soal Bursa RI &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 24,
   "outcome": null,
   "anomali": null
  },
@@ -134,6 +272,32 @@
   "anomali": null
  },
  {
+  "id": "128b5fe67027",
+  "title": "Kabar Baik! MSCI Buka Peluang Hindari Downgrade Pasar Saham Indonesia",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHdpcEhXeEZoS0RCZDN4LTN0a2xSd2NtWnAybjVxekFRRk1wSkxPZjRfc000S29FRXFTc3VJaTBXZ1BEeGYzeTdIaWpyTmNranlHQ0pvWXZxak1RLUphS0pJYmhvMDZZZ21WZlhCSnBzMnBuMFBYaXhDZ3RWTURhM01oYlBxd0pxT0lXS1NWb3BWcXBRZXB4UExpWVc3cDFpdVJwYnFjc9IBnwFBVV95cUxOc3BDUlZtRzh4cGhCdUFvUVdnZkprQmpVU1U0cnZmLVNlSTdmdzNXNktKM3JYM1ptQ09uM0M2VWYzRFdYQnUwRFVHZm9WYTNUMnBkN2NMTUQwN2E5eUp4NFpRYm84aERnMTJ0NEFwbGs0bW5PNFY2UW9yb3FXNUdhT3RkV2stYjVVZWpmUjY2b29QNkM0N1NLUU1wdU0wY2s?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-23T03:21:01+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-23T05:08:21.250430+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Kabar Baik! MSCI Buka Peluang Hindari Downgrade Pasar Saham Indonesia.  Kabar Baik! MSCI Buka Peluang Hindari Downgrade Pasar Saham Indonesia &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "36e931f07d0e",
   "title": "BEI 'Gembok' SMBC (BTPN) Usai Putuskan Mau Delisting",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEE1bTNuY0NRcnJaNDN0TTB4VXpIME1SeE92MVhEbGhPN2pyaS1MUTVCVE9sQ3NYSWZ3SFh2ak56cllpVTRtSlE0eGhySllHamtYRmZmRk9kUktSakJOMXliaU5MV2NsRGJjaU1qYkVfdklGWW9VRG1fTlp4SWVBcVQtUW1wMjRybmk4bm5PQk5wYVk1TFhTanpMLXdOZk9JX2twQzdESktDU0JrdHB6bHlR0gG3AUFVX3lxTE5tbXBubHpRS0FpOXJLUHoxVnZ0NmMzOWhCRzktWHJubFpuT2QtM29US0EtcGhFZ2tudWo0cFdoem9Qc2JfUWlJdTg5cWprYnQtbmM3LXNScmRweE9YWVRNcHhlUndBczgyM2M4N3pvS1JuOUQ4Vk1jQzM5cC1mX1BTbU5XLWhyanREVGhEVzVhNDVEMlFkUnlyLTBaZVM5LTl3ZVk0dmJnZmJJUUpwdWNmdXFxd2FPcw?oc=5",
@@ -160,6 +324,32 @@
   "corroboration": 2,
   "response": null,
   "score": 18,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "9547b4bceb78",
+  "title": "MLBI Tebar Dividen Interim Rp228 per Saham, Cek Jadwal, Profil, dan Kinerja Terbaru",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3FjMmt6NVY1QzhqUkpNdGZDemdtMEwtV2ZyUlk1Q3o5LUl0TXU1blhfMnB0UEw4WTdPQVhaT19lTy1NdTQ3M3lRbE1WWmRFc2ZzYjdNME1adFpiNXBoVy1JcGFTSW9maDF4ZmNiUHppVHRSOG0xTl9CWEkybTh6dGhibGJRcFpqdF95R1g4al8teEp2eEhraFJ1WEo0TmhCYkl1dHZvbHhvZEFJUXhPVDlkQWcxRjBu?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-23T03:16:29+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-23T06:36:51.180923+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "MLBI Tebar Dividen Interim Rp228 per Saham, Cek Jadwal, Profil, dan Kinerja Terbaru.  MLBI Tebar Dividen Interim Rp228 per Saham, Cek Jadwal, Profil, dan Kinerja Terbaru &nbsp;&nbsp; KONTAN",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
   "outcome": null,
   "anomali": null
  },
@@ -445,7 +635,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
@@ -507,7 +697,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -542,7 +732,7 @@
  {
   "id": "4e0810fac222",
   "title": "Kopdes Merah Putih Siapkan Armada Operasional, Ratusan Mobil di Rorotan Tunggu Proses Distribusi ke Daerah - Hallo Indonesia",
-  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMlZ5MFFiRFhLeDZmNzg2ODVfOERqZnlxVUpVOGhmMGt4ZzU5U2pHNUlEclpJOGJIeGtyc0hlSXRwNzg1dHRYbDlLbEh0MmxjZF9fR2dRaXRJVzBCSlRqcnlaMFRlbG1sdHNrR2psbG50R0Y3R252SWJncFNGSE8wd3RqVkNxWVNORXQwYlU4ODFwckxfZVdlSjBwUUxUNTJNVzBqWWJsVGF2TVlXLW4tU0RzQ2t0aHNXVDdvUUdBMzlzdDRvRkZKQlVLOWQ2QmJ5ZERYQVJCeHpuNlpCSWpJYVNON1M4MjhtZUxnU9IB7AFBVV95cUxQMlZ5MFFiRFhLeDZmNzg2ODVfOERqZnlxVUpVOGhmMGt4ZzU5U2pHNUlEclpJOGJIeGtyc0hlSXRwNzg1dHRYbDlLbEh0MmxjZF9fR2dRaXRJVzBCSlRqcnlaMFRlbG1sdHNrR2psbG50R0Y3R252SWJncFNGSE8wd3RqVkNxWVNORXQwYlU4ODFwckxfZVdlSjBwUUxUNTJNVzBqWWJsVGF2TVlXLW4tU0RzQ2t0aHNXVDdvUUdBMzlzdDRvRkZKQlVLOWQ2QmJ5ZERYQVJCeHpuNlpCSWpJYVNON1M4MjhtZUxnUw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdmp2aUVmQ3pkRW5pb1BYa25KeFJ3bFNrejl2dDkxUkFrUzhLOThGZEVZeC1PTVREM3dyTTdybkRudXBJMVNzR1Fqck9LdFl4b3N0RzFtYnhWLXIwM0hRU0VvTl96SG1mTG1LMGRmU1R1N1ZydnJ1S0JxZHNNT0k5TTRmSjA3aW5JcFphcllMY1IxTlBHekY3YUxnTnlYVFRkY0l1TTZQTm5IZ094UllWazZvV2ljZGFrOHJOekQweXJtTmczclFiaWFlanJMUzFJc2hGdUJyVzJNUWVSZTdEZzlWRk9ad2JTcFA2QnVKdTdoWjBwM1HSAfYBQVVfeXFMUHZqdmlFZkN6ZEVuaW9QWGtuSnhSd2xTa3o5dnQ5MVJBa1M4Szk4RmRFWXgtT01URDN3ck03cm5EbnVwSTFTc0dRanJPS3RZeG9zdEcxbWJ4Vi1yMDNIUVNFb05fekhtZkxtSzBkZlNUdTdWcnZydUtCcWRzTU9JOU00ZkowN2luSXBaYXJZTGNSMU5QR3pGN2FMZ055WFRUZGNJdU02UE5uSGdPeFJZVms2b1dpY2RhazhyTnpEMHlybU5nM3JRYmlhZWpyTFMxSXNoRnVCclcyTVFlUmU3RGc5VkZPWndiU3BQNkJ1SnU3aFowcDNR?oc=5",
   "media": "Hallo Indonesia",
   "published": "2026-11-23T00:30:00+00:00",
   "tickers": [],
@@ -1351,16 +1541,16 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
  {
   "id": "bbd06f0f8561",
   "title": "PKPK Amankan Kontrak Batu Bara Sebesar 76 Juta Dolar AS, Ini Detail Penjualan 1 Juta Ton hingga 2027 - Hallo Indonesia",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSEllNWdGZklCbXhTeUFLSEh1dXV5TXFCSy1TTzY2SEN0LXgzeldRY0s4d0NfSGFtXzcxbGlSeS1JWFJIdGh1VzFGV3c3VldFZC1vNmpaeHBBdTRJXzh3bVRmd0tMMTJjd25VVjdhX2hPU2Y3cUNNRXhSOHJESFNNMzBIYmNoZUhGaFZsUS01WjdKbmxjVFlOSWlIUUNiWXJvbXlCc2Fyd2hEOUhzVjVycHFkYzhXTlJ5WkFkc3VaQUJEY2NCVURGT3FlX1dOYzNySWdYeExWOUJ6SXpEajdHZVpjWXZ0MTJoYUotaUExc9IB7wFBVV95cUxNSEllNWdGZklCbXhTeUFLSEh1dXV5TXFCSy1TTzY2SEN0LXgzeldRY0s4d0NfSGFtXzcxbGlSeS1JWFJIdGh1VzFGV3c3VldFZC1vNmpaeHBBdTRJXzh3bVRmd0tMMTJjd25VVjdhX2hPU2Y3cUNNRXhSOHJESFNNMzBIYmNoZUhGaFZsUS01WjdKbmxjVFlOSWlIUUNiWXJvbXlCc2Fyd2hEOUhzVjVycHFkYzhXTlJ5WkFkc3VaQUJEY2NCVURGT3FlX1dOYzNySWdYeExWOUJ6SXpEajdHZVpjWXZ0MTJoYUotaUExcw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORUl6R2RfbXJMZ3BFRlVqN2ViLXJwZHhUVmJjV3Q5ejBIM0hEczlMQTRWNEVobHpaNVprSmZoNnRFS0x0QVdkd0JvR3ItbUtqVmU2Uk1rYUhHSm01UGJTbHhwbzZuRGF4M0pFbG5lQXJ4WkQwRHc2U2VnWkhJTTh5cFJOV1RsMGx4VFd2ZWhUdzJIUDVaNDExcWdRN3M4YXZRdWs3MnNuOHRjdDgyMzRYSEhadlVkRjN1VFo4S1MzSkd1LUtzQi10MkFzZTdPeFFwaFdJUHI5Y28xaG9jWm9SQ9IB5gFBVV95cUxQcWpJWnJ2ZjdTWkxfMllBdlZOMmM2T1M3MDE5Wm5oQVppQXlKVUdNNVpzZDNza3I1SjJGYnpTSGdEOVdVQWNRRkVVV19EVmpUV0FWdVNDM0pwWE1pdjh2QUIzN2E1am5NeHZzaVAwbWZvUkE3ZlFWQ3FPeGxUaGhMSTVKVWYwclZFeWhEQ3BOZkY0ZWdJUGhESUtzOWVpc1JiTHE0QWdIbHZ6WXd4NjdrTXItVUlmd2tXQUI2R0FIczlESm9EU1lPcENwUGJyRnN5YkhLYkdfamNRUGtDOEMydEhPSHZVQQ?oc=5",
   "media": "Hallo Indonesia",
-  "published": "2026-11-21T10:48:00+00:00",
+  "published": "2026-11-21T10:48:45+00:00",
   "tickers": [],
   "uma": false,
   "jenis": [
@@ -1792,7 +1982,7 @@
  {
   "id": "618fd082cc40",
   "title": "Dividen BBCA 2026: Jadwal Pembagian, Besaran Dividen, dan Cara Menghitungnya",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUU1qU2xJLVo4RktmbGNxR3Bpa0tDV0NDekc4d25VV042blppWnlhckpqZ0FNS2RrOEJ5V09CbV8yS3BtckZ6TThzSERVVW9XemdmYWtYejJIb3hFOWhRRFZxeXBoX1VERFlnWHRJOGxqcXdYZDQwYVRqOTNfUV9IVXZpRnVIUnNZTzFoNmdZdHBmeFVvYUZBd2VWM1ZMYW1QTm8wZzhoenNCLVd1LUJlM2FpeGFsSUFPcVA2bmhUeVp0NUVqRWFNOEV3TXlwQldiWFpF0gHTAUFVX3lxTE9RTWpTbEktWjhGS2ZsY3FHcGlrS0NXQ0N6Rzh3blVXTjZuWmlaeWFySmpnQU1LZGs4QnlXT0JtXzJLcG1yRnpNOHNIRFVVb1d6Z2Zha1h6MkhveEU5aFFEVnF5cGhfVUREWWdYdEk4bGpxd1hkNDBhVGo5M19RX0hVdmlGdUhSc1lPMWg2Z1l0cGZ4VW9hRkF3ZVYzVkxhbVBObzBnOGh6c0ItV3UtQmUzYWl4YWxJQU9xUDZuaFR5WnQ1RWpFYU04RXdNeXBCV2JYWkU?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSTdVaGRrZnltRG1zZnBXUGU0b2FGUFdPX2djcUdIZ3RMYk1zS05QRlc1ZnVfaU9iTU5VNUxBanZJNktpVGNPaW9LMVIyYjgtSGp6N1hYaS0yVUd3aFFDazdRdjNmM1V1OVFobl9pTk12N2JOZTlTZjRJWk5OeV83dWs4QnJOWXZRejFGVXByT3l5Y1pyY1NwZEVhQU5HLUk4Y202M0pNeXg5WXMzTlNSN1J4Qm56WERCRWhxeUt4d2ZGRUtnVjVHcC1aa0ttd9IB0wFBVV95cUxPUU1qU2xJLVo4RktmbGNxR3Bpa0tDV0NDekc4d25VV042blppWnlhckpqZ0FNS2RrOEJ5V09CbV8yS3BtckZ6TThzSERVVW9XemdmYWtYejJIb3hFOWhRRFZxeXBoX1VERFlnWHRJOGxqcXdYZDQwYVRqOTNfUV9IVXZpRnVIUnNZTzFoNmdZdHBmeFVvYUZBd2VWM1ZMYW1QTm8wZzhoenNCLVd1LUJlM2FpeGFsSUFPcVA2bmhUeVp0NUVqRWFNOEV3TXlwQldiWFpF?oc=5",
   "media": "Trenggalek Njenggelek",
   "published": "2026-11-21T07:50:15+00:00",
   "tickers": [
@@ -1817,7 +2007,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
@@ -3260,7 +3450,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -3376,7 +3566,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -3788,7 +3978,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.02,
-   "abn5": -7.93,
+   "abn5": -7.95,
    "last": "2026-11-23"
   }
  },
@@ -3852,7 +4042,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -3964,7 +4154,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.36,
-   "abn5": 2.1,
+   "abn5": 2.4,
    "last": "2026-11-23"
   }
  },
@@ -4028,7 +4218,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": -0.57,
+   "abn5": -0.61,
    "last": "2026-11-23"
   }
  },
@@ -4826,24 +5016,26 @@
   "tickers": [
    "PACK"
   ],
-  "uma": true,
+  "uma": false,
   "jenis": [],
   "asal": [],
   "first_seen": "2026-11-19T08:25:42.396054+00:00",
   "anon": [],
-  "corp": [],
+  "corp": [
+   "akuisisi"
+  ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel.  Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel &nbsp;&nbsp; Lotus Andalan Sekuritas",
-  "corroboration": 0,
+  "corroboration": 1,
   "response": null,
-  "score": 56,
+  "score": 21,
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 7.36,
+   "abn5": 7.33,
    "last": "2026-11-23"
   }
  },
@@ -5075,7 +5267,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.26,
-   "abn5": 1.53,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -5437,7 +5629,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 7.36,
+   "abn5": 7.33,
    "last": "2026-11-23"
   }
  },
@@ -5658,7 +5850,7 @@
  {
   "id": "e7d5288d49b1",
   "title": "Merger XLSmart Mulai Berbuah, Saham EXCL Punya Katalis Baru",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSG1adHpDeFpsR1lNRFZkY08xaS1NX0VabTB1NjdNV2tjejJRLUVFVEZsNEtxbkFTYXZhb044cWlQeEZibFNJU1dta21yNnFrVmpwNVplVUFLOFNkTFY2VTlqOTFYWThTNkprM29ReXNvUDcyMGhoX05wc01LeDRHaHg5eUhzTWNMSnh6TDFSQzU3cWJIMkxWRXVSQklzOEdy0gGjAUFVX3lxTE1mb2ptS0VMNTd3UU45SjN4cDZka015akpPV2FxNy02aWtwOHNjRk9hdWJiUW84NVFqNzNnUTdWTUk2T2RvU3BQUWxDbWhUbU1KUGVWTC1DSEstY3F3cmZPaWVlZGJmT2EtdUhleHltN3hJUUN6dl9FcFNFRnlrS3NqVzNSWFROZW95cF9tenFHYnFpRzhON2dWNk5Vc1E3ejJfSlk?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkdVa0RhTkp4aFJINGEtSTlXLVNkY3dRWVBEN3BoOHFpTDZKaXR6Qlc0aTllX3hhUkxKT2E1NXJoU0V4SmtjYjEwaXF6dzU5aEJiUm9jSXhqdTJ3MTdqUmFKSGE3ZHB6dXVrQWZNQkpRaVNnYmZydzdWTXZEalRlWmFhV0xwM2t4REFjd18wcEJRbVMyd0U4OTR0WGdIR29P0gGjAUFVX3lxTE1mb2ptS0VMNTd3UU45SjN4cDZka015akpPV2FxNy02aWtwOHNjRk9hdWJiUW84NVFqNzNnUTdWTUk2T2RvU3BQUWxDbWhUbU1KUGVWTC1DSEstY3F3cmZPaWVlZGJmT2EtdUhleHltN3hJUUN6dl9FcFNFRnlrS3NqVzNSWFROZW95cF9tenFHYnFpRzhON2dWNk5Vc1E3ejJfSlk?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-19T02:48:00+00:00",
   "tickers": [
@@ -5773,7 +5965,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -6607,7 +6799,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.1,
-   "abn5": 1.46,
+   "abn5": 1.42,
    "last": "2026-11-23"
   }
  },
@@ -6639,7 +6831,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.1,
-   "abn5": 1.46,
+   "abn5": 1.42,
    "last": "2026-11-23"
   }
  },
@@ -6727,7 +6919,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.1,
-   "abn5": 1.46,
+   "abn5": 1.42,
    "last": "2026-11-23"
   }
  },
@@ -6878,7 +7070,7 @@
  {
   "id": "309800d27c67",
   "title": "SPBU Vivo Bakal Gabung BP-AKR, Grup AKR (AKRA) Siapkan Akuisisi USD15,5 Juta",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2Y4Mm1ZYW5pLVJnZDhJWmtWSkUwdGZCSEVlam1EZ0R0WkQyZE1rU25ZX1NwWkNIeXFNVjlQZnh4MUdTbEg5dTN3bER2Ujh5YzB4eVU2a0RLMWlENDg4ZWVJRFI2NE9KYWpzZDNwUVFIc2ZkdEt6TXQwYzFrcDhHNnd3Y041TjRvMnBKQzJERFh3a3hCZjNhbThPSE9rZWhNTm1hN0RrR1VFSzNfZHdoRtIBuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ1?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3U0VldVWXRPcVlHanBIc21yZ09rUVY5V2lRUG4tWFg2a0thZDQ2QkxxSWFoYmlmVEdROVpWM1R5UmZKaUU0QnJIM25uR2pXajM5Rm5PRGN3VzZSN0dlMW95Vm94d2c4dWdHcy1Qb3VEdUJRTWJNa3ltOTdfOWRrcmRzNUVyZVJUUXZFMDUzRm5yaVY4Q1h0NzdqLUQtSU5XNUl1anlQOHJ2Y3lKdjRMRFJReElfUdIBuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ1?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-18T12:07:00+00:00",
   "tickers": [
@@ -7294,8 +7486,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -7740,7 +7932,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -7994,7 +8186,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -8546,7 +8738,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.26,
-   "abn5": 1.53,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -9738,7 +9930,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 1.84,
-   "abn5": 14.66,
+   "abn5": 14.01,
    "last": "2026-11-23"
   }
  },
@@ -10312,8 +10504,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -10344,8 +10536,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -10594,8 +10786,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -10626,8 +10818,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -10658,8 +10850,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -10690,8 +10882,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -10722,8 +10914,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -10754,8 +10946,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -10924,8 +11116,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -10956,8 +11148,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -10990,8 +11182,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -11053,7 +11245,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -11085,7 +11277,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -11119,7 +11311,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -11150,8 +11342,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -11341,7 +11533,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.1,
-   "abn5": 1.46,
+   "abn5": 1.42,
    "last": "2026-11-23"
   }
  },
@@ -11801,8 +11993,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -3.48,
+   "vol_z": -0.09,
+   "abn5": -2.64,
    "last": "2026-11-23"
   }
  },
@@ -11914,7 +12106,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -12116,7 +12308,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -12149,8 +12341,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -12410,7 +12602,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -12442,7 +12634,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -13233,7 +13425,7 @@
   "title": "BEI Telisik KDTN, Manajemen Buka Suara Soal Gejolak Saham",
   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQk44Z2p3TGZEY1VCbWxUSjBBd3c4VUZKaHJxbF9HVFRELUpYRkJCREotVnBQZ05DNGF1WFNYSFJJYUZCdXpMZzQ0WmtMT1NSNFhqZVg2NC10N1NMcl80Sk9KM3hLTWw3SEVSUUVnalNsZ3IxcTZHSEdCZi1UVklUZGZoakZ4QQ?oc=5",
   "media": "StockWatch.id",
-  "published": "2026-11-13T08:00:00+00:00",
+  "published": "2026-11-13T07:49:57+00:00",
   "tickers": [],
   "uma": true,
   "jenis": [],
@@ -13698,7 +13890,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -13784,7 +13976,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.53,
-   "abn5": 7.36,
+   "abn5": 7.33,
    "last": "2026-11-23"
   }
  },
@@ -13846,7 +14038,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -14042,7 +14234,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -14460,7 +14652,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
@@ -14788,8 +14980,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -15155,7 +15347,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -15427,7 +15619,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -15461,7 +15653,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
@@ -15707,7 +15899,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": -3.28,
+   "abn5": -3.76,
    "last": "2026-11-23"
   }
  },
@@ -16349,7 +16541,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.65,
-   "abn5": -1.91,
+   "abn5": -1.95,
    "last": "2026-11-23"
   }
  },
@@ -16489,7 +16681,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 2.08,
-   "abn5": 1.34,
+   "abn5": 1.31,
    "last": "2026-11-23"
   }
  },
@@ -16876,8 +17068,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -17052,8 +17244,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -17295,7 +17487,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.26,
-   "abn5": 1.53,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -17440,7 +17632,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.47,
-   "abn5": 2.87,
+   "abn5": 3.21,
    "last": "2026-11-23"
   }
  },
@@ -17473,8 +17665,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -18020,7 +18212,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -18423,8 +18615,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -19438,7 +19630,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": -3.28,
+   "abn5": -3.76,
    "last": "2026-11-23"
   }
  },
@@ -19501,7 +19693,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.65,
-   "abn5": -1.91,
+   "abn5": -1.95,
    "last": "2026-11-23"
   }
  },
@@ -19887,7 +20079,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": -3.28,
+   "abn5": -3.76,
    "last": "2026-11-23"
   }
  },
@@ -20919,8 +21111,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -21074,8 +21266,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -21477,8 +21669,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -21540,7 +21732,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.1,
-   "abn5": 1.46,
+   "abn5": 1.42,
    "last": "2026-11-23"
   }
  },
@@ -22260,7 +22452,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.1,
-   "abn5": 1.46,
+   "abn5": 1.42,
    "last": "2026-11-23"
   }
  },
@@ -22295,7 +22487,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.1,
-   "abn5": 1.46,
+   "abn5": 1.42,
    "last": "2026-11-23"
   }
  },
@@ -22524,7 +22716,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.1,
-   "abn5": 1.46,
+   "abn5": 1.42,
    "last": "2026-11-23"
   }
  },
@@ -22614,7 +22806,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.1,
-   "abn5": 1.46,
+   "abn5": 1.42,
    "last": "2026-11-23"
   }
  },
@@ -22766,7 +22958,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.1,
-   "abn5": 1.46,
+   "abn5": 1.42,
    "last": "2026-11-23"
   }
  },
@@ -23076,7 +23268,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -24274,7 +24466,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
@@ -24434,7 +24626,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": -3.28,
+   "abn5": -3.76,
    "last": "2026-11-23"
   }
  },
@@ -25723,7 +25915,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.47,
-   "abn5": 2.87,
+   "abn5": 3.21,
    "last": "2026-11-23"
   }
  },
@@ -25759,7 +25951,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.47,
-   "abn5": 2.87,
+   "abn5": 3.21,
    "last": "2026-11-23"
   }
  },
@@ -25872,7 +26064,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.47,
-   "abn5": 2.87,
+   "abn5": 3.21,
    "last": "2026-11-23"
   }
  },
@@ -26178,7 +26370,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.26,
-   "abn5": 1.53,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -26356,7 +26548,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.26,
-   "abn5": 1.53,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -26390,7 +26582,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.26,
-   "abn5": 1.53,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -26662,8 +26854,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -27404,7 +27596,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
@@ -27520,7 +27712,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -28081,8 +28273,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -28198,8 +28390,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -29568,8 +29760,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.64,
-   "abn5": 0.78,
+   "vol_z": -0.63,
+   "abn5": 0.75,
    "last": "2026-11-23"
   }
  },
@@ -31465,7 +31657,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 1.84,
-   "abn5": 14.66,
+   "abn5": 14.01,
    "last": "2026-11-23"
   }
  },
@@ -33773,7 +33965,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.16,
-   "abn5": -3.28,
+   "abn5": -3.76,
    "last": "2026-11-23"
   }
  },
@@ -34252,7 +34444,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 1.84,
-   "abn5": 14.66,
+   "abn5": 14.01,
    "last": "2026-11-23"
   }
  },
@@ -35403,7 +35595,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.85,
-   "abn5": 2.16,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -35625,7 +35817,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.47,
-   "abn5": 2.87,
+   "abn5": 3.21,
    "last": "2026-11-23"
   }
  },
@@ -35689,7 +35881,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 1.84,
-   "abn5": 14.66,
+   "abn5": 14.01,
    "last": "2026-11-23"
   }
  },
@@ -35751,7 +35943,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 1.84,
-   "abn5": 14.66,
+   "abn5": 14.01,
    "last": "2026-11-23"
   }
  },
@@ -36007,7 +36199,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
@@ -36041,7 +36233,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
@@ -36628,7 +36820,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
@@ -36740,7 +36932,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
@@ -37366,7 +37558,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
@@ -37747,7 +37939,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.12,
-   "abn5": 3.57,
+   "abn5": 3.53,
    "last": "2026-11-23"
   }
  },
@@ -38227,7 +38419,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.36,
-   "abn5": 2.1,
+   "abn5": 2.4,
    "last": "2026-11-23"
   }
  },
@@ -38661,7 +38853,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.26,
-   "abn5": 1.53,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
@@ -38845,7 +39037,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.26,
-   "abn5": 1.53,
+   "abn5": 1.74,
    "last": "2026-11-23"
   }
  },
