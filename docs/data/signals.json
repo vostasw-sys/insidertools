@@ -373,13 +373,37 @@
   "snippet": "Mirae Asset Pangkas Target Saham Vale Indonesia ke Rp 4.560.  Mirae Asset Pangkas Target Saham Vale Indonesia ke Rp 4.560 &nbsp;&nbsp; Demokratis.co.id",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
    "vol_z": 0.6,
-   "abn5": 0.54,
-   "last": "2026-11-23"
+   "abn5": -8.22,
+   "last": "2026-11-20"
   }
+ },
+ {
+  "id": "ec33cc1bf060",
+  "title": "Perempuan Melahirkan di Toko Parfum Jalan Borobudur Malang",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONHV0NTlLSjZNNWZMQU5ZNHVvaXlmZEFSYy1aSkctaTM0X25ZS2h2enlnSkxWRExvMHZOcGhDLUpxZi1pT2U1VzZqZFN2dW9rQ0FGVTV3NjA3YWJ6bGl2V1FwYlNtZEVLR3V5OHp6QVoxcWJYZjB3TzJVVGZIblR1TldXdjNSVmJXbHp2aktWZ09XcnJI?oc=5",
+  "media": "MediaKompeten",
+  "published": "2026-11-23T05:04:07+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-23T17:53:06.974028+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Perempuan Melahirkan di Toko Parfum Jalan Borobudur Malang.  Perempuan Melahirkan di Toko Parfum Jalan Borobudur Malang &nbsp;&nbsp; MediaKompeten",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
  },
  {
   "id": "dbb013a12ff9",
@@ -434,6 +458,56 @@
   "anomali": null
  },
  {
+  "id": "f1eb340df932",
+  "title": "Prabowo Bahas Alternatif Penurunan Status Pasar Saham dengan MSCI",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXRDVfaVlObG9jTWg3d0NkU2tZMm5HZWxLYVQ1VXo1d0RZVU51UnMySE96bC1ybm1iQWtrWXBsa3AxNkxTSm1aZmRXb2d4UHNpZnloMkhJaTg1cUxYQlRGeA?oc=5",
+  "media": "cwibc.co.id",
+  "published": "2026-11-23T05:01:20+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-23T17:53:06.974028+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prabowo Bahas Alternatif Penurunan Status Pasar Saham dengan MSCI.  Prabowo Bahas Alternatif Penurunan Status Pasar Saham dengan MSCI &nbsp;&nbsp; cwibc.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "bd40d78b275e",
+  "title": "Harga Pangan Nasional Turun pada 23 November 2026",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BUmdvTktERFFaVE5vaktWanphSHZQTGRwRFc1NGFIZFc4eVFCMVJUMkJQYU5Sb29HLUxIOXk1ZFluQ2RGS0tpYmF3VDFBTDRGSWNCWmQwaTFNbngwMi1hTDZvVlNNc3JMWmVjQS0tOTNXc2lyWVliTk13?oc=5",
+  "media": "MediaKompeten",
+  "published": "2026-11-23T05:01:08+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-23T17:53:06.974028+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Harga Pangan Nasional Turun pada 23 November 2026.  Harga Pangan Nasional Turun pada 23 November 2026 &nbsp;&nbsp; MediaKompeten",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "4d8c916be86b",
   "title": "MSCI Buka Opsi Pertahankan Status Pasar Saham Indonesia",
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZVZvc1VsVkF5YmFMdnV3RDlnWVNkSnhfY18ydmlsbmo1NC1zWk5nOFZSblMzbFBrQTRGZVhXWGhUdE9vcDNWRzFyUWJaTFh1TV95dzBlQW5GNGVpeWlDWHdDSm04X2pkYjBmcDc1TlZuWm5MS2s3bndTOURvczJkWGVaRnM2eWhNSzJ3LUoyZFRKZw?oc=5",
@@ -484,6 +558,36 @@
   "corroboration": 0,
   "response": null,
   "score": 24,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "c3f5ca43215c",
+  "title": "Ekspansi Bisnis Logistik, Japfa Comfeed Indonesia (JPFA) Akuisisi PT Tira Cipta Logistik",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaExJN3NPT21PM0psUmVfczFyS2tvYndxQllISmVSQmVnXzV1YlR2MlNIN2N4U0IxRDlzRG0zSWstN3FJM2hkSDM2UTk1NGRYWENJSDZ0WHBQUmx1bDJWVXBoTzVxc1hFMW1iNUJ2bzN4Wk51UmswdGhyajJ6WFBlbXlGbmFlTG9Rbkw3bjdLbDV5ZHJqdTRKWkdfQkozbXpLQ1hHT3BBLWdNSnh1YWc?oc=5",
+  "media": "PintarSaham",
+  "published": "2026-11-23T03:56:02+00:00",
+  "tickers": [
+   "JPFA"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-23T17:53:06.974028+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Ekspansi Bisnis Logistik, Japfa Comfeed Indonesia (JPFA) Akuisisi PT Tira Cipta Logistik.  Ekspansi Bisnis Logistik, Japfa Comfeed Indonesia (JPFA) Akuisisi PT Tira Cipta Logistik &nbsp;&nbsp; PintarSaham",
+  "corroboration": 2,
+  "response": null,
+  "score": 11,
   "outcome": null,
   "anomali": null
  },
@@ -1046,8 +1150,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -1108,8 +1212,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -2030,8 +2134,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -2496,8 +2600,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -3470,9 +3574,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Perkuat Cold Chain, Japfa (JPFA) Akan Akuisisi Dua Perusahaan Milik Tigaraksa (TGKA).  Perkuat Cold Chain, Japfa (JPFA) Akan Akuisisi Dua Perusahaan Milik Tigaraksa (TGKA) &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 15,
+  "score": 20,
   "outcome": null,
   "anomali": null
  },
@@ -3932,36 +4036,6 @@
   "anomali": null
  },
  {
-  "id": "16225beee1d3",
-  "title": "Pasar Berfluktuasi Tajam! EXCL Rogoh Kocek Rp1 Triliun Untuk Buyback Saham, Cek Tanggalnya - Sinar Harapan",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNampZNHBBdTFLQXhBSUVMT2xTUmVHdHA3WHRLUUJSZmMzTDRkaW1zSnlHX211cGQ3ZHNJNDdYdXlmZmVTVFFWSERTTFBFSGxJUmRZdEFSMGxZNUpzc1psWmZwVXZPeFk3cmhtc3JLWTRtUkM1eGF6NFN3TW5lb2ExRTNjWEZ6N3BJSl81WjBSeUxFenNTX2ZhTlY2UWpnb1BKTnZUbDB0Wnc0RnY3YjNlZmRUNnNUVVEzWFoxajk0RTc2WHl3Q0tfdWxuYnI2VDRnTkHSAdcBQVVfeXFMTjdfa0xNMmNxeE1HM2xIRndSNnJzZnNLY3RzcXU5YUlTTVRaLUFPYzlQV19maHN2TmZaeThxaWU5eGhPcEFyVW9lR3JKcW54SjNtcHRqT2E5ckFLQ1BVcXJnWHY0V2hPM29vQWhKU25VYTNqQ3o3Y1YxNC1NM3RybFZGd1pfSDBpWl9hRmFBRXpwVWdGQjN4VjJEZGhsNXZiMGZQZG1IQlRfUkNNSU83d25fb2FBODdQNnhHTlVEdFp1bHlIQ0ZlSXZwSTBVMkZsV1dSUU1vUTA?oc=5",
-  "media": "Sinar Harapan",
-  "published": "2026-11-20T04:28:58+00:00",
-  "tickers": [
-   "EXCL"
-  ],
-  "uma": false,
-  "jenis": [
-   "Pembelian/penjualan besar"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-20T08:20:15.572100+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
-  ],
-  "stance": null,
-  "value_bn": 1000.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Pasar Berfluktuasi Tajam! EXCL Rogoh Kocek Rp1 Triliun Untuk Buyback Saham, Cek Tanggalnya - Sinar Harapan.  Pasar Berfluktuasi Tajam! EXCL Rogoh Kocek Rp1 Triliun Untuk Buyback Saham, Cek Tanggalnya - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
-  "corroboration": 9,
-  "response": null,
-  "score": 26,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "43d6356584ca",
   "title": "Saham HRUM Ubah Kepemilikan Baru, Cek Profil Emiten Pertambangan dan Kinerjanya",
   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVMwREFsbjVjVmVuRFM2QXFqSHhad1l4TWhMclhvQ2pUcEs4cmttbVJlWjhFSWgtazBscEJDYjdrN3VoYmVzZEw1cUV6THVFWEwwTnpfd2FSRVBNbkZuSDFLZUF6ZEpUUURYcGMwLXFVNXlJRkNGelkyWnpfQm1ObXFrelhZNkRVNWJjdmZuSm5TbTh0SWRqalUwWDQ4V0d0ekl1OEVFbDlIeGE2N0JDdFlzNi3SAawBQVVfeXFMT2hwenpnQnJVcU84VGl6aVJCcWxWMXRCMkczbXM5dTBEajZ6bUFDM01WX1NZUGxaZVZySWRwX1BSdUNRZGRGZlN0ai0tcjdjRzhnbW9yWTZEbDd2Z3YwV090SnlxbGZuS2JQOTJMaTBfd0t2dE1XNnhBSlBocjhOdGZJczhDbFFGeXpmejh6U2JJWUV5dVVMQ2s4cXFpSnQzeW95T0FaWlpoVUlKRA?oc=5",
@@ -3984,6 +4058,36 @@
   "corroboration": 0,
   "response": null,
   "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "16225beee1d3",
+  "title": "Pasar Berfluktuasi Tajam! EXCL Rogoh Kocek Rp1 Triliun Untuk Buyback Saham, Cek Tanggalnya - Sinar Harapan",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON19rTE0yY3F4TUczbEhGd1I2cnNmc0tjdHNxdTlhSVNNVFotQU9jOVBXX2Zoc3ZOZlp5OHFpZTl4aE9wQXJVb2VHckpxbnhKM21wdGpPYTlyQUtDUFVxcmdYdjRXaE8zb29BaEpTblVhM2pDejdjVjE0LU0zdHJsVkZ3Wl9IMGlaX2FGYUFFenBVZ0ZCM3hWMkRkaGw1dmIwZlBkbUhCVF9SQ01JTzd3bl9vYUE4N1A2eEdOVUR0WnVseUhDRmVJdnBJMFUyRmxXV1JRTW9RMNIB1wFBVV95cUxON19rTE0yY3F4TUczbEhGd1I2cnNmc0tjdHNxdTlhSVNNVFotQU9jOVBXX2Zoc3ZOZlp5OHFpZTl4aE9wQXJVb2VHckpxbnhKM21wdGpPYTlyQUtDUFVxcmdYdjRXaE8zb29BaEpTblVhM2pDejdjVjE0LU0zdHJsVkZ3Wl9IMGlaX2FGYUFFenBVZ0ZCM3hWMkRkaGw1dmIwZlBkbUhCVF9SQ01JTzd3bl9vYUE4N1A2eEdOVUR0WnVseUhDRmVJdnBJMFUyRmxXV1JRTW9RMA?oc=5",
+  "media": "Sinar Harapan",
+  "published": "2026-11-20T04:28:00+00:00",
+  "tickers": [
+   "EXCL"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T08:20:15.572100+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 1000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Pasar Berfluktuasi Tajam! EXCL Rogoh Kocek Rp1 Triliun Untuk Buyback Saham, Cek Tanggalnya - Sinar Harapan.  Pasar Berfluktuasi Tajam! EXCL Rogoh Kocek Rp1 Triliun Untuk Buyback Saham, Cek Tanggalnya - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
+  "corroboration": 9,
+  "response": null,
+  "score": 26,
   "outcome": null,
   "anomali": null
  },
@@ -4017,8 +4121,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -4133,8 +4237,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -4545,8 +4649,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.03,
-   "abn5": -5.9,
-   "last": "2026-11-23"
+   "abn5": -16.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -4609,8 +4713,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -4721,8 +4825,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": 0.66,
-   "last": "2026-11-23"
+   "abn5": 2.73,
+   "last": "2026-11-20"
   }
  },
  {
@@ -4781,12 +4885,12 @@
   "snippet": "Astrindo Nusantara (BIPI) Mengincar Investasi Baru.  Astrindo Nusantara (BIPI) Mengincar Investasi Baru &nbsp;&nbsp; KONTAN",
   "corroboration": 1,
   "response": null,
-  "score": 25,
+  "score": 40,
   "outcome": null,
   "anomali": {
    "vol_z": -0.04,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -6.52,
+   "last": "2026-11-20"
   }
  },
  {
@@ -5596,12 +5700,12 @@
   "snippet": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel.  Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel &nbsp;&nbsp; Lotus Andalan Sekuritas",
   "corroboration": 0,
   "response": null,
-  "score": 56,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": 7.57,
-   "last": "2026-11-23"
+   "abn5": -3.99,
+   "last": "2026-11-20"
   }
  },
  {
@@ -5832,8 +5936,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.17,
-   "abn5": 1.46,
-   "last": "2026-11-23"
+   "abn5": 3.71,
+   "last": "2026-11-20"
   }
  },
  {
@@ -6190,12 +6294,12 @@
   "snippet": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel.  Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel &nbsp;&nbsp; Emitennews.com",
   "corroboration": 0,
   "response": null,
-  "score": 59,
+  "score": 44,
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": 7.57,
-   "last": "2026-11-23"
+   "abn5": -3.99,
+   "last": "2026-11-20"
   }
  },
  {
@@ -6530,8 +6634,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -7364,8 +7468,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": 1.01,
-   "last": "2026-11-23"
+   "abn5": 4.36,
+   "last": "2026-11-20"
   }
  },
  {
@@ -7396,8 +7500,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": 1.01,
-   "last": "2026-11-23"
+   "abn5": 4.36,
+   "last": "2026-11-20"
   }
  },
  {
@@ -7484,8 +7588,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": 1.01,
-   "last": "2026-11-23"
+   "abn5": 4.36,
+   "last": "2026-11-20"
   }
  },
  {
@@ -8052,8 +8156,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -8497,8 +8601,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -8751,8 +8855,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -9303,8 +9407,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.17,
-   "abn5": 1.46,
-   "last": "2026-11-23"
+   "abn5": 3.71,
+   "last": "2026-11-20"
   }
  },
  {
@@ -10495,8 +10599,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 2.09,
-   "abn5": 12.41,
-   "last": "2026-11-23"
+   "abn5": 5.48,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11096,8 +11200,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11128,8 +11232,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11378,8 +11482,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11410,8 +11514,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11442,8 +11546,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11474,8 +11578,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11506,8 +11610,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11538,8 +11642,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11708,8 +11812,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11740,8 +11844,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11774,8 +11878,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11836,8 +11940,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11868,8 +11972,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11902,8 +12006,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -11934,8 +12038,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -12124,8 +12228,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": 1.01,
-   "last": "2026-11-23"
+   "abn5": 4.36,
+   "last": "2026-11-20"
   }
  },
  {
@@ -12585,8 +12689,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": -3.29,
-   "last": "2026-11-23"
+   "abn5": 0.07,
+   "last": "2026-11-20"
   }
  },
  {
@@ -12697,8 +12801,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -12899,8 +13003,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -12933,8 +13037,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -13193,8 +13297,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -13225,8 +13329,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -14481,8 +14585,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -14563,12 +14667,12 @@
   "snippet": "PT Abadi Nusantara Hijau Investama Tbk (PACK) Salurkan Pinjaman Rp424,83 Miliar ke Anak Usaha.  PT Abadi Nusantara Hijau Investama Tbk (PACK) Salurkan Pinjaman Rp424,83 Miliar ke Anak Usaha &nbsp;&nbsp; PintarSaham",
   "corroboration": 1,
   "response": null,
-  "score": 27,
+  "score": 12,
   "outcome": null,
   "anomali": {
    "vol_z": -0.45,
-   "abn5": 7.57,
-   "last": "2026-11-23"
+   "abn5": -3.99,
+   "last": "2026-11-20"
   }
  },
  {
@@ -14629,8 +14733,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -14825,8 +14929,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -15243,8 +15347,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -15572,8 +15676,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -15938,8 +16042,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -16210,8 +16314,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -16244,8 +16348,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -16490,8 +16594,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.08,
-   "abn5": -4.45,
-   "last": "2026-11-23"
+   "abn5": -0.46,
+   "last": "2026-11-20"
   }
  },
  {
@@ -17132,8 +17236,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.56,
-   "abn5": -2.53,
-   "last": "2026-11-23"
+   "abn5": -2.75,
+   "last": "2026-11-20"
   }
  },
  {
@@ -17272,8 +17376,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 2.29,
-   "abn5": 3.81,
-   "last": "2026-11-23"
+   "abn5": 3.3,
+   "last": "2026-11-20"
   }
  },
  {
@@ -17660,8 +17764,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -17836,8 +17940,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -18078,8 +18182,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.17,
-   "abn5": 1.46,
-   "last": "2026-11-23"
+   "abn5": 3.71,
+   "last": "2026-11-20"
   }
  },
  {
@@ -18219,12 +18323,12 @@
   "snippet": "Harga Saham ICBP Hari Ini, Rabu 11 November 2026.  Harga Saham ICBP Hari Ini, Rabu 11 November 2026 &nbsp;&nbsp; Pintu",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": 3.07,
-   "last": "2026-11-23"
+   "abn5": 7.44,
+   "last": "2026-11-20"
   }
  },
  {
@@ -18257,8 +18361,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -18803,8 +18907,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -19207,8 +19311,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -20221,8 +20325,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.08,
-   "abn5": -4.45,
-   "last": "2026-11-23"
+   "abn5": -0.46,
+   "last": "2026-11-20"
   }
  },
  {
@@ -20284,8 +20388,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.56,
-   "abn5": -2.53,
-   "last": "2026-11-23"
+   "abn5": -2.75,
+   "last": "2026-11-20"
   }
  },
  {
@@ -20670,8 +20774,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.08,
-   "abn5": -4.45,
-   "last": "2026-11-23"
+   "abn5": -0.46,
+   "last": "2026-11-20"
   }
  },
  {
@@ -21703,8 +21807,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -21858,8 +21962,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -22261,8 +22365,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -22323,8 +22427,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": 1.01,
-   "last": "2026-11-23"
+   "abn5": 4.36,
+   "last": "2026-11-20"
   }
  },
  {
@@ -23043,8 +23147,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": 1.01,
-   "last": "2026-11-23"
+   "abn5": 4.36,
+   "last": "2026-11-20"
   }
  },
  {
@@ -23078,8 +23182,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": 1.01,
-   "last": "2026-11-23"
+   "abn5": 4.36,
+   "last": "2026-11-20"
   }
  },
  {
@@ -23307,8 +23411,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": 1.01,
-   "last": "2026-11-23"
+   "abn5": 4.36,
+   "last": "2026-11-20"
   }
  },
  {
@@ -23397,8 +23501,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": 1.01,
-   "last": "2026-11-23"
+   "abn5": 4.36,
+   "last": "2026-11-20"
   }
  },
  {
@@ -23549,8 +23653,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.02,
-   "abn5": 1.01,
-   "last": "2026-11-23"
+   "abn5": 4.36,
+   "last": "2026-11-20"
   }
  },
  {
@@ -23859,8 +23963,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -25057,8 +25161,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -25217,8 +25321,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.08,
-   "abn5": -4.45,
-   "last": "2026-11-23"
+   "abn5": -0.46,
+   "last": "2026-11-20"
   }
  },
  {
@@ -26502,12 +26606,12 @@
   "snippet": "BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman.  BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman &nbsp;&nbsp; StockWatch.id",
   "corroboration": 2,
   "response": null,
-  "score": 52,
+  "score": 67,
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": 3.07,
-   "last": "2026-11-23"
+   "abn5": 7.44,
+   "last": "2026-11-20"
   }
  },
  {
@@ -26538,12 +26642,12 @@
   "snippet": "BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman.  BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman &nbsp;&nbsp; stockwatch.id",
   "corroboration": 2,
   "response": null,
-  "score": 52,
+  "score": 67,
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": 3.07,
-   "last": "2026-11-23"
+   "abn5": 7.44,
+   "last": "2026-11-20"
   }
  },
  {
@@ -26651,12 +26755,12 @@
   "snippet": "INDF-ICBP Pastikan Aksi Buyback Saham Tidak Langgar Aturan Free Float.  INDF-ICBP Pastikan Aksi Buyback Saham Tidak Langgar Aturan Free Float &nbsp;&nbsp; IDX Channel",
   "corroboration": 2,
   "response": null,
-  "score": 14,
+  "score": 29,
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": 3.07,
-   "last": "2026-11-23"
+   "abn5": 7.44,
+   "last": "2026-11-20"
   }
  },
  {
@@ -26961,8 +27065,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.17,
-   "abn5": 1.46,
-   "last": "2026-11-23"
+   "abn5": 3.71,
+   "last": "2026-11-20"
   }
  },
  {
@@ -27139,8 +27243,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.17,
-   "abn5": 1.46,
-   "last": "2026-11-23"
+   "abn5": 3.71,
+   "last": "2026-11-20"
   }
  },
  {
@@ -27173,8 +27277,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.17,
-   "abn5": 1.46,
-   "last": "2026-11-23"
+   "abn5": 3.71,
+   "last": "2026-11-20"
   }
  },
  {
@@ -27446,8 +27550,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -28187,8 +28291,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -28303,8 +28407,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -28865,8 +28969,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -28982,8 +29086,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -30352,8 +30456,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.59,
-   "abn5": 0.49,
-   "last": "2026-11-23"
+   "abn5": 4.64,
+   "last": "2026-11-20"
   }
  },
  {
@@ -32248,8 +32352,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 2.09,
-   "abn5": 12.41,
-   "last": "2026-11-23"
+   "abn5": 5.48,
+   "last": "2026-11-20"
   }
  },
  {
@@ -34556,8 +34660,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.08,
-   "abn5": -4.45,
-   "last": "2026-11-23"
+   "abn5": -0.46,
+   "last": "2026-11-20"
   }
  },
  {
@@ -35035,8 +35139,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 2.09,
-   "abn5": 12.41,
-   "last": "2026-11-23"
+   "abn5": 5.48,
+   "last": "2026-11-20"
   }
  },
  {
@@ -36186,8 +36290,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": 1.98,
-   "last": "2026-11-23"
+   "abn5": -3.41,
+   "last": "2026-11-20"
   }
  },
  {
@@ -36404,12 +36508,12 @@
   "snippet": "Emiten ICBP Raup Penjualan Rp 64,45 Triliun.  Emiten ICBP Raup Penjualan Rp 64,45 Triliun &nbsp;&nbsp; Liputan6.com",
   "corroboration": 3,
   "response": null,
-  "score": 26,
+  "score": 41,
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": 3.07,
-   "last": "2026-11-23"
+   "abn5": 7.44,
+   "last": "2026-11-20"
   }
  },
  {
@@ -36472,8 +36576,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 2.09,
-   "abn5": 12.41,
-   "last": "2026-11-23"
+   "abn5": 5.48,
+   "last": "2026-11-20"
   }
  },
  {
@@ -36534,8 +36638,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 2.09,
-   "abn5": 12.41,
-   "last": "2026-11-23"
+   "abn5": 5.48,
+   "last": "2026-11-20"
   }
  },
  {
@@ -36790,8 +36894,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -36824,8 +36928,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -37411,8 +37515,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -37523,8 +37627,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -38149,8 +38253,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -38530,8 +38634,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.06,
-   "abn5": 3.32,
-   "last": "2026-11-23"
+   "abn5": 4.62,
+   "last": "2026-11-20"
   }
  },
  {
@@ -39010,8 +39114,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.3,
-   "abn5": 0.66,
-   "last": "2026-11-23"
+   "abn5": 2.73,
+   "last": "2026-11-20"
   }
  },
  {
@@ -39444,8 +39548,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.17,
-   "abn5": 1.46,
-   "last": "2026-11-23"
+   "abn5": 3.71,
+   "last": "2026-11-20"
   }
  },
  {
@@ -39628,8 +39732,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.17,
-   "abn5": 1.46,
-   "last": "2026-11-23"
+   "abn5": 3.71,
+   "last": "2026-11-20"
   }
  },
  {
