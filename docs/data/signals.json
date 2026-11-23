@@ -1,5 +1,35 @@
 [
  {
+  "id": "92d5c31a3f5a",
+  "title": "Tower Bersama (TBIG) Akuisisi 100% Saham EDOTCO Infrastruktur Indonesia",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTnJBaGhSaS1razZoeEF4RlVGaC0zbTJXYUlQNDNfanlXTFB5b05mVXdvTl9CanlHQlNmV3ZUdy1rVmhyVHo1N1BDeFdIN2JGVGJXMm9SZUdqR3kybUxwT25Ic2RfYnEtOTFiV2V1Qm15cUpnbTM1dVhqTk92U1NMYktuQ0FEdnpybFBHb1FGUFJmN1RaclNSU2tIdkpLLTlCWkFpWlpmTdIBnwFBVV95cUxNYU0wY3JTeFBNUlFiM0l2c2Q1SGNPSHZxQnY4SnprMlcyVG13bUxHV2xZMkxyYzdPOFpxcEpiZXVEWlFsYjluc2xVVHpiZ3VLbVBYOHpYTEJ1SmQ0VDE4dUpUTUJYUjEyQU1ERWxZTF9yMHlhOHlrV19TZlhJaVoxZVN2MVNWX0JKSDdkemtLZmlJbFJVblNPU0ZLMllrb3c?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-23T14:27:15+00:00",
+  "tickers": [
+   "TBIG"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-23T15:37:47.639696+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Tower Bersama (TBIG) Akuisisi 100% Saham EDOTCO Infrastruktur Indonesia.  Tower Bersama (TBIG) Akuisisi 100% Saham EDOTCO Infrastruktur Indonesia &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 1,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "2d75b8ac5331",
   "title": "SMBC Pilih Delisting, Emiten Bank Tak Mudah Kejar Ketentuan Free Float 15%",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFhXMmxmSGw4QUkyWnBnMGZldFEzYnM4cGJ2TW9kQ3Ryc1p3TTd3Y1ZlTlh5NzVGRDlKVHlJczlCU3NiN0w0SDlpaVpDV3gyOHljOVlydjlGRHo4b1hicFNZYXNzdUZBTk0xajI4Vi0wUGdRS1NXMTFHZ2YwajhxVmNDVlpLejJtQXBFTGl2WmdBd09mU1o5d3Zlb3ltLWhSTDV1Z3lJZ21jaGfSAaQBQVVfeXFMUEpUcVJqVUdUbjU5SXlpYmtZeWw5M0ozSW8wU2t5X1lEWk1nbFFSa0ttQnVKcHN6c0wwa0FRUEZRemZpRmR6cS11MXVMRmFXSnhfcGVMUDdtZzQtUWtFS2FybGxrZ21aYTZYZ1VvRjZxS3R6QmJCRzNTY2p4YXJKTXRkS1BxcTZKdjFQOEVQRFI2SjVqLVp5SVVuX3lmUlVZcXN5WU4?oc=5",
@@ -22,6 +52,36 @@
   "corroboration": 0,
   "response": null,
   "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "cc4f2cf3325b",
+  "title": "Paramita Bangun Sarana (PBSA) Buyback 380.300 Saham, Kucurkan Rp108,73 Juta",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXVUSmJDTjZabUJfTWJ5VEJtUlR6Zl84TWVIY0sxS00zeFp5eThrUVVrQTViRUNDRmJZTzVWdEcxVm9EdzdPaERIUGRfU0tiZkJrRHdld0ozTWQzTVpoblB1VGpuMVhaTnVYWXk3MmtZTUxacnhkYm1CWHhJRjdLM0dIU1psNUVRYVBtWDV3T2VTdjdXc0lHXzhJeEJobTZSeVE?oc=5",
+  "media": "SWA.co.id",
+  "published": "2026-11-23T12:16:00+00:00",
+  "tickers": [
+   "PBSA"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-23T15:37:47.639696+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.10873000000000001,
+  "schedule": false,
+  "party": false,
+  "snippet": "Paramita Bangun Sarana (PBSA) Buyback 380.300 Saham, Kucurkan Rp108,73 Juta.  Paramita Bangun Sarana (PBSA) Buyback 380.300 Saham, Kucurkan Rp108,73 Juta &nbsp;&nbsp; SWA.co.id",
+  "corroboration": 1,
+  "response": null,
+  "score": 9,
   "outcome": null,
   "anomali": null
  },
@@ -74,6 +134,32 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "2623d46c3a79",
+  "title": "BEI Soroti Gejolak Saham GOLF, Intra GolfLink Beri Penjelasan Begini",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLURuT2tEYzFwNU41Z3RiMHZyUDgyc0k3QkZfVGNjajNsT3JsSUF5VnNqNW1yc1Y2RDhURG1ZLUljXzUxSTBSTGp6dEZpczJaNm9yNHhBZlQ0dzlhSHQ5eWFDZEQwaXNNa3pVWUZKclF6dUhFbnBuYUlyQVMwTDZBNlBNWGtJVkJsOVBQUnV5N0xJRXps?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-11-23T09:04:46+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-23T15:37:47.639696+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Soroti Gejolak Saham GOLF, Intra GolfLink Beri Penjelasan Begini.  BEI Soroti Gejolak Saham GOLF, Intra GolfLink Beri Penjelasan Begini &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -646,6 +732,35 @@
   "anomali": null
  },
  {
+  "id": "ecac84d4596d",
+  "title": "BTPN Go Private dan Delisting , Buka-bukaan Sebentar Lagi",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMFVjSy1SdWdTbGZfRGxtN0ttSUlWU182UHhOYjNqcWZES0hkaUhZdkxOMWhRMUN6WFgxOENkWWQwbHNQbVZGQjF0NVZLemxudmtFTHdYUTJGWnlHbWF5TWg2cHA0WWROTHYxc1JoVXhwRVVjZ3gwb3JvLXRIQUt2bUFYNkV2RmpJTk1fMVM5cC03QQ?oc=5",
+  "media": "investor.id",
+  "published": "2026-11-23T03:15:12+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-23T15:37:47.639696+00:00",
+  "anon": [],
+  "corp": [
+   "go private",
+   "delisting"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BTPN Go Private dan Delisting , Buka-bukaan Sebentar Lagi.  BTPN Go Private dan Delisting , Buka-bukaan Sebentar Lagi &nbsp;&nbsp; investor.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "297c29db6009",
   "title": "Enam Calon Emiten Antre IPO di BEI, Dua Beraset Besar di Atas Rp250 Miliar; Sudah Ada 7 IPO Tahun Ini dengan Dana Terhimpun Rp2,16 Triliun",
   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnVJVEJvbzQ4MTlIMDdtMHB1ekkwN3NuWTdCd2l1dy1oTjdSMlM1ZzdiQ0R3N0VzY0F6NHhaMlp5cXdmV2NHa2FORFEwNGdMZmk5TW1sQjBKa2hFb0NZZFRjSkVfLXFBSHNRSTlySEgtbmpyb09mVmpZRjdRR1ZMZnp0MExJV05fMTVFUUFjOWg0STlXZ085NUVZRndOdWZCTmY2ekxIMW5xSVJqYWx4UVlaTHBYd2VUTVVqR29VUG1lZ2FQLXNjdjEzcENlUQ?oc=5",
@@ -670,6 +785,38 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "54949d046629",
+  "title": "Jadwal RUPS Senin 23 November 2026: BYAN Rombak Direksi dan Komisaris, PTRO Bahas Rights Issue 170 Juta Saham, PRDA Rencana Stock Split",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVjF0b2VkM0pFSUZ4U1h3eHY2bkFMWmE3Y3JSeDBERnhraXdLY3BCQml1ajBxYXBKajZTTEZBRWQ4ZGZvQ0VaQ2RHTVhsTWxNdG1EY2JsTTF6UjdJMHBfS2UwOEc2VVRKUmtvS2lfVVFkem10eDRVbjAyWWJnR3djcVdmNm1McmduVnZhMU1lRFJPdXFqZnRWc21wUDNTSjJBVzFkdmJfX2c5U3B4aHA5SngyaUdISWM4bVNXaTlZMnZKNF9Na1hjYTRsUUwwQQ?oc=5",
+  "media": "Digivestasi",
+  "published": "2026-11-23T03:03:04+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [
+   "Direksi/manajemen",
+   "Komisaris"
+  ],
+  "first_seen": "2026-11-23T15:37:47.639696+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue",
+   "stock split"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Jadwal RUPS Senin 23 November 2026: BYAN Rombak Direksi dan Komisaris, PTRO Bahas Rights Issue 170 Juta Saham, PRDA Rencana Stock Split.  Jadwal RUPS Senin 23 November 2026: BYAN Rombak Direksi dan Komisaris, PTRO Bahas Rights Issue 170 Juta Saham, PRDA Rencana Stock Split &nbsp;&nbsp; Digivestasi",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -1437,6 +1584,32 @@
   "corroboration": 0,
   "response": null,
   "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "d40570c5590a",
+  "title": "Fitch Ratings Sebut Kebijakan Prabowo Jadi Risiko Baru Emiten SDA RI - Sinar Harapan",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzk4aTRyemlGRW01Z21GbzFKWWxubmpGbGRWMHlfX2taUUN2aDdKSF9nT21hM2FFaTRybFk3V0U0ODZScW9hNkpGdlRjUjFMRlF2Z3FjcGI4MGh0Qlc4U3d1eHdUeDI1aDhGUkhtaTN1WG4wbmtFQ0xEVHRSQzlRMTZidjdiT0JCNU1TRWtMYXZxY1c3YUZ5R3RHSHZ1T294TVR0amlPUjllTUV3VklndV9KYjB2STDSAbwBQVVfeXFMTlJRbTNMRFVHV0tJNmtwUXYxU21ueFZ5QWVNMXVJYjRIc0xPSDZQbVFSQWFQcEZMUm0tZzNkQUQtZTdxQm5fR2tiV0dPUC1zU2phR0NkSzdJYk9jam5STVVUMUtZRFhsTHJFenVHeHZlanpCV1hUbHNrYmttNGZ0eE1TOHBOdkVCOG53ZjZNTnJONUk4SFA1Q3JvZWhSYnpDVmdNalJXVmtIeTFHbVl5U2NpWHlaZG1fbERJYV8?oc=5",
+  "media": "Sinar Harapan",
+  "published": "2026-11-22T08:06:18+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-23T15:37:47.639696+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Fitch Ratings Sebut Kebijakan Prabowo Jadi Risiko Baru Emiten SDA RI - Sinar Harapan.  Fitch Ratings Sebut Kebijakan Prabowo Jadi Risiko Baru Emiten SDA RI - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -2936,36 +3109,6 @@
   "anomali": null
  },
  {
-  "id": "96b5b49a326d",
-  "title": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXpMSTRKZFZfcmtUTHdaMG9URGRmd09JSHVxQTRlZXhyRW0zNEZlNjJuOFl2aHJTbEtsNThsZEJpWWN1Vi0zMHM2WDVTcnI2QzFRajRUeEhKVjBiV0J2THh0ZkRWQWt5RnJGLWxkNGZGS01NS0tXbWxRS3RnVzB5SXNWTzJCalRvSTRsQVZNXzhhTV8yckRBN0sxWXRYc3FZR255b1JpaFlnR05WbmtRbk4taUJDMTZDazE1VFdvZFFnRGhNcnNuMQ?oc=5",
-  "media": "Digivestasi",
-  "published": "2026-11-20T19:59:56+00:00",
-  "tickers": [
-   "EXCL"
-  ],
-  "uma": false,
-  "jenis": [
-   "Pembelian/penjualan besar"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-20T14:12:09.645817+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
-  ],
-  "stance": null,
-  "value_bn": 1000.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS.  XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS &nbsp;&nbsp; Dig",
-  "corroboration": 9,
-  "response": null,
-  "score": 26,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "a43e46d49ee7",
   "title": "Prakiraan Mingguan Dolar AS: DXY Mengincar 104,00 di Tengah The Fed yang Hawkish",
   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNel9fU043UkIwbmgwc1BrLWREMEgtZlFoMDY0ck0xdF90dFVZbVBLT1E5bV9lLVJnYnZhbHdxOFBJY2FfM0NjZU5xOWU3ZzZsbVljZUtwdGJkT0FpN2ZLMHJqRVVMSzQxRThIWnFoVU5JTVpwYXAydVdYV1lmNU84RlJxa3BKUFVsTUZVTjFueG9IMjVsYVBhc3V3S2FHYTliRmZBSGs1R28zakdVNWJtcl9LdmkxLWtKWTdXMlllNA?oc=5",
@@ -3530,6 +3673,36 @@
   "corroboration": 6,
   "response": null,
   "score": 19,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "96b5b49a326d",
+  "title": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXpMSTRKZFZfcmtUTHdaMG9URGRmd09JSHVxQTRlZXhyRW0zNEZlNjJuOFl2aHJTbEtsNThsZEJpWWN1Vi0zMHM2WDVTcnI2QzFRajRUeEhKVjBiV0J2THh0ZkRWQWt5RnJGLWxkNGZGS01NS0tXbWxRS3RnVzB5SXNWTzJCalRvSTRsQVZNXzhhTV8yckRBN0sxWXRYc3FZR255b1JpaFlnR05WbmtRbk4taUJDMTZDazE1VFdvZFFnRGhNcnNuMQ?oc=5",
+  "media": "Digivestasi",
+  "published": "2026-11-20T07:59:56+00:00",
+  "tickers": [
+   "EXCL"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T14:12:09.645817+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 1000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS.  XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS &nbsp;&nbsp; Dig",
+  "corroboration": 9,
+  "response": null,
+  "score": 26,
   "outcome": null,
   "anomali": null
  },
@@ -6216,7 +6389,7 @@
  {
   "id": "e7d5288d49b1",
   "title": "Merger XLSmart Mulai Berbuah, Saham EXCL Punya Katalis Baru",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmE4MzlQOHBIb1lTcTd6Tl9aX0hYY0Fuc2xWSEg5ZVRSd2NVTnVzdFhUdnBETGlDYURFUVdXVFlrR1QyWk5YcmFEM0FDSXhFRjBISWhubzNYdm5VREd1U0ZlUXgzNVZwQlNNYndYQ3pfUHJBZlRuUTZYeDRXdDd4bURyMU5tN3NzTUhaRno1RHY4OHRYSUFYWFg5ZGNhV0k2?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSG1adHpDeFpsR1lNRFZkY08xaS1NX0VabTB1NjdNV2tjejJRLUVFVEZsNEtxbkFTYXZhb044cWlQeEZibFNJU1dta21yNnFrVmpwNVplVUFLOFNkTFY2VTlqOTFYWThTNkprM29ReXNvUDcyMGhoX05wc01LeDRHaHg5eUhzTWNMSnh6TDFSQzU3cWJIMkxWRXVSQklzOEdy0gGjAUFVX3lxTE1mb2ptS0VMNTd3UU45SjN4cDZka015akpPV2FxNy02aWtwOHNjRk9hdWJiUW84NVFqNzNnUTdWTUk2T2RvU3BQUWxDbWhUbU1KUGVWTC1DSEstY3F3cmZPaWVlZGJmT2EtdUhleHltN3hJUUN6dl9FcFNFRnlrS3NqVzNSWFROZW95cF9tenFHYnFpRzhON2dWNk5Vc1E3ejJfSlk?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-19T02:48:00+00:00",
   "tickers": [
