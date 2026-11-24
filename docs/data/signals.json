@@ -1,5 +1,33 @@
 [
  {
+  "id": "f73cb324375c",
+  "title": "BSI Siapkan Rights Issue Demi Penuhi Struktur Kepemilikan Saham Sesuai Standar Global",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX25GcF8tYVRCQ3J4X0FnRWFybmtXUkFaWDdLV1hWbXJUTkFwUTMwTm9pQmpvUDlXeDZLaHBta1cya2VqbDR6WElaNTJKWVlwSy04QXNFVjY4S3FJbEhuRTZGekE2bDlPSzVsTjFDSDZmWTVNSDhTRUhMQS1FQ3VEUXA2Vmx2NkxzQUpxdVhUNmx2VVhpT25OajE4ZVhJVC1XSU04eWlOczkxOXdxM2s3OFduckxYOFFqclY4ctIBwgFBVV95cUxNdFNobnQyWVZWUWh6dkdFYTY5dElTNE9IcW90eHJiNTctOW9XY2FXMzh6eGhWajAtYWgwTExsanYyNVlYSmZ0ZEtobk9kVUpUMjlIZE1FbnRjbWJkeUlYQlhwVF9aTFVWSmRQUlhINjR3d0FWd2k0UXVOamR2bnhfbklfMUV1akJsVUo2QWNsc2dtdjVVRVVMVUxxZ3F3aF9ycFBIblpjSWdobjJVQXNqOE53ZGJoUV82bTZaQnEwYkNyUQ?oc=5",
+  "media": "IDX Channel",
+  "published": "2026-11-24T13:15:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-24T14:22:42.127181+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BSI Siapkan Rights Issue Demi Penuhi Struktur Kepemilikan Saham Sesuai Standar Global.  BSI Siapkan Rights Issue Demi Penuhi Struktur Kepemilikan Saham Sesuai Standar Global &nbsp;&nbsp; IDX Channel",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "015c890a02ab",
   "title": "DMS Propertindo (KOTA) Bidik Dana Rp 4,95 T lewat Rights Issue, Akuisisi 2 Perusahaan",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnRmMDdycERMWllJelFmUmR3cjVJVm5MZUUxelFkQ3c2Z19DNE9SZkM4ZnRkb3pGbHg0TXVjeG1BeFNoYTN3X0U4WWZFS0Z4Q3d0bmdyNzFnZGxra3ozNW1xb1R3MmlXMjlVT0NQT3NDVXQ1NEVyNVBzeFZBUUZVTFVLUXk0UEFCRDR3RlhnMnV2czAyRVFsSVVIOWZxQ1FBNnBHNU54Z1gzYWJ2aXhRS3ZXUFkteXJT0gGwAUFVX3lxTE5KdGhNZXZUanh6MmFKQ2x3VHpKcFlfZzVRdEtqQkpyWUhzNHRCcTROdUFYTmM4ZGtvS1VNTzIzQ1FfUm9KNExPd3FpdEZqOW43YWhmNkdQaExjaVpDWlYyYU5tMEx5UjBHcXUwd3NNVkJkVlphaFpSLWlzcGhGamRkd3VqS2FhVTZFWmE1MFVGWG5XNXBRMThuMTJnck1fem03aVdaMnJrb01nQXV5ZHho?oc=5",
@@ -256,6 +284,34 @@
   "corroboration": 0,
   "response": null,
   "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "c5ecf9a5885a",
+  "title": "Siapkan Dana Rp40 Miliar, GPRA Akan Gelar Buyback",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONWJPeWtMQmF6eS16TWw5ejZuOHFwcWR3T094WFdhcGo4NnkxQzBTM3QxWFA5ZWNiVlZxLTZnTE5tNjFhSnpuSnY3Z2RtMFZjZXFxbktzVV84YVB5TmJuczdQWVhsOGktVzNnUGdhOVFxbjU5M2tmbWJXblZtZGNSR1BkWFN3akE?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-24T07:48:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-24T14:22:42.127181+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 40.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Siapkan Dana Rp40 Miliar, GPRA Akan Gelar Buyback.  Siapkan Dana Rp40 Miliar, GPRA Akan Gelar Buyback &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 12,
   "outcome": null,
   "anomali": null
  },
@@ -1583,7 +1639,8 @@
   "first_seen": "2026-11-23T09:51:07.612957+00:00",
   "anon": [],
   "corp": [
-   "go private"
+   "go private",
+   "tender offer"
   ],
   "stance": null,
   "value_bn": 0.0,
@@ -1599,7 +1656,7 @@
  {
   "id": "1e2de001956d",
   "title": "Bos MSCI Bertemu Prabowo, Status Pasar Saham RI Berpeluang Aman?",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTQtUlJ2OUtVZ1BqYVZjSFlkWnZVSGg3cVZJVUd6cGFjNG53c3lzSHkwQl96YnplZm5ld3NNeC13b1BjdzZiZVlUV3k4ZUhvXzRmUm5tZUZvUG5PeGt3c01zbDNXekhSREtLaGhjZXJBTHdZMEIydnUtdjlSMXhjOGNhMmdNTU1DT2F5QXJJSElZenFNbEI3X1N5YmJVd9IBlwFBVV95cUxOYkRZVXh6WkpRWkNzZ0IxYVdkQ0lUbG1fN01YRDdHNHEzby0xTVhTNnNVQlhUTms5OS1PYndEX1I2eU1ITGJ3anEwbmpOLVRzZjhsTTVIQks0c2JMa1RTSmNFa2lNb01SblZiVTJINlRLQ3BvaGNBQ1Q1bzJONTduMFFtWjJKaEt4bU5TcTdDanN5V2hpQlYw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0NCVkFLYjZ3MFlvakpzT2Z1UU1sZ2gyTVVKTDI3T3lONFUyLVc3LW5DcllkN214WmExWnBsUGJnSnFEWWx4dmdRWGxoeEpZNUo5eWNIYVFCSmhqVTU3aGo0UzdCaEk5ZTN0VWFlNHN0M3ZXWHktZVRCQjRKSWxEemdnMU5vWVV1ZWN2ZVp2WEIyeEZFbndqSkNGTGNjODhyUmgxTnFJb1M1NHpPWDd3ZVp0aVRMRE5m0gGXAUFVX3lxTE5iRFlVeHpaSlFaQ3NnQjFhV2RDSVRsbV83TVhEN0c0cTNvLTFNWFM2c1VCWFROazk5LU9id0RfUjZ5TUhMYndqcTBuak4tVHNmOGxNNUhCSzRzYkxrVFNKY0VraU1vTVJuVmJVMkg2VEtDcG9oY0FDVDVvMk41N24wUW1aMkpoS3htTlNxN0Nqc3lXaGlCVjA?oc=5",
   "media": "kontan.co.id",
   "published": "2026-11-23T08:43:14+00:00",
   "tickers": [],
@@ -3136,9 +3193,9 @@
  {
   "id": "222178c26ee1",
   "title": "RAPP Tetap Beroperasi Setelah Konsesi Hutan Dicabut, Siapkan Skema BUMN-BUMD dan Jamin Pekerja di Riau - Hallo Indonesia",
-  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZzNLSy16WHRTZnplMDNjYkt5V0M1TEJTOWNNelZJcEtuYUlYRWdrcjMyY1JISHdYUW9taVNiV1BteHpzcGdrX2hzbDVlclZIN3VTM0J1YnQ3TFJSWWNBdGFjdjFTMTVkckNPNlpZSmFDWTFsUjhDMjltT24xYXVFaUZ5RnI2bEpSN3hxYVhQT21aclpFalJ3T2trTWg1UUVRc1lCV0w0SldVb0x4ZUZRYXVOb1Z1OTNCY2RlTlR3R0lyM3hiSXowQWJvQW9IczNYc28xWWtJTEs1OWZkWURmM0ZxSdIB6AFBVV95cUxNQjVLMDgzTDh6Q1ZfWGRzWnRvREhFc3BTRS1uN0hILUdLRGFZaVBNc3hVY3hLbXFyei1hVks0QXJWWllEWmpWYWoxcEdDT0VEYnVPeExBVjJaaVBVQi1sUENHQWdQLUo2WHR4ZDhPLTBzQVZmUVJrSVJGOFJXWXloZnp1bXZ0Xy13RUFpc2NBZlBiWnBEYTFLT0tYUmxoS1Blei0zb05UcnlDVl9zT3RXTXBVWnNLWGdQTnYwaGhEQTFqYjB2LUdLXzJNV3Via2JkaWQzR25rdkctLXd5anpnVzR2am5xQjQt?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQd1U3MDlsdk9ta3RXUWFQT1FZak1fdEE3ZGw1SHE1Z2VFWFRtRkMwd2NQdThMRGJ6LWJxMlhXcTRXUEQzTVI3ZnlsVkhpQnZxcHFxdDFIVGhOLVJMZlBDQVUxTFZyZmVUaXJMc3dLRmg4UGlXRDhkSnd4dS05MnJsY05CZXBTWnV6WHZqdWYzZEV6SzRDa1p6V0xjQzVQM3RsNjM5WWJVbGFQRGw2Ylc3dFVOMW9jQ2NRSzRnWnVXb092Q0xjQTFFa3ZNQlFzYzdXODJlNzRCVzVvZDg1dzVSTDB5VnNMSGRpWXJ3QXpOb3ZLUdIB8gFBVV95cUxQd1U3MDlsdk9ta3RXUWFQT1FZak1fdEE3ZGw1SHE1Z2VFWFRtRkMwd2NQdThMRGJ6LWJxMlhXcTRXUEQzTVI3ZnlsVkhpQnZxcHFxdDFIVGhOLVJMZlBDQVUxTFZyZmVUaXJMc3dLRmg4UGlXRDhkSnd4dS05MnJsY05CZXBTWnV6WHZqdWYzZEV6SzRDa1p6V0xjQzVQM3RsNjM5WWJVbGFQRGw2Ylc3dFVOMW9jQ2NRSzRnWnVXb092Q0xjQTFFa3ZNQlFzYzdXODJlNzRCVzVvZDg1dzVSTDB5VnNMSGRpWXJ3QXpOb3ZLUQ?oc=5",
   "media": "Hallo Indonesia",
-  "published": "2026-11-22T12:22:51+00:00",
+  "published": "2026-11-22T12:22:00+00:00",
   "tickers": [],
   "uma": false,
   "jenis": [],
@@ -3370,6 +3427,32 @@
   "corroboration": 0,
   "response": null,
   "score": 14,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "cf4de22b96ff",
+  "title": "Analis Nilai Saham Energi Masih Menarik di Tengah Gejolak Pasar",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qUElwNnpTc2xGTnhiaVE3RU5pRnlQUWlIbzFldGIxcDZnZzd2S01DaVVmYVAxbGl3U1hoLWRlbEVXZlhsRm1xSzViamFkTkk4ckJUZTkyb2I2NmRHMm9B?oc=5",
+  "media": "Limapagi",
+  "published": "2026-11-22T01:30:50+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T14:22:42.127181+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Analis Nilai Saham Energi Masih Menarik di Tengah Gejolak Pasar.  Analis Nilai Saham Energi Masih Menarik di Tengah Gejolak Pasar &nbsp;&nbsp; Limapagi",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -3628,9 +3711,9 @@
  {
   "id": "6e1612a236bc",
   "title": "Polisi Tindak Tambang Emas Ilegal di Kalumpang Mamuju, 7 Titik Telah Masuk Penindakan dalam Setahun - Hallo Indonesia",
-  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcFpUajl2RUdTTnlXaUl5YzBOVzRlanViY3RxMzk5bVFfN056ZmkxZ0U1Zm9uNl9jR21vMWJ2V0dmdzhEQWRWTFNfZkN3a0tYT1RsLVlVTkUtR0pKX1lfcVh0VmZ1bHZqQUhSbXNfTnlCU1FHNUF3a2UzV0R2ZG9sUVd2d1NiejNfQjJqZWE4UzUyR0tINnM0Y2xzWVF0M2xHY0FsT09mdzBocVZQalI1N0RRN0tKdURMcE5YazRkNG9NcHpBamZRWEtiTkdxY3lEMmNFM3g5czllVmxJ0gHiAUFVX3lxTFB2c1dxdjk0bm42N0NCOHQydlQ3MjNfM3JfR3Ezejg0M3V6UnJqSm42S3BpdnMxNlc3SXNCdUpRMHF3LTBfMm12TlRYelFRVEdLUlRUZzI4NGg4WC0tNHFraXFoWkNIRTZzWjVYOWpyZnR3RXBUdFRxM29jSkw5Mjk0RkI4cEpBR0tNTl9GdGJDLUZkZmJodFA1YkpNQi1NM0lmbzlPbklxNGFQUUYxVlNiRDA2c2prZW9xdXVtRFhaS0RITWtScTRtOFpzRHMxanozUFpGUEJndGN3WGdKQnY5WUE?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOazhwWDVuZk1YYTRNRWNqMzNOOVNuNjdJZzhuWnQ0UVZHRnQtcEd3ekx2STZzZWlHRUs3RlhBand6cjY1djEwWHpnZjk4aGtKak5pRDJzczJZbkxDYlZPbWJ1RVJ3Tk85emNCYXd2MVBZakJSNkcxRE1UVFNRdzhXRm44SzZqUnQzX2JibWQ1R3gwaWZkdEJYeG5UZVRTWmJOaFhQbXFYeTU1TER2UXh6WkhPcG1ZV3BOaFE1OVJuTk4td1plTER2WTJwZWVHd1pKdklfbm5KdDlwMFVUdXNJZU8xWTRONXVralk40gHrAUFVX3lxTE5rOHBYNW5mTVhhNE1FY2ozM045U242N0lnOG5adDRRVkdGdC1wR3d6THZJNnNlaUdFSzdGWEFqd3pyNjV2MTBYemdmOThoa0pqTmlEMnNzMlluTENiVk9tYnVFUndOTzl6Y0Jhd3YxUFlqQlI2RzFETVRUU1F3OFdGbjhLNmpSdDNfYmJtZDVHeDBpZmR0Qlh4blRlVFNaYk5oWFBtcVh5NTVMRHZReHpaSE9wbVlXcE5oUTU5Um5OTi13WmVMRHZZMnBlZUd3Wkp2SV9ubkp0OXAwVVR1c0llTzFZNE41dWtqWTg?oc=5",
   "media": "Hallo Indonesia",
-  "published": "2026-11-21T14:20:56+00:00",
+  "published": "2026-11-21T14:20:00+00:00",
   "tickers": [],
   "uma": false,
   "jenis": [],
@@ -3798,7 +3881,7 @@
  {
   "id": "bbd06f0f8561",
   "title": "PKPK Amankan Kontrak Batu Bara Sebesar 76 Juta Dolar AS, Ini Detail Penjualan 1 Juta Ton hingga 2027 - Hallo Indonesia",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSEllNWdGZklCbXhTeUFLSEh1dXV5TXFCSy1TTzY2SEN0LXgzeldRY0s4d0NfSGFtXzcxbGlSeS1JWFJIdGh1VzFGV3c3VldFZC1vNmpaeHBBdTRJXzh3bVRmd0tMMTJjd25VVjdhX2hPU2Y3cUNNRXhSOHJESFNNMzBIYmNoZUhGaFZsUS01WjdKbmxjVFlOSWlIUUNiWXJvbXlCc2Fyd2hEOUhzVjVycHFkYzhXTlJ5WkFkc3VaQUJEY2NCVURGT3FlX1dOYzNySWdYeExWOUJ6SXpEajdHZVpjWXZ0MTJoYUotaUExc9IB7wFBVV95cUxNSEllNWdGZklCbXhTeUFLSEh1dXV5TXFCSy1TTzY2SEN0LXgzeldRY0s4d0NfSGFtXzcxbGlSeS1JWFJIdGh1VzFGV3c3VldFZC1vNmpaeHBBdTRJXzh3bVRmd0tMMTJjd25VVjdhX2hPU2Y3cUNNRXhSOHJESFNNMzBIYmNoZUhGaFZsUS01WjdKbmxjVFlOSWlIUUNiWXJvbXlCc2Fyd2hEOUhzVjVycHFkYzhXTlJ5WkFkc3VaQUJEY2NCVURGT3FlX1dOYzNySWdYeExWOUJ6SXpEajdHZVpjWXZ0MTJoYUotaUExcw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcWpJWnJ2ZjdTWkxfMllBdlZOMmM2T1M3MDE5Wm5oQVppQXlKVUdNNVpzZDNza3I1SjJGYnpTSGdEOVdVQWNRRkVVV19EVmpUV0FWdVNDM0pwWE1pdjh2QUIzN2E1am5NeHZzaVAwbWZvUkE3ZlFWQ3FPeGxUaGhMSTVKVWYwclZFeWhEQ3BOZkY0ZWdJUGhESUtzOWVpc1JiTHE0QWdIbHZ6WXd4NjdrTXItVUlmd2tXQUI2R0FIczlESm9EU1lPcENwUGJyRnN5YkhLYkdfamNRUGtDOEMydEhPSHZVQdIB5gFBVV95cUxQcWpJWnJ2ZjdTWkxfMllBdlZOMmM2T1M3MDE5Wm5oQVppQXlKVUdNNVpzZDNza3I1SjJGYnpTSGdEOVdVQWNRRkVVV19EVmpUV0FWdVNDM0pwWE1pdjh2QUIzN2E1am5NeHZzaVAwbWZvUkE3ZlFWQ3FPeGxUaGhMSTVKVWYwclZFeWhEQ3BOZkY0ZWdJUGhESUtzOWVpc1JiTHE0QWdIbHZ6WXd4NjdrTXItVUlmd2tXQUI2R0FIczlESm9EU1lPcENwUGJyRnN5YkhLYkdfamNRUGtDOEMydEhPSHZVQQ?oc=5",
   "media": "Hallo Indonesia",
   "published": "2026-11-21T10:48:00+00:00",
   "tickers": [],
@@ -3875,7 +3958,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Punya Fundamental dan Prospek Bisnis Cerah, SMGR Siapkan Rp230 Miliar untuk Buyback Saham.  Punya Fundamental dan Prospek Bisnis Cerah, SMGR Siapkan Rp230 Miliar untuk Buyback Saham &nbsp;&nbsp; Inilah.com",
-  "corroboration": 7,
+  "corroboration": 8,
   "response": null,
   "score": 22,
   "outcome": null,
@@ -4012,6 +4095,36 @@
   "corroboration": 0,
   "response": null,
   "score": 44,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "32789869ccf8",
+  "title": "Semen Indonesia (SMGR) Siapkan Dana hingga Rp250M untuk Buyback Saham",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFZDUXQtYXBQb3hDV3JCQ0NYTFd3aWoxTk5KRUlOM3BOa09EbEZwRzBGbFlVQmZYTUMyOEo3MEVfZlJOTF9lbDdBUThlRW9hVzVacDBWQUl1M2dfMG5sYnVWOUlPREFSSnYtNURqeXBkZTlFcGtrN1VtSUVLNGVkc0FVODVtdHFJNWR4SjF1MXE3TjFxVi1ld3FhYw?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-21T09:01:00+00:00",
+  "tickers": [
+   "SMGR"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-24T14:22:42.127181+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Semen Indonesia (SMGR) Siapkan Dana hingga Rp250M untuk Buyback Saham.  Semen Indonesia (SMGR) Siapkan Dana hingga Rp250M untuk Buyback Saham &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 8,
+  "response": null,
+  "score": 19,
   "outcome": null,
   "anomali": null
  },
@@ -4232,7 +4345,7 @@
  {
   "id": "618fd082cc40",
   "title": "Dividen BBCA 2026: Jadwal Pembagian, Besaran Dividen, dan Cara Menghitungnya",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSTdVaGRrZnltRG1zZnBXUGU0b2FGUFdPX2djcUdIZ3RMYk1zS05QRlc1ZnVfaU9iTU5VNUxBanZJNktpVGNPaW9LMVIyYjgtSGp6N1hYaS0yVUd3aFFDazdRdjNmM1V1OVFobl9pTk12N2JOZTlTZjRJWk5OeV83dWs4QnJOWXZRejFGVXByT3l5Y1pyY1NwZEVhQU5HLUk4Y202M0pNeXg5WXMzTlNSN1J4Qm56WERCRWhxeUt4d2ZGRUtnVjVHcC1aa0ttd9IB0wFBVV95cUxPUU1qU2xJLVo4RktmbGNxR3Bpa0tDV0NDekc4d25VV042blppWnlhckpqZ0FNS2RrOEJ5V09CbV8yS3BtckZ6TThzSERVVW9XemdmYWtYejJIb3hFOWhRRFZxeXBoX1VERFlnWHRJOGxqcXdYZDQwYVRqOTNfUV9IVXZpRnVIUnNZTzFoNmdZdHBmeFVvYUZBd2VWM1ZMYW1QTm8wZzhoenNCLVd1LUJlM2FpeGFsSUFPcVA2bmhUeVp0NUVqRWFNOEV3TXlwQldiWFpF?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUU1qU2xJLVo4RktmbGNxR3Bpa0tDV0NDekc4d25VV042blppWnlhckpqZ0FNS2RrOEJ5V09CbV8yS3BtckZ6TThzSERVVW9XemdmYWtYejJIb3hFOWhRRFZxeXBoX1VERFlnWHRJOGxqcXdYZDQwYVRqOTNfUV9IVXZpRnVIUnNZTzFoNmdZdHBmeFVvYUZBd2VWM1ZMYW1QTm8wZzhoenNCLVd1LUJlM2FpeGFsSUFPcVA2bmhUeVp0NUVqRWFNOEV3TXlwQldiWFpF0gHTAUFVX3lxTE9RTWpTbEktWjhGS2ZsY3FHcGlrS0NXQ0N6Rzh3blVXTjZuWmlaeWFySmpnQU1LZGs4QnlXT0JtXzJLcG1yRnpNOHNIRFVVb1d6Z2Zha1h6MkhveEU5aFFEVnF5cGhfVUREWWdYdEk4bGpxd1hkNDBhVGo5M19RX0hVdmlGdUhSc1lPMWg2Z1l0cGZ4VW9hRkF3ZVYzVkxhbVBObzBnOGh6c0ItV3UtQmUzYWl4YWxJQU9xUDZuaFR5WnQ1RWpFYU04RXdNeXBCV2JYWkU?oc=5",
   "media": "Trenggalek Njenggelek",
   "published": "2026-11-21T07:50:15+00:00",
   "tickers": [
@@ -4285,7 +4398,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Rencanakan Buyback Saham, Emiten SMGR Siapkan Dana Rp250 Miliar.  Rencanakan Buyback Saham, Emiten SMGR Siapkan Dana Rp250 Miliar &nbsp;&nbsp; Tribunnews.com",
-  "corroboration": 7,
+  "corroboration": 8,
   "response": null,
   "score": 22,
   "outcome": null,
@@ -5105,7 +5218,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Semen Indonesia (SMGR) Buyback Saham Rp 250 Miliar.  Semen Indonesia (SMGR) Buyback Saham Rp 250 Miliar &nbsp;&nbsp; investor.id",
-  "corroboration": 7,
+  "corroboration": 8,
   "response": null,
   "score": 22,
   "outcome": null,
@@ -5449,7 +5562,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Semen Indonesia Siapkan Buyback Saham Rp 250 Miliar.  Semen Indonesia Siapkan Buyback Saham Rp 250 Miliar &nbsp;&nbsp; Lensa Hukum",
-  "corroboration": 7,
+  "corroboration": 8,
   "response": null,
   "score": 22,
   "outcome": null,
@@ -5535,7 +5648,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Semen Indonesia (SMGR) Siapkan Rp250 Miliar Demi Buyback Saham - Bisnis.com.  Semen Indonesia (SMGR) Siapkan Rp250 Miliar Demi Buyback Saham &nbsp;&nbsp; Bisnis.com - Market",
-  "corroboration": 7,
+  "corroboration": 8,
   "response": null,
   "score": 31,
   "outcome": null,
@@ -9728,7 +9841,7 @@
  {
   "id": "309800d27c67",
   "title": "SPBU Vivo Bakal Gabung BP-AKR, Grup AKR (AKRA) Siapkan Akuisisi USD15,5 Juta",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2Y4Mm1ZYW5pLVJnZDhJWmtWSkUwdGZCSEVlam1EZ0R0WkQyZE1rU25ZX1NwWkNIeXFNVjlQZnh4MUdTbEg5dTN3bER2Ujh5YzB4eVU2a0RLMWlENDg4ZWVJRFI2NE9KYWpzZDNwUVFIc2ZkdEt6TXQwYzFrcDhHNnd3Y041TjRvMnBKQzJERFh3a3hCZjNhbThPSE9rZWhNTm1hN0RrR1VFSzNfZHdoRtIBuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ1?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3U0VldVWXRPcVlHanBIc21yZ09rUVY5V2lRUG4tWFg2a0thZDQ2QkxxSWFoYmlmVEdROVpWM1R5UmZKaUU0QnJIM25uR2pXajM5Rm5PRGN3VzZSN0dlMW95Vm94d2c4dWdHcy1Qb3VEdUJRTWJNa3ltOTdfOWRrcmRzNUVyZVJUUXZFMDUzRm5yaVY4Q1h0NzdqLUQtSU5XNUl1anlQOHJ2Y3lKdjRMRFJReElfUdIBuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ1?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-18T12:07:00+00:00",
   "tickers": [
@@ -10901,6 +11014,32 @@
   "corroboration": 0,
   "response": null,
   "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "daf8103623a9",
+  "title": "IHSG Berpeluang Menguat Meski Tekanan Jual Membayangi",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LeEg2c2RFTm1WakU1bW9VOU1IRWhKRVJhTDYxZU4xWGR1SkRIR3JkQlllUmtRSU1kQUk5dlFuc2pNc0l2SS1XSmRLRFJkR3RHbVpNbl9fdE5LaG84S1ZqWE51RXVhMFpoY2xYVFpmVQ?oc=5",
+  "media": "CentralBatam",
+  "published": "2026-11-17T23:08:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T14:22:42.127181+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IHSG Berpeluang Menguat Meski Tekanan Jual Membayangi.  IHSG Berpeluang Menguat Meski Tekanan Jual Membayangi &nbsp;&nbsp; CentralBatam",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -19243,7 +19382,11 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.55,
+   "abn5": -1.71,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "6b691b104a0a",
@@ -22375,7 +22518,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.55,
+   "abn5": -1.71,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "1145c2f50a3d",
