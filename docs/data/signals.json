@@ -2710,6 +2710,36 @@
   "anomali": null
  },
  {
+  "id": "bc4d4bb1239b",
+  "title": "Go Private, Bank SMBC Indonesia (BTPN) Siap Hengkang dari Bursa",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWk9UN1VFMTdMTlVKMjNmM2d6LW5ab2V2WWdRM2Q1QWpVSXZqQVU1cTZISVJ3b3F1OHh2bmpvcmg2VFlsQTgxUHJHUzl3Qkp4TFRrLUx6R1dhT2Z4MGJFQUFFVTJBcnU3M0VZX0RMaWl6MEFBSDg0M0REeUFEU3E1NXhHS0FyRFBFc1VXdjQtTmpkUWZrNC1ISy04akxUNXJG0gGmAUFVX3lxTFBfNzV4Rzhuakd4TXVUUDRSM3Q0ZHZOQjFwZUF1S0Jtd3lha2doMnBTOU9ZTkh5bHBzQnFvV0lVYjBnby05am5QYzloa1RsZTZIc0x0NDQ3alhiUnltYkdRRTFNaHU3ZjNBSF90ek11UldoME5HcFVJMnBxWUV4NDNRX0lzVk5QRUFlUEpCZjdndkVzUG5SbkxmXzJWaVBQbUw3cDVfeXc?oc=5",
+  "media": "IDX Channel",
+  "published": "2026-11-23T02:42:00+00:00",
+  "tickers": [
+   "BTPN"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-24T20:47:14.090912+00:00",
+  "anon": [],
+  "corp": [
+   "go private"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Go Private, Bank SMBC Indonesia (BTPN) Siap Hengkang dari Bursa.  Go Private, Bank SMBC Indonesia (BTPN) Siap Hengkang dari Bursa &nbsp;&nbsp; IDX Channel",
+  "corroboration": 2,
+  "response": null,
+  "score": 14,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "a720633e27ea",
   "title": "Bayan (BYAN) Gelar RUPSLB Usai Akuisisi Saham Oleh Haji Isam, Apa yang Perlu Dicermati? - Sinar Harapan",
   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYXI5ZTdfdjJyakZkTUtEb3RyQngtb2txSGtkbWU4REtDcmc5cXFjZHZ6N2ZqbFlBWXZJU0Q1SzZGNlVzYzhqUmxKTGRFQVBkUkRGREdPLWRWeEZySE9WNVVpV3NWZlRlWnlSWjE3SjdBTldUaXJDTEF0U1N3TF82VWx4TFVZdjlfdnFCVnlGVDE4aE05OFJjenMwZnNlUXlUdGhCUGtqenBNOGNwczFvNVZhbFRHMHRpWGJGN2FaSGF2OHZfaVFLQ2VKQ29EMEhI0gHQAUFVX3lxTE5hcjllN192MnJqRmRNS0RvdHJCeC1va3FIa2RtZThES0NyZzlxcWNkdno3ZmpsWUFZdklTRDVLNkY2VXNjOGpSbEpMZEVBUGRSREZER08tZFZ4RnJIT1Y1VWlXc1ZmVGVaeVJaMTdKN0FOV1RpckNMQXRTU3dMXzZVbHhMVVl2OV92cUJWeUZUMThoTTk4UmN6czBmc2VReVR0aEJQa2p6cE04Y3BzMW81VmFsVEcwdGlYYkY3YVpIYXY4dl9pUUtDZUpDb0QwSEg?oc=5",
@@ -5466,9 +5496,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Bank SMBC (BTPN) Berencana Go Private dan Delisting dari Bursa.  Bank SMBC (BTPN) Berencana Go Private dan Delisting dari Bursa &nbsp;&nbsp; Bisnis.com",
-  "corroboration": 2,
+  "corroboration": 3,
   "response": null,
-  "score": 20,
+  "score": 25,
   "outcome": null,
   "anomali": null
  },
@@ -8701,7 +8731,7 @@
  {
   "id": "e7d5288d49b1",
   "title": "Merger XLSmart Mulai Berbuah, Saham EXCL Punya Katalis Baru",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmE4MzlQOHBIb1lTcTd6Tl9aX0hYY0Fuc2xWSEg5ZVRSd2NVTnVzdFhUdnBETGlDYURFUVdXVFlrR1QyWk5YcmFEM0FDSXhFRjBISWhubzNYdm5VREd1U0ZlUXgzNVZwQlNNYndYQ3pfUHJBZlRuUTZYeDRXdDd4bURyMU5tN3NzTUhaRno1RHY4OHRYSUFYWFg5ZGNhV0k2?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkdVa0RhTkp4aFJINGEtSTlXLVNkY3dRWVBEN3BoOHFpTDZKaXR6Qlc0aTllX3hhUkxKT2E1NXJoU0V4SmtjYjEwaXF6dzU5aEJiUm9jSXhqdTJ3MTdqUmFKSGE3ZHB6dXVrQWZNQkpRaVNnYmZydzdWTXZEalRlWmFhV0xwM2t4REFjd18wcEJRbVMyd0U4OTR0WGdIR29P0gGjAUFVX3lxTE1mb2ptS0VMNTd3UU45SjN4cDZka015akpPV2FxNy02aWtwOHNjRk9hdWJiUW84NVFqNzNnUTdWTUk2T2RvU3BQUWxDbWhUbU1KUGVWTC1DSEstY3F3cmZPaWVlZGJmT2EtdUhleHltN3hJUUN6dl9FcFNFRnlrS3NqVzNSWFROZW95cF9tenFHYnFpRzhON2dWNk5Vc1E3ejJfSlk?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-19T02:48:00+00:00",
   "tickers": [
@@ -9973,7 +10003,7 @@
  {
   "id": "309800d27c67",
   "title": "SPBU Vivo Bakal Gabung BP-AKR, Grup AKR (AKRA) Siapkan Akuisisi USD15,5 Juta",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2Y4Mm1ZYW5pLVJnZDhJWmtWSkUwdGZCSEVlam1EZ0R0WkQyZE1rU25ZX1NwWkNIeXFNVjlQZnh4MUdTbEg5dTN3bER2Ujh5YzB4eVU2a0RLMWlENDg4ZWVJRFI2NE9KYWpzZDNwUVFIc2ZkdEt6TXQwYzFrcDhHNnd3Y041TjRvMnBKQzJERFh3a3hCZjNhbThPSE9rZWhNTm1hN0RrR1VFSzNfZHdoRtIBuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ1?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3U0VldVWXRPcVlHanBIc21yZ09rUVY5V2lRUG4tWFg2a0thZDQ2QkxxSWFoYmlmVEdROVpWM1R5UmZKaUU0QnJIM25uR2pXajM5Rm5PRGN3VzZSN0dlMW95Vm94d2c4dWdHcy1Qb3VEdUJRTWJNa3ltOTdfOWRrcmRzNUVyZVJUUXZFMDUzRm5yaVY4Q1h0NzdqLUQtSU5XNUl1anlQOHJ2Y3lKdjRMRFJReElfUdIBuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ1?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-18T12:07:00+00:00",
   "tickers": [
