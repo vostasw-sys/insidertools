@@ -1,5 +1,57 @@
 [
  {
+  "id": "550d4125ff3f",
+  "title": "18 Saham Naik Kasta ke Papan Utama, Ada Emiten Haji Isam dan Happy Hapsoro",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT2xza0V4RjJ5THhwcFFCMVNsR3BjV1NRM2NPRnFZbVZ1SHRPUUwzWUhxdWtod21kWWliNFJzMnF6UWdscVZRQVQ2eHlraDE4dW9sQUk5WVM0bDRYcWlab0ViSC1ORm9UaGUwUkp4OGFCZXdKS1BNeXVaNHh1bkZ4UGdqeXFGa2FhRGdaTXkzYjF1RTBRSkdNdGRGRmFUOXB6ckQ2Nmoyd2pyNW03ZUZfMktxdEpkSXM2REZ3WXMzNUVEZw?oc=5",
+  "media": "Kompas.com",
+  "published": "2026-11-24T05:27:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T05:53:36.831479+00:00",
+  "anon": [],
+  "corp": [
+   "private placement"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "18 Saham Naik Kasta ke Papan Utama, Ada Emiten Haji Isam dan Happy Hapsoro.  18 Saham Naik Kasta ke Papan Utama, Ada Emiten Haji Isam dan Happy Hapsoro &nbsp;&nbsp; Kompas.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 10,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "7891b7a61d16",
+  "title": "Aksi Korporasi Emiten, BUAT Bidik Rp101,46 Miliar lewat IPO",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYTFweHFMbnkyaHJkdER2eWtURkE5N1hOVy05Z25HLWFGTk1yaFg2dnlJaXBVVHVIWlo2MmhUTTZMbFlqQ2Y0VVI3YlExSjNkVHVLSzQyOHphR2hwaVV4Nm9Ga3lIakszOVIzQjcyamp4TkVMNFlfVC0tODNGVTYwUlJ3OWpPazd6?oc=5",
+  "media": "Gotrade",
+  "published": "2026-11-24T04:46:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T05:53:36.831479+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 101.46,
+  "schedule": false,
+  "party": false,
+  "snippet": "Aksi Korporasi Emiten, BUAT Bidik Rp101,46 Miliar lewat IPO.  Aksi Korporasi Emiten, BUAT Bidik Rp101,46 Miliar lewat IPO &nbsp;&nbsp; Gotrade",
+  "corroboration": 0,
+  "response": null,
+  "score": 12,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "3d766a5231fb",
   "title": "Perkuat Pengawasan Pasar Modal, Tim Khusus Nasdaq Akan Berkantor di BEI Mulai Desember 2026",
   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmdVSlhrUmljMF9aemtjUEhKdEN2TFQ0SWZjckZ1NHNFTW4wLXkxYjhDQ29uOXV3dU1kZnM3b3pjOGRYV20zcXlyd3BlNzdKSjM4WDN6cTgxNm5heW55U0oxNDFLVUFhZlF6Qk9GV0xtVGV5dzhSLXJIUkRqNkRkbFBLMnRYem1aem1qcHNhblNUN1h5OGMyc0Fjd0V3bHlLQVpGX21rSDRnOHgzUnNneG9yRlo0dkZYUzJITWlUZ2RQX1ZzOVdlNFF5VQ?oc=5",
@@ -123,7 +175,7 @@
   ],
   "first_seen": "2026-11-24T04:32:30.661251+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -285,9 +337,35 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
+ },
+ {
+  "id": "248237f2df12",
+  "title": "IHSG Koreksi 39,68% YtD 2026 — Terburuk di ASEAN",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sLTR1SGtCdWlJMVN5MXVoRGZUbW1yS2RZNW1QckdSTlVDeTlYLXU5WWVOTDRtVDhoSllvLXFhSG5zRFAwa1o4bllQSFVvN2ZqdllWaHpsdXRCYjY3YmFJU1I2a05WSGx2aUVqcHdDU3Frb1dPbGp3S1J0MXAtOU0?oc=5",
+  "media": "feedberry.com",
+  "published": "2026-11-24T01:56:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T05:53:36.831479+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IHSG Koreksi 39,68% YtD 2026 — Terburuk di ASEAN.  IHSG Koreksi 39,68% YtD 2026 — Terburuk di ASEAN &nbsp;&nbsp; feedberry.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
  },
  {
   "id": "124c018abc1e",
@@ -341,9 +419,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Simak Rekomendasi Saham Chandra Daya Investasi (CDIA) yang Mulai Gelar Buyback.  Simak Rekomendasi Saham Chandra Daya Investasi (CDIA) yang Mulai Gelar Buyback &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 2,
+  "corroboration": 3,
   "response": null,
-  "score": 20,
+  "score": 25,
   "outcome": null,
   "anomali": null
  },
@@ -748,6 +826,32 @@
   "anomali": null
  },
  {
+  "id": "78780509c17d",
+  "title": "Prabowo Dialog dengan Bos MSCI, Buka Peluang Alternatif Soal Status Pasar Saham",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWw2d00zWmJqMUhPRzgydWZVcHE5UFg4NFZORTQ3VHFmQVZEdERfTzAzLTNXb1ZOVUpHcGhqSm9JbWRYcXJaNTM3Vm02VDRHNWpaZ2tQbTRXdkN2dHh1NjhpVFVtOUx6VlFwZjZ5TzM1d212bTRWUFRQdXNab3pXYVNrWFFhbVdQUlRUNUtLQ2t4eUk4bF9Hc2o2N3pQZDNvVk9jNFgxSXpXWUxIYjRwTy1LekRLdjFidElIZXNTMGjSAbYBQVVfeXFMUHpJQjFmcGlwcGpRcmc2SDYwczdGYXh1a0ZxdHFOb0lYR19hNE15MnpZNnpMaFVnOWZNV1UwN2VUeU5WTENfRWhpXzJCZmtDVTNUWWpDLVQ1UDd4bHM5c3JpdFJPX21aeUQ2ZFBPQkpla0pYb2JTaHV6bURBek8yZWFLUkh3b1FBa1Uzd19MN2VEZG5uNENybFBTcHQ0djZfOGpTQTI4a09ERWpDMHA5NVNUbENwaUE?oc=5",
+  "media": "Liputan6.com",
+  "published": "2026-11-23T13:36:09+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T05:53:36.831479+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prabowo Dialog dengan Bos MSCI, Buka Peluang Alternatif Soal Status Pasar Saham.  Prabowo Dialog dengan Bos MSCI, Buka Peluang Alternatif Soal Status Pasar Saham &nbsp;&nbsp; Liputan6.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "6745d5e57c7a",
   "title": "Polisi Tangkap Dua Remaja Pencuri Motor Korban Kecelakaan",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVdoNUZ5NHJibEdoYkxLVU1xUmJhQ09uNGRLZk95QW1JR1g2Qm5zV1ZiV0k3T2IyRll0MUk2RkNKcWRWTjE3eVVrSGtvV0JBdHZuWjJsZW5YSUs2eUVrUHpGTDI3cjV1MnVYMmdaeUQxY21KMzM4SE50NldOQlp2bG4xQzF6R0FyTWZybExwNTR2OTQ?oc=5",
@@ -1141,16 +1245,16 @@
   "first_seen": "2026-11-23T19:57:13.688833+00:00",
   "anon": [],
   "corp": [
-   "akuisisi"
+   "buyback"
   ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Harga Saham Emiten Prajogo (CDIA) Tiba-Tiba Melesat Sentuh ARA! Aksi Korporasi Terbaru Bergulir Hari Ini - Sinar Harapan.  Harga Saham Emiten Prajogo (CDIA) Tiba-Tiba Melesat Sentuh ARA! Aksi Korporasi Terbaru Bergulir Hari Ini - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
-  "corroboration": 1,
+  "corroboration": 3,
   "response": null,
-  "score": 6,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -1259,8 +1363,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.49,
-   "abn5": -0.45,
+   "vol_z": 0.51,
+   "abn5": -0.01,
    "last": "2026-11-24"
   }
  },
@@ -1702,7 +1806,7 @@
   "asal": [],
   "first_seen": "2026-11-24T00:52:14.190065+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -1909,9 +2013,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Chandra Daya (CDIA) Siapkan Buyback Rp1 Triliun, Mulai Hari Ini 23 November - Bisnis.com.  Chandra Daya (CDIA) Siapkan Buyback Rp1 Triliun, Mulai Hari Ini 23 November &nbsp;&nbsp; Bisnis.com - Market",
-  "corroboration": 2,
+  "corroboration": 3,
   "response": null,
-  "score": 30,
+  "score": 35,
   "outcome": null,
   "anomali": null
  },
@@ -2089,7 +2193,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -2177,7 +2281,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -3102,9 +3206,9 @@
  {
   "id": "130cf4a6aa22",
   "title": "BCA Siapkan Dividen Interim Sebesar Rp4,3 Triliun, Investor BBCA Perlu Mencermati Cum Date dan Ex Date - Hallo Indonesia",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONFFRX05ieXBtaVF6c19kbk9KcXc0M0FweEs2b2FDZVFtM09XQUNmNm4yY3VoejlpMlJMOGszWXVCdFhMODFqMlcxdGExdVU1TEhfUGNXZHBETGRIVEpVQ3IxT3ljVDRjRmpQbUVmZUJYMjAzVEtDRG83aWUxMkVWTHpVdDBjQUdKZ3lIbmVPanlXeXdSd1p1ZW9hM2R3SklQS2NEUkE0MWQ2ZVJVV1ZwQzlhODkxQkFOb3ZqRUVFamYxMFJNNEQxRjFpQzRKeHZ3RUpGY1pnSnlCNkpPQ2hMZkp30gHnAUFVX3lxTE1aOVdnTDVIRURKU2hFWnhqdjlWM2J3M09LeWNQSnZieEJ6S1BDc1BjQjlLUEROaG1CMER3NXd3Wjc2emxYUnRzcG90SEw3R0t2cDZTVzBrbEk2U2oyS3RkNDVXSXpweXowOXBQTjN6bDlVUFhBUnZLWlZlbHo5UVE1WnhaWVZYcmxQdzVmYWJuRjc3OXh4aE80Y1dJRWhScFh5bUJQZDJMdzZ5ZEtNdm5TVTVPQUdPNWVvTWZzVkVGOHE0bzVPOG9zVEhTM194Rl8tNWs4cXV4bTJ2cUk2dUZaZjRwaU9fSQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWjlXZ0w1SEVESlNoRVp4anY5VjNidzNPS3ljUEp2YnhCektQQ3NQY0I5S1BETmhtQjBEdzV3d1o3NnpsWFJ0c3BvdEhMN0dLdnA2U1cwa2xJNlNqMkt0ZDQ1V0l6cHl6MDlwUE4zemw5VVBYQVJ2S1pWZWx6OVFRNVp4WllWWHJsUHc1ZmFibkY3Nzl4eGhPNGNXSUVoUnBYeW1CUGQyTHc2eWRLTXZuU1U1T0FHTzVlb01mc1ZFRjhxNG81Tzhvc1RIUzNfeEZfLTVrOHF1eG0ydnFJNnVGWmY0cGlPX0nSAecBQVVfeXFMTVo5V2dMNUhFREpTaEVaeGp2OVYzYnczT0t5Y1BKdmJ4QnpLUENzUGNCOUtQRE5obUIwRHc1d3daNzZ6bFhSdHNwb3RITDdHS3ZwNlNXMGtsSTZTajJLdGQ0NVdJenB5ejA5cFBOM3psOVVQWEFSdktaVmVsejlRUTVaeFpZVlhybFB3NWZhYm5GNzc5eHhoTzRjV0lFaFJwWHltQlBkMkx3NnlkS012blNVNU9BR081ZW9NZnNWRUY4cTRvNU84b3NUSFMzX3hGXy01azhxdXhtMnZxSTZ1RlpmNHBpT19J?oc=5",
   "media": "Hallo Indonesia",
-  "published": "2026-11-21T11:13:08+00:00",
+  "published": "2026-11-21T11:13:00+00:00",
   "tickers": [
    "BBCA"
   ],
@@ -3127,7 +3231,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -3593,7 +3697,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -5218,7 +5322,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -5334,7 +5438,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -5745,8 +5849,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.16,
-   "abn5": -13.93,
+   "vol_z": -0.15,
+   "abn5": -13.78,
    "last": "2026-11-24"
   }
  },
@@ -5810,7 +5914,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -5921,8 +6025,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.44,
-   "abn5": 0.62,
+   "vol_z": -0.43,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -5986,7 +6090,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.33,
-   "abn5": -3.28,
+   "abn5": -4.32,
    "last": "2026-11-24"
   }
  },
@@ -6828,8 +6932,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 7.73,
+   "vol_z": -0.16,
+   "abn5": 7.2,
    "last": "2026-11-24"
   }
  },
@@ -7088,8 +7192,8 @@
   "score": 17,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 1.06,
+   "vol_z": -0.33,
+   "abn5": 1.43,
    "last": "2026-11-24"
   }
  },
@@ -7450,8 +7554,8 @@
   "score": 59,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 7.73,
+   "vol_z": -0.16,
+   "abn5": 7.2,
    "last": "2026-11-24"
   }
  },
@@ -7614,8 +7718,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.17,
-   "abn5": 1.32,
+   "vol_z": -0.16,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -7732,6 +7836,32 @@
   "anomali": null
  },
  {
+  "id": "b9b2baeb8f4b",
+  "title": "RDTX Stock Split Rasio 1:20, Cek Jadwal, Profil Emiten, hingga Kinerja Terbarunya",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFFTWklpa1NXemVGV0QxR2hDcGl3dmlpcnVoQk9nbmlYZEF2M3dfeHZVMzltRmxIckpoM2NoejNTX0dNMG5YejM3QW9yMlRWRUROSmY5cDdVUjlLYWJYRXRlRGR6ZU5aVVpZRm9tYVFfa0U5STVyYWVnbElHSmlUS05WcDNCU1N1djk2MlNrdDBJT0NWVU8zUXhIZ2xDM1NwTzhoaGZUaFZ6WEFOR1MySEhRaEo?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-19T02:43:53+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T05:53:36.831479+00:00",
+  "anon": [],
+  "corp": [
+   "stock split"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "RDTX Stock Split Rasio 1:20, Cek Jadwal, Profil Emiten, hingga Kinerja Terbarunya.  RDTX Stock Split Rasio 1:20, Cek Jadwal, Profil Emiten, hingga Kinerja Terbarunya &nbsp;&nbsp; KONTAN",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "17526a49fc5a",
   "title": "AKR Corporindo (AKRA) Akuisisi Vivo Rp282 Miliar",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWgxc09vQUxDbmFVWXJUS3BQU3NGSm93Z2JQVTU1SW5CT25USldWallKMmdzel9NUndiV3RrR3hmVTdnMDhXMHh5dHB1N292OGNhMXR6eVhpc2Voclp6TkJaREtxclplUUxENGRDT003LVZCdFZINmJkU0w3NkJJTmcxWm83aXByQzNNMWU0ZUo5REYwbklrZzBqakdpMk9wVUtCWTkwMkE4cjdHcWZZ0gG0AUFVX3lxTE1nalI4aFhvOFpkNktSMzRVVTBXYVlDNmV3emgycWZIajJXRXI3WlNnWjF6UFV5WS12bUdCYWttX2NRNmdwNEk5TzVRMERHcHpyUmlTU0VmWlVxQV9GVlVxSk9KQ1VDZjZCc0lRVkVnNW8yaTlsTG1PdEpHS3BBZDBLTXBxTTlnSDdmRWZnWWh0c2N4NVM5bndGRWxMeFFGMUlmVklzS2tYN2xkRW94U0lPcm9pdw?oc=5",
@@ -7819,7 +7949,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -8678,8 +8808,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.17,
-   "abn5": 1.32,
+   "vol_z": -0.16,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -8710,8 +8840,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.17,
-   "abn5": 1.32,
+   "vol_z": -0.16,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -8798,8 +8928,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.17,
-   "abn5": 1.32,
+   "vol_z": -0.16,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -9366,8 +9496,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -9812,7 +9942,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -10066,7 +10196,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -10179,6 +10309,32 @@
   "corroboration": 1,
   "response": null,
   "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "8003eb3d81f1",
+  "title": "Morgan Stanley-led group gets $1.3B loan from private credit for Fullscript deal - report",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWlVaX3RNY2pBTXVkQ2hZV0tnQkhJb0xua1VwTGN0Y2lfV2xwdnFpR0IwU255cGRGZkd4Z3AxVk04eDZfdl9IbWEycWJLSExoRl95R05zdElmMHRwcUxfNVM4WmIxTWItRHVRNHdCWjZLaFlndFQxTWs5Wm90a0FUTVlvNjdyNGpjNWx2c2Y0N3hZcWM5Yi1aLVA2ejZ0NVo1Vy04dUtPX0ZtaGpvS1BQSW1wTDJvM0NTLUd3QlItYlB5dVR6QTFZQ2I0Z2xOY0gwQ05QNXJ4eU9GRFVwQUZpT1lR?oc=5",
+  "media": "TradingView",
+  "published": "2026-11-17T19:15:38+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T05:53:36.831479+00:00",
+  "anon": [
+   "people familiar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Morgan Stanley-led group gets $1.3B loan from private credit for Fullscript deal - report.  Morgan Stanley-led group gets $1.3B loan from private credit for Fullscript deal - report &nbsp;&nbsp; TradingView",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -10617,8 +10773,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 1.06,
+   "vol_z": -0.33,
+   "abn5": 1.43,
    "last": "2026-11-24"
   }
  },
@@ -11865,8 +12021,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.89,
-   "abn5": 6.69,
+   "vol_z": 1.9,
+   "abn5": 6.25,
    "last": "2026-11-24"
   }
  },
@@ -12466,8 +12622,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -12498,8 +12654,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -12748,8 +12904,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -12780,8 +12936,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -12812,8 +12968,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -12844,8 +13000,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -12876,8 +13032,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -12908,8 +13064,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -13078,8 +13234,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -13110,8 +13266,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -13144,8 +13300,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -13207,7 +13363,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -13239,7 +13395,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -13273,7 +13429,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -13304,8 +13460,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -13494,8 +13650,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.17,
-   "abn5": 1.32,
+   "vol_z": -0.16,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -13929,8 +14085,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.03,
-   "abn5": -2.22,
+   "vol_z": 0.03,
+   "abn5": -3.0,
    "last": "2026-11-24"
   }
  },
@@ -14042,7 +14198,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -14244,7 +14400,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -14534,7 +14690,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -14566,7 +14722,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -15822,7 +15978,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -15907,8 +16063,8 @@
   "score": 27,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 7.73,
+   "vol_z": -0.16,
+   "abn5": 7.2,
    "last": "2026-11-24"
   }
  },
@@ -15970,7 +16126,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -16166,7 +16322,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -16584,7 +16740,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -17275,7 +17431,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -17547,7 +17703,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -17581,7 +17737,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -17827,7 +17983,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.2,
-   "abn5": -3.27,
+   "abn5": -3.62,
    "last": "2026-11-24"
   }
  },
@@ -18468,8 +18624,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.66,
-   "abn5": -0.34,
+   "vol_z": -0.65,
+   "abn5": -0.65,
    "last": "2026-11-24"
   }
  },
@@ -18608,8 +18764,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": 2.1,
-   "abn5": 3.15,
+   "vol_z": 2.11,
+   "abn5": 2.12,
    "last": "2026-11-24"
   }
  },
@@ -19406,8 +19562,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 1.06,
+   "vol_z": -0.33,
+   "abn5": 1.43,
    "last": "2026-11-24"
   }
  },
@@ -19551,8 +19707,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.54,
-   "abn5": 0.96,
+   "vol_z": -0.5,
+   "abn5": 2.51,
    "last": "2026-11-24"
   }
  },
@@ -20128,7 +20284,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -21542,7 +21698,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.2,
-   "abn5": -3.27,
+   "abn5": -3.62,
    "last": "2026-11-24"
   }
  },
@@ -21604,8 +21760,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.66,
-   "abn5": -0.34,
+   "vol_z": -0.65,
+   "abn5": -0.65,
    "last": "2026-11-24"
   }
  },
@@ -21991,7 +22147,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.2,
-   "abn5": -3.27,
+   "abn5": -3.62,
    "last": "2026-11-24"
   }
  },
@@ -23631,8 +23787,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.17,
-   "abn5": 1.32,
+   "vol_z": -0.16,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -24351,8 +24507,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.17,
-   "abn5": 1.32,
+   "vol_z": -0.16,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -24386,8 +24542,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.17,
-   "abn5": 1.32,
+   "vol_z": -0.16,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -24615,8 +24771,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.17,
-   "abn5": 1.32,
+   "vol_z": -0.16,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -24705,8 +24861,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.17,
-   "abn5": 1.32,
+   "vol_z": -0.16,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -24857,8 +25013,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.17,
-   "abn5": 1.32,
+   "vol_z": -0.16,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -25168,7 +25324,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -26366,7 +26522,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -26526,7 +26682,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.2,
-   "abn5": -3.27,
+   "abn5": -3.62,
    "last": "2026-11-24"
   }
  },
@@ -27814,8 +27970,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.54,
-   "abn5": 0.96,
+   "vol_z": -0.5,
+   "abn5": 2.51,
    "last": "2026-11-24"
   }
  },
@@ -27850,8 +28006,8 @@
   "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.54,
-   "abn5": 0.96,
+   "vol_z": -0.5,
+   "abn5": 2.51,
    "last": "2026-11-24"
   }
  },
@@ -27963,8 +28119,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.54,
-   "abn5": 0.96,
+   "vol_z": -0.5,
+   "abn5": 2.51,
    "last": "2026-11-24"
   }
  },
@@ -28269,8 +28425,8 @@
   "score": 18,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 1.06,
+   "vol_z": -0.33,
+   "abn5": 1.43,
    "last": "2026-11-24"
   }
  },
@@ -28447,8 +28603,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 1.06,
+   "vol_z": -0.33,
+   "abn5": 1.43,
    "last": "2026-11-24"
   }
  },
@@ -28481,8 +28637,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 1.06,
+   "vol_z": -0.33,
+   "abn5": 1.43,
    "last": "2026-11-24"
   }
  },
@@ -29492,7 +29648,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -29608,7 +29764,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -33540,8 +33696,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.89,
-   "abn5": 6.69,
+   "vol_z": 1.9,
+   "abn5": 6.25,
    "last": "2026-11-24"
   }
  },
@@ -35849,7 +36005,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.2,
-   "abn5": -3.27,
+   "abn5": -3.62,
    "last": "2026-11-24"
   }
  },
@@ -36327,8 +36483,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.89,
-   "abn5": 6.69,
+   "vol_z": 1.9,
+   "abn5": 6.25,
    "last": "2026-11-24"
   }
  },
@@ -37479,7 +37635,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -0.51,
+   "abn5": -0.4,
    "last": "2026-11-24"
   }
  },
@@ -37700,8 +37856,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.54,
-   "abn5": 0.96,
+   "vol_z": -0.5,
+   "abn5": 2.51,
    "last": "2026-11-24"
   }
  },
@@ -37764,8 +37920,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.89,
-   "abn5": 6.69,
+   "vol_z": 1.9,
+   "abn5": 6.25,
    "last": "2026-11-24"
   }
  },
@@ -37826,8 +37982,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.89,
-   "abn5": 6.69,
+   "vol_z": 1.9,
+   "abn5": 6.25,
    "last": "2026-11-24"
   }
  },
@@ -38083,7 +38239,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -38117,7 +38273,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -38704,7 +38860,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -38816,7 +38972,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -39442,7 +39598,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -39823,7 +39979,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
-   "abn5": 6.77,
+   "abn5": 6.88,
    "last": "2026-11-24"
   }
  },
@@ -40302,8 +40458,8 @@
   "score": 15,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.44,
-   "abn5": 0.62,
+   "vol_z": -0.43,
+   "abn5": 0.78,
    "last": "2026-11-24"
   }
  },
@@ -40736,8 +40892,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 1.06,
+   "vol_z": -0.33,
+   "abn5": 1.43,
    "last": "2026-11-24"
   }
  },
@@ -40920,8 +41076,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 1.06,
+   "vol_z": -0.33,
+   "abn5": 1.43,
    "last": "2026-11-24"
   }
  },
