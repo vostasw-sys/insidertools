@@ -1,5 +1,37 @@
 [
  {
+  "id": "015c890a02ab",
+  "title": "DMS Propertindo (KOTA) Bidik Dana Rp 4,95 T lewat Rights Issue, Akuisisi 2 Perusahaan",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnRmMDdycERMWllJelFmUmR3cjVJVm5MZUUxelFkQ3c2Z19DNE9SZkM4ZnRkb3pGbHg0TXVjeG1BeFNoYTN3X0U4WWZFS0Z4Q3d0bmdyNzFnZGxra3ozNW1xb1R3MmlXMjlVT0NQT3NDVXQ1NEVyNVBzeFZBUUZVTFVLUXk0UEFCRDR3RlhnMnV2czAyRVFsSVVIOWZxQ1FBNnBHNU54Z1gzYWJ2aXhRS3ZXUFkteXJT0gGwAUFVX3lxTE5KdGhNZXZUanh6MmFKQ2x3VHpKcFlfZzVRdEtqQkpyWUhzNHRCcTROdUFYTmM4ZGtvS1VNTzIzQ1FfUm9KNExPd3FpdEZqOW43YWhmNkdQaExjaVpDWlYyYU5tMEx5UjBHcXUwd3NNVkJkVlphaFpSLWlzcGhGamRkd3VqS2FhVTZFWmE1MFVGWG5XNXBRMThuMTJnck1fem03aVdaMnJrb01nQXV5ZHho?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-24T11:56:42+00:00",
+  "tickers": [
+   "KOTA"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A",
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-24T13:00:11.812366+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi",
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "DMS Propertindo (KOTA) Bidik Dana Rp 4,95 T lewat Rights Issue, Akuisisi 2 Perusahaan.  DMS Propertindo (KOTA) Bidik Dana Rp 4,95 T lewat Rights Issue, Akuisisi 2 Perusahaan &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 2,
+  "response": null,
+  "score": 20,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "f6a2823354f6",
   "title": "BRIS Ungkap Dampak Rights Issue",
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6SGRqcmlYTjNRY0hwZ2UycU1obWxUU3dsaWljUFdycmpSbnRRcHVQcjg5ZC0ySDJZSi1tYlE2OTZVTGZFM3VmdjNITU9qLTZia0F2SlY4Vm9XYjlPNHBjRW9KWElhV0VxRkx4YTdsVkF1VUk?oc=5",
@@ -51,9 +83,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Gelar Rights Issue, DMS Propertindo (KOTA) Perkuat Cadangan Lahan.  Gelar Rights Issue, DMS Propertindo (KOTA) Perkuat Cadangan Lahan &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 9,
+  "score": 14,
   "outcome": null,
   "anomali": null
  },
@@ -330,6 +362,62 @@
   "corroboration": 0,
   "response": null,
   "score": 10,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "dac7aac58269",
+  "title": "PT Dana Berguna Sejahtera Akuisisi 51% Saham Trimitra Prawara Goldland (TPG)",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVNTWVFKcl9ieWdabVFYM29YSkxwZTJRM0wxeHR0YTRnTU9WVW41ZGtrcXBUUG9kVEhUODlyYUFpaFRRenFzOGNOZVJzZV9PR0lOYldvRnZabTYxSzdzREJQVzlOenpkRmljMVBfQmxxZ2JiZTVTQXhFMkJnRkE5X2MwYldNVENRZWRuWDNaT01WRGdTdHR6UFlHREdaQQ?oc=5",
+  "media": "PintarSaham",
+  "published": "2026-11-24T05:02:32+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-24T13:00:11.812366+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "PT Dana Berguna Sejahtera Akuisisi 51% Saham Trimitra Prawara Goldland (TPG).  PT Dana Berguna Sejahtera Akuisisi 51% Saham Trimitra Prawara Goldland (TPG) &nbsp;&nbsp; PintarSaham",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "780aa5d96e18",
+  "title": "Hasil Buyback Saham CBDK: Bangun Kosambi Sukses Serap 36,33 Juta Saham",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRXI3X2dpMGhCODBNejBQY2JHZGJhSS1LdVl1R1A4ZzZKN2w3OGpBbkFCUTRxNWVSTS16SjNzY1RfdU5jZEdNME1rYXhweWRMczl5R0VNWGF5bENLNHgtVnVSVE5xcnEwVm56dkk5NHZaa2cyNkQ3RGdybVVVMi11WkpWMnMwNEJIY051cGJ3R0NXZFhyMUFB?oc=5",
+  "media": "PintarSaham",
+  "published": "2026-11-24T05:01:32+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-24T13:00:11.812366+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Hasil Buyback Saham CBDK: Bangun Kosambi Sukses Serap 36,33 Juta Saham.  Hasil Buyback Saham CBDK: Bangun Kosambi Sukses Serap 36,33 Juta Saham &nbsp;&nbsp; PintarSaham",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -2361,7 +2449,7 @@
   "asal": [],
   "first_seen": "2026-11-24T00:52:14.190065+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -4476,7 +4564,7 @@
  {
   "id": "9abafbbed524",
   "title": "Dicecar Bursa Soal Akuisisi Saham Weda Bay Nickel, Ini Kata VKTR",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjhoNG1id0hOSXZ1UmJpYnBySXhuLU1SWkplYmxveFdTWFg4cFZ2LVNRcEVmVTdTZk5WWWlEN2xPMWtoZGRfaVlsLXhrQXpSR2VGdmhESTE1ZmsyWnBMal9uZFdFYTAycng3b1J6Q0VyUWFMTFNKS1V2OEVtNjh0enRZcnh2eFUyMmxZSVlkYVRqWVRFZktVemNDZTVVeFlGNktOY9IBqgFBVV95cUxOa3hhd0tOTGx0UUNuX2gxR3hPcFlGbzgzRzZwbVhiUjgtM3Ffekg0ZGRLVklMVl9Xcld3Qm1PZVFWeGxsVmVmbmxLaWpzSy1TVGF3SUI5XzhEUU9mangyMkFFNnJFT2hibDM3MzNidVlPUEJHUlJDS2cwTEtNSHhIZ2ZGaVRLeGxTbExLZ0pTS09TXzNfR0h0M2F2RkhQV3VHOUVDMmRaNGF4QQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0NwT0RaZGdkck5ULVcxT1d1NDBCWVJ3bGhwTHJsMWFkbGJHNldWQ0lDZmhzT1plOHhILURndVl2aFk2eE55aElXUDZwc1RvOUY5YkdBWFhkMlktZFFUZFBPWWRhY1NuMWl3aW94QW8wWEhhRnpOWXpUMmkxdF9DZlJ5bDYtdWcteFNCTEprTDlvWG9nazgwdXdxclNmd3pfLXpwOW5IcllYZ9IBqgFBVV95cUxOa3hhd0tOTGx0UUNuX2gxR3hPcFlGbzgzRzZwbVhiUjgtM3Ffekg0ZGRLVklMVl9Xcld3Qm1PZVFWeGxsVmVmbmxLaWpzSy1TVGF3SUI5XzhEUU9mangyMkFFNnJFT2hibDM3MzNidVlPUEJHUlJDS2cwTEtNSHhIZ2ZGaVRLeGxTbExLZ0pTS09TXzNfR0h0M2F2RkhQV3VHOUVDMmRaNGF4QQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-21T06:03:00+00:00",
   "tickers": [],
@@ -7474,20 +7562,22 @@
   "tickers": [
    "PACK"
   ],
-  "uma": true,
+  "uma": false,
   "jenis": [],
   "asal": [],
   "first_seen": "2026-11-19T08:25:42.396054+00:00",
   "anon": [],
-  "corp": [],
+  "corp": [
+   "akuisisi"
+  ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel.  Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel &nbsp;&nbsp; Lotus Andalan Sekuritas",
-  "corroboration": 0,
+  "corroboration": 1,
   "response": null,
-  "score": 56,
+  "score": 21,
   "outcome": null,
   "anomali": {
    "vol_z": -0.08,
@@ -19153,11 +19243,7 @@
   "response": null,
   "score": 6,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.55,
-   "abn5": -1.71,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "6b691b104a0a",
@@ -22289,11 +22375,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.55,
-   "abn5": -1.71,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "1145c2f50a3d",
