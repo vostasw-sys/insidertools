@@ -1,5 +1,59 @@
 [
  {
+  "id": "94c00845bfac",
+  "title": "CBRE Siap Right Issue 48 Miliar Lembar, Tunggu Restu Investor",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUdsZ1RqX1FZbjVuc1ZpUEM1OGtGS0JURU1nX1NzS0RrMTBHbmFQY2ZZcl9RNlVlaml0cWMxLTc4dkJDMUw5UDFoU1Z3NUFmdkk4SkxoZjBoNXB5Q3ctS0U3M3YxeFNWVEtpbHM4Rllqa3A3cGRITzRLWHNNcFJTSFpNanFhWE9qRXZvdDl4T0JIUQ?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-24T23:01:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-24T23:42:40.460803+00:00",
+  "anon": [],
+  "corp": [
+   "right issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "CBRE Siap Right Issue 48 Miliar Lembar, Tunggu Restu Investor.  CBRE Siap Right Issue 48 Miliar Lembar, Tunggu Restu Investor &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "2c43ea13820d",
+  "title": "Sentimen AI & Ancaman Tarif Baru AS Tekan Wall Street",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzg2R1R3dU1WUjR2SjZoaXBvMjdlXzU0cnY3RDREb2JiZ011a252Z2oxWFI3eW9hbjZvVGsxMmNDU1UtbDZCemlnMWZNNmxJZWNTU0dqZUt2QlFKdFBNMWd1RnNUN0xsWEVkcVktZVQ1cmlfRWFGMTN1Z19ueTJOOEh5R2JKbVJrQWhDaVN3SHplUElrbU5CR0JmRzdsU21qamY4dmRB?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-24T22:03:22+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T23:42:40.460803+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Sentimen AI & Ancaman Tarif Baru AS Tekan Wall Street.  Sentimen AI & Ancaman Tarif Baru AS Tekan Wall Street &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "a126aa68fef9",
   "title": "Perdana Gapuraprima Siapkan Buyback Saham Rp40 Miliar",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53ZGFCZEhqYWR2Zk9sZDk2em9JY25JeThMSFVmN2prQzRXdHFPSFJ5eWhJR2RncWVOVGs3Y1UxRmwwQ25VbGNXNnNocVlYdUEzUk9aaEdxdllCRVBWVExEdmx2QnZITC1l?oc=5",
@@ -24,6 +78,30 @@
   "corroboration": 0,
   "response": null,
   "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "2198673b8631",
+  "title": "Membenahi Rumah Sendiri Sebelum Menuntut Keadilan Pasar Global",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmpvVVRFc2JhcXVEekw5Y1RiNWVMeWRqRThLazNyemRBVHBCRFpqc2dOM1czUzFMa0RsMHFyZlBPSHdoa2NQeVN3ajlJTTRvSXBlaUVwVXVnZ1hyeWstbi1BLXNsYko0UHZMWTdIU1BGZ3VaUkRjVUw3bkVjM3A2d3pqSVY2WktZWnBjWGktVW55eEZ0?oc=5",
+  "media": "Redaksi Jakarta",
+  "published": "2026-11-24T18:45:00+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T23:42:40.460803+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Membenahi Rumah Sendiri Sebelum Menuntut Keadilan Pasar Global.  Membenahi Rumah Sendiri Sebelum Menuntut Keadilan Pasar Global &nbsp;&nbsp; Redaksi Jakarta",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -1737,7 +1815,7 @@
  {
   "id": "1e2de001956d",
   "title": "Bos MSCI Bertemu Prabowo, Status Pasar Saham RI Berpeluang Aman?",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTQtUlJ2OUtVZ1BqYVZjSFlkWnZVSGg3cVZJVUd6cGFjNG53c3lzSHkwQl96YnplZm5ld3NNeC13b1BjdzZiZVlUV3k4ZUhvXzRmUm5tZUZvUG5PeGt3c01zbDNXekhSREtLaGhjZXJBTHdZMEIydnUtdjlSMXhjOGNhMmdNTU1DT2F5QXJJSElZenFNbEI3X1N5YmJVd9IBlwFBVV95cUxOYkRZVXh6WkpRWkNzZ0IxYVdkQ0lUbG1fN01YRDdHNHEzby0xTVhTNnNVQlhUTms5OS1PYndEX1I2eU1ITGJ3anEwbmpOLVRzZjhsTTVIQks0c2JMa1RTSmNFa2lNb01SblZiVTJINlRLQ3BvaGNBQ1Q1bzJONTduMFFtWjJKaEt4bU5TcTdDanN5V2hpQlYw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0NCVkFLYjZ3MFlvakpzT2Z1UU1sZ2gyTVVKTDI3T3lONFUyLVc3LW5DcllkN214WmExWnBsUGJnSnFEWWx4dmdRWGxoeEpZNUo5eWNIYVFCSmhqVTU3aGo0UzdCaEk5ZTN0VWFlNHN0M3ZXWHktZVRCQjRKSWxEemdnMU5vWVV1ZWN2ZVp2WEIyeEZFbndqSkNGTGNjODhyUmgxTnFJb1M1NHpPWDd3ZVp0aVRMRE5m0gGXAUFVX3lxTE5iRFlVeHpaSlFaQ3NnQjFhV2RDSVRsbV83TVhEN0c0cTNvLTFNWFM2c1VCWFROazk5LU9id0RfUjZ5TUhMYndqcTBuak4tVHNmOGxNNUhCSzRzYkxrVFNKY0VraU1vTVJuVmJVMkg2VEtDcG9oY0FDVDVvMk41N24wUW1aMkpoS3htTlNxN0Nqc3lXaGlCVjA?oc=5",
   "media": "kontan.co.id",
   "published": "2026-11-23T08:43:14+00:00",
   "tickers": [],
@@ -2241,6 +2319,32 @@
   "corroboration": 2,
   "response": null,
   "score": 11,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "59332d38adb6",
+  "title": "Prabowo Bahas Alternatif Penurunan Status Pasar Saham dengan MSCI",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwaUZNSFhrR1lkSm95Si1PRklmRGJ4ZWpqallObWFjcmlpQ0JfdXZSblczTXVJWkQ0X1B2NmdFOTlHWEt0WG5NVTFCUU5rc3NIV010OWl0TDR1NS04MVE?oc=5",
+  "media": "ChatNews.id",
+  "published": "2026-11-23T03:51:59+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T23:42:40.460803+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prabowo Bahas Alternatif Penurunan Status Pasar Saham dengan MSCI.  Prabowo Bahas Alternatif Penurunan Status Pasar Saham dengan MSCI &nbsp;&nbsp; ChatNews.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -8705,7 +8809,7 @@
  {
   "id": "31ea5b7f95ae",
   "title": "Sah! AKRA Akuisisi Seluruh Saham Pengelola SPBU VIVO",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUzRLaERQQUpwNzBZa3RaN3dIYklwdEFIV3ZHQl9YODVEamhQVXg2VlJjcWlTYlJJWGZ6YnQtQzNWbG4yWXJhYzJlVklYOEVOQmVreGRlTVdNTEEyMkxZTVBnVGVVSC1pblNtMHRTMDVqOVJHMk4zVE1HTWNFTDlqZEw2d1Nrcl9rQjdkYXdaajFmVU9U?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUzRLaERQQUpwNzBZa3RaN3dIYklwdEFIV3ZHQl9YODVEamhQVXg2VlJjcWlTYlJJWGZ6YnQtQzNWbG4yWXJhYzJlVklYOEVOQmVreGRlTVdNTEEyMkxZTVBnVGVVSC1pblNtMHRTMDVqOVJHMk4zVE1HTWNFTDlqZEw2d1Nrcl9rQjdkYXdaajFmVU9U0gGaAUFVX3lxTE1reDVmelYxTENXNVQ4T0s5RWdKVVhhZ3ZrbUl2U3BRYkNJSEc0TTFGTk1ObXo5VUdkVUhqMDhYb0ZYUmlxUTk0VGJIaVpYU1Bkb3lQNzd0QzhCcUV1TGVTdmlYb2I0dFdUNWRoaU1PSklrY0dHbk5XZUtnNnNUWEZ1WURfd21fX3pzaFV1N1ZtVFV4NWtFbWk0Q0E?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-19T03:00:00+00:00",
   "tickers": [],
@@ -8785,7 +8889,7 @@
  {
   "id": "e7d5288d49b1",
   "title": "Merger XLSmart Mulai Berbuah, Saham EXCL Punya Katalis Baru",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmE4MzlQOHBIb1lTcTd6Tl9aX0hYY0Fuc2xWSEg5ZVRSd2NVTnVzdFhUdnBETGlDYURFUVdXVFlrR1QyWk5YcmFEM0FDSXhFRjBISWhubzNYdm5VREd1U0ZlUXgzNVZwQlNNYndYQ3pfUHJBZlRuUTZYeDRXdDd4bURyMU5tN3NzTUhaRno1RHY4OHRYSUFYWFg5ZGNhV0k2?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkdVa0RhTkp4aFJINGEtSTlXLVNkY3dRWVBEN3BoOHFpTDZKaXR6Qlc0aTllX3hhUkxKT2E1NXJoU0V4SmtjYjEwaXF6dzU5aEJiUm9jSXhqdTJ3MTdqUmFKSGE3ZHB6dXVrQWZNQkpRaVNnYmZydzdWTXZEalRlWmFhV0xwM2t4REFjd18wcEJRbVMyd0U4OTR0WGdIR29P0gGjAUFVX3lxTE1mb2ptS0VMNTd3UU45SjN4cDZka015akpPV2FxNy02aWtwOHNjRk9hdWJiUW84NVFqNzNnUTdWTUk2T2RvU3BQUWxDbWhUbU1KUGVWTC1DSEstY3F3cmZPaWVlZGJmT2EtdUhleHltN3hJUUN6dl9FcFNFRnlrS3NqVzNSWFROZW95cF9tenFHYnFpRzhON2dWNk5Vc1E3ejJfSlk?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-19T02:48:00+00:00",
   "tickers": [
@@ -10057,7 +10161,7 @@
  {
   "id": "309800d27c67",
   "title": "SPBU Vivo Bakal Gabung BP-AKR, Grup AKR (AKRA) Siapkan Akuisisi USD15,5 Juta",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2Y4Mm1ZYW5pLVJnZDhJWmtWSkUwdGZCSEVlam1EZ0R0WkQyZE1rU25ZX1NwWkNIeXFNVjlQZnh4MUdTbEg5dTN3bER2Ujh5YzB4eVU2a0RLMWlENDg4ZWVJRFI2NE9KYWpzZDNwUVFIc2ZkdEt6TXQwYzFrcDhHNnd3Y041TjRvMnBKQzJERFh3a3hCZjNhbThPSE9rZWhNTm1hN0RrR1VFSzNfZHdoRtIBuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ1?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3U0VldVWXRPcVlHanBIc21yZ09rUVY5V2lRUG4tWFg2a0thZDQ2QkxxSWFoYmlmVEdROVpWM1R5UmZKaUU0QnJIM25uR2pXajM5Rm5PRGN3VzZSN0dlMW95Vm94d2c4dWdHcy1Qb3VEdUJRTWJNa3ltOTdfOWRrcmRzNUVyZVJUUXZFMDUzRm5yaVY4Q1h0NzdqLUQtSU5XNUl1anlQOHJ2Y3lKdjRMRFJReElfUdIBuAFBVV95cUxONGVGbFppWjFEMDh3QmZILVA3MXE2RGVsXzFmUUI2WmNobGhkVmk0aEhKT3pmcUZQTVpselBtR29zZU1lWjQ5Wm12WkdhRjdjSVVUdnNoczdaRkNoMjlhbjhDUHlwaEo0MEowdDlHNEUzQU1uTk1uREtBbnhsYUI0UmpHc0d6WnpkM3RMSVNhM1gtbWh3LW1LX0RIaTJVQ0JZMVd5dXFueHhPaGdoZE54S3RfOEtkWFQ1?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-18T12:07:00+00:00",
   "tickers": [
