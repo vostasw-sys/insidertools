@@ -1,5 +1,31 @@
 [
  {
+  "id": "1f7ce6bf0af4",
+  "title": "Phintraco Prediksi IHSG Tertekan Rupiah pada 26 November 2026",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94UnBDX2hDLXhlbF9nZHQ1SjJ4ZUt2MWJ5ejh1QlRQSWJZbzFseUczZUJGZ09GNm5oeXoweDlRVnFSV1JKc0lHRi11b1BLOHlpdkozUnlaSzBnMUFySWxhYms2MV9fTlFobXF1R3FDM0w0VUwtSkw2bnZn?oc=5",
+  "media": "MediaKompeten",
+  "published": "2026-11-25T23:24:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-25T23:42:59.740861+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Phintraco Prediksi IHSG Tertekan Rupiah pada 26 November 2026.  Phintraco Prediksi IHSG Tertekan Rupiah pada 26 November 2026 &nbsp;&nbsp; MediaKompeten",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "1a86fd5e2ae7",
   "title": "Kapitalisasi Saham HSC Turun 1,16% pada 25 November 2026",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CYWFoUnJ0MWxYRkE1YTRDbVd0WTZtSTZCcmROTkp4ZWwzeXRvQW5oWlV3UlA2eGVma3ZZN0J6YTdkVDMxVWF4OTJPaU40eklhdnhiS3VTTE0zZmtYVnAxVU5GT1JpMzd2dXNSMjBTV2VsSFBQOHBGZnB3OA?oc=5",
@@ -1069,7 +1095,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "302ad4c73a78",
@@ -1127,7 +1157,11 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "382b7d7b49fb",
@@ -1435,7 +1469,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "65c80626687b",
@@ -2044,7 +2082,7 @@
  {
   "id": "94a269ae93e2",
   "title": "GPRA Siapkan Rp40M untuk Buyback 333 Juta Saham, PBV Masih 0,28 Kali",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbkdKcVBCaThSNkxIS1E1aVpUTks3Nmd1VEtWZndXckFNMS10Zi04VTIxRmZ0elFzYVRFWThkUTh3UDF4NXdUd3NKU0pWOVlER3A3cmdveGpONUhvODFwSVJXZV94dG9DTms4a0ZDR1FRS0p2VTNObWtQLXlSbTJremZIaTlhRlRzWjVjVlBHSDR5aTVDa0Jsa3d3?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFVzWGNoZG5vdW5DRmNMdFlyQ0t1dkNWMXhVdTY0THBGdjFLOEx0bGUzcHFnazdWTGVfYTc1Y1FiUnA3Zjhxdi1kTmhFeWJIeS1zb3ROdFdMemNPVWszS1ZQTXlkT3BEM09QeEU3SnVGTGN1YnlGaHZacW1MeHBYanczS0lGZGE3U1lzczlWc0doLVgyZWh1SlhEMVpmQUU?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-24T10:57:00+00:00",
   "tickers": [],
@@ -2765,7 +2803,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "017e42ea5b66",
@@ -2898,6 +2940,36 @@
   "party": false,
   "snippet": "Harga Emas Antam (ANTM) Naik Lagi, Buyback Nanjak Lebih Tinggi.  Harga Emas Antam (ANTM) Naik Lagi, Buyback Nanjak Lebih Tinggi &nbsp;&nbsp; investor.id",
   "corroboration": 5,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
+ },
+ {
+  "id": "601da5e093db",
+  "title": "MSCI Dikabarkan Buka Opsi Hindari Downgrade Saham Indonesia, Prabowo Turun Tangan",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlhLemJoSFp4QTBWZVpRVXJCQS1KLXJkaFRlQWVQZ2ZpUkVZR3BlQllCVVpZSU5VOUE3ZUViWU5uZjBBMktRdDZkREdnZjNNdkZraDdCWGZrbFhNajRiM05tc2ptTEFGc2pocWpKZzdYbEZaTzZZUmFFSkd4a3ctWXFNcWxiZXpudkpEcHNXTV94QzhHX0hRLTlUSUxOSWRRdXB1M0d1TWlONnp6WXh0RA?oc=5",
+  "media": "Progres.id",
+  "published": "2026-11-24T01:29:33+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-25T23:42:59.740861+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "MSCI Dikabarkan Buka Opsi Hindari Downgrade Saham Indonesia, Prabowo Turun Tangan.  MSCI Dikabarkan Buka Opsi Hindari Downgrade Saham Indonesia, Prabowo Turun Tangan &nbsp;&nbsp; Progres.id",
+  "corroboration": 0,
   "response": null,
   "score": 16,
   "outcome": null,
@@ -3891,6 +3963,32 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "cfcdefe01716",
+  "title": "IHSG Hijau Kala Bursa Asia Berdarah Imbas Prabowo - Bos MSCI Bicara",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVlZXTGNGRkpieVZtWl9KYVVqVWxKWGpkWHJKSU4wY0szVjhUR3NrSjFVYnEyOXdCSy1EZUUyT3dvaVg0ZTYwWXFLVFpESXFURGN6MWw2RWNMRHhrLVBtWWV3azh4RFZ6ZFJvT2U0NFBRVW1sUTVVLVc5YUZiN3hjUmxraDB4VmNTdlZrc1V3eHRrOEdCTkF0ZFZSNG0yVTNJdmltbVNMUlE5b0lFbERmblpwNU9WNjBrcFJhYVppZzc0SVd1YXl4ajk0YlDSAcwBQVVfeXFMTVZWV0xjRkZKYnlWbVpfSmFValVsSlhqZFhySklOMGNLM1Y4VEdza0oxVWJxMjl3QkstRGVFMk93b2lYNGU2MFlxS1RaRElxVERjejFsNkVjTER4ay1QbVlld2s4eERWemRSb09lNDRQUVVtbFE1VS1XOWFGYjd4Y1Jsa2gweFZjU3ZWa3NVd3h0azhHQk5BdGRWUjRtMlUzSXZpbW1TTFJROW9JRWxEZm5acDVPVjYwa3BSYWFaaWc3NElXdWF5eGo5NGJQ?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-11-23T06:06:41+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-25T23:42:59.740861+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IHSG Hijau Kala Bursa Asia Berdarah Imbas Prabowo - Bos MSCI Bicara.  IHSG Hijau Kala Bursa Asia Berdarah Imbas Prabowo - Bos MSCI Bicara &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 24,
   "outcome": null,
   "anomali": null
  },
@@ -5135,7 +5233,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "a627b4022b4d",
@@ -6167,7 +6269,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "1995d86583c9",
@@ -7106,7 +7212,7 @@
  {
   "id": "9abafbbed524",
   "title": "Dicecar Bursa Soal Akuisisi Saham Weda Bay Nickel, Ini Kata VKTR",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjhoNG1id0hOSXZ1UmJpYnBySXhuLU1SWkplYmxveFdTWFg4cFZ2LVNRcEVmVTdTZk5WWWlEN2xPMWtoZGRfaVlsLXhrQXpSR2VGdmhESTE1ZmsyWnBMal9uZFdFYTAycng3b1J6Q0VyUWFMTFNKS1V2OEVtNjh0enRZcnh2eFUyMmxZSVlkYVRqWVRFZktVemNDZTVVeFlGNktOY9IBqgFBVV95cUxOa3hhd0tOTGx0UUNuX2gxR3hPcFlGbzgzRzZwbVhiUjgtM3Ffekg0ZGRLVklMVl9Xcld3Qm1PZVFWeGxsVmVmbmxLaWpzSy1TVGF3SUI5XzhEUU9mangyMkFFNnJFT2hibDM3MzNidVlPUEJHUlJDS2cwTEtNSHhIZ2ZGaVRLeGxTbExLZ0pTS09TXzNfR0h0M2F2RkhQV3VHOUVDMmRaNGF4QQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0NwT0RaZGdkck5ULVcxT1d1NDBCWVJ3bGhwTHJsMWFkbGJHNldWQ0lDZmhzT1plOHhILURndVl2aFk2eE55aElXUDZwc1RvOUY5YkdBWFhkMlktZFFUZFBPWWRhY1NuMWl3aW94QW8wWEhhRnpOWXpUMmkxdF9DZlJ5bDYtdWcteFNCTEprTDlvWG9nazgwdXdxclNmd3pfLXpwOW5IcllYZ9IBqgFBVV95cUxOa3hhd0tOTGx0UUNuX2gxR3hPcFlGbzgzRzZwbVhiUjgtM3Ffekg0ZGRLVklMVl9Xcld3Qm1PZVFWeGxsVmVmbmxLaWpzSy1TVGF3SUI5XzhEUU9mangyMkFFNnJFT2hibDM3MzNidVlPUEJHUlJDS2cwTEtNSHhIZ2ZGaVRLeGxTbExLZ0pTS09TXzNfR0h0M2F2RkhQV3VHOUVDMmRaNGF4QQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-21T06:03:00+00:00",
   "tickers": [],
@@ -8479,7 +8585,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "a37d881b9b1c",
@@ -8591,7 +8701,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "d80d0ed236f4",
@@ -8679,7 +8793,11 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "d19b83989357",
@@ -9119,7 +9237,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "8f6a8a6b49dc",
@@ -11226,7 +11348,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "bdcb66076402",
@@ -13299,7 +13425,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "3d110404d793",
@@ -13549,7 +13679,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "ec9611bbda81",
@@ -16710,7 +16844,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "c98b23e9e339",
@@ -16738,7 +16876,11 @@
   "response": null,
   "score": 21,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "c1fef08862b1",
@@ -16768,7 +16910,11 @@
   "response": null,
   "score": 11,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "f1936bfef4ed",
@@ -17533,7 +17679,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "9d5ee601b580",
@@ -17731,7 +17881,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "d25b777b438f",
@@ -18017,7 +18171,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "08ae46d4ae97",
@@ -18045,7 +18203,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "17aa6f8164ef",
@@ -19297,7 +19459,11 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "825a49d14507",
@@ -19441,7 +19607,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "d93f631d1209",
@@ -19633,7 +19803,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "81eba6f2a8e8",
@@ -20738,7 +20912,11 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "df4d0830f0be",
@@ -21006,7 +21184,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "c6eee19866ad",
@@ -23579,7 +23761,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "205e78573d0b",
@@ -28611,7 +28797,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "60f9cf7b714d",
@@ -33047,7 +33237,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "f6bc1342e1d8",
@@ -40914,7 +41108,11 @@
   "response": null,
   "score": 14,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": -1.01,
+   "last": "2026-11-24"
+  }
  },
  {
   "id": "eb70f7253b47",
