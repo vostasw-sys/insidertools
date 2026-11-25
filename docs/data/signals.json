@@ -1,5 +1,33 @@
 [
  {
+  "id": "4c254ee2336b",
+  "title": "Emiten GPRA Siapkan Dana Rp40 Miliar untuk Buyback Saham",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT2h2anpEQi14MmtodWRBZ3R1UzUzVW5XRzFCd2VpLWMxOU0zX29NZmxfWGF0bzFtaDc0UUdodjAtM2tOQ2VCdFYzVEV0cmczVnE3YzVoeEpMdGZfSXotNEFLNkh4aWtpbzRITUc3aFhXMWo3cHF2cHFKV051YlU1Vy1PTVRtbHQ2c0ZsTnBWY21vSV9yNU5kcGtzeEFXcUk?oc=5",
+  "media": "MetroTVNews.com",
+  "published": "2026-11-25T14:19:04+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-25T15:30:56.074426+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 40.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Emiten GPRA Siapkan Dana Rp40 Miliar untuk Buyback Saham.  Emiten GPRA Siapkan Dana Rp40 Miliar untuk Buyback Saham &nbsp;&nbsp; MetroTVNews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "6884d629da9f",
   "title": "Emiten Properti Buyback Saham Rp40 Miliar, Ini Rencana Ekspansinya",
   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObERYQ0dyT01QV3Jwei1TMkdEMEc5M3Q4Uzc5TjZPNUw0bE1WcjZMM09PTXhYeU9TcHc3ek5FR0dKaEZTQXNiQnM5QzdoaFFpNGFYdUx0OURMbmphSVNETjQxU0F6YkNiWW1xUEh4dFpHUWVKalR3TjRsSU8tWFBTbUdTcjRvSVJnWTdkLWM3ZHVwMFZjWEZYc0tZa0dWWC1nMmU4R1ExT25LUTJjUnVrendzSS1xY3pTU1FB?oc=5",
@@ -908,6 +936,40 @@
   "score": 15,
   "outcome": null,
   "anomali": null
+ },
+ {
+  "id": "92cc20e4977c",
+  "title": "Harga Buyback Emas Antam Hari Ini 25 November 2026 Terjun Bebas, Anjlok Rp59.000",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHFkSTVYWnpkcWVFR05sRU55M1Q4OFc5R29xT3FYTTJkRS12X1N6RUdId2hWU2NETVlXUGZJMHkzM1N2ZmpzUzRUOFcxano4dzNlUllRMVp2LUxPTTFqUFU5OFR1REtnTWRpZGhYekJXellPZGdhc1k4WHVINGJBX05MYzVUdDBFZE5Db1p3ckZtemllYTVxZ2FFVnhpUmtMY1hSUUc4b25BeFNyS2NkQXZjMkXSAawBQVVfeXFMTTZrOHpRMF9KOFFEVzVwQkZvYzNFM0NuSHFsdFdpbHMyQ1gxMTZ1QW1iRzZleVFQQ01tTWhnRmg4d2NqV2szWUlpZnJ4V1hISTY0OE90ek1VNU1MNlJyZHVybkZtN3dWNGlQMDREM1dieVgycmJQel9zS2NhcXhqcnlLQ3VWSnc1VVlzS3NIeXBOaV96d1FsMjQxNlJRRW9PMmhBandaSXlncENFTA?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-25T03:06:55+00:00",
+  "tickers": [
+   "ANTM"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-25T15:30:56.074426+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Harga Buyback Emas Antam Hari Ini 25 November 2026 Terjun Bebas, Anjlok Rp59.000.  Harga Buyback Emas Antam Hari Ini 25 November 2026 Terjun Bebas, Anjlok Rp59.000 &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 5,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.93,
+   "abn5": 0.58,
+   "last": "2026-11-25"
+  }
  },
  {
   "id": "302ad4c73a78",
@@ -2060,7 +2122,7 @@
  {
   "id": "c5ecf9a5885a",
   "title": "Siapkan Dana Rp40 Miliar, GPRA Akan Gelar Buyback",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONWJPeWtMQmF6eS16TWw5ejZuOHFwcWR3T094WFdhcGo4NnkxQzBTM3QxWFA5ZWNiVlZxLTZnTE5tNjFhSnpuSnY3Z2RtMFZjZXFxbktzVV84YVB5TmJuczdQWVhsOGktVzNnUGdhOVFxbjU5M2tmbWJXblZtZGNSR1BkWFN3akE?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEs5VDBDaDFlX25sWXYzUWQ3WnE4c1ZlTGZQelF3WDE2eTA1MTdsOEp1aEJfOU9sWmRBbTBCSVhPVFRYUEp4UTlKNzRGZGJaekdaQXpMaXZpV3BxQ3AycUlwYVNmcWJwWURSQlJoZHBHUWlUMzFLT1lKWTc2X0JTS1pR?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-24T07:48:00+00:00",
   "tickers": [],
@@ -2762,6 +2824,32 @@
   "anomali": null
  },
  {
+  "id": "a13db5298c97",
+  "title": "Saham Anthropic Melemah Saat Nvidia Kembali Menguat",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4QzN3bEJSaTFWN0hYQlFXRHlKeUdqMlptbnYzMHNmcFZQMXJHYVAwUHlEMVFXR0tibGRuMGs4cjZZT2toX2hRRUYtZk1xaTZhSllmVHBCY0tST0NkQy1KbzRrYWN2SXhuMDRhUG9MVnRLWk1OaXhTTTJ3?oc=5",
+  "media": "MediaKompeten",
+  "published": "2026-11-24T00:09:10+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-25T15:30:56.074426+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham Anthropic Melemah Saat Nvidia Kembali Menguat.  Saham Anthropic Melemah Saat Nvidia Kembali Menguat &nbsp;&nbsp; MediaKompeten",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "4b16ab57168c",
   "title": "Market Crash 2026: Ketika Kepanikan Menular ke Berbagai Aset Halaman 1",
   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWllSWx5NENYZ1ppRDZ3ZWtCcEJCenZSOHBvcGMtV1Z6bV8ydVBvY2hiS19mN0FQaG5zXzVyX0pfWElxcVphUWJuc2dhMXhNQ2Q3TmNRUlJldnB0YWlwS1RvVGxjcTRpX1hONzkxXzlkQ0xfakpHQ3E0LVo2ODFjYUtrU2duN0VXMndhWEk0NkNCTjlBUm9mQTUtdWd5T2hFRE8tNzRjZW5RSkRtS1RSbVoydlBBUGwyYlVOaWhsdw?oc=5",
@@ -2888,6 +2976,36 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "96b5b49a326d",
+  "title": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXpMSTRKZFZfcmtUTHdaMG9URGRmd09JSHVxQTRlZXhyRW0zNEZlNjJuOFl2aHJTbEtsNThsZEJpWWN1Vi0zMHM2WDVTcnI2QzFRajRUeEhKVjBiV0J2THh0ZkRWQWt5RnJGLWxkNGZGS01NS0tXbWxRS3RnVzB5SXNWTzJCalRvSTRsQVZNXzhhTV8yckRBN0sxWXRYc3FZR255b1JpaFlnR05WbmtRbk4taUJDMTZDazE1VFdvZFFnRGhNcnNuMQ?oc=5",
+  "media": "Digivestasi",
+  "published": "2026-11-23T21:07:49+00:00",
+  "tickers": [
+   "EXCL"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T14:12:09.645817+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 1000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS.  XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS &nbsp;&nbsp; Dig",
+  "corroboration": 10,
+  "response": null,
+  "score": 26,
   "outcome": null,
   "anomali": null
  },
@@ -3403,6 +3521,34 @@
   "anomali": null
  },
  {
+  "id": "2cae367c9d07",
+  "title": "CDIA Gelar Buyback Saham Rp1 Triliun hingga Februari 2027",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1dZRXNOQXBPaGQ2Z2xadUtqRGtQMGZOUUNzWU5INWVMSlBDbE1PMXBPNmhvMUh1REhtS0lJOGxySUdpNWlySTNERjRVTWdXR1lCZGZ3czBiaUUyUDlhZHM3MFg5dlh0aVlSbFdJOUx6bjJueFJMNHlldDhNRFgxbEpmTGxOX243?oc=5",
+  "media": "Limapagi",
+  "published": "2026-11-23T10:29:44+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-25T15:30:56.074426+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 1000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "CDIA Gelar Buyback Saham Rp1 Triliun hingga Februari 2027.  CDIA Gelar Buyback Saham Rp1 Triliun hingga Februari 2027 &nbsp;&nbsp; Limapagi",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5d52dc4e7903",
   "title": "MSCI Bikin Pasar Saham Goyang, Investor Jangan Asal Serbu Saham Murah!",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS212WWtKVUZGc3A5cVpkZG9wd21hRWFIMkU3V1gyUmJSaW0wYllhdnBTTXEzNVE4MlNGR3VhdmpOdUo0dzU3aXdvRkN2ejd3S01qNi1rcUFHRHV4OU9yUHRadmkzSFpXYzFUUWt2Rm15WHpON2hNbGY4LTRDLW1kckxvQVZRdXZUM2NwbHhGcHRaTVJCQ0ZyLVdNODM4cU5McVpVZDgySUQ0V3FCY19V0gGvAUFVX3lxTFBLbXZZa0pVRkZzcDlxWmRkb3B3bWFFYUgyRTdXWDJSYlJpbTBiWWF2cFNNcTM1UTgyU0ZHdWF2ak51SjR3NTdpd29GQ3Z6N3dLTWo2LWtxQUdEdXg5T3JQdFp2aTNIWldjMVRRa3ZGbXlYek43aE1sZjgtNEMtbWRyTG9BVlF1dlQzY3BseEZwdFpNUkJDRnItV004MzhxTkxxWlVkODJJRDRXcUJjX1U?oc=5",
@@ -3513,7 +3659,7 @@
  {
   "id": "1e2de001956d",
   "title": "Bos MSCI Bertemu Prabowo, Status Pasar Saham RI Berpeluang Aman?",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTQtUlJ2OUtVZ1BqYVZjSFlkWnZVSGg3cVZJVUd6cGFjNG53c3lzSHkwQl96YnplZm5ld3NNeC13b1BjdzZiZVlUV3k4ZUhvXzRmUm5tZUZvUG5PeGt3c01zbDNXekhSREtLaGhjZXJBTHdZMEIydnUtdjlSMXhjOGNhMmdNTU1DT2F5QXJJSElZenFNbEI3X1N5YmJVd9IBlwFBVV95cUxOYkRZVXh6WkpRWkNzZ0IxYVdkQ0lUbG1fN01YRDdHNHEzby0xTVhTNnNVQlhUTms5OS1PYndEX1I2eU1ITGJ3anEwbmpOLVRzZjhsTTVIQks0c2JMa1RTSmNFa2lNb01SblZiVTJINlRLQ3BvaGNBQ1Q1bzJONTduMFFtWjJKaEt4bU5TcTdDanN5V2hpQlYw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0NCVkFLYjZ3MFlvakpzT2Z1UU1sZ2gyTVVKTDI3T3lONFUyLVc3LW5DcllkN214WmExWnBsUGJnSnFEWWx4dmdRWGxoeEpZNUo5eWNIYVFCSmhqVTU3aGo0UzdCaEk5ZTN0VWFlNHN0M3ZXWHktZVRCQjRKSWxEemdnMU5vWVV1ZWN2ZVp2WEIyeEZFbndqSkNGTGNjODhyUmgxTnFJb1M1NHpPWDd3ZVp0aVRMRE5m0gGXAUFVX3lxTE5iRFlVeHpaSlFaQ3NnQjFhV2RDSVRsbV83TVhEN0c0cTNvLTFNWFM2c1VCWFROazk5LU9id0RfUjZ5TUhMYndqcTBuak4tVHNmOGxNNUhCSzRzYkxrVFNKY0VraU1vTVJuVmJVMkg2VEtDcG9oY0FDVDVvMk41N24wUW1aMkpoS3htTlNxN0Nqc3lXaGlCVjA?oc=5",
   "media": "kontan.co.id",
   "published": "2026-11-23T08:43:14+00:00",
   "tickers": [],
@@ -4337,32 +4483,6 @@
   "anomali": null
  },
  {
-  "id": "4d0578b8a3d7",
-  "title": "Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNHdQMmlwODRET1FnTFhUcmhwUWxRYzJfdW1sUUVvNGVreXg3VnJ5eWxVZ1RyejByYnZyMEd5X0EwdS1xMlFOa21zUEhPamcyYkVoWnBMSWJ6UFduai1mamlkbFhQRzd5QnB0U0g3a2twMFNXU3lWX091NFk3a2NiRVVZYWUtZ2Q3OTVOTXdCS1lFQmt4cC1pVVZNak5qUGhsd2R5Z0lBQ0QydWpYeHQ0NmxYUS1zdw?oc=5",
-  "media": "Bloomberg Technoz",
-  "published": "2026-11-23T03:16:28+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-24T00:52:14.190065+00:00",
-  "anon": [
-   "menurut sumber"
-  ],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global.  Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global &nbsp;&nbsp; Bloomberg Technoz",
-  "corroboration": 0,
-  "response": null,
-  "score": 25,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "ba1655f26a04",
   "title": "Emiten CDIA Siapkan Dana Jumbo untuk Buyback Saham",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUElqd3huLW45RlNxUnRlbVJnV0Z1aFl3V1dybFpVdWNmbUhNWmJPTnl0MG1DZlRuLVYzbEpOMG5ZdmJQSy1EWUs4Qkg1b2hZNFJ3dEtkZnVQNnJQOXVadDhSWTNsT2tMSGxQSjd0RFJHNS1yWFdsSjVUbTNqOEJrUXFFVk1YWFhEbXhXOG9ISlhLQnpkV1dhQlFSZ9IBkAFBVV95cUxQLWNNY2Z2bE5CVzdTanJ3MHcyZVhVVW12Y3JnQVFkWl9ralRrdEVRWUxlVG54S3VVRUlieVItV09WSF80Q0ZxYTF1b2p5QVQ1b3dQTUZDRzVEQ3JOTlUtc1UtSjJQSGRpejExQmE0ajdscDhCa2VVNktaTGd2Z2lxYnlXWU9hc2hhYmFhVnpCYmw?oc=5",
@@ -4502,6 +4622,32 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "4d0578b8a3d7",
+  "title": "Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3BmZnZ1RzBVRkh1b1pSMEpnd0pPUXlabXZWSl9jcWlNc0R1dTlDTDl3UGR0R2dsTExRVHkxZ0NTRi1FRG13eHJwNVVzMm5VVlM1cTB4c1FocHdYbkcySV8xR2JiejJ0ZjU4azA3Ymc4NW9GNmVHUG96LWxaOVZ5VTJpY1dITkFtS0JsOVpFUDkwMEpWSEhwbnNTT2tRR3hjNTI4T1djdFBIOHFPV1ZtWXp5OA?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-23T02:56:09+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T00:52:14.190065+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global.  Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
   "outcome": null,
   "anomali": null
  },
@@ -6602,7 +6748,7 @@
   "first_seen": "2026-11-21T08:43:34.628696+00:00",
   "anon": [],
   "corp": [
-   "private placement"
+   "tender offer"
   ],
   "stance": null,
   "value_bn": 0.55,
@@ -6860,7 +7006,7 @@
  {
   "id": "d2cc62017f6d",
   "title": "PACK Bantah Rencana Akuisisi Saham Weda Bay Nickel Milik Eramet",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1l1b0liR2lJTHFBX25KTVJ5MnhJYWVBOUVoZnF6cHNiSndlVmwyREhkcC1CZmNhMkJLa3VqRlcyR3NxaXVNeUhaZ3dVbUlBMkZ6dnNpeG0xRWFQZHNIM2IxRzhuN25mZUwwQmkwdDlzRGVzSXRRdzJQZl9EbjZtaC13VFB0MDBZVEg4ZkFwTl9WaFBLeDFoQnBfN3VtbTJBalhaaERXMNIBqgFBVV95cUxQbFlTckNQdDNPV0lORmRJNFVOWkN1OU51OTY1dHJrbmh2aHVWZkFqV19xZG9mRnBnem41Uzl0NEc4VXhCVU9aSUZyQldVRDRnVndDQ1M2a0RQcGZodVJSWU1fX1R5Q0JCSTg3WW16OHVGYkpyRUwwa0g0R3kySnJGN2R5NWdJM25IYy1Ka2xPV3ZfSlQyTVhTejVLSFZQU040dnBjRG1Zc0QxUQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2cweEE1bUhWbnJZek1uVGtXZ0dBd1JHTUhQN08ybjJWSXlPMlF4Y0xvbkI1azhNVzBiTDk4cl8tVjE4NW1MTFpiV3JxS1QtdURocUFQdHBTZEMwTXJ1X3hReGNJVGJtUFVVbXZwaUsxd09tV3VTZDJlYjRJeWpMLTFCUUZsMzRsb1pjLWNPdmZZV08zbWotU1cwZWtXRzQwaUh2MdIBqgFBVV95cUxQbFlTckNQdDNPV0lORmRJNFVOWkN1OU51OTY1dHJrbmh2aHVWZkFqV19xZG9mRnBnem41Uzl0NEc4VXhCVU9aSUZyQldVRDRnVndDQ1M2a0RQcGZodVJSWU1fX1R5Q0JCSTg3WW16OHVGYkpyRUwwa0g0R3kySnJGN2R5NWdJM25IYy1Ka2xPV3ZfSlQyTVhTejVLSFZQU040dnBjRG1Zc0QxUQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-21T05:03:00+00:00",
   "tickers": [],
@@ -7182,36 +7328,6 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "96b5b49a326d",
-  "title": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXpMSTRKZFZfcmtUTHdaMG9URGRmd09JSHVxQTRlZXhyRW0zNEZlNjJuOFl2aHJTbEtsNThsZEJpWWN1Vi0zMHM2WDVTcnI2QzFRajRUeEhKVjBiV0J2THh0ZkRWQWt5RnJGLWxkNGZGS01NS0tXbWxRS3RnVzB5SXNWTzJCalRvSTRsQVZNXzhhTV8yckRBN0sxWXRYc3FZR255b1JpaFlnR05WbmtRbk4taUJDMTZDazE1VFdvZFFnRGhNcnNuMQ?oc=5",
-  "media": "Digivestasi",
-  "published": "2026-11-20T19:59:56+00:00",
-  "tickers": [
-   "EXCL"
-  ],
-  "uma": false,
-  "jenis": [
-   "Pembelian/penjualan besar"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-20T14:12:09.645817+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
-  ],
-  "stance": null,
-  "value_bn": 1000.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS.  XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS &nbsp;&nbsp; Dig",
-  "corroboration": 10,
-  "response": null,
-  "score": 26,
   "outcome": null,
   "anomali": null
  },
@@ -7950,7 +8066,7 @@
  {
   "id": "593da0f4eb31",
   "title": "Kantongi Restu, NINE Siap Right Issue 2,44 Miliar Lembar",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXdtTFlMaXNLZzllSlctSGVrVTJuRDUxeXhHaDBKWUl4bzA3UXlQZk9jcXc0azhxSUVXTjZTOXZ2cEFZOEI4aFJkckhmS1M2NHNkTXRRSDIwa2F4b2UzNHhmNURwMXdwY2tWbmpqTkxTZU1VR0Nud2xvZzZOd0JDUF92Njg4VjVFTFhuWk5vTQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPODRxMEphVV9Ycnk0aUI2ejMxVWpUVXR1NlNhXzdlN2FjcXBwcjE0Ri1LVmRTUm1QTTQ2TnZDRVRYUmpfZmoxMFFubWE0c0RsTEdSYlpxaUNkTTBGb0xzNHVkUlZyWFpJWXBXc3FOY05uMFE2VGhxaVZzTFhKRkVqdXozeTdHQVhwbEE?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-20T06:00:00+00:00",
   "tickers": [],
@@ -9012,6 +9128,32 @@
   }
  },
  {
+  "id": "f7d219b88cb6",
+  "title": "IHSG Berpeluang Menguat Menuju 5.520 Setelah Terkoreksi",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FOVlRXzYxQVA2MnVlc3p4SENJalBlU1FwQktwUmZ2LUgzVUw1ZnZPcWRtMkZaazNmN2REN2daZExSMXNNVTRoNnhtSzZrYXRuNXpTM2RQRU4wR1U4QTBOM0tQNWxpYUV1S1V5bm92Yw?oc=5",
+  "media": "CentralBatam",
+  "published": "2026-11-19T23:08:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-25T15:30:56.074426+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IHSG Berpeluang Menguat Menuju 5.520 Setelah Terkoreksi.  IHSG Berpeluang Menguat Menuju 5.520 Setelah Terkoreksi &nbsp;&nbsp; CentralBatam",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "462402d08a9c",
   "title": "Elnusa Lanjutkan Buyback Saham Rp84,5 Miliar hingga Februari 2027",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGgyTzRJMkFfNURicnpYUTVBVXFWMUZlc2lvTmhpRHF6cndkV1pfYS1UTnZiTkFCRU1mWkV0eF9qTV9jYWhlc2NVZGctUTczcTV0VUZvTTZrYUs5Sms5eUFXeF91SHZQajN0Q3MzVG8xdzJ0QnZMNjB1VlBDN2FvZHU4WFlydWh6YjR5LWZ3MGZ1UmhDOTRZMXR6cGZlbFV6MGlwWVlxSE9KV0pQM0HSAawBQVVfeXFMT3AtSlR6d2N0blZZSWNpZmN3NEVyd0haZk5iVDk5LURLQ2ZMaWJaVDFtSDBiREo3cC1IX0VoU0xTSFI2SFo4aFd4Wmp1Nm9RcVliUENwMVlySUswSGxSTUVvajNQbmxMRGxodjJFSWpGMnRRVFREb0pfbmh5M2szNTA4U0lXU21wUDJDNHoybUlPODJMdnNJdklMaEJrSzg4NzlOWG5KaV9KamJoVw?oc=5",
@@ -9783,7 +9925,9 @@
   ],
   "asal": [],
   "first_seen": "2026-11-19T09:35:43.305211+00:00",
-  "anon": [],
+  "anon": [
+   "sedang menjajaki"
+  ],
   "corp": [
    "akuisisi"
   ],
@@ -9794,7 +9938,7 @@
   "snippet": "Emiten Haji Isam Bantah Akuisisi Saham Eramet di Tambang Nikel Weda Bay.  Emiten Haji Isam Bantah Akuisisi Saham Eramet di Tambang Nikel Weda Bay &nbsp;&nbsp; Herald.ID",
   "corroboration": 0,
   "response": null,
-  "score": 6,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
