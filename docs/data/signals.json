@@ -1,5 +1,33 @@
 [
  {
+  "id": "60138a6bca30",
+  "title": "Emiten Prajogo PTRO Kantongi Restu Right Issue dan Penjaminan Aset",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjg4T0tUaWZ3RDQzejZrMXlrenJWaUR5MVBQa0dwY2pBZi11bnZYYktGSEVZUFlRdzR2azVQTk51TmY1SUhMNkRxZjlWOVhBVjFYSW5Xa1lsV0lHZEh0RnBIVGREM3otU2ZjWDdVd29YeHBoMlRYYWZHZF9IcndpaUVhVWxOWUxXQVNUa09mcFBIai1PRzc3eEdn?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-25T09:06:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-25T10:01:53.065306+00:00",
+  "anon": [],
+  "corp": [
+   "right issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Emiten Prajogo PTRO Kantongi Restu Right Issue dan Penjaminan Aset.  Emiten Prajogo PTRO Kantongi Restu Right Issue dan Penjaminan Aset &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "89bbd9124679",
   "title": "Saham TALF Bergejolak, Begini Penjelasan Resmi Tunas Alfin ke BEI",
   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1hUeFYxMTYzd0hyTlV6Q1JpQmo0TlhWelFiZmJPamdGSGFZQTY3N3NaV3RSSy1ZOGFKb1NWRXhFWUhLbFQtTHR5QTFQYVJNY2lBVkJwMmZrRlZTdjdGTFN0S0ozeC1qR09TY3EyZk1EMW12ajBLOEtYeEJOWnhZb3BEenhiU3FNdUJIZXptV2c?oc=5",
@@ -28,7 +56,7 @@
  {
   "id": "9d05316355f1",
   "title": "Petrosea (PTRO) Siapkan Rights Issue, Bakal Terbitkan 170 Juta Saham Baru",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXVsbkxNZ0V0cjNmMU9tNkY4Nm8xdjNBN3U5ZlFEM2hJbExjUXhyUmdNaklOMndnWjhicnhKcnhqazg2Zk82YlA0dzFZSUtUUFoxeEtXOFJJYVdTWkMxTjVwbC1SeDg3QWF1N0F1XzhUcUJOZEI2NGd3WnlfZWtCMkp1cDdzZkxLNU1PX2Q2WGhkOFI5cXgzNThRU2VfVDJfdWVxT2sxQ2hyU3JaMm9kYtIBswFBVV95cUxPRlNjNXZaUjJ0dHhiTTVNbWZONlJTN0U1blcxTWExYjg2ZnFGWmwxMUhaeEZuekQ4UWtzd1lfSjBURzdLT0ZLNDAwLUNabnJtM0NRdEV3VnN1UU03OFZ4WGVIeGFYTk94aExubEdabUVTTnc5eTF6cFBQS0l2WlFiMWx4M1VwOXpBQm82a01qZkhDX2ZvYkVYV0VSazhBZU1XWjFqMWpKb3FEc0tWTjVLamYzbw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMjdaLWM1TUxsZjRlUXFoSzVWRm1sRHlta25aTDh1U0JSSGtiVHJMTDFoZEdIQVowTjZMMzZ6elF4WUN4VWJRVFlJNFhyOXEyYXBDVmFWWTVIcnRNaUNjMGVRUnBlMUl1LWpFdld6VlJvbHhidEJqVElUYi1aUE1GQy1qMnBPUVlJZmEtSnNaUXNDR0J2WGJrUmtYeDJvNkVPb3ZmNmIzLWlqZzIybHfSAbMBQVVfeXFMT0ZTYzV2WlIydHR4Yk01TW1mTjZSUzdFNW5XMU1hMWI4NmZxRlpsMTFIWnhGbnpEOFFrc3dZX0owVEc3S09GSzQwMC1DWm5ybTNDUXRFd1ZzdVFNNzhWeFhlSHhhWE5PeGhMbmxHWm1FU053OXkxenBQUEtJdlpRYjFseDNVcDl6QUJvNmtNamZIQ19mb2JFWFdFUms4QWVNV1oxajFqSm9xRHNLVk41S2pmM28?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-25T07:39:00+00:00",
   "tickers": [
@@ -84,8 +112,8 @@
   "score": 20,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 2.8,
+   "vol_z": -0.2,
+   "abn5": 3.0,
    "last": "2026-11-25"
   }
  },
@@ -142,8 +170,8 @@
   "score": 12,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -259,8 +287,8 @@
   "score": 17,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 2.8,
+   "vol_z": -0.2,
+   "abn5": 3.0,
    "last": "2026-11-25"
   }
  },
@@ -369,6 +397,36 @@
   "party": false,
   "snippet": "DMS Propertindo Siapkan Rights Issue Rp 4,95 Triliun.  DMS Propertindo Siapkan Rights Issue Rp 4,95 Triliun &nbsp;&nbsp; ChatNews.id",
   "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "88f21999e90e",
+  "title": "DMS Propertindo (KOTA) Mau Akuisisi 2 Perusahaan",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ljX3VLVGRZekZHWWM4MmhXNndYNkxDaTF4eXVSUE9iUTYzN2NENzNwbGhvNHJ3Ymh3OTh5Y2hub3FWaTFpcWdGMmdTRjRRZlhlYmw1LWdPNEM5dk5ncFdSNzQ4MWpFVmRaWlVJem4tZHgzSEtUQ2FYOUhwemZ3RDQ4UUJrcXM?oc=5",
+  "media": "investor.id",
+  "published": "2026-11-25T04:18:36+00:00",
+  "tickers": [
+   "KOTA"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-25T10:01:53.065306+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "DMS Propertindo (KOTA) Mau Akuisisi 2 Perusahaan.  DMS Propertindo (KOTA) Mau Akuisisi 2 Perusahaan &nbsp;&nbsp; investor.id",
+  "corroboration": 3,
   "response": null,
   "score": 16,
   "outcome": null,
@@ -658,8 +716,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -745,9 +803,9 @@
   "schedule": false,
   "party": false,
   "snippet": "DMS Propertindo (KOTA) Umumkan Rencana Penambahan Modal dan Akuisisi Lahan Strategis.  DMS Propertindo (KOTA) Umumkan Rencana Penambahan Modal dan Akuisisi Lahan Strategis &nbsp;&nbsp; PintarSaham",
-  "corroboration": 2,
+  "corroboration": 3,
   "response": null,
-  "score": 11,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -970,8 +1028,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -1221,7 +1279,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.71,
-   "abn5": -0.77,
+   "abn5": -0.8,
    "last": "2026-11-25"
   }
  },
@@ -2252,8 +2310,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -2366,8 +2424,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -3417,8 +3475,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.31,
-   "abn5": 1.87,
+   "vol_z": 0.35,
+   "abn5": 1.25,
    "last": "2026-11-25"
   }
  },
@@ -3440,6 +3498,30 @@
   "schedule": false,
   "party": false,
   "snippet": "Perempuan Melahirkan di Toko Parfum Jalan Borobudur Malang.  Perempuan Melahirkan di Toko Parfum Jalan Borobudur Malang &nbsp;&nbsp; MediaKompeten",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "438adeba2bba",
+  "title": "My Chemical Romance Tutup Tur The Black Parade di Jakarta",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hcEhlZ0Zpb3JyTkJCYXA4Ulhhdkh4M0lNRlRDWDZuOTg4NXdidWluMGNnaVBFWDRvMjFfYkhhNlo1YjhBRFRWMi1vS3ozbWhQeTE4ZFl0eHFfQkY3RGQ3TElCVkQyUnhPaER5OWJUeHJTeEZL?oc=5",
+  "media": "MediaKompeten",
+  "published": "2026-11-23T05:03:02+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-25T10:01:53.065306+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "My Chemical Romance Tutup Tur The Black Parade di Jakarta.  My Chemical Romance Tutup Tur The Black Parade di Jakarta &nbsp;&nbsp; MediaKompeten",
   "corroboration": 0,
   "response": null,
   "score": 41,
@@ -3929,6 +4011,32 @@
   "anomali": null
  },
  {
+  "id": "4d0578b8a3d7",
+  "title": "Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNHdQMmlwODRET1FnTFhUcmhwUWxRYzJfdW1sUUVvNGVreXg3VnJ5eWxVZ1RyejByYnZyMEd5X0EwdS1xMlFOa21zUEhPamcyYkVoWnBMSWJ6UFduai1mamlkbFhQRzd5QnB0U0g3a2twMFNXU3lWX091NFk3a2NiRVVZYWUtZ2Q3OTVOTXdCS1lFQmt4cC1pVVZNak5qUGhsd2R5Z0lBQ0QydWpYeHQ0NmxYUS1zdw?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-23T03:16:28+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T00:52:14.190065+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global.  Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "ba1655f26a04",
   "title": "Emiten CDIA Siapkan Dana Jumbo untuk Buyback Saham",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUElqd3huLW45RlNxUnRlbVJnV0Z1aFl3V1dybFpVdWNmbUhNWmJPTnl0MG1DZlRuLVYzbEpOMG5ZdmJQSy1EWUs4Qkg1b2hZNFJ3dEtkZnVQNnJQOXVadDhSWTNsT2tMSGxQSjd0RFJHNS1yWFdsSjVUbTNqOEJrUXFFVk1YWFhEbXhXOG9ISlhLQnpkV1dhQlFSZ9IBkAFBVV95cUxQLWNNY2Z2bE5CVzdTanJ3MHcyZVhVVW12Y3JnQVFkWl9ralRrdEVRWUxlVG54S3VVRUlieVItV09WSF80Q0ZxYTF1b2p5QVQ1b3dQTUZDRzVEQ3JOTlUtc1UtSjJQSGRpejExQmE0ajdscDhCa2VVNktaTGd2Z2lxYnlXWU9hc2hhYmFhVnpCYmw?oc=5",
@@ -4068,32 +4176,6 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "4d0578b8a3d7",
-  "title": "Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3BmZnZ1RzBVRkh1b1pSMEpnd0pPUXlabXZWSl9jcWlNc0R1dTlDTDl3UGR0R2dsTExRVHkxZ0NTRi1FRG13eHJwNVVzMm5VVlM1cTB4c1FocHdYbkcySV8xR2JiejJ0ZjU4azA3Ymc4NW9GNmVHUG96LWxaOVZ5VTJpY1dITkFtS0JsOVpFUDkwMEpWSEhwbnNTT2tRR3hjNTI4T1djdFBIOHFPV1ZtWXp5OA?oc=5",
-  "media": "Bloomberg Technoz",
-  "published": "2026-11-23T02:56:09+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-24T00:52:14.190065+00:00",
-  "anon": [
-   "menurut sumber"
-  ],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global.  Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global &nbsp;&nbsp; Bloomberg Technoz",
-  "corroboration": 0,
-  "response": null,
-  "score": 25,
   "outcome": null,
   "anomali": null
  },
@@ -4356,8 +4438,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -4444,8 +4526,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -4638,8 +4720,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -5480,8 +5562,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -5538,8 +5620,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -6034,8 +6116,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -6168,7 +6250,7 @@
   "first_seen": "2026-11-21T08:43:34.628696+00:00",
   "anon": [],
   "corp": [
-   "tender offer"
+   "private placement"
   ],
   "stance": null,
   "value_bn": 0.55,
@@ -6426,7 +6508,7 @@
  {
   "id": "d2cc62017f6d",
   "title": "PACK Bantah Rencana Akuisisi Saham Weda Bay Nickel Milik Eramet",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1l1b0liR2lJTHFBX25KTVJ5MnhJYWVBOUVoZnF6cHNiSndlVmwyREhkcC1CZmNhMkJLa3VqRlcyR3NxaXVNeUhaZ3dVbUlBMkZ6dnNpeG0xRWFQZHNIM2IxRzhuN25mZUwwQmkwdDlzRGVzSXRRdzJQZl9EbjZtaC13VFB0MDBZVEg4ZkFwTl9WaFBLeDFoQnBfN3VtbTJBalhaaERXMNIBqgFBVV95cUxQbFlTckNQdDNPV0lORmRJNFVOWkN1OU51OTY1dHJrbmh2aHVWZkFqV19xZG9mRnBnem41Uzl0NEc4VXhCVU9aSUZyQldVRDRnVndDQ1M2a0RQcGZodVJSWU1fX1R5Q0JCSTg3WW16OHVGYkpyRUwwa0g0R3kySnJGN2R5NWdJM25IYy1Ka2xPV3ZfSlQyTVhTejVLSFZQU040dnBjRG1Zc0QxUQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2cweEE1bUhWbnJZek1uVGtXZ0dBd1JHTUhQN08ybjJWSXlPMlF4Y0xvbkI1azhNVzBiTDk4cl8tVjE4NW1MTFpiV3JxS1QtdURocUFQdHBTZEMwTXJ1X3hReGNJVGJtUFVVbXZwaUsxd09tV3VTZDJlYjRJeWpMLTFCUUZsMzRsb1pjLWNPdmZZV08zbWotU1cwZWtXRzQwaUh2MdIBqgFBVV95cUxQbFlTckNQdDNPV0lORmRJNFVOWkN1OU51OTY1dHJrbmh2aHVWZkFqV19xZG9mRnBnem41Uzl0NEc4VXhCVU9aSUZyQldVRDRnVndDQ1M2a0RQcGZodVJSWU1fX1R5Q0JCSTg3WW16OHVGYkpyRUwwa0g0R3kySnJGN2R5NWdJM25IYy1Ka2xPV3ZfSlQyTVhTejVLSFZQU040dnBjRG1Zc0QxUQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-21T05:03:00+00:00",
   "tickers": [],
@@ -7740,8 +7822,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -7856,8 +7938,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -7948,8 +8030,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -8302,8 +8384,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.36,
-   "abn5": -13.74,
+   "vol_z": -0.35,
+   "abn5": -13.77,
    "last": "2026-11-25"
   }
  },
@@ -8366,8 +8448,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -8478,8 +8560,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 5.26,
+   "vol_z": -0.15,
+   "abn5": 5.15,
    "last": "2026-11-25"
   }
  },
@@ -8543,7 +8625,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.35,
-   "abn5": -3.8,
+   "abn5": -3.86,
    "last": "2026-11-25"
   }
  },
@@ -9409,8 +9491,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 6.05,
+   "vol_z": -0.05,
+   "abn5": 5.39,
    "last": "2026-11-25"
   }
  },
@@ -9669,8 +9751,8 @@
   "score": 17,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 2.8,
+   "vol_z": -0.2,
+   "abn5": 3.0,
    "last": "2026-11-25"
   }
  },
@@ -10031,8 +10113,8 @@
   "score": 59,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 6.05,
+   "vol_z": -0.05,
+   "abn5": 5.39,
    "last": "2026-11-25"
   }
  },
@@ -10190,13 +10272,13 @@
   "schedule": false,
   "party": false,
   "snippet": "BRI Danareksa Sekuritas Siapkan Lebih dari Lima Calon Emiten IPO, Bidik Perusahaan dengan Skala Bisnis Besar.  BRI Danareksa Sekuritas Siapkan Lebih dari Lima Calon Emiten IPO, Bidik Perusahaan dengan Skala Bisnis Besar &nbsp;&nbsp; TOPIK.ID",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 1.35,
+   "vol_z": -0.2,
+   "abn5": 1.94,
    "last": "2026-11-25"
   }
  },
@@ -10451,8 +10533,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -11306,13 +11388,13 @@
   "schedule": false,
   "party": false,
   "snippet": "BRI Danareksa Sekuritas Jajaki Lebih dari Lima Perusahaan Calon IPO untuk 2027.  BRI Danareksa Sekuritas Jajaki Lebih dari Lima Perusahaan Calon IPO untuk 2027 &nbsp;&nbsp; gadget.qoo10.co.id",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 1.35,
+   "vol_z": -0.2,
+   "abn5": 1.94,
    "last": "2026-11-25"
   }
  },
@@ -11338,13 +11420,13 @@
   "schedule": false,
   "party": false,
   "snippet": "BRI Danareksa Sekuritas Jajaki Lebih dari Lima Perusahaan Calon IPO untuk 2027.  BRI Danareksa Sekuritas Jajaki Lebih dari Lima Perusahaan Calon IPO untuk 2027 &nbsp;&nbsp; Qoo Media",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 1.35,
+   "vol_z": -0.2,
+   "abn5": 1.94,
    "last": "2026-11-25"
   }
  },
@@ -11426,13 +11508,13 @@
   "schedule": false,
   "party": false,
   "snippet": "BRI Danareksa Siapkan Lebih dari Lima Perusahaan IPO.  BRI Danareksa Siapkan Lebih dari Lima Perusahaan IPO &nbsp;&nbsp; BeritaJejaring.co.id",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 1.35,
+   "vol_z": -0.2,
+   "abn5": 1.94,
    "last": "2026-11-25"
   }
  },
@@ -11609,6 +11691,38 @@
   "score": 19,
   "outcome": null,
   "anomali": null
+ },
+ {
+  "id": "e6ec105e6902",
+  "title": "BRI Danareksa Sekuritas Jajaki IPO Lebih dari 5 Perusahaan, Identitas Masih Dirahasiakan",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYW1PY1BEOWFHUExYRzN0U0RhV1U5T2dNV3JPeF9EWGNNcDhzWmJYT3d5cEtXZXdOVVQ5ZnVfazlEZFlJR18tV0hlU1lRWUFGZ0I5Q0kzQmVKUTdoRE9Cb0E2NkdZUzVzRmVqWUt3S2JnV3lLRExyZ2NWZHNWWC1pbGxaTFl2YzVSbll3NlplRTQ3aGRzVnE1akFOVTluRnpBVHF3TFk1VWN5ZXRoTVFJWXZqV01IaGhN?oc=5",
+  "media": "SWA.co.id",
+  "published": "2026-11-18T12:05:00+00:00",
+  "tickers": [
+   "BBRI"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-25T10:01:53.065306+00:00",
+  "anon": [
+   "tengah menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BRI Danareksa Sekuritas Jajaki IPO Lebih dari 5 Perusahaan, Identitas Masih Dirahasiakan.  BRI Danareksa Sekuritas Jajaki IPO Lebih dari 5 Perusahaan, Identitas Masih Dirahasiakan &nbsp;&nbsp; SWA.co.id",
+  "corroboration": 6,
+  "response": null,
+  "score": 26,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.2,
+   "abn5": 1.94,
+   "last": "2026-11-25"
+  }
  },
  {
   "id": "f8b9501cf052",
@@ -12025,8 +12139,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -12470,8 +12584,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -12724,8 +12838,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -13328,8 +13442,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 2.8,
+   "vol_z": -0.2,
+   "abn5": 3.0,
    "last": "2026-11-25"
   }
  },
@@ -14548,8 +14662,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.99,
-   "abn5": 11.31,
+   "vol_z": 2.05,
+   "abn5": 11.28,
    "last": "2026-11-25"
   }
  },
@@ -15149,8 +15263,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -15181,8 +15295,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -15431,8 +15545,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -15463,8 +15577,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -15495,8 +15609,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -15527,8 +15641,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -15559,8 +15673,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -15591,8 +15705,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -15761,8 +15875,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -15793,8 +15907,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -15827,8 +15941,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -15889,8 +16003,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -15921,8 +16035,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -15955,8 +16069,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -15987,8 +16101,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -16172,13 +16286,13 @@
   "schedule": false,
   "party": false,
   "snippet": "BRI Danareksa Pilih Tiga Saham untuk 16 November 2026.  BRI Danareksa Pilih Tiga Saham untuk 16 November 2026 &nbsp;&nbsp; Demokratis.co.id",
-  "corroboration": 5,
+  "corroboration": 6,
   "response": null,
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 1.35,
+   "vol_z": -0.2,
+   "abn5": 1.94,
    "last": "2026-11-25"
   }
  },
@@ -16612,8 +16726,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 0.56,
+   "vol_z": -0.03,
+   "abn5": 1.87,
    "last": "2026-11-25"
   }
  },
@@ -16724,8 +16838,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -16926,8 +17040,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -17216,8 +17330,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -17248,8 +17362,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -18504,8 +18618,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -18590,8 +18704,8 @@
   "score": 27,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 6.05,
+   "vol_z": -0.05,
+   "abn5": 5.39,
    "last": "2026-11-25"
   }
  },
@@ -18652,8 +18766,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -18848,8 +18962,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -19266,8 +19380,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -19957,8 +20071,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -20229,8 +20343,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -20263,8 +20377,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -20506,11 +20620,11 @@
   "snippet": "Saham TLKM: Asing Net Buy Rp22,8 Miliar, Pendapatan Tumbuh 3,5%.  Saham TLKM: Asing Net Buy Rp22,8 Miliar, Pendapatan Tumbuh 3,5% &nbsp;&nbsp; KabaSumbar",
   "corroboration": 1,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -4.98,
+   "vol_z": -0.08,
+   "abn5": -5.55,
    "last": "2026-11-25"
   }
  },
@@ -21288,7 +21402,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": 2.02,
-   "abn5": 1.07,
+   "abn5": 0.96,
    "last": "2026-11-25"
   }
  },
@@ -22085,8 +22199,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 2.8,
+   "vol_z": -0.2,
+   "abn5": 3.0,
    "last": "2026-11-25"
   }
  },
@@ -22227,11 +22341,11 @@
   "snippet": "Harga Saham ICBP Hari Ini, Rabu 11 November 2026.  Harga Saham ICBP Hari Ini, Rabu 11 November 2026 &nbsp;&nbsp; Pintu",
   "corroboration": 0,
   "response": null,
-  "score": 56,
+  "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 5.4,
+   "vol_z": -0.32,
+   "abn5": 4.93,
    "last": "2026-11-25"
   }
  },
@@ -22806,8 +22920,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -24217,11 +24331,11 @@
   "snippet": "Nasib Investasi Lo Kheng Hong, Telkom & Dapen Pertamina usai SRIL, TELE, & SUGI Delisting - Bisnis.com.  Nasib Investasi Lo Kheng Hong, Telkom & Dapen Pertamina usai SRIL, TELE, & SUGI Delisting &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 1,
   "response": null,
-  "score": 15,
+  "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -4.98,
+   "vol_z": -0.08,
+   "abn5": -5.55,
    "last": "2026-11-25"
   }
  },
@@ -24662,11 +24776,11 @@
   "snippet": "Percepat Streamlining, Telkom Rampingkan Anak Usaha Lewat Dua Merger Sekaligus.  Percepat Streamlining, Telkom Rampingkan Anak Usaha Lewat Dua Merger Sekaligus &nbsp;&nbsp; kontan.co.id",
   "corroboration": 1,
   "response": null,
-  "score": 15,
+  "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -4.98,
+   "vol_z": -0.08,
+   "abn5": -5.55,
    "last": "2026-11-25"
   }
  },
@@ -26306,8 +26420,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 1.35,
+   "vol_z": -0.2,
+   "abn5": 1.94,
    "last": "2026-11-25"
   }
  },
@@ -27026,8 +27140,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 1.35,
+   "vol_z": -0.2,
+   "abn5": 1.94,
    "last": "2026-11-25"
   }
  },
@@ -27061,8 +27175,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 1.35,
+   "vol_z": -0.2,
+   "abn5": 1.94,
    "last": "2026-11-25"
   }
  },
@@ -27290,8 +27404,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 1.35,
+   "vol_z": -0.2,
+   "abn5": 1.94,
    "last": "2026-11-25"
   }
  },
@@ -27380,8 +27494,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 1.35,
+   "vol_z": -0.2,
+   "abn5": 1.94,
    "last": "2026-11-25"
   }
  },
@@ -27532,8 +27646,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 1.35,
+   "vol_z": -0.2,
+   "abn5": 1.94,
    "last": "2026-11-25"
   }
  },
@@ -27842,8 +27956,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -29040,8 +29154,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -29197,11 +29311,11 @@
   "snippet": "Anggota DPR Amerika jual TLKM sehari sebelum MSCI guncang bursa RI.  Anggota DPR Amerika jual TLKM sehari sebelum MSCI guncang bursa RI &nbsp;&nbsp; IDNFinancials",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -4.98,
+   "vol_z": -0.08,
+   "abn5": -5.55,
    "last": "2026-11-25"
   }
  },
@@ -30486,11 +30600,11 @@
   "snippet": "BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman.  BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman &nbsp;&nbsp; StockWatch.id",
   "corroboration": 2,
   "response": null,
-  "score": 67,
+  "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 5.4,
+   "vol_z": -0.32,
+   "abn5": 4.93,
    "last": "2026-11-25"
   }
  },
@@ -30522,11 +30636,11 @@
   "snippet": "BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman.  BEI Minta Penjelasan Buyback Saham, ICBP Pastikan Dana Rp750 Miliar Aman &nbsp;&nbsp; stockwatch.id",
   "corroboration": 2,
   "response": null,
-  "score": 67,
+  "score": 52,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 5.4,
+   "vol_z": -0.32,
+   "abn5": 4.93,
    "last": "2026-11-25"
   }
  },
@@ -30635,11 +30749,11 @@
   "snippet": "INDF-ICBP Pastikan Aksi Buyback Saham Tidak Langgar Aturan Free Float.  INDF-ICBP Pastikan Aksi Buyback Saham Tidak Langgar Aturan Free Float &nbsp;&nbsp; IDX Channel",
   "corroboration": 2,
   "response": null,
-  "score": 29,
+  "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 5.4,
+   "vol_z": -0.32,
+   "abn5": 4.93,
    "last": "2026-11-25"
   }
  },
@@ -30944,8 +31058,8 @@
   "score": 18,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 2.8,
+   "vol_z": -0.2,
+   "abn5": 3.0,
    "last": "2026-11-25"
   }
  },
@@ -31122,8 +31236,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 2.8,
+   "vol_z": -0.2,
+   "abn5": 3.0,
    "last": "2026-11-25"
   }
  },
@@ -31156,8 +31270,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 2.8,
+   "vol_z": -0.2,
+   "abn5": 3.0,
    "last": "2026-11-25"
   }
  },
@@ -32166,8 +32280,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -32282,8 +32396,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -36215,8 +36329,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.99,
-   "abn5": 11.31,
+   "vol_z": 2.05,
+   "abn5": 11.28,
    "last": "2026-11-25"
   }
  },
@@ -38520,11 +38634,11 @@
   "snippet": "4 Segmen Bisnis Utama Tumbuh, Telkom (TLKM) Raup Pendapatan Rp113,5T.  4 Segmen Bisnis Utama Tumbuh, Telkom (TLKM) Raup Pendapatan Rp113,5T &nbsp;&nbsp; Emitennews.com",
   "corroboration": 1,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.12,
-   "abn5": -4.98,
+   "vol_z": -0.08,
+   "abn5": -5.55,
    "last": "2026-11-25"
   }
  },
@@ -39002,8 +39116,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.99,
-   "abn5": 11.31,
+   "vol_z": 2.05,
+   "abn5": 11.28,
    "last": "2026-11-25"
   }
  },
@@ -40153,8 +40267,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.95,
-   "abn5": 1.02,
+   "vol_z": -0.93,
+   "abn5": 0.58,
    "last": "2026-11-25"
   }
  },
@@ -40372,11 +40486,11 @@
   "snippet": "Emiten ICBP Raup Penjualan Rp 64,45 Triliun.  Emiten ICBP Raup Penjualan Rp 64,45 Triliun &nbsp;&nbsp; Liputan6.com",
   "corroboration": 3,
   "response": null,
-  "score": 41,
+  "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.34,
-   "abn5": 5.4,
+   "vol_z": -0.32,
+   "abn5": 4.93,
    "last": "2026-11-25"
   }
  },
@@ -40439,8 +40553,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.99,
-   "abn5": 11.31,
+   "vol_z": 2.05,
+   "abn5": 11.28,
    "last": "2026-11-25"
   }
  },
@@ -40501,8 +40615,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.99,
-   "abn5": 11.31,
+   "vol_z": 2.05,
+   "abn5": 11.28,
    "last": "2026-11-25"
   }
  },
@@ -40757,8 +40871,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -40791,8 +40905,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -41378,8 +41492,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -41490,8 +41604,8 @@
   "score": 0,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -42116,8 +42230,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -42497,8 +42611,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 1.89,
+   "vol_z": -0.17,
+   "abn5": 2.26,
    "last": "2026-11-25"
   }
  },
@@ -42977,8 +43091,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.19,
-   "abn5": 5.26,
+   "vol_z": -0.15,
+   "abn5": 5.15,
    "last": "2026-11-25"
   }
  },
@@ -43411,8 +43525,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 2.8,
+   "vol_z": -0.2,
+   "abn5": 3.0,
    "last": "2026-11-25"
   }
  },
@@ -43595,8 +43709,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 2.8,
+   "vol_z": -0.2,
+   "abn5": 3.0,
    "last": "2026-11-25"
   }
  },
