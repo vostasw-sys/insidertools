@@ -1,5 +1,35 @@
 [
  {
+  "id": "229db6a4abc8",
+  "title": "Akuisisi 100 Persen Saham EDOTCO, Tower Bersama (TBIG) Pastikan Ini",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2hpVFc3cGVEQzNVUXBieXB0a0FzSWJOejd4dmFZZlNKRFJLNXlULUt6M1BYU044ODRWLVpiSEFsbzBKTmJaZmt3cDFpdzdLQWViWWt1bm9sUnY1TmxnVU0ydm1OUktEV29fQUdYNFdnYVFfOGQ1TURLbVRnWkprRUFhc3dmbDRZang2SnYxWGw1MWNFcjRkN1laZjg?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-25T18:32:11+00:00",
+  "tickers": [
+   "TBIG"
+  ],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-25T14:14:42.651398+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Akuisisi 100 Persen Saham EDOTCO, Tower Bersama (TBIG) Pastikan Ini.  Akuisisi 100 Persen Saham EDOTCO, Tower Bersama (TBIG) Pastikan Ini &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 2,
+  "response": null,
+  "score": 14,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "34af5cfe673f",
   "title": "Didukung Fundamental Solid, GPRA Siap Buyback Saham Maksimal Rp 40 Miliar",
   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmJ1VUMxenJUT3hyeHExTmFxY2hoX1B1bjhGM29fWFRlQlJsZG9yd0hZSFdyTWsxVHBmSlNINnB0VzFWR25mdkQ5M2IzeWY1YWlobVAyOHJuckttMy1PZ0VVMTU3b1NZTy1HY0NUMWtQQ1dickhWZWRnSFBCR2h6ZkZNNlNwdTJEcmEzR1oxckMxaFk5TEdGMUlxQVZZUXVBSU92YUVrR1lBQkhm0gGkAUFVX3lxTE5TdWRMdlBTRG5LRzlKY21FX1Vldk1hYXBuUW9aZHNRWVQ0dFI0ZGMtdVlCMmFoME9Yd0stVEQycXpPQWc3OFVZS2pYRHBvdTExOVl6MXJfUHRzZnNvYllKV3BWb0tPRGEyNXgwZ2FEVVA3VXNPTXVWOVRoYy1MMWZwci1uWk5YMWlfUzZBQU95elcxXzZPdTNHSVZmMER2Q3VYRkRZ?oc=5",
@@ -136,36 +166,6 @@
   "corroboration": 0,
   "response": null,
   "score": 15,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "229db6a4abc8",
-  "title": "Akuisisi 100 Persen Saham EDOTCO, Tower Bersama (TBIG) Pastikan Ini",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2hpVFc3cGVEQzNVUXBieXB0a0FzSWJOejd4dmFZZlNKRFJLNXlULUt6M1BYU044ODRWLVpiSEFsbzBKTmJaZmt3cDFpdzdLQWViWWt1bm9sUnY1TmxnVU0ydm1OUktEV29fQUdYNFdnYVFfOGQ1TURLbVRnWkprRUFhc3dmbDRZang2SnYxWGw1MWNFcjRkN1laZjg?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-25T12:31:00+00:00",
-  "tickers": [
-   "TBIG"
-  ],
-  "uma": false,
-  "jenis": [
-   "M&A"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-25T14:14:42.651398+00:00",
-  "anon": [],
-  "corp": [
-   "akuisisi"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Akuisisi 100 Persen Saham EDOTCO, Tower Bersama (TBIG) Pastikan Ini.  Akuisisi 100 Persen Saham EDOTCO, Tower Bersama (TBIG) Pastikan Ini &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 2,
-  "response": null,
-  "score": 14,
   "outcome": null,
   "anomali": null
  },
@@ -993,11 +993,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "302ad4c73a78",
@@ -1055,11 +1051,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "382b7d7b49fb",
@@ -1367,11 +1359,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "65c80626687b",
@@ -1810,7 +1798,7 @@
  {
   "id": "f73cb324375c",
   "title": "BSI Siapkan Rights Issue Demi Penuhi Struktur Kepemilikan Saham Sesuai Standar Global",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX25GcF8tYVRCQ3J4X0FnRWFybmtXUkFaWDdLV1hWbXJUTkFwUTMwTm9pQmpvUDlXeDZLaHBta1cya2VqbDR6WElaNTJKWVlwSy04QXNFVjY4S3FJbEhuRTZGekE2bDlPSzVsTjFDSDZmWTVNSDhTRUhMQS1FQ3VEUXA2Vmx2NkxzQUpxdVhUNmx2VVhpT25OajE4ZVhJVC1XSU04eWlOczkxOXdxM2s3OFduckxYOFFqclY4ctIBwgFBVV95cUxNdFNobnQyWVZWUWh6dkdFYTY5dElTNE9IcW90eHJiNTctOW9XY2FXMzh6eGhWajAtYWgwTExsanYyNVlYSmZ0ZEtobk9kVUpUMjlIZE1FbnRjbWJkeUlYQlhwVF9aTFVWSmRQUlhINjR3d0FWd2k0UXVOamR2bnhfbklfMUV1akJsVUo2QWNsc2dtdjVVRVVMVUxxZ3F3aF9ycFBIblpjSWdobjJVQXNqOE53ZGJoUV82bTZaQnEwYkNyUQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHNWWUFfRDU2TFlDeVVtQjYyeXZ2cWZNaHgxQTlJZUVFcUhtMzBSRlgtZUdGSUdMMllSN05zWnlGeTR6RlVDNDJYallHR0sxVzlIMVFPUXpodVRGbVN0Y2VQem1Fd1NsXzctUzcxMXJzbmc3NEszNmtGR0g3UF8wS3JaN1ZSOTZLckJzQURyaERFTFlFWFE3ODhTQW82emQtM0tzLXVPQ01aQnJEYmczSVMxYUNIdl9EMUlaUDdMQdIBwgFBVV95cUxNdFNobnQyWVZWUWh6dkdFYTY5dElTNE9IcW90eHJiNTctOW9XY2FXMzh6eGhWajAtYWgwTExsanYyNVlYSmZ0ZEtobk9kVUpUMjlIZE1FbnRjbWJkeUlYQlhwVF9aTFVWSmRQUlhINjR3d0FWd2k0UXVOamR2bnhfbklfMUV1akJsVUo2QWNsc2dtdjVVRVVMVUxxZ3F3aF9ycFBIblpjSWdobjJVQXNqOE53ZGJoUV82bTZaQnEwYkNyUQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-24T13:15:00+00:00",
   "tickers": [],
@@ -2701,11 +2689,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "017e42ea5b66",
@@ -2841,11 +2825,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "4a2bd305cad1",
@@ -4537,32 +4517,6 @@
   "anomali": null
  },
  {
-  "id": "4d0578b8a3d7",
-  "title": "Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNHdQMmlwODRET1FnTFhUcmhwUWxRYzJfdW1sUUVvNGVreXg3VnJ5eWxVZ1RyejByYnZyMEd5X0EwdS1xMlFOa21zUEhPamcyYkVoWnBMSWJ6UFduai1mamlkbFhQRzd5QnB0U0g3a2twMFNXU3lWX091NFk3a2NiRVVZYWUtZ2Q3OTVOTXdCS1lFQmt4cC1pVVZNak5qUGhsd2R5Z0lBQ0QydWpYeHQ0NmxYUS1zdw?oc=5",
-  "media": "Bloomberg Technoz",
-  "published": "2026-11-23T03:16:28+00:00",
-  "tickers": [],
-  "uma": false,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-24T00:52:14.190065+00:00",
-  "anon": [
-   "menurut sumber"
-  ],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global.  Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global &nbsp;&nbsp; Bloomberg Technoz",
-  "corroboration": 0,
-  "response": null,
-  "score": 25,
-  "outcome": null,
-  "anomali": null
- },
- {
   "id": "ba1655f26a04",
   "title": "Emiten CDIA Siapkan Dana Jumbo untuk Buyback Saham",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUElqd3huLW45RlNxUnRlbVJnV0Z1aFl3V1dybFpVdWNmbUhNWmJPTnl0MG1DZlRuLVYzbEpOMG5ZdmJQSy1EWUs4Qkg1b2hZNFJ3dEtkZnVQNnJQOXVadDhSWTNsT2tMSGxQSjd0RFJHNS1yWFdsSjVUbTNqOEJrUXFFVk1YWFhEbXhXOG9ISlhLQnpkV1dhQlFSZ9IBkAFBVV95cUxQLWNNY2Z2bE5CVzdTanJ3MHcyZVhVVW12Y3JnQVFkWl9ralRrdEVRWUxlVG54S3VVRUlieVItV09WSF80Q0ZxYTF1b2p5QVQ1b3dQTUZDRzVEQ3JOTlUtc1UtSjJQSGRpejExQmE0ajdscDhCa2VVNktaTGd2Z2lxYnlXWU9hc2hhYmFhVnpCYmw?oc=5",
@@ -4702,6 +4656,32 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "4d0578b8a3d7",
+  "title": "Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT3BmZnZ1RzBVRkh1b1pSMEpnd0pPUXlabXZWSl9jcWlNc0R1dTlDTDl3UGR0R2dsTExRVHkxZ0NTRi1FRG13eHJwNVVzMm5VVlM1cTB4c1FocHdYbkcySV8xR2JiejJ0ZjU4azA3Ymc4NW9GNmVHUG96LWxaOVZ5VTJpY1dITkFtS0JsOVpFUDkwMEpWSEhwbnNTT2tRR3hjNTI4T1djdFBIOHFPV1ZtWXp5OA?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-23T02:56:09+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-24T00:52:14.190065+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global.  Prabowo-Ray Dalio-MSCI Cari Cara Hindari Penurunan Ranking RI - Global &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
   "outcome": null,
   "anomali": null
  },
@@ -5051,11 +5031,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "a627b4022b4d",
@@ -6087,11 +6063,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "1995d86583c9",
@@ -6646,7 +6618,7 @@
  {
   "id": "618fd082cc40",
   "title": "Dividen BBCA 2026: Jadwal Pembagian, Besaran Dividen, dan Cara Menghitungnya",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUU1qU2xJLVo4RktmbGNxR3Bpa0tDV0NDekc4d25VV042blppWnlhckpqZ0FNS2RrOEJ5V09CbV8yS3BtckZ6TThzSERVVW9XemdmYWtYejJIb3hFOWhRRFZxeXBoX1VERFlnWHRJOGxqcXdYZDQwYVRqOTNfUV9IVXZpRnVIUnNZTzFoNmdZdHBmeFVvYUZBd2VWM1ZMYW1QTm8wZzhoenNCLVd1LUJlM2FpeGFsSUFPcVA2bmhUeVp0NUVqRWFNOEV3TXlwQldiWFpF0gHTAUFVX3lxTE9RTWpTbEktWjhGS2ZsY3FHcGlrS0NXQ0N6Rzh3blVXTjZuWmlaeWFySmpnQU1LZGs4QnlXT0JtXzJLcG1yRnpNOHNIRFVVb1d6Z2Zha1h6MkhveEU5aFFEVnF5cGhfVUREWWdYdEk4bGpxd1hkNDBhVGo5M19RX0hVdmlGdUhSc1lPMWg2Z1l0cGZ4VW9hRkF3ZVYzVkxhbVBObzBnOGh6c0ItV3UtQmUzYWl4YWxJQU9xUDZuaFR5WnQ1RWpFYU04RXdNeXBCV2JYWkU?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSTdVaGRrZnltRG1zZnBXUGU0b2FGUFdPX2djcUdIZ3RMYk1zS05QRlc1ZnVfaU9iTU5VNUxBanZJNktpVGNPaW9LMVIyYjgtSGp6N1hYaS0yVUd3aFFDazdRdjNmM1V1OVFobl9pTk12N2JOZTlTZjRJWk5OeV83dWs4QnJOWXZRejFGVXByT3l5Y1pyY1NwZEVhQU5HLUk4Y202M0pNeXg5WXMzTlNSN1J4Qm56WERCRWhxeUt4d2ZGRUtnVjVHcC1aa0ttd9IB0wFBVV95cUxPUU1qU2xJLVo4RktmbGNxR3Bpa0tDV0NDekc4d25VV042blppWnlhckpqZ0FNS2RrOEJ5V09CbV8yS3BtckZ6TThzSERVVW9XemdmYWtYejJIb3hFOWhRRFZxeXBoX1VERFlnWHRJOGxqcXdYZDQwYVRqOTNfUV9IVXZpRnVIUnNZTzFoNmdZdHBmeFVvYUZBd2VWM1ZMYW1QTm8wZzhoenNCLVd1LUJlM2FpeGFsSUFPcVA2bmhUeVp0NUVqRWFNOEV3TXlwQldiWFpF?oc=5",
   "media": "Trenggalek Njenggelek",
   "published": "2026-11-21T07:50:15+00:00",
   "tickers": [
@@ -8373,11 +8345,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "a37d881b9b1c",
@@ -8489,11 +8457,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "d80d0ed236f4",
@@ -8581,11 +8545,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "d19b83989357",
@@ -9025,11 +8985,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "8f6a8a6b49dc",
@@ -10079,22 +10035,20 @@
   "tickers": [
    "PACK"
   ],
-  "uma": false,
+  "uma": true,
   "jenis": [],
   "asal": [],
   "first_seen": "2026-11-19T08:25:42.396054+00:00",
   "anon": [],
-  "corp": [
-   "akuisisi"
-  ],
+  "corp": [],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel.  Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel &nbsp;&nbsp; Lotus Andalan Sekuritas",
-  "corroboration": 1,
+  "corroboration": 0,
   "response": null,
-  "score": 21,
+  "score": 56,
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
@@ -11138,11 +11092,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "bdcb66076402",
@@ -13215,11 +13165,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "3d110404d793",
@@ -13469,11 +13415,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "ec9611bbda81",
@@ -16634,11 +16576,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "c98b23e9e339",
@@ -16666,11 +16604,7 @@
   "response": null,
   "score": 21,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "c1fef08862b1",
@@ -16700,11 +16634,7 @@
   "response": null,
   "score": 11,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "f1936bfef4ed",
@@ -17469,11 +17399,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "9d5ee601b580",
@@ -17671,11 +17597,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "d25b777b438f",
@@ -17961,11 +17883,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "08ae46d4ae97",
@@ -17993,11 +17911,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "17aa6f8164ef",
@@ -19249,11 +19163,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "825a49d14507",
@@ -19397,11 +19307,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "d93f631d1209",
@@ -19593,11 +19499,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "81eba6f2a8e8",
@@ -20702,11 +20604,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "df4d0830f0be",
@@ -20974,11 +20872,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "c6eee19866ad",
@@ -23551,11 +23445,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "205e78573d0b",
@@ -28587,11 +28477,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "60f9cf7b714d",
@@ -33027,11 +32913,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "f6bc1342e1d8",
@@ -40898,11 +40780,7 @@
   "response": null,
   "score": 14,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "eb70f7253b47",
