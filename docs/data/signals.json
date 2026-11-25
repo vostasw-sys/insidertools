@@ -1045,11 +1045,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "302ad4c73a78",
@@ -1107,11 +1103,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "382b7d7b49fb",
@@ -1419,11 +1411,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "65c80626687b",
@@ -1862,7 +1850,7 @@
  {
   "id": "f73cb324375c",
   "title": "BSI Siapkan Rights Issue Demi Penuhi Struktur Kepemilikan Saham Sesuai Standar Global",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX25GcF8tYVRCQ3J4X0FnRWFybmtXUkFaWDdLV1hWbXJUTkFwUTMwTm9pQmpvUDlXeDZLaHBta1cya2VqbDR6WElaNTJKWVlwSy04QXNFVjY4S3FJbEhuRTZGekE2bDlPSzVsTjFDSDZmWTVNSDhTRUhMQS1FQ3VEUXA2Vmx2NkxzQUpxdVhUNmx2VVhpT25OajE4ZVhJVC1XSU04eWlOczkxOXdxM2s3OFduckxYOFFqclY4ctIBwgFBVV95cUxNdFNobnQyWVZWUWh6dkdFYTY5dElTNE9IcW90eHJiNTctOW9XY2FXMzh6eGhWajAtYWgwTExsanYyNVlYSmZ0ZEtobk9kVUpUMjlIZE1FbnRjbWJkeUlYQlhwVF9aTFVWSmRQUlhINjR3d0FWd2k0UXVOamR2bnhfbklfMUV1akJsVUo2QWNsc2dtdjVVRVVMVUxxZ3F3aF9ycFBIblpjSWdobjJVQXNqOE53ZGJoUV82bTZaQnEwYkNyUQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHNWWUFfRDU2TFlDeVVtQjYyeXZ2cWZNaHgxQTlJZUVFcUhtMzBSRlgtZUdGSUdMMllSN05zWnlGeTR6RlVDNDJYallHR0sxVzlIMVFPUXpodVRGbVN0Y2VQem1Fd1NsXzctUzcxMXJzbmc3NEszNmtGR0g3UF8wS3JaN1ZSOTZLckJzQURyaERFTFlFWFE3ODhTQW82emQtM0tzLXVPQ01aQnJEYmczSVMxYUNIdl9EMUlaUDdMQdIBwgFBVV95cUxNdFNobnQyWVZWUWh6dkdFYTY5dElTNE9IcW90eHJiNTctOW9XY2FXMzh6eGhWajAtYWgwTExsanYyNVlYSmZ0ZEtobk9kVUpUMjlIZE1FbnRjbWJkeUlYQlhwVF9aTFVWSmRQUlhINjR3d0FWd2k0UXVOamR2bnhfbklfMUV1akJsVUo2QWNsc2dtdjVVRVVMVUxxZ3F3aF9ycFBIblpjSWdobjJVQXNqOE53ZGJoUV82bTZaQnEwYkNyUQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-24T13:15:00+00:00",
   "tickers": [],
@@ -2753,11 +2741,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "017e42ea5b66",
@@ -2893,11 +2877,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "4a2bd305cad1",
@@ -3109,7 +3089,7 @@
   "schedule": false,
   "party": false,
   "snippet": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS.  XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS &nbsp;&nbsp; Dig",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -3138,6 +3118,34 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "0c2f1b116e97",
+  "title": "Prodia (PRDA) Kantongi Restu Pemegang Saham Gelar Stock Split 1:5",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQczdwNHdkcEltQ0hPRGlBQ0Z0cXcwbkM4a09YN1JvMk03dXZra3J3Mjk1RW5rMURLRXFhWWs0T1VzS0ZLSHdUWVN0MUtHV1dma3dFYTVTNG0xbmM2RjcxS0Q1X05iblpLODdEWVpkckJhanE4ZVN1VzU5WEZvZFppUUU2ZW5LOGVEZldYWC1NWGFmYmxEbWNuMVJ3Y2ZCVEI1eW9VaUxn0gGoAUFVX3lxTFBGVDgwa18wQ0xieDVKOTJhNzh0YTNhZWtOQnFtYjJzOTdjQ3RzR25nRlQxdm1ralFNb05yY3E5bHRodmV1ODY4b3QwUS00QUduMHZHUjI3NThnREJFTVJTRmhZVHlrMVdGcllGNWtfRG00TDEyb0RmNUZrelJiSkFkTGxwNHFocjRVNU4tZmtUQnBTaUxwN0JGZ29iNTZBOE9Hekd2QVJjUQ?oc=5",
+  "media": "IDX Channel",
+  "published": "2026-11-23T17:05:00+00:00",
+  "tickers": [
+   "PRDA"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-25T21:50:14.690920+00:00",
+  "anon": [],
+  "corp": [
+   "stock split"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Prodia (PRDA) Kantongi Restu Pemegang Saham Gelar Stock Split 1:5.  Prodia (PRDA) Kantongi Restu Pemegang Saham Gelar Stock Split 1:5 &nbsp;&nbsp; IDX Channel",
+  "corroboration": 1,
+  "response": null,
+  "score": 9,
   "outcome": null,
   "anomali": null
  },
@@ -4900,6 +4908,36 @@
   "anomali": null
  },
  {
+  "id": "7861337a1007",
+  "title": "EXCL Buyback Saham Rp1 Triliun, Intip Profil Emiten hingga Kinerja Terbarunya",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFNzZzdfNXh1RFJfQmhUR1c1VFJXbTk0MVhpcGhFY3ZYZjJBZERKWkVtcHEydDJTV0dPZ29KTDdjdVBmT3MxaVdJRUs5TkZXVHhUc0FtSTVTUlpOTzlhcDAwS3RUSWRrWUM0WTFjZk9IaVVBQVpVNE9OMDZ5WDc1RE5acm5yc0FkVG5wbkw3ZEhnQ0lNa0wzdDE2YklJbDdwOFhRMXdtUUZ6bDBPQnZFa1ZTOA?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-23T02:15:16+00:00",
+  "tickers": [
+   "EXCL"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-25T21:50:14.690920+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 1000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "EXCL Buyback Saham Rp1 Triliun, Intip Profil Emiten hingga Kinerja Terbarunya.  EXCL Buyback Saham Rp1 Triliun, Intip Profil Emiten hingga Kinerja Terbarunya &nbsp;&nbsp; KONTAN",
+  "corroboration": 11,
+  "response": null,
+  "score": 35,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "c3e27dcaadae",
   "title": "EXCL Buyback Saham Rp1 Triliun, Intip Profil Emiten hingga Kinerja Terbarunya",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45Y2d3SEE1cG9HNWV1ZnJUWG1JMi10NWxoR1B1c3FnLWJHYkRPV0tOejJ2Uy1fSXIwMGQ1clh1azViTW5nb0U1LXhyejlqbnJrZlE3b0dFZzFJTW1UaFhpNVZucDROUQ?oc=5",
@@ -4923,7 +4961,7 @@
   "schedule": false,
   "party": false,
   "snippet": "EXCL Buyback Saham Rp1 Triliun, Intip Profil Emiten hingga Kinerja Terbarunya.  EXCL Buyback Saham Rp1 Triliun, Intip Profil Emiten hingga Kinerja Terbarunya &nbsp;&nbsp; TradingView",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -5103,11 +5141,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "a627b4022b4d",
@@ -5862,7 +5896,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Buyback Saham SMGR, EXCL, dan ELSA di Tengah Gejolak Pasar, Mana yang Menarik?.  Buyback Saham SMGR, EXCL, dan ELSA di Tengah Gejolak Pasar, Mana yang Menarik? &nbsp;&nbsp; TradingView",
-  "corroboration": 14,
+  "corroboration": 15,
   "response": null,
   "score": 16,
   "outcome": null,
@@ -5893,7 +5927,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Buyback Saham SMGR, EXCL, dan ELSA di Tengah Gejolak Pasar, Mana yang Menarik?.  Buyback Saham SMGR, EXCL, dan ELSA di Tengah Gejolak Pasar, Mana yang Menarik? &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 14,
+  "corroboration": 15,
   "response": null,
   "score": 25,
   "outcome": null,
@@ -6139,11 +6173,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "1995d86583c9",
@@ -7131,7 +7161,7 @@
   "schedule": false,
   "party": false,
   "snippet": "XLSMART (EXCL) Rencana Buyback Saham Rp1 Triliun pada 23 November 2026.  XLSMART (EXCL) Rencana Buyback Saham Rp1 Triliun pada 23 November 2026 &nbsp;&nbsp; Telset.id",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -7738,7 +7768,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham.  Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham &nbsp;&nbsp; شبكة تواصل الإخبارية",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -7768,7 +7798,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham.  Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham &nbsp;&nbsp; Liputan6.com",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -8221,7 +8251,7 @@
   "schedule": false,
   "party": false,
   "snippet": "EXCL siapkan Rp1 triliun untuk buyback saham, ini jadwalnya.  EXCL siapkan Rp1 triliun untuk buyback saham, ini jadwalnya &nbsp;&nbsp; IDNFinancials",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -8365,7 +8395,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Pasar Berfluktuasi Tajam! EXCL Rogoh Kocek Rp1 Triliun Untuk Buyback Saham, Cek Tanggalnya - Sinar Harapan.  Pasar Berfluktuasi Tajam! EXCL Rogoh Kocek Rp1 Triliun Untuk Buyback Saham, Cek Tanggalnya - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -8425,11 +8455,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "a37d881b9b1c",
@@ -8541,11 +8567,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "d80d0ed236f4",
@@ -8633,11 +8655,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "d19b83989357",
@@ -8777,7 +8795,7 @@
   "schedule": false,
   "party": false,
   "snippet": "XLSMART (EXCL) Siapkan Dana Rp1 Triliun untuk Buyback Saham - Bisnis.com.  XLSMART (EXCL) Siapkan Dana Rp1 Triliun untuk Buyback Saham &nbsp;&nbsp; Bisnis.com - Market",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 35,
   "outcome": null,
@@ -8893,7 +8911,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Buyback, EXCL Siapkan Anggaran Jumbo.  Buyback, EXCL Siapkan Anggaran Jumbo &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 10,
+  "corroboration": 11,
   "response": null,
   "score": 19,
   "outcome": null,
@@ -9077,11 +9095,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "8f6a8a6b49dc",
@@ -10131,20 +10145,22 @@
   "tickers": [
    "PACK"
   ],
-  "uma": true,
+  "uma": false,
   "jenis": [],
   "asal": [],
   "first_seen": "2026-11-19T08:25:42.396054+00:00",
   "anon": [],
-  "corp": [],
+  "corp": [
+   "akuisisi"
+  ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel.  Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel &nbsp;&nbsp; Lotus Andalan Sekuritas",
-  "corroboration": 0,
+  "corroboration": 1,
   "response": null,
-  "score": 56,
+  "score": 21,
   "outcome": null,
   "anomali": {
    "vol_z": -0.05,
@@ -11188,11 +11204,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "bdcb66076402",
@@ -13265,11 +13277,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "3d110404d793",
@@ -13519,11 +13527,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "ec9611bbda81",
@@ -16684,11 +16688,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "c98b23e9e339",
@@ -16716,11 +16716,7 @@
   "response": null,
   "score": 21,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "c1fef08862b1",
@@ -16750,11 +16746,7 @@
   "response": null,
   "score": 11,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "f1936bfef4ed",
@@ -17519,11 +17511,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "9d5ee601b580",
@@ -17721,11 +17709,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "d25b777b438f",
@@ -18011,11 +17995,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "08ae46d4ae97",
@@ -18043,11 +18023,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "17aa6f8164ef",
@@ -19299,11 +19275,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "825a49d14507",
@@ -19447,11 +19419,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "d93f631d1209",
@@ -19643,11 +19611,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "81eba6f2a8e8",
@@ -20752,11 +20716,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "df4d0830f0be",
@@ -21024,11 +20984,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "c6eee19866ad",
@@ -23601,11 +23557,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "205e78573d0b",
@@ -28637,11 +28589,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "60f9cf7b714d",
@@ -33077,11 +33025,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "f6bc1342e1d8",
@@ -40948,11 +40892,7 @@
   "response": null,
   "score": 14,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.93,
-   "abn5": -1.01,
-   "last": "2026-11-24"
-  }
+  "anomali": null
  },
  {
   "id": "eb70f7253b47",
