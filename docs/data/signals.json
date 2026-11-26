@@ -1,5 +1,33 @@
 [
  {
+  "id": "537ed17de736",
+  "title": "Berita Terbaru Tidak Melakukan Akuisisi Hari Ini, Dapatkan Informasi Lain Terlengkap Di IDX Channel",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xM2dNeDdjR1g4TFdrNEl5SGtNWlh2WHNYQXBnZTNidS1PbTlPeDJHVTd0NWJGQ0hRT1h2bFNqVnJlNGRRazl4ajZtSGhyUDFxdGxYLURSTGVJTlQ2dDhyVVpkV1JaQQ?oc=5",
+  "media": "IDX Channel",
+  "published": "2026-11-26T18:23:14+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-26T20:48:44.896482+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Berita Terbaru Tidak Melakukan Akuisisi Hari Ini, Dapatkan Informasi Lain Terlengkap Di IDX Channel.  Berita Terbaru Tidak Melakukan Akuisisi Hari Ini, Dapatkan Informasi Lain Terlengkap Di IDX Channel &nbsp;&nbsp; IDX Channel",
+  "corroboration": 0,
+  "response": null,
+  "score": 9,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "1abc6b0bf2ca",
   "title": "Danantara Tegaskan Garuda Adidaya Tak Akuisisi Eks Lahan RAPP, Ini Penjelasannya",
   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUx5N1hQaldxOXdlQUpBLXctb21XWHdVZjNyckdyMGdOZFdaTzRvZzUxSmtWekhHMmZ1YWp1T0lBYmpqMkNnYUlmVVlyQlRBYXI0SG80eUgxMkx1X0RMbEFYdE55cmZ3cklkeUVwUHlaZ0NOUjA4RURtUTAtWDkzU0NPZnhiYk9ocjZKX2k2TERNRDFqajdVX2owWlZURTZnREk3QmFFU0FsUzRrRUFUQVZXMFJDOFnSAbwBQVVfeXFMTko1bnB0djlqNFdzSmVGczk4ajkxMFlkQ0M5TW1QbUZHZlRWdEFOYWRNWnhlZmFzbEVjQ3hMVDhGcjB0bXlxMk43eW1jT2dhUHgtXzJhLXBrZHVWQUNOMEtYMjEydTF2TFptNXhmanVyS0EwMlU4T2QzblRHQUNxWmFqQ01ua2ZmalNYN0R3VXlZZ3FSX2Nnb016NUZFak1YcmFVYTliVGttbUw1akxhQmV5SGIxMHVqWWVrUmI?oc=5",
@@ -1006,11 +1034,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "c748fe9fb0db",
@@ -2320,11 +2344,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "302ad4c73a78",
@@ -2382,11 +2402,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "382b7d7b49fb",
@@ -2720,11 +2736,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "65c80626687b",
@@ -4214,11 +4226,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "017e42ea5b66",
@@ -4354,11 +4362,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "601da5e093db",
@@ -4372,7 +4376,7 @@
   "asal": [],
   "first_seen": "2026-11-25T23:42:59.740861+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -5021,7 +5025,7 @@
   "asal": [],
   "first_seen": "2026-11-24T05:53:36.831479+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -5396,7 +5400,7 @@
   "asal": [],
   "first_seen": "2026-11-26T03:28:47.346674+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -5586,7 +5590,7 @@
   ],
   "first_seen": "2026-11-23T06:36:51.180923+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -5956,7 +5960,7 @@
   "asal": [],
   "first_seen": "2026-11-24T23:42:40.460803+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -6811,11 +6815,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "a627b4022b4d",
@@ -7847,11 +7847,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "1995d86583c9",
@@ -9846,6 +9842,62 @@
   "anomali": null
  },
  {
+  "id": "941ebcedc2d8",
+  "title": "13 Pemodal yang Untung Besar di IPO Anthropic, Ada Eks CEO Google - Teknologi",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0VhUi1BRS1aZ0FndDl1YlR5azNYU0p4c0ZBZngxMjdneTNUUlFuaVVlQ0oxNFdYQXJQQ3pSSVUtRzU1ZzJNVk5POGZrMXpZc0twcjllWWRmUXpOenVTQ0c3eW1hSTJYc1kzUUVGRkJiRk13cjh3dmVFRTQ1TlRrdWJmUURkdXRrd0VDQXR3cFVJeFdvbk1jNkZITFlSR1duLVhYemNUUlpsX0loUmJLNXNGQWtfTFpMU2c?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-20T08:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen"
+  ],
+  "first_seen": "2026-11-26T20:48:44.896482+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "13 Pemodal yang Untung Besar di IPO Anthropic, Ada Eks CEO Google - Teknologi.  13 Pemodal yang Untung Besar di IPO Anthropic, Ada Eks CEO Google - Teknologi &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "f37f2a7e7424",
+  "title": "Dividen Saham Nvidia (NVDA): Yield, Riwayat, Ex-Date 2026",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42Z3plT3pxMUI4b19MTTRqM043aWw3TGE5TllzZTF3ejNROGM1S2x2bTVXVXU4djRER1BwLTA5d0Y2YUtaNHRqY3FFVUUxb2NpYjA0cnhRc0tmRFlfVXB2Y2ZXeWhyREkwdTc1SUZkc1ZvY1RhUFpGT0pKTQ?oc=5",
+  "media": "Gotrade",
+  "published": "2026-11-20T08:00:00+00:00",
+  "tickers": [
+   "NVDA"
+  ],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-26T20:48:44.896482+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Dividen Saham Nvidia (NVDA): Yield, Riwayat, Ex-Date 2026.  Dividen Saham Nvidia (NVDA): Yield, Riwayat, Ex-Date 2026 &nbsp;&nbsp; Gotrade",
+  "corroboration": 1,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5a7ede1e0d4e",
   "title": "Apa itu Amazon? Mengenal Bisnis E-Commerce dan Cloud",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnQ5RGVQZHpIclEzUldsaXprb3lxTUZhdGs1ZElLNENqbTFncWoyX2lEeUJPeWh6OVRJeVpWLTNMeDVPanlpcG91ZlppSzdvbjYtbm12OUZWbHZwUnA4SWtwWTB4cGl4OGlxWW1FZ1luLV9Kc2prRk01VVVZVnBvbGlaX0J2VGRGVU9KUw?oc=5",
@@ -10185,11 +10237,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "a37d881b9b1c",
@@ -10301,11 +10349,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "d80d0ed236f4",
@@ -10393,11 +10437,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "99f343d2e830",
@@ -10893,11 +10933,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "8f6a8a6b49dc",
@@ -13026,11 +13062,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "bdcb66076402",
@@ -15103,11 +15135,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "3d110404d793",
@@ -15357,11 +15385,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "ec9611bbda81",
@@ -18518,11 +18542,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "c98b23e9e339",
@@ -18550,11 +18570,7 @@
   "response": null,
   "score": 21,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "c1fef08862b1",
@@ -18584,11 +18600,7 @@
   "response": null,
   "score": 11,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "f1936bfef4ed",
@@ -19353,11 +19365,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "9d5ee601b580",
@@ -19555,11 +19563,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "d25b777b438f",
@@ -19845,11 +19849,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "08ae46d4ae97",
@@ -19877,11 +19877,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "17aa6f8164ef",
@@ -21133,11 +21129,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "825a49d14507",
@@ -21281,11 +21273,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "d93f631d1209",
@@ -21477,11 +21465,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "81eba6f2a8e8",
@@ -22586,11 +22570,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "df4d0830f0be",
@@ -22858,11 +22838,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "c6eee19866ad",
@@ -25423,11 +25399,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "205e78573d0b",
@@ -30459,11 +30431,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "60f9cf7b714d",
@@ -34875,11 +34843,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "f6bc1342e1d8",
@@ -42746,11 +42710,7 @@
   "response": null,
   "score": 14,
   "outcome": null,
-  "anomali": {
-   "vol_z": -0.99,
-   "abn5": 0.58,
-   "last": "2026-11-25"
-  }
+  "anomali": null
  },
  {
   "id": "eb70f7253b47",
