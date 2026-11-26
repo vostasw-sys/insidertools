@@ -1,5 +1,61 @@
 [
  {
+  "id": "cd297a8b18bb",
+  "title": "Petrosea (PTRO) Resmi Kantongi Restu Rights Issue Maksimal 170 Juta Saham",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZm5uXzVocUZudENKTkhGaU8tTXpUZE5wbEYxR0ZBcEJnRDBWSU82WDFmR1ZGa29FOUFDSi1xZmtlOTZlUkJXX3lacWdyc1E5dF9SZnhuaU1CUGh1ejR5cFdjaEhVNFZ6YVBYalV0aEJpNVI0SW9oaVlLS2MxOWxJVnF1U01TQXlMeExnd3NablROV25KRGRNNUdKeFBsZmNTdmpGY180UTM3YlVmdnhV?oc=5",
+  "media": "Rmol.id",
+  "published": "2026-11-26T07:35:35+00:00",
+  "tickers": [
+   "PTRO"
+  ],
+  "uma": false,
+  "jenis": [
+   "Penerbitan saham"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-26T08:43:07.073944+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Petrosea (PTRO) Resmi Kantongi Restu Rights Issue Maksimal 170 Juta Saham.  Petrosea (PTRO) Resmi Kantongi Restu Rights Issue Maksimal 170 Juta Saham &nbsp;&nbsp; Rmol.id",
+  "corroboration": 4,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "2ee161d31cc3",
+  "title": "Norse Atlantic Batalkan Penerbangan di Tengah Krisis Keuangan",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tZlFyVXZ0blp6bVNFRFhMcER5U0w1NS1UQW91dk8wRzh1Vm53NWRoZ1JYLXE4NG52bFFFVEZYLXNCcGJoeUR3Wko4RDJIVTUxWTRLVDE1RGRPeHNKZ0EtbldEV1ZqTkRD?oc=5",
+  "media": "CentralBatam",
+  "published": "2026-11-26T07:20:33+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-26T08:43:07.073944+00:00",
+  "anon": [
+   "sedang menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Norse Atlantic Batalkan Penerbangan di Tengah Krisis Keuangan.  Norse Atlantic Batalkan Penerbangan di Tengah Krisis Keuangan &nbsp;&nbsp; CentralBatam",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "4be0a5eba4d3",
   "title": "SMBC Indonesia Rencanakan Go Private dan Delisting dari BEI",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UbXNjc2JMbVM1cDdoSHYyZmhHSG92aVU0WmdMYmQxbi12cjJ3OHhyUFhzQlAxOHhiSEpsQ3pvek1tMmQ0S2hQNi1LZU9zeTQ1azEzdGRnaTVxWW5wanp5c19oakFUTmljNlBoRA?oc=5",
@@ -86,8 +142,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -202,9 +258,35 @@
   "anomali": null
  },
  {
+  "id": "a95ba1d9c3c2",
+  "title": "Saham AI Tertekan, Broadcom Terendah Sejak Juli 2025",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzdiU1VYVnl4VERRR2REdmF3OHZPaGxTS0FVZURjVjZ1dUJVSlFWT3Iwb0FHTXZDbGQtcDVUbUhlUmhBRWdNZGlRbWZlSEprdDN1bS14VVVLYmxqVlRwRVI3eGRiY3VFSXNoTEJMX0FsaHhxN3E1VXhxUnY5RVpFRWE1NVQtV1U?oc=5",
+  "media": "Gotrade",
+  "published": "2026-11-26T05:37:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-26T08:43:07.073944+00:00",
+  "anon": [
+   "tengah menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham AI Tertekan, Broadcom Terendah Sejak Juli 2025.  Saham AI Tertekan, Broadcom Terendah Sejak Juli 2025 &nbsp;&nbsp; Gotrade",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "44584a069e97",
   "title": "Beda Sikap Indonesia dan Turki Hadapi Ancaman MSCI",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXZEcGxuUjVTNnlReXdaQkM3b3lQbzYyMG9Ld0t5UTE3bWxEbjctTEEydGYzMWVjX2NQTlhHNTRaV2U2VllzWTBQR3NhempwSk1SUzZPRHJVZkxzcUJVeFRlaHkzcEhNMHN3ekpvQWJtaGJ0MnFuOTR4OWIyVHRmYldNSnVTTlJZLTB1cFd5QzJ4VWx0OW1keklyWmw4M2FUTUZvM0JGV3g4Q1FrelFrUHNB0gG3AUFVX3lxTE8wVloyZ3hoci12MlkwSkV3VWpYWkhmN2pjMl9NeG5yZEtidlRPTUpNNjRjVFozQ1BjN3hCUnpVYUsyRzdJZ0pzUWZQelEzaEtPUlZLY3hZMDdIeG10YmlGVlE1R210amlWUmdNZDBVMWhSZzJzVlJSLWN1MGlySXNmWHFqM3dQWU5BTktfZVVuRGVmdXZMRGU5TjFoSWhKSGJqWXptbnl3U2Yxa3lPR1JsZ1JjR3JHdw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFZaMmd4aHItdjJZMEpFd1VqWFpIZjdqYzJfTXhucmRLYnZUT01KTTY0Y1RaM0NQYzd4QlJ6VWFLMkc3SWdKc1FmUHpRM2hLT1JWS2N4WTA3SHhtdGJpRlZRNUdtdGppVlJnTWQwVTFoUmcyc1ZSUi1jdTBpcklzZlhxajN3UFlOQU5LX2VVbkRlZnV2TERlOU4xaEloSkhiall6bW55d1NmMWt5T0dSbGdSY0dyR3fSAbcBQVVfeXFMTzBWWjJneGhyLXYyWTBKRXdValhaSGY3amMyX014bnJkS2J2VE9NSk02NGNUWjNDUGM3eEJSelVhSzJHN0lnSnNRZlB6UTNoS09SVktjeFkwN0h4bXRiaUZWUTVHbXRqaVZSZ01kMFUxaFJnMnNWUlItY3UwaXJJc2ZYcWozd1BZTkFOS19lVW5EZWZ1dkxEZTlOMWhJaEpIYmpZem1ueXdTZjFreU9HUmxnUmNHckd3?oc=5",
   "media": "CNBC Indonesia",
   "published": "2026-11-26T05:07:12+00:00",
   "tickers": [],
@@ -256,6 +338,32 @@
   "anomali": null
  },
  {
+  "id": "568710e232ac",
+  "title": "Saham Meta Naik 3,4% Usai Kabar Negosiasi dengan Amazon (26 November 2026)",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tbXc1U0VGVDJzZV85eU9tWjBsTzJIRDRHYzcwNHFiRVNUTHl5QlVRRnplak5IaFRDb0cwMlIxRTgzX1IzZXRqTGF3NC1jcUU5QmhIUTlhQkVCaXE0NnRnUHV5NERrR25SVGpLYVg3X3lTTndYVkVvTUhkZFlNZw?oc=5",
+  "media": "Gotrade",
+  "published": "2026-11-26T04:37:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-26T08:43:07.073944+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham Meta Naik 3,4% Usai Kabar Negosiasi dengan Amazon (26 November 2026).  Saham Meta Naik 3,4% Usai Kabar Negosiasi dengan Amazon (26 November 2026) &nbsp;&nbsp; Gotrade",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "1aea632e13a0",
   "title": "Harga Buyback Emas Antam Hari Ini 26 November 2026 Naik Rp20.000, Jadi Berapa?",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWTNOR1hsZUpmb1BGanp2a3FBWU9ibUhIV3dQc09oaENrMHVVQW5UQXJWREUwTHJaY0N0NF93aFczQmhfeUF6bVRwSDNVYzJkb2REZXRJSk0wZjBwM1JzUGRFTmtUSklobHJiaFY3R0Y0RGtUdWRkV0xoUk91Zks0VklZX0NTTDVHZE9oMm0zVXJNQWI3SUlUb3Z3cjZvNHJDMEt6OTg1Qk92TjloQVhoVdIBqAFBVV95cUxQYXI2eWp4ZnU4OVlBZ3ZydkpLMDlxMFpRZERlaUl2Tk84eFczTnZXWHRHVWx5aFlmcXJoNVY5bG9kRm1vTjEyT3lseGp5dEtuQ3dtWFpZdWQ4SGlsSVNwbmFUdGJDdnN6a2hHcURiay1SSkRMeTd5UVNySlFYQ0lBUlVGcW05NlQ5UGlWN3gyNG90ZUdXbGlDMVNDdl9oajJrX1FvYXJEWWE?oc=5",
@@ -284,8 +392,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -730,7 +838,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Petrosea (PTRO) Rights Issue 170 Juta Saham Baru, Cek Prospek Sahamnya.  Petrosea (PTRO) Rights Issue 170 Juta Saham Baru, Cek Prospek Sahamnya &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 25,
   "outcome": null,
@@ -892,7 +1000,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Petrosea (PTRO) Siapkan Rights Issue, Bakal Terbitkan 170 Juta Saham Baru.  Petrosea (PTRO) Siapkan Rights Issue, Bakal Terbitkan 170 Juta Saham Baru &nbsp;&nbsp; IDX Channel",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 19,
   "outcome": null,
@@ -1005,8 +1113,8 @@
   "score": 12,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -1519,8 +1627,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -1581,8 +1689,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -1893,8 +2001,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -2063,7 +2171,7 @@
  {
   "id": "6ccaff22fcca",
   "title": "Right Issue Tuntas, Emiten Hapsoro Percepat Pelunasan Utang",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlZ5OVQ5MFZQVktCbVl4SmFKSTdPQ0ZlUW55RC1JX1dwQ3h2MDJUeDNhUE1sQWVfdWNKSlpKNURoRUF3dERreW44ZXVDLWdkYUh2eXZSdk0xbWRPX0JoZTBRZ1pieFpOLXd2WmItRTRPclBHcnA4QVE3cWRIdWhONW40MGdJeDkxSFVqRFRJWQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmlIMlpUUTBXZWloblFoXzczbS11d0k5ckJzMWlzSk9GRHpDN0RCaThienlLQjBMdTBOYUZJLVlVb3c2OFZuN3VHTXVSeTRtYXFrMUVKN1RDejdJLUdyR2tPbXdDVEpBdmRlY2w5ZllHakswN1gxM3o0X2laZXpZZUJjZU8tQ3dtRVVxWUNrbjEyZklJ?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-24T23:23:00+00:00",
   "tickers": [],
@@ -2169,8 +2277,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.77,
-   "abn5": -7.76,
+   "vol_z": -0.76,
+   "abn5": -8.24,
    "last": "2026-11-26"
   }
  },
@@ -2361,7 +2469,7 @@
  {
   "id": "f73cb324375c",
   "title": "BSI Siapkan Rights Issue Demi Penuhi Struktur Kepemilikan Saham Sesuai Standar Global",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHNWWUFfRDU2TFlDeVVtQjYyeXZ2cWZNaHgxQTlJZUVFcUhtMzBSRlgtZUdGSUdMMllSN05zWnlGeTR6RlVDNDJYallHR0sxVzlIMVFPUXpodVRGbVN0Y2VQem1Fd1NsXzctUzcxMXJzbmc3NEszNmtGR0g3UF8wS3JaN1ZSOTZLckJzQURyaERFTFlFWFE3ODhTQW82emQtM0tzLXVPQ01aQnJEYmczSVMxYUNIdl9EMUlaUDdMQdIBwgFBVV95cUxNdFNobnQyWVZWUWh6dkdFYTY5dElTNE9IcW90eHJiNTctOW9XY2FXMzh6eGhWajAtYWgwTExsanYyNVlYSmZ0ZEtobk9kVUpUMjlIZE1FbnRjbWJkeUlYQlhwVF9aTFVWSmRQUlhINjR3d0FWd2k0UXVOamR2bnhfbklfMUV1akJsVUo2QWNsc2dtdjVVRVVMVUxxZ3F3aF9ycFBIblpjSWdobjJVQXNqOE53ZGJoUV82bTZaQnEwYkNyUQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX25GcF8tYVRCQ3J4X0FnRWFybmtXUkFaWDdLV1hWbXJUTkFwUTMwTm9pQmpvUDlXeDZLaHBta1cya2VqbDR6WElaNTJKWVlwSy04QXNFVjY4S3FJbEhuRTZGekE2bDlPSzVsTjFDSDZmWTVNSDhTRUhMQS1FQ3VEUXA2Vmx2NkxzQUpxdVhUNmx2VVhpT25OajE4ZVhJVC1XSU04eWlOczkxOXdxM2s3OFduckxYOFFqclY4ctIBwgFBVV95cUxNdFNobnQyWVZWUWh6dkdFYTY5dElTNE9IcW90eHJiNTctOW9XY2FXMzh6eGhWajAtYWgwTExsanYyNVlYSmZ0ZEtobk9kVUpUMjlIZE1FbnRjbWJkeUlYQlhwVF9aTFVWSmRQUlhINjR3d0FWd2k0UXVOamR2bnhfbklfMUV1akJsVUo2QWNsc2dtdjVVRVVMVUxxZ3F3aF9ycFBIblpjSWdobjJVQXNqOE53ZGJoUV82bTZaQnEwYkNyUQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-24T13:15:00+00:00",
   "tickers": [],
@@ -3253,8 +3361,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -3393,8 +3501,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -3640,6 +3748,36 @@
   "anomali": null
  },
  {
+  "id": "96b5b49a326d",
+  "title": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXpMSTRKZFZfcmtUTHdaMG9URGRmd09JSHVxQTRlZXhyRW0zNEZlNjJuOFl2aHJTbEtsNThsZEJpWWN1Vi0zMHM2WDVTcnI2QzFRajRUeEhKVjBiV0J2THh0ZkRWQWt5RnJGLWxkNGZGS01NS0tXbWxRS3RnVzB5SXNWTzJCalRvSTRsQVZNXzhhTV8yckRBN0sxWXRYc3FZR255b1JpaFlnR05WbmtRbk4taUJDMTZDazE1VFdvZFFnRGhNcnNuMQ?oc=5",
+  "media": "Digivestasi",
+  "published": "2026-11-23T21:07:49+00:00",
+  "tickers": [
+   "EXCL"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-20T14:12:09.645817+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 1000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS.  XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS &nbsp;&nbsp; Dig",
+  "corroboration": 12,
+  "response": null,
+  "score": 26,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "288878785512",
   "title": "Jensen Huang ‘Come Back’, Saham Nvidia Melejit di Atas 30%",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0VGTmY2c1NFSHZ3cm1aLUJ5OVE0dmhBUHBrV1NYVFp5ZE1PUXdtdzk3UFRYN1lkaGxCdkRvLTJ2czdtcmZRb0liV3hFR1Zwc2tQclJneUIwYnhxc29JOC10Tl9pMVo2aDVCSGx6bDA0UFE1R1lIZWZPWFhxdk1XeUFZOVZhenM0VDU5enNXeW1zcURYNGZXZzlVd3JwenVoWlE?oc=5",
@@ -3651,7 +3789,7 @@
   "asal": [],
   "first_seen": "2026-11-24T00:52:14.190065+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -4317,7 +4455,7 @@
  {
   "id": "1e2de001956d",
   "title": "Bos MSCI Bertemu Prabowo, Status Pasar Saham RI Berpeluang Aman?",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0NCVkFLYjZ3MFlvakpzT2Z1UU1sZ2gyTVVKTDI3T3lONFUyLVc3LW5DcllkN214WmExWnBsUGJnSnFEWWx4dmdRWGxoeEpZNUo5eWNIYVFCSmhqVTU3aGo0UzdCaEk5ZTN0VWFlNHN0M3ZXWHktZVRCQjRKSWxEemdnMU5vWVV1ZWN2ZVp2WEIyeEZFbndqSkNGTGNjODhyUmgxTnFJb1M1NHpPWDd3ZVp0aVRMRE5m0gGXAUFVX3lxTE5iRFlVeHpaSlFaQ3NnQjFhV2RDSVRsbV83TVhEN0c0cTNvLTFNWFM2c1VCWFROazk5LU9id0RfUjZ5TUhMYndqcTBuak4tVHNmOGxNNUhCSzRzYkxrVFNKY0VraU1vTVJuVmJVMkg2VEtDcG9oY0FDVDVvMk41N24wUW1aMkpoS3htTlNxN0Nqc3lXaGlCVjA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTQtUlJ2OUtVZ1BqYVZjSFlkWnZVSGg3cVZJVUd6cGFjNG53c3lzSHkwQl96YnplZm5ld3NNeC13b1BjdzZiZVlUV3k4ZUhvXzRmUm5tZUZvUG5PeGt3c01zbDNXekhSREtLaGhjZXJBTHdZMEIydnUtdjlSMXhjOGNhMmdNTU1DT2F5QXJJSElZenFNbEI3X1N5YmJVd9IBlwFBVV95cUxOYkRZVXh6WkpRWkNzZ0IxYVdkQ0lUbG1fN01YRDdHNHEzby0xTVhTNnNVQlhUTms5OS1PYndEX1I2eU1ITGJ3anEwbmpOLVRzZjhsTTVIQks0c2JMa1RTSmNFa2lNb01SblZiVTJINlRLQ3BvaGNBQ1Q1bzJONTduMFFtWjJKaEt4bU5TcTdDanN5V2hpQlYw?oc=5",
   "media": "kontan.co.id",
   "published": "2026-11-23T08:43:14+00:00",
   "tickers": [],
@@ -4657,8 +4795,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.16,
-   "abn5": 5.2,
+   "vol_z": 0.2,
+   "abn5": 5.25,
    "last": "2026-11-26"
   }
  },
@@ -5026,7 +5164,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Petrosea (PTRO) Gelar RUPSLB Hari Ini (23/11), Bahas Rights Issue 170 Juta Saham - Bisnis.com.  Petrosea (PTRO) Gelar RUPSLB Hari Ini (23/11), Bahas Rights Issue 170 Juta Saham &nbsp;&nbsp; Bisnis.com - Market",
-  "corroboration": 3,
+  "corroboration": 4,
   "response": null,
   "score": 25,
   "outcome": null,
@@ -5581,7 +5719,7 @@
   "schedule": false,
   "party": false,
   "snippet": "EXCL Buyback Saham Rp1 Triliun, Intip Profil Emiten hingga Kinerja Terbarunya.  EXCL Buyback Saham Rp1 Triliun, Intip Profil Emiten hingga Kinerja Terbarunya &nbsp;&nbsp; KONTAN",
-  "corroboration": 11,
+  "corroboration": 12,
   "response": null,
   "score": 35,
   "outcome": null,
@@ -5611,7 +5749,7 @@
   "schedule": false,
   "party": false,
   "snippet": "EXCL Buyback Saham Rp1 Triliun, Intip Profil Emiten hingga Kinerja Terbarunya.  EXCL Buyback Saham Rp1 Triliun, Intip Profil Emiten hingga Kinerja Terbarunya &nbsp;&nbsp; TradingView",
-  "corroboration": 11,
+  "corroboration": 12,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -5704,8 +5842,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -5792,8 +5930,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -5828,7 +5966,7 @@
  {
   "id": "4e0810fac222",
   "title": "Kopdes Merah Putih Siapkan Armada Operasional, Ratusan Mobil di Rorotan Tunggu Proses Distribusi ke Daerah - Hallo Indonesia",
-  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdmp2aUVmQ3pkRW5pb1BYa25KeFJ3bFNrejl2dDkxUkFrUzhLOThGZEVZeC1PTVREM3dyTTdybkRudXBJMVNzR1Fqck9LdFl4b3N0RzFtYnhWLXIwM0hRU0VvTl96SG1mTG1LMGRmU1R1N1ZydnJ1S0JxZHNNT0k5TTRmSjA3aW5JcFphcllMY1IxTlBHekY3YUxnTnlYVFRkY0l1TTZQTm5IZ094UllWazZvV2ljZGFrOHJOekQweXJtTmczclFiaWFlanJMUzFJc2hGdUJyVzJNUWVSZTdEZzlWRk9ad2JTcFA2QnVKdTdoWjBwM1HSAfYBQVVfeXFMUHZqdmlFZkN6ZEVuaW9QWGtuSnhSd2xTa3o5dnQ5MVJBa1M4Szk4RmRFWXgtT01URDN3ck03cm5EbnVwSTFTc0dRanJPS3RZeG9zdEcxbWJ4Vi1yMDNIUVNFb05fekhtZkxtSzBkZlNUdTdWcnZydUtCcWRzTU9JOU00ZkowN2luSXBaYXJZTGNSMU5QR3pGN2FMZ055WFRUZGNJdU02UE5uSGdPeFJZVms2b1dpY2RhazhyTnpEMHlybU5nM3JRYmlhZWpyTFMxSXNoRnVCclcyTVFlUmU3RGc5VkZPWndiU3BQNkJ1SnU3aFowcDNR?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV2thVk1sbFpYckVSVDBQdUl1Zjdncnlrb0ZSVnVOcklfTElMakUyVVh1OW82TTB3WWkxbUVjRjBoX1RVYWEwU1ljY05VMjZJZ2RienJSdzdfRUUzZ1FES3lGTVpTSzZRdUI3ZGNTU2RibHpNOUxSTXdBM1VDdmtPSXk5Z0VvRmplTkdwWk4zNXlIVDNqVS1Udlc5UnRRaDY4TkdDSGx3a19sZ1ZYcDVGdW5aRWxHRlJ0bmZpQnRGVzJocWs0dWpqMmhXdXdwUHlaRm1YZUZoczFYSnktZGNaaXlFbkZmSlHSAewBQVVfeXFMUDJWeTBRYkRYS3g2Zjc4Njg1XzhEamZ5cVVKVThoZjBreGc1OVNqRzVJRHJaSThiSHhrcnNIZUl0cDc4NXR0WGw5S2xIdDJsY2RfX0dnUWl0SVcwQkpUanJ5WjBUZWxtbHRza0dqbGxudEdGN0dudkliZ3BTRkhPMHd0alZDcVlTTkV0MGJVODgxcHJMX2VXZUowcFFMVDUyTVcwallibFRhdk1ZVy1uLVNEc0NrdGhzV1Q3b1FHQTM5c3Q0b0ZGSkJVSzlkNkJieWREWEFSQnh6bjZaQklqSWFTTjdTODI4bWVMZ1M?oc=5",
   "media": "Hallo Indonesia",
   "published": "2026-11-23T00:30:00+00:00",
   "tickers": [],
@@ -5986,8 +6124,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -6550,7 +6688,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Buyback Saham SMGR, EXCL, dan ELSA di Tengah Gejolak Pasar, Mana yang Menarik?.  Buyback Saham SMGR, EXCL, dan ELSA di Tengah Gejolak Pasar, Mana yang Menarik? &nbsp;&nbsp; TradingView",
-  "corroboration": 15,
+  "corroboration": 16,
   "response": null,
   "score": 16,
   "outcome": null,
@@ -6581,7 +6719,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Buyback Saham SMGR, EXCL, dan ELSA di Tengah Gejolak Pasar, Mana yang Menarik?.  Buyback Saham SMGR, EXCL, dan ELSA di Tengah Gejolak Pasar, Mana yang Menarik? &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 15,
+  "corroboration": 16,
   "response": null,
   "score": 25,
   "outcome": null,
@@ -6828,8 +6966,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -6886,8 +7024,8 @@
   "score": 36,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -7410,8 +7548,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -7819,7 +7957,7 @@
   "schedule": false,
   "party": false,
   "snippet": "XLSMART (EXCL) Rencana Buyback Saham Rp1 Triliun pada 23 November 2026.  XLSMART (EXCL) Rencana Buyback Saham Rp1 Triliun pada 23 November 2026 &nbsp;&nbsp; Telset.id",
-  "corroboration": 11,
+  "corroboration": 12,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -8122,36 +8260,6 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "96b5b49a326d",
-  "title": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXpMSTRKZFZfcmtUTHdaMG9URGRmd09JSHVxQTRlZXhyRW0zNEZlNjJuOFl2aHJTbEtsNThsZEJpWWN1Vi0zMHM2WDVTcnI2QzFRajRUeEhKVjBiV0J2THh0ZkRWQWt5RnJGLWxkNGZGS01NS0tXbWxRS3RnVzB5SXNWTzJCalRvSTRsQVZNXzhhTV8yckRBN0sxWXRYc3FZR255b1JpaFlnR05WbmtRbk4taUJDMTZDazE1VFdvZFFnRGhNcnNuMQ?oc=5",
-  "media": "Digivestasi",
-  "published": "2026-11-20T19:59:56+00:00",
-  "tickers": [
-   "EXCL"
-  ],
-  "uma": false,
-  "jenis": [
-   "Pembelian/penjualan besar"
-  ],
-  "asal": [],
-  "first_seen": "2026-11-20T14:12:09.645817+00:00",
-  "anon": [],
-  "corp": [
-   "buyback"
-  ],
-  "stance": null,
-  "value_bn": 1000.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS.  XLSmart (EXCL) Akan Buyback Saham hingga Rp1 Triliun pada 23 November 2026-22 Februari 2027, Didanai Kas Internal dan Tanpa Persetujuan RUPS &nbsp;&nbsp; Dig",
-  "corroboration": 11,
-  "response": null,
-  "score": 26,
   "outcome": null,
   "anomali": null
  },
@@ -8482,7 +8590,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham.  Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham &nbsp;&nbsp; شبكة تواصل الإخبارية",
-  "corroboration": 11,
+  "corroboration": 12,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -8512,7 +8620,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham.  Emiten EXCL Siapkan Rp 1 Triliun Buat Buyback Saham &nbsp;&nbsp; Liputan6.com",
-  "corroboration": 11,
+  "corroboration": 12,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -8965,7 +9073,7 @@
   "schedule": false,
   "party": false,
   "snippet": "EXCL siapkan Rp1 triliun untuk buyback saham, ini jadwalnya.  EXCL siapkan Rp1 triliun untuk buyback saham, ini jadwalnya &nbsp;&nbsp; IDNFinancials",
-  "corroboration": 11,
+  "corroboration": 12,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -9109,7 +9217,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Pasar Berfluktuasi Tajam! EXCL Rogoh Kocek Rp1 Triliun Untuk Buyback Saham, Cek Tanggalnya - Sinar Harapan.  Pasar Berfluktuasi Tajam! EXCL Rogoh Kocek Rp1 Triliun Untuk Buyback Saham, Cek Tanggalnya - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
-  "corroboration": 11,
+  "corroboration": 12,
   "response": null,
   "score": 26,
   "outcome": null,
@@ -9170,8 +9278,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -9260,9 +9368,9 @@
  {
   "id": "febf3ac85b5a",
   "title": "Harga Buyback Emas Antam (ANTM) Logam Mulia Jumat Anjlok Tajam, Emas Dunia (XAUUSD) Tertekan! - Sinar Harapan",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbTRuLTR5SS1SM1U1ZHVzWjFGZ1N0OXhIMXdKVTBkenEyeXRmWHJ3R0hIUmYydWFuSHk4eEExczhJQXg0dnhLeG83dXNTYU14dHZXN3daWU5pWGNXV3o1b3N1OEp2TGZPSFVjTjBkNTVkY0J0WXc3V3dpQlF2SllqajdLNndwVFFFNkRQcTBHeWxzZE93MkRHQWd3TGs4Yk9CZDJNblNyUWV2UG42cjd0Wl9PZ05UVFpyTUlrQ2FuQWwyQXNzY0JhY0lJbTlNNVA30gHWAUFVX3lxTFB4emZ6OXd6eUVvcmh1QzJDc3dyLTV2RWotdC1kVFhsZHZ2WHBONXFmcGc0dlZNb21pLXctX095WmpwejJpZXpFWHN4eklncmM1aW1MNDBLN0thUVFMQi1lLXZIM3hVWTVKblMySkN6MVlodmVKSExwZTJsYXIwbjJGbmhGX0tLczJRNXR6ZXlJMTlHY3pZRktGYTRyLUdzTEpmaUxIRG5ZU0ltWl9NcDVjSmtvbUNha2c4WW5qZTIyNGlQSklqdGlEMUE3ZDBVT3E0RGw4bGc?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeHpmejl3enlFb3JodUMyQ3N3ci01dkVqLXQtZFRYbGR2dlhwTjVxZnBnNHZWTW9taS13LV9PeVpqcHoyaWV6RVhzeHpJZ3JjNWltTDQwSzdLYVFRTEItZS12SDN4VVk1Sm5TMkpDejFZaHZlSkhMcGUybGFyMG4yRm5oRl9LS3MyUTV0emV5STE5R2N6WUZLRmE0ci1Hc0xKZmlMSERuWVNJbVpfTXA1Y0prb21DYWtnOFluamUyMjRpUEpJanRpRDFBN2QwVU9xNERsOGxn0gHWAUFVX3lxTFB4emZ6OXd6eUVvcmh1QzJDc3dyLTV2RWotdC1kVFhsZHZ2WHBONXFmcGc0dlZNb21pLXctX095WmpwejJpZXpFWHN4eklncmM1aW1MNDBLN0thUVFMQi1lLXZIM3hVWTVKblMySkN6MVlodmVKSExwZTJsYXIwbjJGbmhGX0tLczJRNXR6ZXlJMTlHY3pZRktGYTRyLUdzTEpmaUxIRG5ZU0ltWl9NcDVjSmtvbUNha2c4WW5qZTIyNGlQSklqdGlEMUE3ZDBVT3E0RGw4bGc?oc=5",
   "media": "Sinar Harapan",
-  "published": "2026-11-20T03:58:29+00:00",
+  "published": "2026-11-20T03:58:00+00:00",
   "tickers": [
    "ANTM"
   ],
@@ -9286,8 +9394,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -9378,10 +9486,40 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
+ },
+ {
+  "id": "99f343d2e830",
+  "title": "XLSMART (EXCL) Siapkan Buyback Saham Rp1 Triliun, Periode hingga Februari 2027",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmFvTUVaYTEwNHN0S01aOHoxX1pMaVpvUWFCd1dYdFU3VEM1SS1HMktSNlZIM1NTR2gyT2hMT1k4SmlkcDRvNEFNU0E2VlBOVDBNTlpQOU5fY3lMd0tsSEMxRGVWbzVSN3RHSUYzUUZzLUNkM3Rlakl1dWZ2Mjlrd09vbkVwMTMzSkZPTl9IM19CX0NVRHFKaWNmVW45ejBPZ1lEMy1lZHJucEpEYV9rUldQaFVEOUHSAboBQVVfeXFMTldhV3dLYmQ4VmdqSkpPekM2ZFlmU3BLSmNCcngxa2JIeGZnWUhHWUNuSndhcU5LaFpsTFdYU3UwRlFURXBQb2ZSM2lNMkVQYlMyR3g0VmktYV9xR0RGZGRGbm9WckhERXpyVEJ0dEl1a1ZmUzl3YU5UVjFoSmNtSjZmOHZTZGMweWFOaWZVY3MyOWJ5bnJIQzU3NDh1UWRka0tNNlphLTFjdW1oMWQzdXRCbVlzYTBjOVln?oc=5",
+  "media": "IDX Channel",
+  "published": "2026-11-20T03:31:00+00:00",
+  "tickers": [
+   "EXCL"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-26T08:43:07.073944+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 1000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "XLSMART (EXCL) Siapkan Buyback Saham Rp1 Triliun, Periode hingga Februari 2027.  XLSMART (EXCL) Siapkan Buyback Saham Rp1 Triliun, Periode hingga Februari 2027 &nbsp;&nbsp; IDX Channel",
+  "corroboration": 12,
+  "response": null,
+  "score": 29,
+  "outcome": null,
+  "anomali": null
  },
  {
   "id": "d19b83989357",
@@ -9521,7 +9659,7 @@
   "schedule": false,
   "party": false,
   "snippet": "XLSMART (EXCL) Siapkan Dana Rp1 Triliun untuk Buyback Saham - Bisnis.com.  XLSMART (EXCL) Siapkan Dana Rp1 Triliun untuk Buyback Saham &nbsp;&nbsp; Bisnis.com - Market",
-  "corroboration": 11,
+  "corroboration": 12,
   "response": null,
   "score": 35,
   "outcome": null,
@@ -9637,7 +9775,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Buyback, EXCL Siapkan Anggaran Jumbo.  Buyback, EXCL Siapkan Anggaran Jumbo &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 11,
+  "corroboration": 12,
   "response": null,
   "score": 19,
   "outcome": null,
@@ -9758,8 +9896,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.44,
-   "abn5": -8.93,
+   "vol_z": -0.42,
+   "abn5": -8.56,
    "last": "2026-11-26"
   }
  },
@@ -9822,8 +9960,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -9934,8 +10072,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 5.15,
+   "vol_z": -0.01,
+   "abn5": 6.83,
    "last": "2026-11-26"
   }
  },
@@ -9998,8 +10136,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.39,
-   "abn5": -2.28,
+   "vol_z": -0.3,
+   "abn5": 1.83,
    "last": "2026-11-26"
   }
  },
@@ -10875,26 +11013,24 @@
   "tickers": [
    "PACK"
   ],
-  "uma": false,
+  "uma": true,
   "jenis": [],
   "asal": [],
   "first_seen": "2026-11-19T08:25:42.396054+00:00",
   "anon": [],
-  "corp": [
-   "akuisisi"
-  ],
+  "corp": [],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel.  Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel &nbsp;&nbsp; Lotus Andalan Sekuritas",
-  "corroboration": 1,
+  "corroboration": 0,
   "response": null,
-  "score": 21,
+  "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 7.38,
+   "vol_z": -0.03,
+   "abn5": 7.07,
    "last": "2026-11-26"
   }
  },
@@ -11511,8 +11647,8 @@
   "score": 59,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 7.38,
+   "vol_z": -0.03,
+   "abn5": 7.07,
    "last": "2026-11-26"
   }
  },
@@ -11675,8 +11811,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": -1.03,
+   "vol_z": -0.28,
+   "abn5": -1.31,
    "last": "2026-11-26"
   }
  },
@@ -11957,8 +12093,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -12843,8 +12979,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": -1.03,
+   "vol_z": -0.28,
+   "abn5": -1.31,
    "last": "2026-11-26"
   }
  },
@@ -12875,8 +13011,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": -1.03,
+   "vol_z": -0.28,
+   "abn5": -1.31,
    "last": "2026-11-26"
   }
  },
@@ -12963,8 +13099,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": -1.03,
+   "vol_z": -0.28,
+   "abn5": -1.31,
    "last": "2026-11-26"
   }
  },
@@ -13169,8 +13305,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": -1.03,
+   "vol_z": -0.28,
+   "abn5": -1.31,
    "last": "2026-11-26"
   }
  },
@@ -13589,8 +13725,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -14034,8 +14170,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -14288,8 +14424,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -16108,8 +16244,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.83,
-   "abn5": 13.73,
+   "vol_z": 1.88,
+   "abn5": 12.75,
    "last": "2026-11-26"
   }
  },
@@ -16709,8 +16845,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -16741,8 +16877,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -16991,8 +17127,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -17023,8 +17159,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -17055,8 +17191,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -17087,8 +17223,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -17119,8 +17255,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -17151,8 +17287,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -17321,8 +17457,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -17353,8 +17489,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -17387,8 +17523,8 @@
   "score": 35,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -17449,8 +17585,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -17481,8 +17617,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -17515,8 +17651,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -17547,8 +17683,8 @@
   "score": 29,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -17737,8 +17873,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": -1.03,
+   "vol_z": -0.28,
+   "abn5": -1.31,
    "last": "2026-11-26"
   }
  },
@@ -18172,8 +18308,8 @@
   "score": 6,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.27,
-   "abn5": 4.54,
+   "vol_z": -0.22,
+   "abn5": 4.45,
    "last": "2026-11-26"
   }
  },
@@ -18284,8 +18420,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -18486,8 +18622,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -18776,8 +18912,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -18808,8 +18944,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -19354,6 +19490,32 @@
   "anomali": null
  },
  {
+  "id": "f46231daa3d5",
+  "title": "Saham SMLE Volatil, Sinergi Lestarindo Beri Penjelasan Begini ke BEI",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbUk5STN5VUtYak1ILUI1T1ZTbkFFaVU2aGdGbjVfRnl6TzV3VTIyd21jb3FTbUhORmExQ0wyenppSzdTOHlDYk1mZkVrUUQ1ZFNEajVFVzYzRUZlck9JZkFYNEM3ZzVkTDY5UE9SWG93R2NZZ0F5VGtoaVpieWd0cmFNRUxGVTVQbk43NUNOLURRZ25Z?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-11-13T09:00:19+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-13T09:26:51.410592+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Saham SMLE Volatil, Sinergi Lestarindo Beri Penjelasan Begini ke BEI.  Saham SMLE Volatil, Sinergi Lestarindo Beri Penjelasan Begini ke BEI &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "1e46a43e330d",
   "title": "SpaceX dan Tesla Disebut Akan Umumkan Merger pada Desember 2026",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORUt2LVJmcEw5bmRFek9LZW91R25Bc1Q2QjBrN0lBVU9QZ3R2RVB5anJFMnYwNWg1VE15bERSTDdpZnJNRDd5SHJLQy1HUGVReEhsZzV0VWV1YU5Dc3pxVi1xdmpqQnp6MjNiemVobWI4ZXUtYmxBUmIzeDNIZTlFUXl5ZGc4cUZ2NS1nc0t1YWUxa01wRzFhd2pIWW1sNUdxbVdz0gGoAUFVX3lxTE9Rb25zWmRneDd6YTh2eWdTZUNwTzhrdVg1SWdCd2ZWNV9qa0h2RHRIR00yWnNxeGNjTUJpaHNIakpZa2lWcDh2Sjl5UmdOaTMtTWtDTFRrODhqNjUzVXNDUlpUaVcxYVQtR3B2NjRTSHZuOWFjS3gwSkMwZlhMdlZVcmhaMURCcWpBVjdsWkhnU1o0WHozU2ZfUk15dXZVSTVmSWZyekdZdg?oc=5",
@@ -19432,32 +19594,6 @@
   "corroboration": 1,
   "response": null,
   "score": 16,
-  "outcome": null,
-  "anomali": null
- },
- {
-  "id": "f46231daa3d5",
-  "title": "Saham SMLE Volatil, Sinergi Lestarindo Beri Penjelasan Begini ke BEI",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbUk5STN5VUtYak1ILUI1T1ZTbkFFaVU2aGdGbjVfRnl6TzV3VTIyd21jb3FTbUhORmExQ0wyenppSzdTOHlDYk1mZkVrUUQ1ZFNEajVFVzYzRUZlck9JZkFYNEM3ZzVkTDY5UE9SWG93R2NZZ0F5VGtoaVpieWd0cmFNRUxGVTVQbk43NUNOLURRZ25Z?oc=5",
-  "media": "StockWatch.id",
-  "published": "2026-11-13T08:00:00+00:00",
-  "tickers": [],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-13T09:26:51.410592+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Saham SMLE Volatil, Sinergi Lestarindo Beri Penjelasan Begini ke BEI.  Saham SMLE Volatil, Sinergi Lestarindo Beri Penjelasan Begini ke BEI &nbsp;&nbsp; StockWatch.id",
-  "corroboration": 0,
-  "response": null,
-  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -20064,8 +20200,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -20150,8 +20286,8 @@
   "score": 27,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.06,
-   "abn5": 7.38,
+   "vol_z": -0.03,
+   "abn5": 7.07,
    "last": "2026-11-26"
   }
  },
@@ -20212,8 +20348,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -20408,8 +20544,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -20826,8 +20962,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -21517,8 +21653,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -21789,8 +21925,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -21823,8 +21959,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -22069,8 +22205,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": -6.22,
+   "vol_z": -0.12,
+   "abn5": -6.33,
    "last": "2026-11-26"
   }
  },
@@ -24354,8 +24490,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -25768,8 +25904,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": -6.22,
+   "vol_z": -0.12,
+   "abn5": -6.33,
    "last": "2026-11-26"
   }
  },
@@ -26213,8 +26349,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": -6.22,
+   "vol_z": -0.12,
+   "abn5": -6.33,
    "last": "2026-11-26"
   }
  },
@@ -27854,8 +27990,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": -1.03,
+   "vol_z": -0.28,
+   "abn5": -1.31,
    "last": "2026-11-26"
   }
  },
@@ -28574,8 +28710,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": -1.03,
+   "vol_z": -0.28,
+   "abn5": -1.31,
    "last": "2026-11-26"
   }
  },
@@ -28609,8 +28745,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": -1.03,
+   "vol_z": -0.28,
+   "abn5": -1.31,
    "last": "2026-11-26"
   }
  },
@@ -28838,8 +28974,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": -1.03,
+   "vol_z": -0.28,
+   "abn5": -1.31,
    "last": "2026-11-26"
   }
  },
@@ -28928,8 +29064,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": -1.03,
+   "vol_z": -0.28,
+   "abn5": -1.31,
    "last": "2026-11-26"
   }
  },
@@ -29080,8 +29216,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.3,
-   "abn5": -1.03,
+   "vol_z": -0.28,
+   "abn5": -1.31,
    "last": "2026-11-26"
   }
  },
@@ -29390,8 +29526,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -30588,8 +30724,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -30748,8 +30884,8 @@
   "score": 56,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": -6.22,
+   "vol_z": -0.12,
+   "abn5": -6.33,
    "last": "2026-11-26"
   }
  },
@@ -33690,8 +33826,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -33806,8 +33942,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -37739,8 +37875,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.83,
-   "abn5": 13.73,
+   "vol_z": 1.88,
+   "abn5": 12.75,
    "last": "2026-11-26"
   }
  },
@@ -40047,8 +40183,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": -6.22,
+   "vol_z": -0.12,
+   "abn5": -6.33,
    "last": "2026-11-26"
   }
  },
@@ -40526,8 +40662,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.83,
-   "abn5": 13.73,
+   "vol_z": 1.88,
+   "abn5": 12.75,
    "last": "2026-11-26"
   }
  },
@@ -41677,8 +41813,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -1.02,
-   "abn5": 0.49,
+   "vol_z": -1.0,
+   "abn5": 0.46,
    "last": "2026-11-26"
   }
  },
@@ -41959,8 +42095,8 @@
   "score": 40,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.83,
-   "abn5": 13.73,
+   "vol_z": 1.88,
+   "abn5": 12.75,
    "last": "2026-11-26"
   }
  },
@@ -42021,8 +42157,8 @@
   "score": 34,
   "outcome": null,
   "anomali": {
-   "vol_z": 1.83,
-   "abn5": 13.73,
+   "vol_z": 1.88,
+   "abn5": 12.75,
    "last": "2026-11-26"
   }
  },
@@ -42277,8 +42413,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -42311,8 +42447,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -42898,8 +43034,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -43010,8 +43146,8 @@
   "score": 0,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -43636,8 +43772,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -44017,8 +44153,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.15,
-   "abn5": 3.84,
+   "vol_z": -0.14,
+   "abn5": 4.18,
    "last": "2026-11-26"
   }
  },
@@ -44497,8 +44633,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.1,
-   "abn5": 5.15,
+   "vol_z": -0.01,
+   "abn5": 6.83,
    "last": "2026-11-26"
   }
  },
