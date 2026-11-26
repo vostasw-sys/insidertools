@@ -812,7 +812,7 @@
   "schedule": false,
   "party": false,
   "snippet": "BSI (BRIS) Gelar Rights Issue Februari 2027, Siapkan 6,8 Miliar Saham Baru.  BSI (BRIS) Gelar Rights Issue Februari 2027, Siapkan 6,8 Miliar Saham Baru &nbsp;&nbsp; IDX Channel",
-  "corroboration": 4,
+  "corroboration": 3,
   "response": null,
   "score": 19,
   "outcome": null,
@@ -946,7 +946,7 @@
   "schedule": false,
   "party": false,
   "snippet": "BSI (BRIS) Rights Issue Maksimal 6,8 Miliar Saham, Siap Perkuat Modal.  BSI (BRIS) Rights Issue Maksimal 6,8 Miliar Saham, Siap Perkuat Modal &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 4,
+  "corroboration": 3,
   "response": null,
   "score": 25,
   "outcome": null,
@@ -1064,7 +1064,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Rights Issue, BSI (BRIS) Mau Terbitkan 6,8 Miliar Saham.  Rights Issue, BSI (BRIS) Mau Terbitkan 6,8 Miliar Saham &nbsp;&nbsp; CNBC Indonesia",
-  "corroboration": 4,
+  "corroboration": 3,
   "response": null,
   "score": 24,
   "outcome": null,
@@ -1099,7 +1099,7 @@
  {
   "id": "8cddf823ca8a",
   "title": "JSMR Merger Dua Anak Usaha ke Jasamarga Transjawa Tol",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFVIbWNGeTd5YjhzU0MyOC1rVlFkU2VJdHE1X1UybGVLNDdLQ1JydVJJVzBzSWFhcEEwSTlYZGx2NDB6WG1fQWtKeHdfWDBjRVRSSFdIY0t3LW5MNHcyR3pzWkFIc0tiOXFvSnh2RmhfTXpoaFBXS2FnMndfUXZja3BSaF9GUnNuS3RGRkUxemlMMEhTMjNHZUdR0gGcAUFVX3lxTFBhR1BDQkd5Tkk0ZktJWGFhVkN3MzJZdmgzQUlocGhMZVRJX2N3X0ZOcFliVVJyZUQ4al9Na2ctTTVTbUh5MDcwSjNrbjd1TktWcTZ5ZlZ0VGFLZzF1VDFDRjhRZ1ZYYmlIanZYZm5KUi13SllXOG8yWlBmbWlJTXZPVDZqQjFTZUxldHJYRmFTZGhmQXM3UkVocjFRRA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN21qQlNVbmdxc3RjRXI4c3ROdVJmbWdOS2trNjNsNnFkWkJ6NmdmeXhTUlRqVlUyVzZrbGdKRVRfQlNNQkhsc3NrbXJoZDhJMlE2XzFaQTBGSmtGaXhWcW1LZHNOVFhJbGlRN1JiZm5BT1VGdkE3a2VFZmZMeHlzaUp1TzRWSlBVWTZONmRraWdpQzI1TFpV0gGcAUFVX3lxTFBhR1BDQkd5Tkk0ZktJWGFhVkN3MzJZdmgzQUlocGhMZVRJX2N3X0ZOcFliVVJyZUQ4al9Na2ctTTVTbUh5MDcwSjNrbjd1TktWcTZ5ZlZ0VGFLZzF1VDFDRjhRZ1ZYYmlIanZYZm5KUi13SllXOG8yWlBmbWlJTXZPVDZqQjFTZUxldHJYRmFTZGhmQXM3UkVocjFRRA?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-26T02:38:00+00:00",
   "tickers": [],
@@ -1127,7 +1127,7 @@
  {
   "id": "4e0dbfb9c69e",
   "title": "Dapat Restu, BSI (BRIS) Kebut Right Issue 6,8 Miliar Lembar",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVZhcEdkMG92NWNVQXhXVTlSTk5aUFdmcFBfZnRfaldmUEVfSElaLWZJbWZhLXFaUlF3WkFJa1B6clNLWTV2TUp2Sk1CZW5JMnNxV3dYc3l5Y2d1RmJ0QUVSMUNJX0otVlQzcTRoUm80U1RQYlRTNXVrcUUwX3ZjeEVQdUhHNzVIRkxBQVpJemo?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQak5OTndoSEMwSzZWLUt6dkdWN3M1cGUtSDE1eHowYjVENUlEcFVhOXA4NmoxV2Y1dnFGR21kREFaRmY0Z3A1NGdtbE8xQV9aUGthS2dYdGpVU1dvaUtsakhBN1JsTEhfVThFeDJmNG81aFNjRm55QTJJNWR5MXdORUgtZEYxMHJ6Sllz?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-26T00:10:00+00:00",
   "tickers": [
@@ -1141,17 +1141,16 @@
   "first_seen": "2026-11-26T00:55:36.751446+00:00",
   "anon": [],
   "corp": [
-   "right issue",
-   "rights issue"
+   "right issue"
   ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Dapat Restu, BSI (BRIS) Kebut Right Issue 6,8 Miliar Lembar.  Dapat Restu, BSI (BRIS) Kebut Right Issue 6,8 Miliar Lembar &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 4,
+  "corroboration": 2,
   "response": null,
-  "score": 19,
+  "score": 14,
   "outcome": null,
   "anomali": null
  },
@@ -3268,7 +3267,7 @@
  {
   "id": "f73cb324375c",
   "title": "BSI Siapkan Rights Issue Demi Penuhi Struktur Kepemilikan Saham Sesuai Standar Global",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHNWWUFfRDU2TFlDeVVtQjYyeXZ2cWZNaHgxQTlJZUVFcUhtMzBSRlgtZUdGSUdMMllSN05zWnlGeTR6RlVDNDJYallHR0sxVzlIMVFPUXpodVRGbVN0Y2VQem1Fd1NsXzctUzcxMXJzbmc3NEszNmtGR0g3UF8wS3JaN1ZSOTZLckJzQURyaERFTFlFWFE3ODhTQW82emQtM0tzLXVPQ01aQnJEYmczSVMxYUNIdl9EMUlaUDdMQdIBwgFBVV95cUxNdFNobnQyWVZWUWh6dkdFYTY5dElTNE9IcW90eHJiNTctOW9XY2FXMzh6eGhWajAtYWgwTExsanYyNVlYSmZ0ZEtobk9kVUpUMjlIZE1FbnRjbWJkeUlYQlhwVF9aTFVWSmRQUlhINjR3d0FWd2k0UXVOamR2bnhfbklfMUV1akJsVUo2QWNsc2dtdjVVRVVMVUxxZ3F3aF9ycFBIblpjSWdobjJVQXNqOE53ZGJoUV82bTZaQnEwYkNyUQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX25GcF8tYVRCQ3J4X0FnRWFybmtXUkFaWDdLV1hWbXJUTkFwUTMwTm9pQmpvUDlXeDZLaHBta1cya2VqbDR6WElaNTJKWVlwSy04QXNFVjY4S3FJbEhuRTZGekE2bDlPSzVsTjFDSDZmWTVNSDhTRUhMQS1FQ3VEUXA2Vmx2NkxzQUpxdVhUNmx2VVhpT25OajE4ZVhJVC1XSU04eWlOczkxOXdxM2s3OFduckxYOFFqclY4ctIBwgFBVV95cUxNdFNobnQyWVZWUWh6dkdFYTY5dElTNE9IcW90eHJiNTctOW9XY2FXMzh6eGhWajAtYWgwTExsanYyNVlYSmZ0ZEtobk9kVUpUMjlIZE1FbnRjbWJkeUlYQlhwVF9aTFVWSmRQUlhINjR3d0FWd2k0UXVOamR2bnhfbklfMUV1akJsVUo2QWNsc2dtdjVVRVVMVUxxZ3F3aF9ycFBIblpjSWdobjJVQXNqOE53ZGJoUV82bTZaQnEwYkNyUQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-24T13:15:00+00:00",
   "tickers": [],
@@ -3599,9 +3598,37 @@
   "schedule": false,
   "party": false,
   "snippet": "BSI (BRIS) Akui Rights Issue Berpotensi Tekan Laba Per Saham.  BSI (BRIS) Akui Rights Issue Berpotensi Tekan Laba Per Saham &nbsp;&nbsp; CNBC Indonesia",
-  "corroboration": 4,
+  "corroboration": 3,
   "response": null,
   "score": 24,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "415bc2ec4842",
+  "title": "OJK Tanggapi MSCI Soal Afiliasi Politik Dewan Komisioner - Market",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ19fRXY3bDRZeFJweFlIZDMxNHFSb1pJMzVxSGdwS01DREtmeW9IZGo5NW84YmRiQkJuUzBrZk9kNjBJb0wtOXdScm96cmQ5a1BHclBIS0l3UDlDbDl0amZ6ZW94TU45XzBySHI4SDdBaGhXZmJBcDZhVkQxM3UzSTJGWkRKMlVHRUxLMXdiSkV0dU9UZGdaSmtRdTVUUkIzWXpYclJObHdkLW5WZjE4?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-24T08:50:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-26T19:56:38.742822+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "OJK Tanggapi MSCI Soal Afiliasi Politik Dewan Komisioner - Market.  OJK Tanggapi MSCI Soal Afiliasi Politik Dewan Komisioner - Market &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
   "outcome": null,
   "anomali": null
  },
@@ -4345,7 +4372,7 @@
   "asal": [],
   "first_seen": "2026-11-25T23:42:59.740861+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -4994,7 +5021,7 @@
   "asal": [],
   "first_seen": "2026-11-24T05:53:36.831479+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -5310,7 +5337,7 @@
  {
   "id": "1e2de001956d",
   "title": "Bos MSCI Bertemu Prabowo, Status Pasar Saham RI Berpeluang Aman?",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTQtUlJ2OUtVZ1BqYVZjSFlkWnZVSGg3cVZJVUd6cGFjNG53c3lzSHkwQl96YnplZm5ld3NNeC13b1BjdzZiZVlUV3k4ZUhvXzRmUm5tZUZvUG5PeGt3c01zbDNXekhSREtLaGhjZXJBTHdZMEIydnUtdjlSMXhjOGNhMmdNTU1DT2F5QXJJSElZenFNbEI3X1N5YmJVd9IBlwFBVV95cUxOYkRZVXh6WkpRWkNzZ0IxYVdkQ0lUbG1fN01YRDdHNHEzby0xTVhTNnNVQlhUTms5OS1PYndEX1I2eU1ITGJ3anEwbmpOLVRzZjhsTTVIQks0c2JMa1RTSmNFa2lNb01SblZiVTJINlRLQ3BvaGNBQ1Q1bzJONTduMFFtWjJKaEt4bU5TcTdDanN5V2hpQlYw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0NCVkFLYjZ3MFlvakpzT2Z1UU1sZ2gyTVVKTDI3T3lONFUyLVc3LW5DcllkN214WmExWnBsUGJnSnFEWWx4dmdRWGxoeEpZNUo5eWNIYVFCSmhqVTU3aGo0UzdCaEk5ZTN0VWFlNHN0M3ZXWHktZVRCQjRKSWxEemdnMU5vWVV1ZWN2ZVp2WEIyeEZFbndqSkNGTGNjODhyUmgxTnFJb1M1NHpPWDd3ZVp0aVRMRE5m0gGXAUFVX3lxTE5iRFlVeHpaSlFaQ3NnQjFhV2RDSVRsbV83TVhEN0c0cTNvLTFNWFM2c1VCWFROazk5LU9id0RfUjZ5TUhMYndqcTBuak4tVHNmOGxNNUhCSzRzYkxrVFNKY0VraU1vTVJuVmJVMkg2VEtDcG9oY0FDVDVvMk41N24wUW1aMkpoS3htTlNxN0Nqc3lXaGlCVjA?oc=5",
   "media": "kontan.co.id",
   "published": "2026-11-23T08:43:14+00:00",
   "tickers": [],
@@ -5369,7 +5396,7 @@
   "asal": [],
   "first_seen": "2026-11-26T03:28:47.346674+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -5559,7 +5586,7 @@
   ],
   "first_seen": "2026-11-23T06:36:51.180923+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -5929,7 +5956,7 @@
   "asal": [],
   "first_seen": "2026-11-24T23:42:40.460803+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
