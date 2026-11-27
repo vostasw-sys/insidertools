@@ -752,7 +752,7 @@
  {
   "id": "5938ad0d839c",
   "title": "Saham DSSA Anjlok 6,72% Saat Bareskrim Geledah Rumah 2 Tersangka Manipulasi",
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWUtlczhicmpnQWt2ZGhhUTBFNDE4TkhvVzhWMjF3akFWbHVDVzI5R2R2bkJKQ3RNcWZPZkVIa3lwa0k2MFF4MHNTMjA0UGd6V3ZtQkhMdFlzczZ1VzZhUWdqWlhJSHR2emxJOHdET1BXaS1JSXlfeERndm1Ed2laaWNCbGtXdlZoT1VnWHRaVS1tWWJXWlR5NElVNldKeHhfUWFEVXFKT05DdlVMeE1COXItdVk5dEFDWEM3NHR5ZXRJU2NRUTcxSDgwQdIBywFBVV95cUxNWUtlczhicmpnQWt2ZGhhUTBFNDE4TkhvVzhWMjF3akFWbHVDVzI5R2R2bkJKQ3RNcWZPZkVIa3lwa0k2MFF4MHNTMjA0UGd6V3ZtQkhMdFlzczZ1VzZhUWdqWlhJSHR2emxJOHdET1BXaS1JSXlfeERndm1Ed2laaWNCbGtXdlZoT1VnWHRaVS1tWWJXWlR5NElVNldKeHhfUWFEVXFKT05DdlVMeE1COXItdVk5dEFDWEM3NHR5ZXRJU2NRUTcxSDgwQQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaGFsaGhNRGVmQWdFT3hzM0tnbnQ2UkRWRWowVFVvbGlaV0NGODF3V0VLOG5RaDAxYmpJUS1EZGpvRDJ2Yk5scXJPdlNIYi1rM1ZQT2ZwdUVkOE85YnZNYU9adkNaMlk0b3hMODBndVJmSGRRQ3ZFRGFyRXdXWUtRSmhOSlpsZ1V3VXpCMFRGcURSbkRmenNiUGVseWVhS1pNYm90Vl9aRElULXdVNmczSlJ4dnIwcnNncXNhQVhINUNKMEwzcmfSAcsBQVVfeXFMTVlLZXM4YnJqZ0FrdmRoYVEwRTQxOE5Ib1c4VjIxd2pBVmx1Q1cyOUdkdm5CSkN0TXFmT2ZFSGt5cGtJNjBReDBzUzIwNFBneld2bUJITHRZc3M2dVc2YVFnalpYSUh0dnpsSTh3RE9QV2ktSUl5X3hEZ3ZtRHdpWmljQmxrV3ZWaE9VZ1h0WlUtbVliV1pUeTRJVTZXSnh4X1FhRFVxSk9OQ3ZVTHhNQjlyLXVZOXRBQ1hDNzR0eWV0SVNjUVE3MUg4MEE?oc=5",
   "media": "Katadata.co.id",
   "published": "2026-11-27T08:20:00+00:00",
   "tickers": [],
@@ -1470,11 +1470,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "ad6e80963f5b",
@@ -3242,11 +3238,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "c748fe9fb0db",
@@ -4612,11 +4604,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "302ad4c73a78",
@@ -4674,11 +4662,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "382b7d7b49fb",
@@ -5038,11 +5022,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "65c80626687b",
@@ -6642,11 +6622,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "017e42ea5b66",
@@ -6810,11 +6786,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "601da5e093db",
@@ -7125,7 +7097,7 @@
   "asal": [],
   "first_seen": "2026-11-24T00:52:14.190065+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -8096,7 +8068,7 @@
   ],
   "first_seen": "2026-11-23T06:36:51.180923+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -8304,7 +8276,7 @@
   "asal": [],
   "first_seen": "2026-11-23T17:53:06.974028+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -9375,11 +9347,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "a627b4022b4d",
@@ -10411,11 +10379,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "1995d86583c9",
@@ -12835,11 +12799,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "a37d881b9b1c",
@@ -12951,11 +12911,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "d80d0ed236f4",
@@ -13043,11 +12999,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "99f343d2e830",
@@ -13569,11 +13521,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "8f6a8a6b49dc",
@@ -15702,11 +15650,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "bdcb66076402",
@@ -17779,11 +17723,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "3d110404d793",
@@ -18033,11 +17973,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "ec9611bbda81",
@@ -21194,11 +21130,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "c98b23e9e339",
@@ -21226,11 +21158,7 @@
   "response": null,
   "score": 21,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "c1fef08862b1",
@@ -21260,11 +21188,7 @@
   "response": null,
   "score": 11,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "f1936bfef4ed",
@@ -22029,11 +21953,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "9d5ee601b580",
@@ -22231,11 +22151,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "d25b777b438f",
@@ -22521,11 +22437,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "08ae46d4ae97",
@@ -22553,11 +22465,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "17aa6f8164ef",
@@ -23781,11 +23689,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "825a49d14507",
@@ -23929,11 +23833,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "d93f631d1209",
@@ -24125,11 +24025,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "81eba6f2a8e8",
@@ -25234,11 +25130,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "df4d0830f0be",
@@ -25506,11 +25398,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "c6eee19866ad",
@@ -28067,11 +27955,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "205e78573d0b",
@@ -33095,11 +32979,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "60f9cf7b714d",
@@ -37507,11 +37387,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "f6bc1342e1d8",
@@ -45374,11 +45250,7 @@
   "response": null,
   "score": 14,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.13,
-   "abn5": 0.22,
-   "last": "2026-11-26"
-  }
+  "anomali": null
  },
  {
   "id": "eb70f7253b47",
