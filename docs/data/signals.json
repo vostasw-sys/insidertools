@@ -104,6 +104,32 @@
   "anomali": null
  },
  {
+  "id": "260feed937e6",
+  "title": "Andalan Artha Primanusa Perluas Bisnis ke Nikel Bauksit dan Emas",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzNVI3Z3BYbXMwU1d5VWtXZFI0NEtaVmRKa1NkVWw3RTdvajNTTEk0dGd5M0M1aFZZUzFKS1lUZHg4U0RFemVCWTZOajItNHZIMFhIUDh3M2k0dFFiX0F0OGwxTGY?oc=5",
+  "media": "Limapagi",
+  "published": "2026-11-27T12:46:50+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-27T15:26:54.140081+00:00",
+  "anon": [
+   "tengah menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Andalan Artha Primanusa Perluas Bisnis ke Nikel Bauksit dan Emas.  Andalan Artha Primanusa Perluas Bisnis ke Nikel Bauksit dan Emas &nbsp;&nbsp; Limapagi",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "ac74b39ce784",
   "title": "Saham DSSA Anjlok 6,72% saat Bareskrim Geledah Rumah Tersangka Manipulasi",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWlpHWHFfUEVmZG1LaDJ6cDhZRFIxMmhUdnFjQkVxNDNINF9EQlRIazdTeDBobFZGaUthQm8tUndTekQtTnNFMGp3WDZjRVdTU2thV0RkSVl0enAxa2VZODBUOGZCcWNFZGI4NzNIcjV1YzdBay11TzF6QlE2U2V3TkFlMHRzUjJJb0ZXa2RId2tNVVJOdlBDcXY5bDBSRUVCMkdn?oc=5",
@@ -594,7 +620,7 @@
  {
   "id": "d3abc1925ca1",
   "title": "Danantara Bantah Garuda Adidaya Nusantara Akuisisi Lahan Eks RAPP",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd0FYcExKa29VcHpDTE1sVHJaQ2FBVEhtYmdZX2h6eWFOTmtRdjVBc1ZZVEp2elNuUGs2VXQ5THlCV3N4NHlCNlpCakZvRjAzVjNQZnRMcHhONTlheUlCY2gyTUZWQmdjLXlucFE0MkYxcnh6MmFrU3ZoVklXLVZZSFVhd3RDWU9LUVM2NWVQcWVobFV6NjZPS2RiY2tXZWJuOWc4RWRIQVVjNHBDNzBzZTgzQ3JMYkdYbl9Lcg?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMGM1T0kzLXN4NDJUZ1ZKdXhtc2FENmFKT05IMVp4WG9BaVUtSmM3cHJDVW1ZSlBmVGpHdWNlaGxrckQwbEVlTjhxWTl6TTZha1JETklBQlpWZzdnZVU4VXYyQUJnTUNndnZhRC11Mno5bGtGQkd0bkhzc0hNVHl1bTkxeC1VeldQMTUwOUhLX2pCSEpUVEFEejcwa0ZSZzUyN044LU9Dd2VQRzB3U1VGdlM0SVFYQk1xV19sV2VmZ2Z1Zw?oc=5",
   "media": "CNBC Indonesia",
   "published": "2026-11-27T08:10:30+00:00",
   "tickers": [],
@@ -2786,7 +2812,7 @@
   "schedule": false,
   "party": false,
   "snippet": "BSI (BRIS) Gelar Rights Issue Februari 2027, Siapkan 6,8 Miliar Saham Baru.  BSI (BRIS) Gelar Rights Issue Februari 2027, Siapkan 6,8 Miliar Saham Baru &nbsp;&nbsp; IDX Channel",
-  "corroboration": 4,
+  "corroboration": 3,
   "response": null,
   "score": 19,
   "outcome": null,
@@ -2920,7 +2946,7 @@
   "schedule": false,
   "party": false,
   "snippet": "BSI (BRIS) Rights Issue Maksimal 6,8 Miliar Saham, Siap Perkuat Modal.  BSI (BRIS) Rights Issue Maksimal 6,8 Miliar Saham, Siap Perkuat Modal &nbsp;&nbsp; kontan.co.id",
-  "corroboration": 4,
+  "corroboration": 3,
   "response": null,
   "score": 25,
   "outcome": null,
@@ -3038,7 +3064,7 @@
   "schedule": false,
   "party": false,
   "snippet": "Rights Issue, BSI (BRIS) Mau Terbitkan 6,8 Miliar Saham.  Rights Issue, BSI (BRIS) Mau Terbitkan 6,8 Miliar Saham &nbsp;&nbsp; CNBC Indonesia",
-  "corroboration": 4,
+  "corroboration": 3,
   "response": null,
   "score": 24,
   "outcome": null,
@@ -3115,17 +3141,16 @@
   "first_seen": "2026-11-26T00:55:36.751446+00:00",
   "anon": [],
   "corp": [
-   "right issue",
-   "rights issue"
+   "right issue"
   ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Dapat Restu, BSI (BRIS) Kebut Right Issue 6,8 Miliar Lembar.  Dapat Restu, BSI (BRIS) Kebut Right Issue 6,8 Miliar Lembar &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 4,
+  "corroboration": 2,
   "response": null,
-  "score": 19,
+  "score": 14,
   "outcome": null,
   "anomali": null
  },
@@ -5681,7 +5706,7 @@
   "schedule": false,
   "party": false,
   "snippet": "BSI (BRIS) Akui Rights Issue Berpotensi Tekan Laba Per Saham.  BSI (BRIS) Akui Rights Issue Berpotensi Tekan Laba Per Saham &nbsp;&nbsp; CNBC Indonesia",
-  "corroboration": 4,
+  "corroboration": 3,
   "response": null,
   "score": 24,
   "outcome": null,
@@ -6438,6 +6463,34 @@
   "anomali": null
  },
  {
+  "id": "17a3846a1ad4",
+  "title": "Jaga Stabilitas Harga Saham, CDIA Eksekusi Buyback Senilai Rp 1 Triliun",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUE1YQjZQNk9pOWlscWFTZ1BodHdGWGVYRVJWMnFVUnJpOHptWXpPaDJjQzM1RjJCZDVlajhBZ25TdnplckZSdl9pTGJtMnZ4cjZZbVlnakZNYWxqRFN4QmlXTnVXVUFVcC0yQktuOHk1RlRaQ3RZVWpJVWhET2F3eGlna2ZOTjBVb3JFcXZGbkRyMDNhc1lwNk8tNDJ0M2szaHRMNWZ2aw?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-24T01:54:29+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-27T15:26:54.140081+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 1000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Jaga Stabilitas Harga Saham, CDIA Eksekusi Buyback Senilai Rp 1 Triliun.  Jaga Stabilitas Harga Saham, CDIA Eksekusi Buyback Senilai Rp 1 Triliun &nbsp;&nbsp; KONTAN",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "124c018abc1e",
   "title": "TBIG Akuisisi Saham EDOTCO Infrastruktur Indonesia",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXpmbnNydjdsUVc1ODc4SkhvSVQzaFZMMm00YjFYcXRCYnUteGFiMWhmMFE4aVMwQmtjaF9xRXhWN0o2eGtnb09HODd6RDBwSzJrUHR2Z2lGdjRBc0lzMWp5ZVczZkhVNVRxNWJJS1BzOEpYdlBORmNLLWdTMEloSVdVc0xvQnhYSEV1cw?oc=5",
@@ -6648,7 +6701,7 @@
   "asal": [],
   "first_seen": "2026-11-24T00:52:14.190065+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -6782,7 +6835,7 @@
   "asal": [],
   "first_seen": "2026-11-24T00:52:14.190065+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -7753,7 +7806,7 @@
   ],
   "first_seen": "2026-11-23T06:36:51.180923+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -7935,7 +7988,7 @@
   "asal": [],
   "first_seen": "2026-11-23T06:36:51.180923+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
