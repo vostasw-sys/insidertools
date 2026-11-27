@@ -319,8 +319,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": 5.81,
-   "last": "2026-11-27"
+   "abn5": 6.57,
+   "last": "2026-11-26"
   }
  },
  {
@@ -1065,8 +1065,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.82,
-   "abn5": -15.45,
-   "last": "2026-11-27"
+   "abn5": -14.06,
+   "last": "2026-11-26"
   }
  },
  {
@@ -1392,8 +1392,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -1424,8 +1424,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": -2.33,
-   "last": "2026-11-27"
+   "abn5": -0.92,
+   "last": "2026-11-26"
   }
  },
  {
@@ -1557,6 +1557,32 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "51e5ff091429",
+  "title": "BEI Perketat Pengawasan Saham, Sistem Deteksi Manipulasi Pasar Terus Diperkuat - Lihat Jambi",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdVpIREZmX3B2bUs1bFdNV2ZxYmt4N0hzdFptc21wYWRDaEVva01MZmRTd0ctMFd5c09xSlltYWVQTHBZc2xNajBrVll1VU1KdzU4LW83NmZ1d2dlU2ZTRm9xemh6RndZbWFBTmVlbkFsLUdJcXVtYkZJMlVERy1GZDhza2ZiNHdDVVVqMFlDdlhndVUzWXlPUVRVaWlydHpxdF9SLU9WSGwxaFBIYzFKWFZNX3N0ekRaT2s1dDhIbnVMOVRmUWpvdnNwUdIB0AFBVV95cUxOajJnVmwwbDlSNTlnSlJTRFZhb2NfSXRHTzZkbUVKN0NlRjI4OUVtdjZVTEc2UHJwOTdEc1Y2TDBNMlJMNTJQMEJLd29jd214Ty14eHBNV0YxQ1liVHNnM2hqQ3NUTnBpbjgxWW11T3NYeF9NWmRPTElnbmc4VDh6V1BWbnAzTV9rbS1QX3FHUlRjOUwwdlJvazZHX2ZlT3VjT3N4ZlctVDNvQUVWeUh6TmxaejZRaGsyYXFvdUdkN0gyaDFUYkJIc1dkRnlSUVNz?oc=5",
+  "media": "Lihat Jambi",
+  "published": "2026-11-27T02:01:13+00:00",
+  "tickers": [],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-27T17:49:18.626274+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Perketat Pengawasan Saham, Sistem Deteksi Manipulasi Pasar Terus Diperkuat - Lihat Jambi.  BEI Perketat Pengawasan Saham, Sistem Deteksi Manipulasi Pasar Terus Diperkuat - Lihat Jambi &nbsp;&nbsp; Lihat Jambi",
+  "corroboration": 0,
+  "response": null,
+  "score": 41,
   "outcome": null,
   "anomali": null
  },
@@ -2888,8 +2914,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -3138,8 +3164,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -3966,8 +3992,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -4508,8 +4534,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -4570,8 +4596,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -4934,8 +4960,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -5262,8 +5288,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.75,
-   "abn5": -5.47,
-   "last": "2026-11-27"
+   "abn5": -9.33,
+   "last": "2026-11-26"
   }
  },
  {
@@ -5479,7 +5505,7 @@
  {
   "id": "f73cb324375c",
   "title": "BSI Siapkan Rights Issue Demi Penuhi Struktur Kepemilikan Saham Sesuai Standar Global",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX25GcF8tYVRCQ3J4X0FnRWFybmtXUkFaWDdLV1hWbXJUTkFwUTMwTm9pQmpvUDlXeDZLaHBta1cya2VqbDR6WElaNTJKWVlwSy04QXNFVjY4S3FJbEhuRTZGekE2bDlPSzVsTjFDSDZmWTVNSDhTRUhMQS1FQ3VEUXA2Vmx2NkxzQUpxdVhUNmx2VVhpT25OajE4ZVhJVC1XSU04eWlOczkxOXdxM2s3OFduckxYOFFqclY4ctIBwgFBVV95cUxNdFNobnQyWVZWUWh6dkdFYTY5dElTNE9IcW90eHJiNTctOW9XY2FXMzh6eGhWajAtYWgwTExsanYyNVlYSmZ0ZEtobk9kVUpUMjlIZE1FbnRjbWJkeUlYQlhwVF9aTFVWSmRQUlhINjR3d0FWd2k0UXVOamR2bnhfbklfMUV1akJsVUo2QWNsc2dtdjVVRVVMVUxxZ3F3aF9ycFBIblpjSWdobjJVQXNqOE53ZGJoUV82bTZaQnEwYkNyUQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHNWWUFfRDU2TFlDeVVtQjYyeXZ2cWZNaHgxQTlJZUVFcUhtMzBSRlgtZUdGSUdMMllSN05zWnlGeTR6RlVDNDJYallHR0sxVzlIMVFPUXpodVRGbVN0Y2VQem1Fd1NsXzctUzcxMXJzbmc3NEszNmtGR0g3UF8wS3JaN1ZSOTZLckJzQURyaERFTFlFWFE3ODhTQW82emQtM0tzLXVPQ01aQnJEYmczSVMxYUNIdl9EMUlaUDdMQdIBwgFBVV95cUxNdFNobnQyWVZWUWh6dkdFYTY5dElTNE9IcW90eHJiNTctOW9XY2FXMzh6eGhWajAtYWgwTExsanYyNVlYSmZ0ZEtobk9kVUpUMjlIZE1FbnRjbWJkeUlYQlhwVF9aTFVWSmRQUlhINjR3d0FWd2k0UXVOamR2bnhfbklfMUV1akJsVUo2QWNsc2dtdjVVRVVMVUxxZ3F3aF9ycFBIblpjSWdobjJVQXNqOE53ZGJoUV82bTZaQnEwYkNyUQ?oc=5",
   "media": "IDX Channel",
   "published": "2026-11-24T13:15:00+00:00",
   "tickers": [],
@@ -6538,8 +6564,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -6706,8 +6732,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -6859,7 +6885,7 @@
   "asal": [],
   "first_seen": "2026-11-24T00:52:14.190065+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -7019,7 +7045,7 @@
   "asal": [],
   "first_seen": "2026-11-24T00:52:14.190065+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -7990,7 +8016,7 @@
   ],
   "first_seen": "2026-11-23T06:36:51.180923+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -8082,8 +8108,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.52,
-   "abn5": 3.96,
-   "last": "2026-11-27"
+   "abn5": 4.99,
+   "last": "2026-11-26"
   }
  },
  {
@@ -8198,7 +8224,7 @@
   "asal": [],
   "first_seen": "2026-11-23T17:53:06.974028+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -9183,8 +9209,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -9271,8 +9297,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -9465,8 +9491,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -10307,8 +10333,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -10365,8 +10391,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -10861,8 +10887,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -12731,8 +12757,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -12847,8 +12873,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -12939,8 +12965,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -13375,8 +13401,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.34,
-   "abn5": 1.9,
-   "last": "2026-11-27"
+   "abn5": -1.58,
+   "last": "2026-11-26"
   }
  },
  {
@@ -13465,8 +13491,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -13577,8 +13603,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": 5.81,
-   "last": "2026-11-27"
+   "abn5": 6.57,
+   "last": "2026-11-26"
   }
  },
  {
@@ -13641,8 +13667,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.26,
-   "abn5": 2.6,
-   "last": "2026-11-27"
+   "abn5": 0.33,
+   "last": "2026-11-26"
   }
  },
  {
@@ -14530,12 +14556,12 @@
   "snippet": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel.  Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel &nbsp;&nbsp; Lotus Andalan Sekuritas",
   "corroboration": 0,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
    "vol_z": -0.03,
-   "abn5": 2.04,
-   "last": "2026-11-27"
+   "abn5": 6.17,
+   "last": "2026-11-26"
   }
  },
  {
@@ -15148,12 +15174,12 @@
   "snippet": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel.  Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel &nbsp;&nbsp; Emitennews.com",
   "corroboration": 0,
   "response": null,
-  "score": 44,
+  "score": 59,
   "outcome": null,
   "anomali": {
    "vol_z": -0.03,
-   "abn5": 2.04,
-   "last": "2026-11-27"
+   "abn5": 6.17,
+   "last": "2026-11-26"
   }
  },
  {
@@ -15316,8 +15342,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -3.08,
-   "last": "2026-11-27"
+   "abn5": -1.25,
+   "last": "2026-11-26"
   }
  },
  {
@@ -15598,8 +15624,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -16484,8 +16510,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -3.08,
-   "last": "2026-11-27"
+   "abn5": -1.25,
+   "last": "2026-11-26"
   }
  },
  {
@@ -16516,8 +16542,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -3.08,
-   "last": "2026-11-27"
+   "abn5": -1.25,
+   "last": "2026-11-26"
   }
  },
  {
@@ -16604,8 +16630,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -3.08,
-   "last": "2026-11-27"
+   "abn5": -1.25,
+   "last": "2026-11-26"
   }
  },
  {
@@ -16810,8 +16836,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -3.08,
-   "last": "2026-11-27"
+   "abn5": -1.25,
+   "last": "2026-11-26"
   }
  },
  {
@@ -17230,8 +17256,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -17675,8 +17701,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -17929,8 +17955,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -19745,12 +19771,12 @@
   "snippet": "Belum Kantongi Investor, Merdeka Battery (MBMA) Jelaskan Rencana PMTHMETD II ke BEI.  Belum Kantongi Investor, Merdeka Battery (MBMA) Jelaskan Rencana PMTHMETD II ke BEI &nbsp;&nbsp; StockWatch.id",
   "corroboration": 1,
   "response": null,
-  "score": 41,
+  "score": 56,
   "outcome": null,
   "anomali": {
    "vol_z": 0.66,
-   "abn5": -1.41,
-   "last": "2026-11-27"
+   "abn5": 11.83,
+   "last": "2026-11-26"
   }
  },
  {
@@ -20350,8 +20376,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -20382,8 +20408,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -20632,8 +20658,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -20664,8 +20690,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -20696,8 +20722,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -20728,8 +20754,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -20760,8 +20786,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -20792,8 +20818,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -20962,8 +20988,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -20994,8 +21020,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -21028,8 +21054,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -21090,8 +21116,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -21122,8 +21148,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -21156,8 +21182,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -21188,8 +21214,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -21378,8 +21404,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -3.08,
-   "last": "2026-11-27"
+   "abn5": -1.25,
+   "last": "2026-11-26"
   }
  },
  {
@@ -21813,8 +21839,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.49,
-   "abn5": 4.76,
-   "last": "2026-11-27"
+   "abn5": 4.66,
+   "last": "2026-11-26"
   }
  },
  {
@@ -21925,8 +21951,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -22127,8 +22153,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -22417,8 +22443,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -22449,8 +22475,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -23677,8 +23703,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -23759,12 +23785,12 @@
   "snippet": "PT Abadi Nusantara Hijau Investama Tbk (PACK) Salurkan Pinjaman Rp424,83 Miliar ke Anak Usaha.  PT Abadi Nusantara Hijau Investama Tbk (PACK) Salurkan Pinjaman Rp424,83 Miliar ke Anak Usaha &nbsp;&nbsp; PintarSaham",
   "corroboration": 1,
   "response": null,
-  "score": 12,
+  "score": 27,
   "outcome": null,
   "anomali": {
    "vol_z": -0.03,
-   "abn5": 2.04,
-   "last": "2026-11-27"
+   "abn5": 6.17,
+   "last": "2026-11-26"
   }
  },
  {
@@ -23825,8 +23851,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -24021,8 +24047,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -24439,8 +24465,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -25130,8 +25156,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -25402,8 +25428,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -25436,8 +25462,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -27963,8 +27989,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -31455,8 +31481,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -3.08,
-   "last": "2026-11-27"
+   "abn5": -1.25,
+   "last": "2026-11-26"
   }
  },
  {
@@ -32175,8 +32201,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -3.08,
-   "last": "2026-11-27"
+   "abn5": -1.25,
+   "last": "2026-11-26"
   }
  },
  {
@@ -32210,8 +32236,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -3.08,
-   "last": "2026-11-27"
+   "abn5": -1.25,
+   "last": "2026-11-26"
   }
  },
  {
@@ -32439,8 +32465,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -3.08,
-   "last": "2026-11-27"
+   "abn5": -1.25,
+   "last": "2026-11-26"
   }
  },
  {
@@ -32529,8 +32555,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -3.08,
-   "last": "2026-11-27"
+   "abn5": -1.25,
+   "last": "2026-11-26"
   }
  },
  {
@@ -32681,8 +32707,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.28,
-   "abn5": -3.08,
-   "last": "2026-11-27"
+   "abn5": -1.25,
+   "last": "2026-11-26"
   }
  },
  {
@@ -32991,8 +33017,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -34189,8 +34215,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -37287,8 +37313,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -37403,8 +37429,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -41332,12 +41358,12 @@
   "snippet": "Merdeka Battery (MBMA) Gelar Private Placement, Siap Terbitkan 10,8 Miliar Saham.  Merdeka Battery (MBMA) Gelar Private Placement, Siap Terbitkan 10,8 Miliar Saham &nbsp;&nbsp; IDX Channel",
   "corroboration": 4,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
    "vol_z": 0.66,
-   "abn5": -1.41,
-   "last": "2026-11-27"
+   "abn5": 11.83,
+   "last": "2026-11-26"
   }
  },
  {
@@ -44115,12 +44141,12 @@
   "snippet": "Merdeka Battery (MBMA) Meminta Restu untuk Gelar Private Placement.  Merdeka Battery (MBMA) Meminta Restu untuk Gelar Private Placement &nbsp;&nbsp; investor.id",
   "corroboration": 4,
   "response": null,
-  "score": 16,
+  "score": 31,
   "outcome": null,
   "anomali": {
    "vol_z": 0.66,
-   "abn5": -1.41,
-   "last": "2026-11-27"
+   "abn5": 11.83,
+   "last": "2026-11-26"
   }
  },
  {
@@ -45270,8 +45296,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -1.13,
-   "abn5": 0.48,
-   "last": "2026-11-27"
+   "abn5": 0.22,
+   "last": "2026-11-26"
   }
  },
  {
@@ -45548,12 +45574,12 @@
   "snippet": "Merdeka Battery (MBMA) Gelar Private Placement, Bakal Terbitkan 10,8 Miliar Saham.  Merdeka Battery (MBMA) Gelar Private Placement, Bakal Terbitkan 10,8 Miliar Saham &nbsp;&nbsp; kontan.co.id",
   "corroboration": 4,
   "response": null,
-  "score": 25,
+  "score": 40,
   "outcome": null,
   "anomali": {
    "vol_z": 0.66,
-   "abn5": -1.41,
-   "last": "2026-11-27"
+   "abn5": 11.83,
+   "last": "2026-11-26"
   }
  },
  {
@@ -45610,12 +45636,12 @@
   "snippet": "Tambah Modal! Merdeka Battery (MBMA) Bakal Private Placement Lagi.  Tambah Modal! Merdeka Battery (MBMA) Bakal Private Placement Lagi &nbsp;&nbsp; Emitennews.com",
   "corroboration": 4,
   "response": null,
-  "score": 19,
+  "score": 34,
   "outcome": null,
   "anomali": {
    "vol_z": 0.66,
-   "abn5": -1.41,
-   "last": "2026-11-27"
+   "abn5": 11.83,
+   "last": "2026-11-26"
   }
  },
  {
@@ -45870,8 +45896,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -45904,8 +45930,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -46491,8 +46517,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -46603,8 +46629,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -47091,8 +47117,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": -2.33,
-   "last": "2026-11-27"
+   "abn5": -0.92,
+   "last": "2026-11-26"
   }
  },
  {
@@ -47233,8 +47259,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -47614,8 +47640,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.13,
-   "abn5": 4.37,
-   "last": "2026-11-27"
+   "abn5": 3.5,
+   "last": "2026-11-26"
   }
  },
  {
@@ -47726,8 +47752,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": -2.33,
-   "last": "2026-11-27"
+   "abn5": -0.92,
+   "last": "2026-11-26"
   }
  },
  {
@@ -48038,8 +48064,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": -2.33,
-   "last": "2026-11-27"
+   "abn5": -0.92,
+   "last": "2026-11-26"
   }
  },
  {
@@ -48072,8 +48098,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.44,
-   "abn5": -2.33,
-   "last": "2026-11-27"
+   "abn5": -0.92,
+   "last": "2026-11-26"
   }
  },
  {
@@ -48106,8 +48132,8 @@
   "outcome": null,
   "anomali": {
    "vol_z": 0.15,
-   "abn5": 5.81,
-   "last": "2026-11-27"
+   "abn5": 6.57,
+   "last": "2026-11-26"
   }
  },
  {
