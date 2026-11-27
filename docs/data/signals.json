@@ -1,5 +1,33 @@
 [
  {
+  "id": "daf22b70a10f",
+  "title": "Usai Konsolidasi MI BUMN dan Akuisisi Schroder, Persaingan Manajer Investasi Mengetat",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcW9GY3ZnSnhIdXRiTW5nUFgwRm9MWVJSWkJxTzdmejgzSlh6WV9kRmhDbkpWSVh5YmMzNm9UTW5JR1RBTlNIalh4U0tGNFViMGpYT21teVdaajhkVm9ndjQ0amZPdmxHa1NtNWsyWkM1d3NneGlHMkhvMVRUTVpBVFJ6dEMzdXNQT0JvR0t2bEthRUZPQl9CYTlBdm82bGhScm9DQjNDalVVODRpTThtZlpqaVdoVUh6SXc?oc=5",
+  "media": "KONTAN",
+  "published": "2026-11-27T03:55:23+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-27T04:57:40.803004+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Usai Konsolidasi MI BUMN dan Akuisisi Schroder, Persaingan Manajer Investasi Mengetat.  Usai Konsolidasi MI BUMN dan Akuisisi Schroder, Persaingan Manajer Investasi Mengetat &nbsp;&nbsp; KONTAN",
+  "corroboration": 0,
+  "response": null,
+  "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "b1ae3c68fcaf",
   "title": "BEI Soroti Volatilitas Saham LION, Manajemen Beri Penjelasan Begini",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZTh3LXl5UlVwNzZmVGtmT0xLMFQyM0I2V3R1S0xJbjg3clV6R0Q5MGtIX1FJdXFqSGwzN3cxbXkzc3hBVEUxNHJleFNVSm5rRTZUT0hCYmdCWXVQUldldUdOMkdvTVVpS25kYXJfaWw3SElwTl83U1RrS19DNk5lYVFBMExYRjJROGtxVUxQNDlXVlE?oc=5",
@@ -81,6 +109,36 @@
   "anomali": null
  },
  {
+  "id": "14c17a44ef50",
+  "title": "Harga Buyback Emas Antam Hari Ini 27 November 2026 Naik, Sekarang Jadi Segini",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ1hRcjJybXc0VTBJM1czbTgyTzNfemVpTWMycFhhMWZVT2wxUHg3SDBqZDM4M2NQa3RaSmNKUGRnUjFaQUhQNXV1TzhJWExmSDBQQ0dUUk1EaDlhZWFDZlVUVXNTMlljaENDODh3S1pKakgwRFQwZDV3WTRrRFJMMmxEM2Z0aWJJemVoQlFkSk5HM1RDeFYtQk5TUFh0RGdBN1hjbjRYVTl6dlo1dEJISWV1ZmbSAawBQVVfeXFMUExzVDFpQVdMdXlzaWg4dko5b2cyQW5IV2N5UFk3Mzg1eEhzU2J2OVVtT2ZGRFJWN0VZX2p2bzJJdHdzVDhtYzhocERkd0Q2UGgwbmt0Q2tBVFcyNTFmNFI3NE5NTWdUS240dE9ydFFRMzI4VFhxNHBONV9pcUU2bjVwcUhmXzBzQ2hyZU1qU21pX080bWc4dUdPTlV1UmpaMnBLRGh0WHRVUi1iSg?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-27T02:45:11+00:00",
+  "tickers": [
+   "ANTM"
+  ],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-27T04:57:40.803004+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Harga Buyback Emas Antam Hari Ini 27 November 2026 Naik, Sekarang Jadi Segini.  Harga Buyback Emas Antam Hari Ini 27 November 2026 Naik, Sekarang Jadi Segini &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 5,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "ad6e80963f5b",
   "title": "IHSG Berpotensi Melemah BNI Sekuritas Pilih Enam Saham",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZTG1NR0J0TWdzS09rUDJidEd2N21xdEVzS3BpZV9UczhqMEp6bEFxcmt1ZjJVNzVIZ2d3TVZiSGhUQkVxaGFIRVhSSGMyY0xhbUh4d0gzOXUybzRYa1pHdnFvZnRKbTl3YkVuV3FLbw?oc=5",
@@ -107,8 +165,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -1.67,
+   "vol_z": -0.5,
+   "abn5": -1.41,
    "last": "2026-11-27"
   }
  },
@@ -1330,8 +1388,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -1579,11 +1637,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "c748fe9fb0db",
@@ -2380,8 +2434,8 @@
   "score": 12,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -2921,11 +2975,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "302ad4c73a78",
@@ -2983,11 +3033,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "382b7d7b49fb",
@@ -3347,11 +3393,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "65c80626687b",
@@ -3598,7 +3640,7 @@
  {
   "id": "61210eb07388",
   "title": "MSCI Pertahankan Jadwal Kajian Status Pasar Indonesia hingga 2027",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmFiUjVENlhha0x1WHZjSDBYZzJPOHF3MkV2Z24xbmJJdEJfaFFjUUZjWjVoQ3dHWDR1M0s4NkZqb2JKVFVuSmMySFdFdG9uQ2F4TFRodVZVS2FEOXVnUVRvOV9nZjZsSlhSZjdIaXZqMjdEbUpWdlYwNG1KV1Z5a0ZkdTRBWWR5aWdSSGdxLWRGb3lBOVRXZGhqUm1IWk5nOXZSYnRsSjFWUdIBqgFBVV95cUxQMmFiUjVENlhha0x1WHZjSDBYZzJPOHF3MkV2Z24xbmJJdEJfaFFjUUZjWjVoQ3dHWDR1M0s4NkZqb2JKVFVuSmMySFdFdG9uQ2F4TFRodVZVS2FEOXVnUVRvOV9nZjZsSlhSZjdIaXZqMjdEbUpWdlYwNG1KV1Z5a0ZkdTRBWWR5aWdSSGdxLWRGb3lBOVRXZGhqUm1IWk5nOXZSYnRsSjFWUQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUFE0Zkc5cFZHejlENlFpMXh1LWk2T0ZsSTBFWFMyVkM0aVNieEVOTFdTcDBXLTQ4MWIzd1RRMU1yNUYwLXFfVzNpMzQzcUdXY3VlNXcwTGlBOG9tWm1iVWJvTThZeGMxTXh1OVpWNjJVTUV2QllaLURGY2RJa2ZENDZaclVESnZpelB0am5WTUJyQ1BoTlh3YWVUOXBmVEFhQkVRZ9IBqgFBVV95cUxQMmFiUjVENlhha0x1WHZjSDBYZzJPOHF3MkV2Z24xbmJJdEJfaFFjUUZjWjVoQ3dHWDR1M0s4NkZqb2JKVFVuSmMySFdFdG9uQ2F4TFRodVZVS2FEOXVnUVRvOV9nZjZsSlhSZjdIaXZqMjdEbUpWdlYwNG1KV1Z5a0ZkdTRBWWR5aWdSSGdxLWRGb3lBOVRXZGhqUm1IWk5nOXZSYnRsSjFWUQ?oc=5",
   "media": "Indragirione.com",
   "published": "2026-11-24T23:02:31+00:00",
   "tickers": [],
@@ -3677,7 +3719,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.78,
-   "abn5": -7.74,
+   "abn5": -8.62,
    "last": "2026-11-27"
   }
  },
@@ -4841,11 +4883,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "017e42ea5b66",
@@ -4981,11 +5019,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "601da5e093db",
@@ -5136,7 +5170,7 @@
   "asal": [],
   "first_seen": "2026-11-24T00:52:14.190065+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -5270,7 +5304,7 @@
   "asal": [],
   "first_seen": "2026-11-24T00:52:14.190065+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -5854,6 +5888,34 @@
   "anomali": null
  },
  {
+  "id": "bb4843385938",
+  "title": "Buyback Rp 1 Triliun Jadi Penopang Saham CDIA, Ini Catatan Analis",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVU51cE5ick9rN1JTLVpESjJtejVtX0NLbmZrbmQ5d05XaWhMVkRMMFVoQzNZVGI3a3V6dEtFRkg3WV9ZaU14dTlYSF9YMXM5QU5qNFBqeG52bWFxaW56eVc0aGpwVUdHd3lvd3JhZXhyaG5DamlVbUNWT1pqcThPZUp6OUFLMXk4ZEJ4cVZjNWlHS2Nwb1VIS0xEcVgxMGFONmfSAZoBQVVfeXFMUDJ1NEh1M2NkWW1vU3ZWS0ZmTm9WZGdXVHRMZVU0a2dqUWlnT0ZpeFpFMklsSU43anV1blRYQ1Y4Q3ZSdFFDNmxPc2Y4WVFoNDJ1SzFod2pMVmY2dFVVOUF1TVdQQjNHd3Qta05IWXhEank0engtZEthZFBXUmVaUEcyOTMzRkNoYjVsMERGOVYxMS16V1N2dE1JZw?oc=5",
+  "media": "kontan.co.id",
+  "published": "2026-11-23T10:08:55+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "Pembelian/penjualan besar"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-27T04:57:40.803004+00:00",
+  "anon": [],
+  "corp": [
+   "buyback"
+  ],
+  "stance": null,
+  "value_bn": 1000.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Buyback Rp 1 Triliun Jadi Penopang Saham CDIA, Ini Catatan Analis.  Buyback Rp 1 Triliun Jadi Penopang Saham CDIA, Ini Catatan Analis &nbsp;&nbsp; kontan.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "5d52dc4e7903",
   "title": "MSCI Bikin Pasar Saham Goyang, Investor Jangan Asal Serbu Saham Murah!",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHl3UFNnTGJJTzJfVzFQSWgwNUtHWlNVeFFTLVVhS2hEZmRJMm5Wb0pGZlQ4eWYxVUx2WGcyMjBRbzhVZHg5Q2JCQXluUGdyZk5pZkE2Wk56aldoSWpNRkdGQzR3RFBKcFNrX29OQTRkRmNsMWtnVk03Wk1WNWhhb2EtOURvUzhXY1NZTG1nOW5zYk9NTjNSVTI2THhfRDQ4NUF2VEJHMk1EZ9IBrwFBVV95cUxQS212WWtKVUZGc3A5cVpkZG9wd21hRWFIMkU3V1gyUmJSaW0wYllhdnBTTXEzNVE4MlNGR3VhdmpOdUo0dzU3aXdvRkN2ejd3S01qNi1rcUFHRHV4OU9yUHRadmkzSFpXYzFUUWt2Rm15WHpON2hNbGY4LTRDLW1kckxvQVZRdXZUM2NwbHhGcHRaTVJCQ0ZyLVdNODM4cU5McVpVZDgySUQ0V3FCY19V?oc=5",
@@ -5964,7 +6026,7 @@
  {
   "id": "1e2de001956d",
   "title": "Bos MSCI Bertemu Prabowo, Status Pasar Saham RI Berpeluang Aman?",
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0NCVkFLYjZ3MFlvakpzT2Z1UU1sZ2gyTVVKTDI3T3lONFUyLVc3LW5DcllkN214WmExWnBsUGJnSnFEWWx4dmdRWGxoeEpZNUo5eWNIYVFCSmhqVTU3aGo0UzdCaEk5ZTN0VWFlNHN0M3ZXWHktZVRCQjRKSWxEemdnMU5vWVV1ZWN2ZVp2WEIyeEZFbndqSkNGTGNjODhyUmgxTnFJb1M1NHpPWDd3ZVp0aVRMRE5m0gGXAUFVX3lxTE5iRFlVeHpaSlFaQ3NnQjFhV2RDSVRsbV83TVhEN0c0cTNvLTFNWFM2c1VCWFROazk5LU9id0RfUjZ5TUhMYndqcTBuak4tVHNmOGxNNUhCSzRzYkxrVFNKY0VraU1vTVJuVmJVMkg2VEtDcG9oY0FDVDVvMk41N24wUW1aMkpoS3htTlNxN0Nqc3lXaGlCVjA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTQtUlJ2OUtVZ1BqYVZjSFlkWnZVSGg3cVZJVUd6cGFjNG53c3lzSHkwQl96YnplZm5ld3NNeC13b1BjdzZiZVlUV3k4ZUhvXzRmUm5tZUZvUG5PeGt3c01zbDNXekhSREtLaGhjZXJBTHdZMEIydnUtdjlSMXhjOGNhMmdNTU1DT2F5QXJJSElZenFNbEI3X1N5YmJVd9IBlwFBVV95cUxOYkRZVXh6WkpRWkNzZ0IxYVdkQ0lUbG1fN01YRDdHNHEzby0xTVhTNnNVQlhUTms5OS1PYndEX1I2eU1ITGJ3anEwbmpOLVRzZjhsTTVIQks0c2JMa1RTSmNFa2lNb01SblZiVTJINlRLQ3BvaGNBQ1Q1bzJONTduMFFtWjJKaEt4bU5TcTdDanN5V2hpQlYw?oc=5",
   "media": "kontan.co.id",
   "published": "2026-11-23T08:43:14+00:00",
   "tickers": [],
@@ -6213,7 +6275,7 @@
   ],
   "first_seen": "2026-11-23T06:36:51.180923+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -6304,8 +6366,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.66,
-   "abn5": 4.23,
+   "vol_z": -0.64,
+   "abn5": 2.39,
    "last": "2026-11-27"
   }
  },
@@ -6421,7 +6483,7 @@
   "asal": [],
   "first_seen": "2026-11-23T17:53:06.974028+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -6646,6 +6708,34 @@
   "corroboration": 0,
   "response": null,
   "score": 24,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "66b362beb6fc",
+  "title": "Presiden Prabowo dan CEO MSCI Bahas Opsi Hindari Penurunan Status Pasar Saham Indonesia",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd3RGbVFUNXRoZDZKOUdJV1RaSkRUMnBKYVhlUmNTVFVpdTJmSDZxbVJqLTRMVDFkNE91V1RpWTc2dmttUEl4eDA5Zm5FeDljVTZVdUZtci1sdk0xVW10bXVfRzJsZ1pkZ0dPNGFpcnh2ekZDNEVnV0FxZ0ZyS1lMazVMczBONEE0bHJnaGh2aEZ5THdEZm52QWptTGdHQnFDUDRkMzgxSVFJamhtQUF1ZEpZTWVYRTVHbHY5bXRn?oc=5",
+  "media": "Cryptowave",
+  "published": "2026-11-23T03:50:08+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen"
+  ],
+  "first_seen": "2026-11-27T04:57:40.803004+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Presiden Prabowo dan CEO MSCI Bahas Opsi Hindari Penurunan Status Pasar Saham Indonesia.  Presiden Prabowo dan CEO MSCI Bahas Opsi Hindari Penurunan Status Pasar Saham Indonesia &nbsp;&nbsp; Cryptowave",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -7377,8 +7467,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -7464,11 +7554,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "a627b4022b4d",
@@ -7659,7 +7745,7 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -8500,11 +8586,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "1995d86583c9",
@@ -8559,8 +8641,8 @@
   "score": 36,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -9055,8 +9137,8 @@
   "score": 26,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -10894,11 +10976,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "a37d881b9b1c",
@@ -11010,11 +11088,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "d80d0ed236f4",
@@ -11102,11 +11176,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "99f343d2e830",
@@ -11539,8 +11609,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.44,
-   "abn5": 3.11,
+   "vol_z": -0.42,
+   "abn5": 2.4,
    "last": "2026-11-27"
   }
  },
@@ -11628,11 +11698,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "8f6a8a6b49dc",
@@ -11741,8 +11807,8 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.04,
-   "abn5": 5.37,
+   "vol_z": -0.01,
+   "abn5": 6.68,
    "last": "2026-11-27"
   }
  },
@@ -11805,8 +11871,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.33,
-   "abn5": 0.02,
+   "vol_z": -0.32,
+   "abn5": 1.26,
    "last": "2026-11-27"
   }
  },
@@ -12698,8 +12764,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.07,
-   "abn5": 3.25,
+   "vol_z": -0.06,
+   "abn5": 2.59,
    "last": "2026-11-27"
   }
  },
@@ -13316,8 +13382,8 @@
   "score": 44,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.07,
-   "abn5": 3.25,
+   "vol_z": -0.06,
+   "abn5": 2.59,
    "last": "2026-11-27"
   }
  },
@@ -13481,7 +13547,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -2.52,
+   "abn5": -2.86,
    "last": "2026-11-27"
   }
  },
@@ -13761,11 +13827,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "bdcb66076402",
@@ -14649,7 +14711,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -2.52,
+   "abn5": -2.86,
    "last": "2026-11-27"
   }
  },
@@ -14681,7 +14743,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -2.52,
+   "abn5": -2.86,
    "last": "2026-11-27"
   }
  },
@@ -14769,7 +14831,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -2.52,
+   "abn5": -2.86,
    "last": "2026-11-27"
   }
  },
@@ -14975,7 +15037,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -2.52,
+   "abn5": -2.86,
    "last": "2026-11-27"
   }
  },
@@ -15394,7 +15456,7 @@
   "score": 31,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -15838,11 +15900,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "3d110404d793",
@@ -16092,11 +16150,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "ec9611bbda81",
@@ -17913,8 +17967,8 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.46,
-   "abn5": -3.66,
+   "vol_z": 0.51,
+   "abn5": -3.7,
    "last": "2026-11-27"
   }
  },
@@ -18514,7 +18568,7 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -18546,7 +18600,7 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -18796,7 +18850,7 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -18828,7 +18882,7 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -18860,7 +18914,7 @@
   "score": 45,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -18892,7 +18946,7 @@
   "score": 45,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -18924,7 +18978,7 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -18956,7 +19010,7 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -19126,7 +19180,7 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -19158,7 +19212,7 @@
   "score": 41,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -19192,7 +19246,7 @@
   "score": 50,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -19253,11 +19307,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "c98b23e9e339",
@@ -19285,11 +19335,7 @@
   "response": null,
   "score": 21,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "c1fef08862b1",
@@ -19319,11 +19365,7 @@
   "response": null,
   "score": 11,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "f1936bfef4ed",
@@ -19352,7 +19394,7 @@
   "score": 44,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -19543,7 +19585,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -2.52,
+   "abn5": -2.86,
    "last": "2026-11-27"
   }
  },
@@ -19977,7 +20019,7 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.67,
+   "vol_z": -0.65,
    "abn5": 5.01,
    "last": "2026-11-27"
   }
@@ -20088,11 +20130,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "9d5ee601b580",
@@ -20290,11 +20328,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "d25b777b438f",
@@ -20580,11 +20614,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "08ae46d4ae97",
@@ -20612,11 +20642,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "17aa6f8164ef",
@@ -21840,11 +21866,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "825a49d14507",
@@ -21927,8 +21949,8 @@
   "score": 12,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.07,
-   "abn5": 3.25,
+   "vol_z": -0.06,
+   "abn5": 2.59,
    "last": "2026-11-27"
   }
  },
@@ -21988,11 +22010,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "d93f631d1209",
@@ -22184,11 +22202,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "81eba6f2a8e8",
@@ -22603,8 +22617,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -23293,11 +23307,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "df4d0830f0be",
@@ -23565,11 +23575,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "c6eee19866ad",
@@ -23600,8 +23606,8 @@
   "score": 11,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -26126,11 +26132,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "205e78573d0b",
@@ -29620,7 +29622,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -2.52,
+   "abn5": -2.86,
    "last": "2026-11-27"
   }
  },
@@ -30340,7 +30342,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -2.52,
+   "abn5": -2.86,
    "last": "2026-11-27"
   }
  },
@@ -30375,7 +30377,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -2.52,
+   "abn5": -2.86,
    "last": "2026-11-27"
   }
  },
@@ -30604,7 +30606,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -2.52,
+   "abn5": -2.86,
    "last": "2026-11-27"
   }
  },
@@ -30694,7 +30696,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -2.52,
+   "abn5": -2.86,
    "last": "2026-11-27"
   }
  },
@@ -30846,7 +30848,7 @@
   "outcome": null,
   "anomali": {
    "vol_z": -0.38,
-   "abn5": -2.52,
+   "abn5": -2.86,
    "last": "2026-11-27"
   }
  },
@@ -31154,11 +31156,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "60f9cf7b714d",
@@ -32353,8 +32351,8 @@
   "score": 21,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -35451,8 +35449,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -35566,11 +35564,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "f6bc1342e1d8",
@@ -39500,8 +39494,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.46,
-   "abn5": -3.66,
+   "vol_z": 0.51,
+   "abn5": -3.7,
    "last": "2026-11-27"
   }
  },
@@ -42283,8 +42277,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.46,
-   "abn5": -3.66,
+   "vol_z": 0.51,
+   "abn5": -3.7,
    "last": "2026-11-27"
   }
  },
@@ -43433,11 +43427,7 @@
   "response": null,
   "score": 14,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.26,
-   "abn5": 0.14,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "eb70f7253b47",
@@ -43716,8 +43706,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.46,
-   "abn5": -3.66,
+   "vol_z": 0.51,
+   "abn5": -3.7,
    "last": "2026-11-27"
   }
  },
@@ -43778,8 +43768,8 @@
   "score": 19,
   "outcome": null,
   "anomali": {
-   "vol_z": 0.46,
-   "abn5": -3.66,
+   "vol_z": 0.51,
+   "abn5": -3.7,
    "last": "2026-11-27"
   }
  },
@@ -44034,8 +44024,8 @@
   "score": 14,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -44068,8 +44058,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -44655,8 +44645,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -44767,8 +44757,8 @@
   "score": 0,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -45255,8 +45245,8 @@
   "score": 16,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -1.67,
+   "vol_z": -0.5,
+   "abn5": -1.41,
    "last": "2026-11-27"
   }
  },
@@ -45397,8 +45387,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -45778,8 +45768,8 @@
   "score": 4,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.23,
-   "abn5": 3.77,
+   "vol_z": -0.22,
+   "abn5": 4.22,
    "last": "2026-11-27"
   }
  },
@@ -45890,8 +45880,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -1.67,
+   "vol_z": -0.5,
+   "abn5": -1.41,
    "last": "2026-11-27"
   }
  },
@@ -46202,8 +46192,8 @@
   "score": 25,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -1.67,
+   "vol_z": -0.5,
+   "abn5": -1.41,
    "last": "2026-11-27"
   }
  },
@@ -46236,8 +46226,8 @@
   "score": 22,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.51,
-   "abn5": -1.67,
+   "vol_z": -0.5,
+   "abn5": -1.41,
    "last": "2026-11-27"
   }
  },
@@ -46270,8 +46260,8 @@
   "score": 30,
   "outcome": null,
   "anomali": {
-   "vol_z": -0.04,
-   "abn5": 5.37,
+   "vol_z": -0.01,
+   "abn5": 6.68,
    "last": "2026-11-27"
   }
  },
