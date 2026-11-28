@@ -86,6 +86,34 @@
   "anomali": null
  },
  {
+  "id": "77dda99e1aa0",
+  "title": "OJK 20 Kali Temui MSCI — Free Float dan HSC Jadi Taruhan",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzhqdFFMazR6d0pFZDdQTEl3UkdJek9ZMzRlYUFKa2psb2VJVzI0WmRQZU1sT3B0UlViaG9pc3M3dDlkdk9pVWtlOTFyUXJtaVF3eXN0LXR6MmxSZ1Y3cEZpcmJqQjQ3T2NrdWJYTS03TGNzMWtZMF80RFBuMTVGbVVpWF84ZEQzZERfMA?oc=5",
+  "media": "https://feedberry.com/",
+  "published": "2026-11-27T17:03:54+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-28T02:13:58.817502+00:00",
+  "anon": [],
+  "corp": [
+   "rights issue"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "OJK 20 Kali Temui MSCI — Free Float dan HSC Jadi Taruhan.  OJK 20 Kali Temui MSCI — Free Float dan HSC Jadi Taruhan &nbsp;&nbsp; https://feedberry.com/",
+  "corroboration": 0,
+  "response": null,
+  "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "4a6d3cab4dc0",
   "title": "3 Tersangka Goreng Saham DSSA Ditahan, OJK Dorong Perluasan",
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY19jN0ZONEMybFROSVVVbk04UmR5RzB5Vi1tNzdwZDMxdU5Pa05nbUxSVXZKb1pSMzhoVmptY09JYzg5TU9UanE4R3lrZ0g2YUlGNUJrV0pFOGpvZk16dG5nVlVyeEROem1XR0xiRjRoSGg5Z0pHaTVaWG9OV1BvZ01OT1NLaU9TM3RCbEZjT1RlZw?oc=5",
@@ -315,6 +343,32 @@
   "schedule": false,
   "party": false,
   "snippet": "Pasca-IPO, ANDA Bidik 5 Besar Kontraktor Tambang dan Ekspansi Mineral.  Pasca-IPO, ANDA Bidik 5 Besar Kontraktor Tambang dan Ekspansi Mineral &nbsp;&nbsp; RM.ID",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "c086d2aa4ed4",
+  "title": "Kemendag Perkuat SP2KP untuk Pantau Harga Pangan Nasional",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BVEduZVdVNncwZWl5aHdxWHhZTEtDeTQ5SHNmb2JqN19UZm9IZkE0ODEtUHowSVFObWFOUDhZUzJYaV9jeHJWOV9hYXlrNFQ5LWhTMHJlQVpfNTB3Ry1WamFTNXQxQXMtV29GY3VRQ2Q0X00?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-27T13:09:32+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-28T02:13:58.817502+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Kemendag Perkuat SP2KP untuk Pantau Harga Pangan Nasional.  Kemendag Perkuat SP2KP untuk Pantau Harga Pangan Nasional &nbsp;&nbsp; Demokratis.co.id",
   "corroboration": 0,
   "response": null,
   "score": 16,
@@ -2203,16 +2257,16 @@
   "first_seen": "2026-11-26T21:45:59.715088+00:00",
   "anon": [],
   "corp": [
-   "akuisisi"
+   "rights issue"
   ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Peran Baru Low Tuck Kwong di Bayan Resources (BYAN).  Peran Baru Low Tuck Kwong di Bayan Resources (BYAN) &nbsp;&nbsp; TOPIK.ID",
-  "corroboration": 2,
+  "corroboration": 1,
   "response": null,
-  "score": 11,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -2233,16 +2287,16 @@
   "first_seen": "2026-11-26T21:45:59.715088+00:00",
   "anon": [],
   "corp": [
-   "akuisisi"
+   "rights issue"
   ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Anak Haji Isam Resmi Jadi Direktur Bayan Resources (BYAN).  Anak Haji Isam Resmi Jadi Direktur Bayan Resources (BYAN) &nbsp;&nbsp; TOPIK.ID",
-  "corroboration": 2,
+  "corroboration": 1,
   "response": null,
-  "score": 11,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -2261,16 +2315,16 @@
   "first_seen": "2026-11-26T21:45:59.715088+00:00",
   "anon": [],
   "corp": [
-   "akuisisi"
+   "rights issue"
   ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Babak Baru Bayan Resources (BYAN) Usai Masuknya Haji Isam.  Babak Baru Bayan Resources (BYAN) Usai Masuknya Haji Isam &nbsp;&nbsp; TOPIK.ID",
-  "corroboration": 2,
+  "corroboration": 1,
   "response": null,
-  "score": 11,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -2570,6 +2624,32 @@
   "corroboration": 0,
   "response": null,
   "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "66a00dc99abc",
+  "title": "Tarif Baru Trump 18% Ancam Indonesia, Kemlu Respons Begini",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUJFbklxN2xKODAzZ2lRcVB5M1Exd3M2OXNXOVdKeV9oNEtReG5kUFh6ZHRYU2RXU05QeU96eVY2Q0VlN0RHYl9sODNQcFkxVDJwNUFzcWZTRC1BUmh6SnFZbG1wbFRJTTlGNXRsdjRSdmU4Y0hCa2pod3NMRktFM0lBSGxWaVE3aGZ2Wmd1Qk1FcHZvMEtCdENDcDdKZmlOcVMzdlNWeXNhUjB2UFpXelpIbzNpd9IBuwFBVV95cUxNZy1aRWYwVWVCNk9lUklqZzVUaDY2N3pHR2tLYkxraS10em42NXE5dGMtd3A5bHh0SEVNS3lGYUw4MFZ6a2NYVmZtZ2prQWhVaEVDVzY4dFVCVlEtdVlmdGRDUDdlNEx1SktSV21PNVRNODFocjJzQVBkMkozVTlMYjdBcHNLUDIwZE13THlxTHVmSmFBSmFfREJ4UVIxaFl1dWNROGpoSlpkMjJKMXVaTVh6LXNrYjdJemJV?oc=5",
+  "media": "CNBC Indonesia",
+  "published": "2026-11-26T13:00:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-28T02:13:58.817502+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Tarif Baru Trump 18% Ancam Indonesia, Kemlu Respons Begini.  Tarif Baru Trump 18% Ancam Indonesia, Kemlu Respons Begini &nbsp;&nbsp; CNBC Indonesia",
+  "corroboration": 0,
+  "response": null,
+  "score": 14,
   "outcome": null,
   "anomali": null
  },
@@ -5216,7 +5296,7 @@
  {
   "id": "9b318d03c2ba",
   "title": "Akuisisi Blok Aljazair, Pertamina Amankan Pasokan Emiten Energi",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNG83OUcwTlBuYkdLNnM1Q2dNeTNZYlJLcU9sS1BQanZ1YS16RnFRTEZQejNMMjAtR3ZHUWhseWxxVnc4SllKdU5FUUx5bFpSRkZKVUZzWVJrNUR3ZXNQNGlJSnZleWdNY2dONU42bzhhN2piWXBOX3N2RHhXMGgwclFoeXo5TGpQNktENFRCc1k0Yms4?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdzNqay1YclNuVDBiTXpDQ1c4WnhBVDdkckhhSzRRSkZlVUVNQzdvdE5pcjVFQWlyYVZPOGl1WXNDTjAxNTJhN3RFUXRHYWdXc2ttSlFCQndqa2dkZWxYdk9oY2NCVjRVQWV6WjN4eUo3NFZxM0hvOWRHeXRONjNzTmJJQWJmOWo1TGYxMXZrN3dtVGVNU2VPVlN3?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-25T01:31:00+00:00",
   "tickers": [],
@@ -7382,7 +7462,7 @@
   "asal": [],
   "first_seen": "2026-11-24T00:52:14.190065+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -9392,9 +9472,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Bayan (BYAN) Gelar RUPSLB Usai Akuisisi Saham Oleh Haji Isam, Apa yang Perlu Dicermati? - Sinar Harapan.  Bayan (BYAN) Gelar RUPSLB Usai Akuisisi Saham Oleh Haji Isam, Apa yang Perlu Dicermati? - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
-  "corroboration": 2,
+  "corroboration": 1,
   "response": null,
-  "score": 11,
+  "score": 6,
   "outcome": null,
   "anomali": null
  },
@@ -19111,6 +19191,40 @@
   "anomali": null
  },
  {
+  "id": "2406ee9e74ea",
+  "title": "Belum Kantongi Investor, Merdeka Battery (MBMA) Jelaskan Rencana PMTHMETD II ke BEI",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2NmSEVJRVJNY3JJeDUzOE90QnZzYS1VSWZFZmdoSHBVQ2tOWGkydUdUdEpmSmtHOWYxcTM3NDZNb011SGhHOHhFUm5Mem81NVI4ZmJwNk5ocW05d2gySHZpRXlibmhNUXBqbHlPaXdRWGFyLWZRN3B3RWtNc0hjR0lLMDNPV1BTSGxmcVBvbkY4NDhTMjdDT1VfdGR4b3FlMWhEWnZn?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-11-17T08:00:00+00:00",
+  "tickers": [
+   "MBMA"
+  ],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-17T08:22:52.718467+00:00",
+  "anon": [],
+  "corp": [
+   "hmetd"
+  ],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Belum Kantongi Investor, Merdeka Battery (MBMA) Jelaskan Rencana PMTHMETD II ke BEI.  Belum Kantongi Investor, Merdeka Battery (MBMA) Jelaskan Rencana PMTHMETD II ke BEI &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 1,
+  "response": null,
+  "score": 56,
+  "outcome": null,
+  "anomali": {
+   "vol_z": 0.65,
+   "abn5": 11.83,
+   "last": "2026-11-26"
+  }
+ },
+ {
   "id": "e8ad97f51e76",
   "title": "Bubble AI Disorot: Warsh, Pimco, dan IPO Anthropic",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhdTVGZER3ckhiZVNlWHRXRFY5NU5ZVlNoSjZ4T2pqYVhkT0ctdTNqTXR6d1NXcnlIOVBDN0Zpb2VGTGgzTnBxR3RQbzFla1FqVWxBQ0ljT3dHclM5eE90bkN0NmQxNUh3WTVkQXZybFB0UFNhUTlrT05SQQ?oc=5",
@@ -20107,40 +20221,6 @@
   "score": 16,
   "outcome": null,
   "anomali": null
- },
- {
-  "id": "2406ee9e74ea",
-  "title": "Belum Kantongi Investor, Merdeka Battery (MBMA) Jelaskan Rencana PMTHMETD II ke BEI",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2NmSEVJRVJNY3JJeDUzOE90QnZzYS1VSWZFZmdoSHBVQ2tOWGkydUdUdEpmSmtHOWYxcTM3NDZNb011SGhHOHhFUm5Mem81NVI4ZmJwNk5ocW05d2gySHZpRXlibmhNUXBqbHlPaXdRWGFyLWZRN3B3RWtNc0hjR0lLMDNPV1BTSGxmcVBvbkY4NDhTMjdDT1VfdGR4b3FlMWhEWnZn?oc=5",
-  "media": "StockWatch.id",
-  "published": "2026-11-17T00:07:28+00:00",
-  "tickers": [
-   "MBMA"
-  ],
-  "uma": true,
-  "jenis": [],
-  "asal": [
-   "Regulator (OJK/BEI)"
-  ],
-  "first_seen": "2026-11-17T08:22:52.718467+00:00",
-  "anon": [],
-  "corp": [
-   "hmetd"
-  ],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Belum Kantongi Investor, Merdeka Battery (MBMA) Jelaskan Rencana PMTHMETD II ke BEI.  Belum Kantongi Investor, Merdeka Battery (MBMA) Jelaskan Rencana PMTHMETD II ke BEI &nbsp;&nbsp; StockWatch.id",
-  "corroboration": 1,
-  "response": null,
-  "score": 56,
-  "outcome": null,
-  "anomali": {
-   "vol_z": 0.65,
-   "abn5": 11.83,
-   "last": "2026-11-26"
-  }
  },
  {
   "id": "2822988a64e5",
