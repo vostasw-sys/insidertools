@@ -1782,11 +1782,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "ad6e80963f5b",
@@ -2658,6 +2654,32 @@
   "corroboration": 1,
   "response": null,
   "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "c6b9e1933e40",
+  "title": "Michael Sianipar Pertanyakan Pengadaan Lapangan Parket Rp7 Miliar",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WQVBCQWFUNjA1NTJ0eVFiT252VkJiVTRnZkJKb1BNZUluVWdGTGdub05ocFVobkpRa215SkJ4UW1nc1VwVjlLOENETjRqNDNtR0pXU2hQM09BMi1ZTjRIWWdYQUNIdXF2S0E?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-26T13:37:35+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-28T05:29:48.136090+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 7.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Michael Sianipar Pertanyakan Pengadaan Lapangan Parket Rp7 Miliar.  Michael Sianipar Pertanyakan Pengadaan Lapangan Parket Rp7 Miliar &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 19,
   "outcome": null,
   "anomali": null
  },
@@ -3612,11 +3634,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "c748fe9fb0db",
@@ -4983,11 +5001,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "302ad4c73a78",
@@ -5045,11 +5059,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "382b7d7b49fb",
@@ -5409,11 +5419,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "65c80626687b",
@@ -5632,7 +5638,7 @@
  {
   "id": "6ccaff22fcca",
   "title": "Right Issue Tuntas, Emiten Hapsoro Percepat Pelunasan Utang",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmlIMlpUUTBXZWloblFoXzczbS11d0k5ckJzMWlzSk9GRHpDN0RCaThienlLQjBMdTBOYUZJLVlVb3c2OFZuN3VHTXVSeTRtYXFrMUVKN1RDejdJLUdyR2tPbXdDVEpBdmRlY2w5ZllHakswN1gxM3o0X2laZXpZZUJjZU8tQ3dtRVVxWUNrbjEyZklJ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlZ5OVQ5MFZQVktCbVl4SmFKSTdPQ0ZlUW55RC1JX1dwQ3h2MDJUeDNhUE1sQWVfdWNKSlpKNURoRUF3dERreW44ZXVDLWdkYUh2eXZSdk0xbWRPX0JoZTBRZ1pieFpOLXd2WmItRTRPclBHcnA4QVE3cWRIdWhONW40MGdJeDkxSFVqRFRJWQ?oc=5",
   "media": "Emitennews.com",
   "published": "2026-11-24T23:23:00+00:00",
   "tickers": [],
@@ -7041,11 +7047,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "017e42ea5b66",
@@ -7209,11 +7211,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "601da5e093db",
@@ -8703,7 +8701,7 @@
   "asal": [],
   "first_seen": "2026-11-23T06:36:51.180923+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -8729,7 +8727,7 @@
   "asal": [],
   "first_seen": "2026-11-23T17:53:06.974028+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -9800,11 +9798,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "a627b4022b4d",
@@ -10836,11 +10830,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "1995d86583c9",
@@ -11173,6 +11163,32 @@
   "corroboration": 8,
   "response": null,
   "score": 19,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "740b016f6b82",
+  "title": "Shin Tae-yong Bidik Tiga Poin Persija di Kandang PSM",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HTkh1QTAtVndsakZ5bWM3T1A0aU1XOENENU56RVF5MkpWYVlfTEV2MHRLaTVhc3U1Zm9WZUNDQnBHTmFsaW5PNHlYT0NabWNEMXdCamZqTXV4eGxlTEFIeG9LeDhqWGlvN1lNLWlrOA?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-21T08:59:47+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-28T05:29:48.136090+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Shin Tae-yong Bidik Tiga Poin Persija di Kandang PSM.  Shin Tae-yong Bidik Tiga Poin Persija di Kandang PSM &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -13318,11 +13334,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "a37d881b9b1c",
@@ -13434,11 +13446,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "d80d0ed236f4",
@@ -13526,11 +13534,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "99f343d2e830",
@@ -14052,11 +14056,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "8f6a8a6b49dc",
@@ -15048,6 +15048,36 @@
   "anomali": null
  },
  {
+  "id": "456b024c7d39",
+  "title": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOczAxbFZTS0V6M2FEWW11NjdOQ3BqdGZlamdfNk50OElmSjhyUFA4Z1hzM2gyZ2lxUzhaRWpzUGphTUxvQ294dnBRSXFFdlBkUU91TDhXYnJqaTJrWTRHc1BaU1Y0cmNNdjE5XzdXSmUxdHpsemZ1Nk5oQVJybEtOUXU1SlpOeFRtYWE5ZENSWVd5TnUzTTlXaVhtbw?oc=5",
+  "media": "Emitennews.com",
+  "published": "2026-11-19T08:00:00+00:00",
+  "tickers": [
+   "PACK"
+  ],
+  "uma": true,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-19T04:55:44.955395+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel.  Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel &nbsp;&nbsp; Emitennews.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 44,
+  "outcome": null,
+  "anomali": {
+   "vol_z": -0.03,
+   "abn5": 2.04,
+   "last": "2026-11-27"
+  }
+ },
+ {
   "id": "7e2aa75f60cb",
   "title": "Emiten Haji Isam Bantah Mau Caplok Saham Eramet di Tambang Weda Bay",
   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNVU3VkJFODV5Qjlra3M2dHdRZWhScVUzSk10VURfYnhsYkloSHpLSU44bnBrSjhDNGZfb1NKcWpnYm44al93ak1kR0hNUG0tWTFOekRrc1hST19YRlFGOGVLVWZicjJWQXpPNWhQajh0dFk3SjlhVFdadVZBbmZBcWJuVktCOGM1dmprdmVTMXlLZHdZdGZmS2E1ZldObU1rUTF0S2pZSkhJbkxYNFVaMUc0RlJ1dGRmVERBTkhKVk5Lb21wNkZqQTRZclZaQdIBzgFBVV95cUxPNVU3VkJFODV5Qjlra3M2dHdRZWhScVUzSk10VURfYnhsYkloSHpLSU44bnBrSjhDNGZfb1NKcWpnYm44al93ak1kR0hNUG0tWTFOekRrc1hST19YRlFGOGVLVWZicjJWQXpPNWhQajh0dFk3SjlhVFdadVZBbmZBcWJuVktCOGM1dmprdmVTMXlLZHdZdGZmS2E1ZldObU1rUTF0S2pZSkhJbkxYNFVaMUc0RlJ1dGRmVERBTkhKVk5Lb21wNkZqQTRZclZaQQ?oc=5",
@@ -15716,36 +15746,6 @@
   "anomali": null
  },
  {
-  "id": "456b024c7d39",
-  "title": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOczAxbFZTS0V6M2FEWW11NjdOQ3BqdGZlamdfNk50OElmSjhyUFA4Z1hzM2gyZ2lxUzhaRWpzUGphTUxvQ294dnBRSXFFdlBkUU91TDhXYnJqaTJrWTRHc1BaU1Y0cmNNdjE5XzdXSmUxdHpsemZ1Nk5oQVJybEtOUXU1SlpOeFRtYWE5ZENSWVd5TnUzTTlXaVhtbw?oc=5",
-  "media": "Emitennews.com",
-  "published": "2026-11-19T04:00:00+00:00",
-  "tickers": [
-   "PACK"
-  ],
-  "uma": true,
-  "jenis": [],
-  "asal": [],
-  "first_seen": "2026-11-19T04:55:44.955395+00:00",
-  "anon": [],
-  "corp": [],
-  "stance": null,
-  "value_bn": 0.0,
-  "schedule": false,
-  "party": false,
-  "snippet": "Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel.  Emiten Nikel Isam (PACK) Bantah Bidik Saham Eramet di Weda Bay Nickel &nbsp;&nbsp; Emitennews.com",
-  "corroboration": 0,
-  "response": null,
-  "score": 44,
-  "outcome": null,
-  "anomali": {
-   "vol_z": -0.03,
-   "abn5": 2.04,
-   "last": "2026-11-27"
-  }
- },
- {
   "id": "f59b397b4c7a",
   "title": "Cara Membaca Laporan Keuangan Perusahaan Teknologi AS: Studi Kasus Google",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYlVkVFNjRjExY1dET3o3R2g3TDJVTHdxRTJvSnlZMUpDNkhWYXFCSEI2ZGR6aWhCWjJTdVl5dUR5U1p1OHNzWUpvRWtQUmtPNHRHMGNXTklWQ05QQ2RNYllDQ1JaWXBrSEJVd05Sd1RYNXNYdzFQQ3E5VDR5N0hpTjZYZjB6UlZ5UmdZMWxaUmRxY2xBT3Q0SkM4d0JyVFRzc3ZqWlVhRDREYkttRWFDdFJpOUZLNHVLNlFkQWhzOXdha0xKMkE?oc=5",
@@ -16185,11 +16185,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "bdcb66076402",
@@ -18262,11 +18258,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "3d110404d793",
@@ -18516,11 +18508,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "ec9611bbda81",
@@ -21677,11 +21665,7 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "c98b23e9e339",
@@ -21709,11 +21693,7 @@
   "response": null,
   "score": 21,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "c1fef08862b1",
@@ -21743,11 +21723,7 @@
   "response": null,
   "score": 11,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "f1936bfef4ed",
@@ -22512,11 +22488,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "9d5ee601b580",
@@ -22714,11 +22686,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "d25b777b438f",
@@ -23004,11 +22972,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "08ae46d4ae97",
@@ -23036,11 +23000,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "17aa6f8164ef",
@@ -24264,11 +24224,7 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "825a49d14507",
@@ -24412,11 +24368,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "d93f631d1209",
@@ -24608,11 +24560,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "81eba6f2a8e8",
@@ -25717,11 +25665,7 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "df4d0830f0be",
@@ -25989,11 +25933,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "c6eee19866ad",
@@ -28550,11 +28490,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "205e78573d0b",
@@ -33578,11 +33514,7 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "60f9cf7b714d",
@@ -37990,11 +37922,7 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "f6bc1342e1d8",
@@ -45857,11 +45785,7 @@
   "response": null,
   "score": 14,
   "outcome": null,
-  "anomali": {
-   "vol_z": -1.17,
-   "abn5": 0.48,
-   "last": "2026-11-27"
-  }
+  "anomali": null
  },
  {
   "id": "eb70f7253b47",
