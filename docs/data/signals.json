@@ -59,6 +59,32 @@
   "anomali": null
  },
  {
+  "id": "58be51ed5c7d",
+  "title": "Macleod Proyeksikan Harga Emas Tembus 8000 Dolar AS",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Oc00zTUVlVDdzMUFuR09iaFpQQjBoVmpDTEpVV2lOSVJ6SnU2b0F2UzVBZWVaY3ZFakQ1YTdGSlZXZ2pCdjRrSFJYVGtBcG43SGdVVEVBaWltT1RaeUU5UE9R?oc=5",
+  "media": "Demokratis.co.id",
+  "published": "2026-11-28T04:19:28+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-28T10:45:26.865246+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Macleod Proyeksikan Harga Emas Tembus 8000 Dolar AS.  Macleod Proyeksikan Harga Emas Tembus 8000 Dolar AS &nbsp;&nbsp; Demokratis.co.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "38f329098e1d",
   "title": "IPO Anthropic Incar US$2 Triliun, Saham AI Jadi Sorotan",
   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTU9KbHU5ejhGaC1jdFFRTVZmeWxXY3ZUbHloQUlZUGUwMEJpeW5tZFluUVBBMzR5RjRNRmxTOG9MRW1fVVZ0aEFDYjVHcmo2dkozbUVhYUFGTjRDNVR3el9MSENBYTdWLWc2S2JLMl9sWEVINmFXNUlLdl9KczB0LXhKUzVtOFlhT19FRi1USQ?oc=5",
@@ -951,6 +977,34 @@
   "corroboration": 0,
   "response": null,
   "score": 15,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "d769eb64dfbd",
+  "title": "Kontangi Restu Rights Issu, KOTA Incar Land Bank Baru Lewat Akuisisi Senilai Rp4,4 Triliun",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2V6QVRtN1BhLUNPeUZONUlEZEdSMkV5YUtOX3RCQkNUcXBGNGtNOHE4cUFZc0lVYWRpWmh0eF9WZGttX1cxdURLX1Z5QXJnSHd2dU8td0lZWGFOTTVhTjZaTGJsRXRBTDJIOWZuOTk3bDJUSjlMWWFYS3FRbTJ4azAxc2VlcHc2STdNcWlDMHlndURfODU4NURaNXhqLV9Sa3d0eXBMdTVGY2JTUVZhTXFjWGoybS0tOGFkVW41dDZ2WURJelHSAcsBQVVfeXFMUENTaGpjMGt3N2ZNU0tNN3FENXBpajl6am9icDNzQ3ZISFFtQm9Xc2hPY1BIREYwTEkzS2I2WEZ1TmxhM0N6UmdLTUhyenF3Q2JaU2x6SUFXY2R2RHlZYURFay1heDBnNGZmVXlIbURLaXh0TEVGWTB6QWJCUmhtVERJdkxpV1ZsOWdnLTJPd1M5UE1aeHRiZmsyUlNKdlNCbHF6Szhra21nNEdxNENQdTJ0eEJLbE1XUE5RS05pOHgxamptdkFaRHNnTGs?oc=5",
+  "media": "IDX Channel",
+  "published": "2026-11-27T09:47:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [
+   "M&A"
+  ],
+  "asal": [],
+  "first_seen": "2026-11-28T10:45:26.865246+00:00",
+  "anon": [],
+  "corp": [
+   "akuisisi"
+  ],
+  "stance": null,
+  "value_bn": 4400.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Kontangi Restu Rights Issu, KOTA Incar Land Bank Baru Lewat Akuisisi Senilai Rp4,4 Triliun.  Kontangi Restu Rights Issu, KOTA Incar Land Bank Baru Lewat Akuisisi Senilai Rp4,4 Triliun &nbsp;&nbsp; IDX Channel",
+  "corroboration": 0,
+  "response": null,
+  "score": 19,
   "outcome": null,
   "anomali": null
  },
@@ -2432,16 +2486,16 @@
   "first_seen": "2026-11-26T21:45:59.715088+00:00",
   "anon": [],
   "corp": [
-   "rights issue"
+   "akuisisi"
   ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Anak Haji Isam Resmi Jadi Direktur Bayan Resources (BYAN).  Anak Haji Isam Resmi Jadi Direktur Bayan Resources (BYAN) &nbsp;&nbsp; TOPIK.ID",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 6,
+  "score": 11,
   "outcome": null,
   "anomali": null
  },
@@ -5851,7 +5905,7 @@
  {
   "id": "4a11ef3cd490",
   "title": "Red Planet Indonesia (PSKT) Intip Kenaikan Okupansi Saat Nataru",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0ZWE1aGJ5MlpLWXZiakVEZlRoNktZMHNPd3FLNVlxa0xFS0lzQVVodk5XWFBZWHNXUG4tVXZBLTZSb0xjQUJaTU1JMjk3QUpwb3hOc0s4Ukk3TE1oNkpPUUQ5RUpDQQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PcDNMd0N0U19fbzZZZnpNT3Ftejlac2Z4MnNxNUFpdzNGYi1rQzQ2cS1hZFU2TERVZU1mazVUSHRKSVZGVjBwMlU0c3p4WXNpcFNVU1QzaVdBdUlKMmp2N1lwUnVwNm8?oc=5",
   "media": "TradingView",
   "published": "2026-11-24T22:40:36+00:00",
   "tickers": [
@@ -7235,6 +7289,32 @@
    "abn5": 0.48,
    "last": "2026-11-27"
   }
+ },
+ {
+  "id": "ff9b7ff50757",
+  "title": "IHSG Rebound 1,35 Persen Saham Konglomerasi Menguat",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBcVB5cEhVNE9nMkl3cTR4UFRrRURreHhHdkFXYjJRMFdUeEo1NVdjYjhtN1RlZVo3NURBQzJ0ZHpaeDZOeDUxbk80TE90OGx1cEw2SHJydXFaRFNRU0xTdGNTQQ?oc=5",
+  "media": "SuaraGarut.ID",
+  "published": "2026-11-24T01:58:01+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-28T10:45:26.865246+00:00",
+  "anon": [
+   "sedang menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IHSG Rebound 1,35 Persen Saham Konglomerasi Menguat.  IHSG Rebound 1,35 Persen Saham Konglomerasi Menguat &nbsp;&nbsp; SuaraGarut.ID",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
  },
  {
   "id": "017e42ea5b66",
