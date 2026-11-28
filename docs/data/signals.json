@@ -1,5 +1,64 @@
 [
  {
+  "id": "44dca184c810",
+  "title": "BEI Soroti Volatilitas Saham Chandra Daya Investasi (CDIA), Manajemen Buka Suara",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzAwb3AyaW1qSnFEejRsekhEcXpNSGJwOVRRYTNuZWQtTFNqMGh5bklmUVpVbHhNRFpMaFZVVHlZdnNwOG1XRVFLN0NYUmE0Nm1VbGlqMU9pbnVsQ1JlSXE5MXhJR05SMGpiRDdtcjViUVN3T2paX3dYVjhaRzByZkpXZnVUYzFHakRBa29EWDRDZVpNUHZCS2NnTmd3X3BJdmc?oc=5",
+  "media": "StockWatch.id",
+  "published": "2026-11-28T07:08:35+00:00",
+  "tickers": [
+   "CDIA"
+  ],
+  "uma": true,
+  "jenis": [],
+  "asal": [
+   "Direksi/manajemen",
+   "Regulator (OJK/BEI)"
+  ],
+  "first_seen": "2026-11-28T07:49:49.475050+00:00",
+  "anon": [],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "BEI Soroti Volatilitas Saham Chandra Daya Investasi (CDIA), Manajemen Buka Suara.  BEI Soroti Volatilitas Saham Chandra Daya Investasi (CDIA), Manajemen Buka Suara &nbsp;&nbsp; StockWatch.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 56,
+  "outcome": null,
+  "anomali": {
+   "vol_z": 6.45,
+   "abn5": 26.59,
+   "last": "2026-11-27"
+  }
+ },
+ {
+  "id": "e326ddd7735e",
+  "title": "Harga BBM Pertamina Shell dan BP Bertahan 28 November 2026",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvMm9tUGs2aHpsTU4yNXJEWHBERktUVmJYY1pOVm5udV9ia3Nfa1ptYTB2VG5HZS1jcTRTRFA2SENxQkQ4dDNYZnRLaDR5ZUdEQUxYVDlqZm5JRVp4WTd6SmhB?oc=5",
+  "media": "bsinews.id",
+  "published": "2026-11-28T06:08:54+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-28T07:49:49.475050+00:00",
+  "anon": [
+   "informasi yang dihimpun"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Harga BBM Pertamina Shell dan BP Bertahan 28 November 2026.  Harga BBM Pertamina Shell dan BP Bertahan 28 November 2026 &nbsp;&nbsp; bsinews.id",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "38f329098e1d",
   "title": "IPO Anthropic Incar US$2 Triliun, Saham AI Jadi Sorotan",
   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTU9KbHU5ejhGaC1jdFFRTVZmeWxXY3ZUbHloQUlZUGUwMEJpeW5tZFluUVBBMzR5RjRNRmxTOG9MRW1fVVZ0aEFDYjVHcmo2dkozbUVhYUFGTjRDNVR3el9MSENBYTdWLWc2S2JLMl9sWEVINmFXNUlLdl9KczB0LXhKUzVtOFlhT19FRi1USQ?oc=5",
@@ -1808,7 +1867,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "ad6e80963f5b",
@@ -3660,7 +3723,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "c748fe9fb0db",
@@ -3687,6 +3754,32 @@
   "corroboration": 0,
   "response": null,
   "score": 6,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "ffa43a939857",
+  "title": "Petrovietnam mempromosikan lokalisasi industri energi, memanfaatkan pasar bernilai miliaran dolar.",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaDhkVXJHUkRNaDl3ZzJDN0RFTXkxOWpKNll4dmFseWxPZ1NLV3E0TkUyeE1zRjZZTjhUbE1CdHhtSVd0U0s4V0V1aDh0R2NxSHA3MGlTVlo0b3RhOWJhU3BRWnpkVFlpZ2tJOVkzSGZJMm9fX21VSlk3UVBJWWxqOTFrUEhCYmNUbm00c2RGYjBDQklPXzRLMHRXMXdISFZiVVRkRENFYw?oc=5",
+  "media": "Vietnam.vn",
+  "published": "2026-11-26T03:16:46+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-28T07:49:49.475050+00:00",
+  "anon": [
+   "sedang menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Petrovietnam mempromosikan lokalisasi industri energi, memanfaatkan pasar bernilai miliaran dolar..  Petrovietnam mempromosikan lokalisasi industri energi, memanfaatkan pasar bernilai miliaran dolar. &nbsp;&nbsp; Vietnam.vn",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
   "outcome": null,
   "anomali": null
  },
@@ -5027,7 +5120,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "302ad4c73a78",
@@ -5085,7 +5182,11 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "382b7d7b49fb",
@@ -5445,7 +5546,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "65c80626687b",
@@ -5988,7 +6093,7 @@
  {
   "id": "61b385be9fe9",
   "title": "KISI-BEI berkolaborasi untuk optimalisasi pasar modal Sulawesi Tengah",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFdubTMyWEFER25KeC1rdXphRVBISGp6WDlRdE11cUlDeGtRWG1teFhYS0hNaDhScFlsZ0YtbUNwUE1MRXBLdDd1di1Cb3djWFJWU2pHUTJmX3N4Y2ZZRDlsQXUyU29rQk16WF9ZajJxVVRrNjJEaFhWUWJKSUMzNXNhQm1JSTBWYlR3QUNBWFExQ0pDMTlpTU12SHRSVVVDbUZMMHR4dURtSWZvaDVRWVROSdIBswFBVV95cUxOeFdubTMyWEFER25KeC1rdXphRVBISGp6WDlRdE11cUlDeGtRWG1teFhYS0hNaDhScFlsZ0YtbUNwUE1MRXBLdDd1di1Cb3djWFJWU2pHUTJmX3N4Y2ZZRDlsQXUyU29rQk16WF9ZajJxVVRrNjJEaFhWUWJKSUMzNXNhQm1JSTBWYlR3QUNBWFExQ0pDMTlpTU12SHRSVVVDbUZMMHR4dURtSWZvaDVRWVROSQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV3ZhRWxNVVUxVlNUdDh3b1VZdGxENXZxemE4X2hEb0xZSEhEN1pqUWFJVE85ZXV1WnNseXpZTE1Ba1ItLTFXUk9uTTNnMW5UYjhOOGF0VzV4Rmc3TS1oNmhnZXMyMTd5RExST3FVU2xVcHA4YlJLRXlyal9NcHVhLWVsVk1CREIwMFZCdmVlMXhobGI2VVRuR193X3BxV3ZFbmdwWVJNak1Kb1hVVHF4b9IBswFBVV95cUxOeFdubTMyWEFER25KeC1rdXphRVBISGp6WDlRdE11cUlDeGtRWG1teFhYS0hNaDhScFlsZ0YtbUNwUE1MRXBLdDd1di1Cb3djWFJWU2pHUTJmX3N4Y2ZZRDlsQXUyU29rQk16WF9ZajJxVVRrNjJEaFhWUWJKSUMzNXNhQm1JSTBWYlR3QUNBWFExQ0pDMTlpTU12SHRSVVVDbUZMMHR4dURtSWZvaDVRWVROSQ?oc=5",
   "media": "ANTARA News",
   "published": "2026-11-24T14:50:14+00:00",
   "tickers": [],
@@ -7072,6 +7177,32 @@
   "anomali": null
  },
  {
+  "id": "52d9ac884b78",
+  "title": "Nvidia Picu Reli Wall Street, Nasdaq dan Emas Meroket",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaXVsYURXN3F5U1RlN3l6QWNUN1A0NEUzNVRqNmQyOXZOTWxkSl9zTEt3S1FtN2ZONkc3R3p4a3dBeHBwVTBGcVFidERCbzNhaldmYkMycEtnMFBkY1NOSHpLZGVVRDhTcUpONjgzZ29ZOVlkdmJmcUwtZ1dlaUF1Q3VFc2dJeXVyYXpPeE5FbzUxVHYyVWFzME5Tek9EWkw2SHZ1cDM5THBZbFdBVWx4aGtXZDlQSWo5Nk4xU05ya3lzLWpJQk9DQUxJLXRNZw?oc=5",
+  "media": "XTB.com",
+  "published": "2026-11-24T02:37:33+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-28T07:49:49.475050+00:00",
+  "anon": [
+   "menurut sumber"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Nvidia Picu Reli Wall Street, Nasdaq dan Emas Meroket.  Nvidia Picu Reli Wall Street, Nasdaq dan Emas Meroket &nbsp;&nbsp; XTB.com",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "f79c205bb75c",
   "title": "Harga Buyback Emas Antam Hari Ini 24 November 2026 Menguat Lagi, Naik Rp15.000",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzJQWDFYTmdSNFVsNUh5M0dwYmJXOEZ4bE9CZmRNTnE5LUZBRHZvTkNzM2plazZBZWp5UUtfRm1fMk9adUZsX3ZfZF9fX3l1X05zTlNERmZ2QkVPUWtpSkRNM29aRWlKRERpckppV1FiVHk5UUxPWnMxMXFIOEFtZGJsS0hkbkhUbDZfNGVuNk1KazFtbmtMVC1nLVFwOXBrbG9OZW43SC1fa3Y5bUZqOXR30gGqAUFVX3lxTFBteXBYNmE4VXQzS0V0ZUJ4NF9obzVrZUI4bmYyVjBMU2ZGMU94YzU3TnhxQmVrTkJ4TUVROXpVZnhaQlZJRzEwRWVNU3NlNnFLVHpxVWxkLTlyLXlUVld3Rm9XR25ncE1KTVZVa093MW50Q2s3emtQZENsYkFoRUI1MkZtSDZwTzhxbm96NEpPak1sdEtmdTg2UzdYandvaHNnUERiOGxKVi1n?oc=5",
@@ -7099,7 +7230,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "017e42ea5b66",
@@ -7263,7 +7398,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "601da5e093db",
@@ -7277,7 +7416,7 @@
   "asal": [],
   "first_seen": "2026-11-25T23:42:59.740861+00:00",
   "anon": [
-   "menurut sumber"
+   "sumber yang mengetahui"
   ],
   "corp": [],
   "stance": null,
@@ -7346,9 +7485,13 @@
   "snippet": "Simak Rekomendasi Saham Chandra Daya Investasi (CDIA) yang Mulai Gelar Buyback.  Simak Rekomendasi Saham Chandra Daya Investasi (CDIA) yang Mulai Gelar Buyback &nbsp;&nbsp; kontan.co.id",
   "corroboration": 3,
   "response": null,
-  "score": 25,
+  "score": 40,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 6.45,
+   "abn5": 26.59,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "a13db5298c97",
@@ -7440,7 +7583,7 @@
   "asal": [],
   "first_seen": "2026-11-24T00:52:14.190065+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -8553,9 +8696,13 @@
   "snippet": "Harga Saham Emiten Prajogo (CDIA) Tiba-Tiba Melesat Sentuh ARA! Aksi Korporasi Terbaru Bergulir Hari Ini - Sinar Harapan.  Harga Saham Emiten Prajogo (CDIA) Tiba-Tiba Melesat Sentuh ARA! Aksi Korporasi Terbaru Bergulir Hari Ini - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
   "corroboration": 3,
   "response": null,
-  "score": 16,
+  "score": 31,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 6.45,
+   "abn5": 26.59,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "ef8683fce46c",
@@ -8571,7 +8718,7 @@
   ],
   "first_seen": "2026-11-23T06:36:51.180923+00:00",
   "anon": [
-   "sumber yang mengetahui"
+   "menurut sumber"
   ],
   "corp": [],
   "stance": null,
@@ -9500,9 +9647,13 @@
   "snippet": "Chandra Daya (CDIA) Siapkan Buyback Rp1 Triliun, Mulai Hari Ini 23 November - Bisnis.com.  Chandra Daya (CDIA) Siapkan Buyback Rp1 Triliun, Mulai Hari Ini 23 November &nbsp;&nbsp; Bisnis.com - Market",
   "corroboration": 3,
   "response": null,
-  "score": 35,
+  "score": 50,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": 6.45,
+   "abn5": 26.59,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "e7ddd9930fa6",
@@ -9850,7 +10001,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "a627b4022b4d",
@@ -10226,6 +10381,32 @@
   "schedule": false,
   "party": false,
   "snippet": "Tottenham Hadapi Hambatan untuk Rekrut Georges Mikautadze.  Tottenham Hadapi Hambatan untuk Rekrut Georges Mikautadze &nbsp;&nbsp; MediaKompeten",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
+  "id": "b172d5f5423b",
+  "title": "Juventus Siapkan Transfer Permanen Nick Woltemade dari Newcastle",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9INmhoTXlYU1U4MW5WcE5hNF9iNWdUaWtCOG9MbzhRb2R5RFRPZkdHaVFTYXc2UDNwcWd3Z3pPbTc5endrWmlOOFgyazBKb3B3NUxKcU1yYmcwV0lRMXRIWllUelJBU0FTSUlleGJhTllFOEVwQnFV?oc=5",
+  "media": "MediaKompeten",
+  "published": "2026-11-22T13:13:47+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-28T07:49:49.475050+00:00",
+  "anon": [
+   "sedang menjajaki"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Juventus Siapkan Transfer Permanen Nick Woltemade dari Newcastle.  Juventus Siapkan Transfer Permanen Nick Woltemade dari Newcastle &nbsp;&nbsp; MediaKompeten",
   "corroboration": 0,
   "response": null,
   "score": 16,
@@ -10882,7 +11063,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "1995d86583c9",
@@ -13386,7 +13571,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "a37d881b9b1c",
@@ -13498,7 +13687,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "d80d0ed236f4",
@@ -13586,7 +13779,11 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "99f343d2e830",
@@ -14108,7 +14305,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "8f6a8a6b49dc",
@@ -16237,7 +16438,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "bdcb66076402",
@@ -18310,7 +18515,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "3d110404d793",
@@ -18560,7 +18769,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "ec9611bbda81",
@@ -21717,7 +21930,11 @@
   "response": null,
   "score": 26,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "c98b23e9e339",
@@ -21745,7 +21962,11 @@
   "response": null,
   "score": 21,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "c1fef08862b1",
@@ -21775,7 +21996,11 @@
   "response": null,
   "score": 11,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "f1936bfef4ed",
@@ -22540,7 +22765,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "9d5ee601b580",
@@ -22738,7 +22967,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "d25b777b438f",
@@ -23024,7 +23257,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "08ae46d4ae97",
@@ -23052,7 +23289,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "17aa6f8164ef",
@@ -24276,7 +24517,11 @@
   "response": null,
   "score": 22,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "825a49d14507",
@@ -24420,7 +24665,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "d93f631d1209",
@@ -24612,7 +24861,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "81eba6f2a8e8",
@@ -25717,7 +25970,11 @@
   "response": null,
   "score": 19,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "df4d0830f0be",
@@ -25985,7 +26242,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "c6eee19866ad",
@@ -28542,7 +28803,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "205e78573d0b",
@@ -33566,7 +33831,11 @@
   "response": null,
   "score": 25,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "60f9cf7b714d",
@@ -37974,7 +38243,11 @@
   "response": null,
   "score": 16,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "f6bc1342e1d8",
@@ -45837,7 +46110,11 @@
   "response": null,
   "score": 14,
   "outcome": null,
-  "anomali": null
+  "anomali": {
+   "vol_z": -1.17,
+   "abn5": 0.48,
+   "last": "2026-11-27"
+  }
  },
  {
   "id": "eb70f7253b47",
