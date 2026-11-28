@@ -1,5 +1,31 @@
 [
  {
+  "id": "38f329098e1d",
+  "title": "IPO Anthropic Incar US$2 Triliun, Saham AI Jadi Sorotan",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTU9KbHU5ejhGaC1jdFFRTVZmeWxXY3ZUbHloQUlZUGUwMEJpeW5tZFluUVBBMzR5RjRNRmxTOG9MRW1fVVZ0aEFDYjVHcmo2dkozbUVhYUFGTjRDNVR3el9MSENBYTdWLWc2S2JLMl9sWEVINmFXNUlLdl9KczB0LXhKUzVtOFlhT19FRi1USQ?oc=5",
+  "media": "Gotrade",
+  "published": "2026-11-28T03:49:58+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-28T06:30:17.989423+00:00",
+  "anon": [
+   "mengincar"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "IPO Anthropic Incar US$2 Triliun, Saham AI Jadi Sorotan.  IPO Anthropic Incar US$2 Triliun, Saham AI Jadi Sorotan &nbsp;&nbsp; Gotrade",
+  "corroboration": 0,
+  "response": null,
+  "score": 16,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "9b32301cb973",
   "title": "DMS Propertindo Siapkan Rights Issue Rp4,4 Triliun untuk Akuisisi",
   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDBMbWlyaVQxY0swNGpaRlBYZkNpMmxuY2xwYXB6QmRvODB1c1Jsakd3ZnFsa2JVX0JFZy02NEdHeHF2a0FBdWYzQjlFMFF5ZVZMVS15VGpSR25qRDVxQ1RkRm83b0swdE1xVXRQVmRHc0ZLaXVJQ2hsZWEtYUlaMDN0amlyNXA5STktbm4yQQ?oc=5",
@@ -2313,16 +2339,16 @@
   "first_seen": "2026-11-26T21:45:59.715088+00:00",
   "anon": [],
   "corp": [
-   "rights issue"
+   "akuisisi"
   ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Peran Baru Low Tuck Kwong di Bayan Resources (BYAN).  Peran Baru Low Tuck Kwong di Bayan Resources (BYAN) &nbsp;&nbsp; TOPIK.ID",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 6,
+  "score": 11,
   "outcome": null,
   "anomali": null
  },
@@ -2371,16 +2397,16 @@
   "first_seen": "2026-11-26T21:45:59.715088+00:00",
   "anon": [],
   "corp": [
-   "rights issue"
+   "akuisisi"
   ],
   "stance": null,
   "value_bn": 0.0,
   "schedule": false,
   "party": false,
   "snippet": "Babak Baru Bayan Resources (BYAN) Usai Masuknya Haji Isam.  Babak Baru Bayan Resources (BYAN) Usai Masuknya Haji Isam &nbsp;&nbsp; TOPIK.ID",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 6,
+  "score": 11,
   "outcome": null,
   "anomali": null
  },
@@ -6902,6 +6928,32 @@
   "anomali": null
  },
  {
+  "id": "84a72b985dec",
+  "title": "Kedekatan Ray Dalio dengan Pasar Indonesia - Market",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0ZDc00tRXdIelZHblo1OVp6LTFOWmZ4T3hRZ3UxVGFta3JqcVd1SWZfbnlvRWhVUkstRndBUVd2cVhWNlAyWkNURzBsM2lDYkNORGNpVXk2ZmlKUzR0VFAycHh3MnBlZ1d1UHVzSFBQbnBoOG9VNF82Q1oya1c3S1NwdmtsOXBrZlBJYmVVQkliUzlIWjRLaWtR?oc=5",
+  "media": "Bloomberg Technoz",
+  "published": "2026-11-24T03:30:00+00:00",
+  "tickers": [],
+  "uma": false,
+  "jenis": [],
+  "asal": [],
+  "first_seen": "2026-11-28T06:30:17.989423+00:00",
+  "anon": [
+   "sumber yang mengetahui"
+  ],
+  "corp": [],
+  "stance": null,
+  "value_bn": 0.0,
+  "schedule": false,
+  "party": false,
+  "snippet": "Kedekatan Ray Dalio dengan Pasar Indonesia - Market.  Kedekatan Ray Dalio dengan Pasar Indonesia - Market &nbsp;&nbsp; Bloomberg Technoz",
+  "corroboration": 0,
+  "response": null,
+  "score": 25,
+  "outcome": null,
+  "anomali": null
+ },
+ {
   "id": "881c6d5eaec2",
   "title": "BSI (BRIS) Bukukan Laba Rp 6,01 Triliun & Bersiap Right Issue, Simak Rekomendasinya",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTAwYWxZUGVDSjJLZjBhUUNmbkljekxHQWtsODFTc2Q5Wko3V1NmVnAzRC00S1dvQTE1Zk9NYkI4Y2NXWjMtaC1uakJONEZHaUVuVENoWnFIXy1NNlNkSlo4VzFQS09XaUxSNFlrZ3hPNE9Rc1d3b002MWNEYkFBb0YxMms4T0NPUzNQQzNXUXF0bEFFLWhQbDRQc0RrMHBtWXllaGI1Z1loMTdqYW5EcFVn0gGrAUFVX3lxTE1NNzZvTENKVV9OQy1jZjB0a0Fua1NNMzdPTU9YZFU5bHNsRkJ6eUVMWjlEVTZZb0FMbk5ybnAtXzd2clFUekhBcEo2S3l2VDJtYWdqdWQyRWZva3o1OHpZOU9BR3pyVTVMeHdsOFZFOW9hYkl0ZWZXdEl0SGJVSERybEw4MDVBeVlNclNkRDE5YnM0cm8yZzhsS2I2MGZnZmNWX0tET2hMZklwZw?oc=5",
@@ -9558,9 +9610,9 @@
   "schedule": false,
   "party": false,
   "snippet": "Bayan (BYAN) Gelar RUPSLB Usai Akuisisi Saham Oleh Haji Isam, Apa yang Perlu Dicermati? - Sinar Harapan.  Bayan (BYAN) Gelar RUPSLB Usai Akuisisi Saham Oleh Haji Isam, Apa yang Perlu Dicermati? - Sinar Harapan &nbsp;&nbsp; Sinar Harapan",
-  "corroboration": 1,
+  "corroboration": 2,
   "response": null,
-  "score": 6,
+  "score": 11,
   "outcome": null,
   "anomali": null
  },
